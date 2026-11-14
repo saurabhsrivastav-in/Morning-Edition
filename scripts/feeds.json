@@ -133,14 +133,14 @@
     "_note": "Optional second 'word of the day' from the Wiktionary featured feed (CC BY-SA 4.0). Set enabled to false to hide it.",
     "enabled": true,
     "url": "https://en.wiktionary.org/w/api.php?action=featuredfeed&feed=wotd&feedformat=atom"
-  }
 },
 {
   "Product Strategy & Execution": [
     "https://productcoalition.com/feed",
     "https://www.mindtheproduct.com/feed/",
     "https://svpg.com/feed/"
-  ],
+  ]
+}
   "Business Strategy & Consulting": [
     "https://hbr.org/feed",
     "https://sloanreview.mit.edu/feed/",
