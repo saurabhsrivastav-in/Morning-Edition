@@ -1,128 +1,95 @@
-# ---------------------------------------------------------------------------
+# =============================================================================
 # Daily Morning Edition
 #
-# Every morning GitHub runs this recipe for you, for free:
-#   1. fetch today's stories from the public RSS feeds   (scripts/fetch_news.py)
-#   2. save them as small data files in docs/data/        (committed to the repo)
-#   3. publish the website to GitHub Pages
+# Automated workflow that runs every morning:
+#   1. Runs offline self-tests and fetches stories from public RSS feeds
+#   2. Commits the generated JSON data files to docs/data/
+#   3. Builds and deploys the updated site to GitHub Pages
 #
-# You can also run it by hand: repo > Actions > "Daily Morning Edition" > Run workflow.
-# ---------------------------------------------------------------------------
+# Manual trigger: Actions tab -> "Daily Morning Edition" -> "Run workflow"
+# =============================================================================
+
 name: Daily Morning Edition
 
 on:
   schedule:
-    # Times are in UTC. "30 0 * * *" = 00:30 UTC = 06:00 in India (IST).
-    # See README "Change the delivery time" for a conversion table.
-    # (GitHub may start scheduled jobs a few minutes late - that is normal.)
+    # Schedules use UTC. "30 0 * * *" = 00:30 UTC = 06:00 AM IST (India).
+    # See README "Changing Delivery Time" for other timezones.
     - cron: "30 0 * * *"
-  workflow_dispatch:        # the manual "Run workflow" button
+
+  workflow_dispatch: # Enables the manual "Run workflow" button in GitHub Actions
+
   push:
-    branches: [main]        # also rebuild when you edit feeds.json or the site
+    branches: [main] # Automatically rebuilds when code, feeds, or workflow files change
     paths:
       - "scripts/**"
       - "docs/index.html"
       - "docs/assets/**"
       - ".github/workflows/daily.yml"
 
-# Only one run at a time, so two runs never fight over the same files.
+# Prevent overlapping runs from creating Git merge conflicts
 concurrency:
   group: morning-edition
   cancel-in-progress: false
 
+# Required permissions to commit generated data and deploy to GitHub Pages
 permissions:
-  contents: write     # lets the robot save docs/data/*.json back to the repo
-  pages: write        # lets it publish the website
-  id-token: write     # required by the official Pages deploy action
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   build:
+    name: Fetch & Build Edition
     runs-on: ubuntu-latest
     timeout-minutes: 15
+
     steps:
-      - name: Get the repository files
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install Python
+      - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
           cache-dependency-path: scripts/requirements.txt
 
-      - name: Install the two small libraries we need
+      - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
-      - name: Check the helper code still works (offline self-tests)
+      - name: Run offline unit tests
         run: python -m unittest scripts/test_fetcher.py
 
       - name: Fetch today's edition
-        # Exits with an error ONLY if zero articles were fetched. A few broken
-        # feeds are fine: they are skipped and listed at the bottom of the page.
+        # Fails only if zero articles are fetched across all feeds.
+        # Individual broken feeds are skipped and logged at the bottom of the page.
         run: python scripts/fetch_news.py
 
-      - name: Save the new edition into the repository
+      - name: Save the new edition
         run: |
-          git config user.name  "morning-edition-bot"
-          git config user.email "morning-edition-bot@users.noreply.github.com"
-          git add docs/data
+          git config --local user.name "morning-edition-bot"
+          git config --local user.email "morning-edition-bot@users.noreply.github.com"
+          git add docs/data/
           if git diff --cached --quiet; then
-            echo "Nothing new to save."
+            echo "No new edition changes to commit."
           else
-            git commit -m "Edition for $(date -u +%F)"
+            git commit -m "chore: edition for $(date -u +%F)"
             git pull --rebase origin "${GITHUB_REF_NAME}" || true
             git push
           fi
 
-      - name: Prepare the website for publishing
+      - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Package the website folder
+      - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs
 
   deploy:
+    name: Publish to GitHub Pages
     needs: build
     runs-on: ubuntu-latest
     environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Publish to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-name: Build Daily Executive Briefing
-
-on:
-  schedule:
-    - cron: '30 0 * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  update-news:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Install Dependencies
-        run: pip install -r scripts/requirements.txt
-
-      - name: Fetch & Summarize Executive News
-        run: python scripts/fetch_news.py
-
-      - name: Commit and Push Daily Edition
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "Morning Edition Bot"
-          git add docs/data/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: publish daily morning edition" && git push)
+      name:
