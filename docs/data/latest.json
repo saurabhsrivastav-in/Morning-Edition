@@ -5,13 +5,13 @@
     "date": "2026-11-14",
     "date_long": "Saturday, 14 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-14T22:06+05:30",
+    "generated_at": "2026-11-14T22:08+05:30",
     "is_sample": false
   },
   "dashboard": {
     "total_articles": 47,
-    "reading_minutes": 10,
-    "source_count": 25,
+    "reading_minutes": 11,
+    "source_count": 23,
     "full_text_count": 1,
     "per_section": {
       "national-international": 10,
@@ -28,7 +28,7 @@
       },
       {
         "term": "pressure",
-        "count": 4
+        "count": 5
       },
       {
         "term": "people",
@@ -39,11 +39,15 @@
         "count": 4
       },
       {
+        "term": "government",
+        "count": 4
+      },
+      {
         "term": "form",
         "count": 4
       },
       {
-        "term": "jensen huang",
+        "term": "guardian view",
         "count": 3
       },
       {
@@ -51,23 +55,19 @@
         "count": 3
       },
       {
-        "term": "group",
-        "count": 3
-      },
-      {
         "term": "work",
         "count": 3
-      },
-      {
-        "term": "nvidia scandal",
-        "count": 2
       },
       {
         "term": "commerce secretary",
         "count": 2
       },
       {
-        "term": "guardian view",
+        "term": "nvidia scandal",
+        "count": 2
+      },
+      {
+        "term": "jensen huang",
         "count": 2
       }
     ],
@@ -103,15 +103,15 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "65,313.00",
-        "change_pct": -4.96,
+        "display": "65,322.00",
+        "change_pct": -4.86,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,822.63",
-        "change_pct": -5.61,
+        "display": "1,824.40",
+        "change_pct": -5.43,
         "source": "CoinGecko"
       }
     ]
@@ -192,18 +192,18 @@
           "words": 21
         },
         {
-          "id": "31b9a2b00517",
-          "title": "Ex-ABVP candidate among 4 accused of raping minor at Uttarakhand hotel",
-          "url": "https://indianexpress.com/article/india/uttarakhand-haldwani-gang-rape-case-four-arrested-abvp-candidate-10963279/",
-          "source": "The Indian Express – India",
+          "id": "6722fc2091ca",
+          "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
+          "source": "NPR News",
           "section": "national-international",
-          "author": "Vidheesha Kuntamalla",
-          "published": "2026-11-14T14:27:18+00:00",
-          "summary": "",
+          "author": "Ashley Lopez",
+          "published": "2026-11-14T13:08:05+00:00",
+          "summary": "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 0
+          "words": 31
         },
         {
           "id": "893f210d41dd",
@@ -297,20 +297,6 @@
           "words": 38
         },
         {
-          "id": "2ba5ba940f42",
-          "title": "As Jensen Huang leaves Nvidia, what really is the threat to the AI economy?",
-          "url": "https://indianexpress.com/article/opinion/columns/jensen-huang-leaves-nvidia-threat-to-ai-circular-economy-10963063/",
-          "source": "The Indian Express – Opinion",
-          "section": "editorials-opinion",
-          "author": "Srinath Sridharan",
-          "published": "2026-11-14T11:40:03+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
           "id": "956db56ce5da",
           "title": "King Æthelstan founded England in the year 927. Why don’t we celebrate that anniversary? | Tom Holland",
           "url": "https://www.theguardian.com/commentisfree/2026/nov/14/king-athelstan-england-1100-anniversary-2027",
@@ -325,18 +311,18 @@
           "words": 45
         },
         {
-          "id": "a302254b14c7",
-          "title": "Brownies for Diwali and other new traditions that make a festival",
-          "url": "https://indianexpress.com/article/opinion/columns/brownies-for-diwali-other-new-traditions-that-make-a-festival-10962831/",
-          "source": "The Indian Express – Opinion",
+          "id": "5a31c9f37986",
+          "title": "Power creates wars; wars create power. But these compelling acts of storytelling are breaking the loop | Charlotte Higgins",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/14/ukraine-gaza-better-stories-war-artists-remembrance",
+          "source": "The Guardian – Opinion",
           "section": "editorials-opinion",
-          "author": "Olly Mohanta",
-          "published": "2026-11-14T07:58:24+00:00",
-          "summary": "",
+          "author": "Charlotte Higgins",
+          "published": "2026-11-14T08:00:38+00:00",
+          "summary": "Artists’ acts of remembrance about destruction and violence defy the dominant narratives of heroism and sacrifice The way stories are told about wars really matters.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 0
+          "words": 25
         },
         {
           "id": "37ba6d071f77",
@@ -393,6 +379,20 @@
           "license": "",
           "license_url": "",
           "words": 24
+        },
+        {
+          "id": "b7bc394f2cf5",
+          "title": "The Guardian view on Gaza’s misery: don’t let Palestinian deaths mount in this bleak winter | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/12/the-guardian-view-on-gazas-misery-dont-let-palestinian-deaths-mount-in-this-bleak-winter",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-12T18:54:58+00:00",
+          "summary": "The formation of a new Israeli government won’t stop the killing, but sustained international pressure must be applied What do you call a ceasefire when the firing has not ceased?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
         }
       ]
     },
@@ -992,29 +992,17 @@
       "license": "",
       "license_url": "",
       "full_text": false
-    },
-    {
-      "name": "The Indian Express – India",
-      "site": "https://indianexpress.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "The Indian Express – Opinion",
-      "site": "https://indianexpress.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
     }
   ],
   "errors": [
+    "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
     "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
+    "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
     "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
     "The Fintech Times: feed contained no entries",
     "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
     "Mind the Product: feed contained no entries",
-    "World Economic Forum: 404 Client Error: Not Found for url: https://www.weforum.org/agenda/feed",
+    "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
     "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
   ]
 }
