@@ -656,3 +656,6 @@ body {
   .sidebar { border-left: none; border-top: 2px solid var(--border-rule); padding-left: 0; padding-top: 20px; }
   .metric-card.wide { grid-column: span 1; }
 }
+.card-image-wrap img[src=""], .card-image-wrap img:not([src]) {
+  display: none;
+}
