@@ -81,13 +81,17 @@
         { "name": "FinTech Futures", "url": "https://www.fintechfutures.com/feed/" },
         { "name": "The Fintech Times", "url": "https://thefintechtimes.com/feed/" },
         { "name": "TechCrunch – Fintech", "url": "https://techcrunch.com/category/fintech/feed/" }
-      ]
-    },
     {
-      "id": "tax-policy",
-      "title": "Tax News & Policy Updates",
-      "kicker": "The Tax Desk",
-      "feeds": [
+          "name": "Global Voices",
+          "url": "https://globalvoices.org/feed/",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "full_text": true
+        },
         {
-          "name": "Federal Register – IRS",
-          "
+          "name": "Wikinews",
+          "url": "https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
+          "license": "CC BY 2.5",
+          "license_url": "https://creativecommons.org/licenses/by/2.5/",
+          "full_text": true
+        }
