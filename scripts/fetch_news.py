@@ -826,12 +826,12 @@ def build_edition():
         "sections": articles_by_section
     }
 
-    latest_path = os.path.join(DATA_DIR, "latest.json")
-    dated_path = os.path.join(DATA_DIR, f"{iso_date}.json")
+latest_path = os.path.join(DATA_DIR, "latest.json")
+dated_path = os.path.join(DATA_DIR, f"{iso_date}.json")
 
-    for path in (latest_path, dated_path):
-        with open(path, "w", encoding="utf-8") as f:
-            json.dump(edition_data, f, indent=2, ensure_ascii=False)
+for path in (latest_path, dated_path):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(edition_data, f, indent=2, ensure_ascii=False)
 
     print(f"Generated executive edition for {iso_date} with {total_articles} articles.")
 
