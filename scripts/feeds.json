@@ -1,0 +1,137 @@
+{
+  "_readme": "This file controls EVERYTHING the daily fetcher does. You can edit it on github.com (click the pencil icon) without touching any code. JSON rules: keep the double quotes, and put a comma between items but NOT after the last item in a list.",
+
+  "edition": {
+    "name": "The Morning Ledger",
+    "tagline": "A quiet read for a busy morning",
+    "timezone": "Asia/Kolkata"
+  },
+
+  "limits": {
+    "_note": "scan_per_feed = how many newest entries to look at per feed. per_feed = max stories kept from one feed. per_section = max stories in a section. summary_words = excerpt length. min_full_words = a 'full text' item must have at least this many words.",
+    "max_age_hours": 48,
+    "scan_per_feed": 15,
+    "per_feed": 3,
+    "per_section": 8,
+    "summary_words": 45,
+    "min_full_words": 150,
+    "retention_days": 30
+  },
+
+  "markets": {
+    "_note": "All three sources are free and need no API key. Stooq = index quotes. Frankfurter = European Central Bank reference exchange rates. CoinGecko = crypto prices. Remove a block to hide it. To add an index, add its Stooq symbol (see stooq.com).",
+    "indices": [
+      { "symbol": "^spx", "label": "S&P 500" },
+      { "symbol": "^dji", "label": "Dow Jones" },
+      { "symbol": "^ndq", "label": "Nasdaq" },
+      { "symbol": "^ukx", "label": "FTSE 100" },
+      { "symbol": "^dax", "label": "DAX" },
+      { "symbol": "^nkx", "label": "Nikkei 225" }
+    ],
+    "fx": { "base": "USD", "symbols": ["INR", "EUR", "GBP", "JPY"] },
+    "crypto": { "ids": ["bitcoin", "ethereum"], "vs": "usd" }
+  },
+
+  "sections": [
+    {
+      "id": "national-international",
+      "title": "National & International News",
+      "kicker": "The World Today",
+      "per_section": 10,
+      "feeds": [
+        { "name": "BBC News – World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml" },
+        { "name": "BBC News – India", "url": "https://feeds.bbci.co.uk/news/world/asia/india/rss.xml" },
+        { "name": "The Guardian – World", "url": "https://www.theguardian.com/world/rss" },
+        { "name": "NPR News", "url": "https://feeds.npr.org/1001/rss.xml" },
+        { "name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml" },
+        { "name": "The Indian Express – India", "url": "https://indianexpress.com/section/india/feed/" },
+        {
+          "name": "Global Voices",
+          "url": "https://globalvoices.org/feed/",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "full_text": true
+        },
+        {
+          "name": "Wikinews",
+          "url": "https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published&notcategories=No%20publish%7CArchived%7CAutoArchived%7Cdisputed&namespace=0&count=15&ordermethod=categoryadd&stablepages=only",
+          "license": "CC BY 2.5",
+          "license_url": "https://creativecommons.org/licenses/by/2.5/",
+          "full_text": true
+        }
+      ]
+    },
+    {
+      "id": "editorials-opinion",
+      "title": "Editorials & Opinion",
+      "kicker": "Opinion",
+      "feeds": [
+        { "name": "The Guardian – Editorials", "url": "https://www.theguardian.com/profile/editorial/rss" },
+        { "name": "The Guardian – Opinion", "url": "https://www.theguardian.com/commentisfree/rss" },
+        { "name": "The Indian Express – Opinion", "url": "https://indianexpress.com/section/opinion/feed/" },
+        { "name": "The Conversation", "url": "https://theconversation.com/global/articles.atom" }
+      ]
+    },
+    {
+      "id": "fintech-taxtech",
+      "title": "FinTech & Tax Technology",
+      "kicker": "Technology & Money",
+      "feeds": [
+        { "name": "Finextra", "url": "https://www.finextra.com/rss/headlines.aspx" },
+        { "name": "FinTech Futures", "url": "https://www.fintechfutures.com/feed/" },
+        { "name": "The Fintech Times", "url": "https://thefintechtimes.com/feed/" },
+        { "name": "TechCrunch – Fintech", "url": "https://techcrunch.com/category/fintech/feed/" }
+      ]
+    },
+    {
+      "id": "tax-policy",
+      "title": "Tax News & Policy Updates",
+      "kicker": "The Tax Desk",
+      "feeds": [
+        {
+          "name": "Federal Register – IRS",
+          "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bagencies%5D%5B%5D=internal-revenue-service",
+          "license": "US Government work (public domain)"
+        },
+        { "name": "Tax Foundation", "url": "https://taxfoundation.org/feed/" },
+        { "name": "Tax Justice Network", "url": "https://taxjustice.net/feed/" },
+        { "name": "Taxscan (India)", "url": "https://www.taxscan.in/feed/" },
+        {
+          "name": "PIB – Government of India",
+          "_note": "Verify this feed id on pib.gov.in/RSS.aspx and change the URL if you prefer another ministry.",
+          "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3"
+        }
+      ]
+    },
+    {
+      "id": "product-analysis",
+      "title": "Product Management & Business Analysis",
+      "kicker": "The Craft",
+      "feeds": [
+        { "name": "Mind the Product", "url": "https://www.mindtheproduct.com/feed/" },
+        { "name": "Product Talk", "url": "https://www.producttalk.org/feed/" },
+        { "name": "Roman Pichler", "url": "https://www.romanpichler.com/feed/" },
+        { "name": "Silicon Valley Product Group", "url": "https://www.svpg.com/feed/" },
+        { "name": "BA Times", "url": "https://www.batimes.com/feed/" }
+      ]
+    },
+    {
+      "id": "business-trends",
+      "title": "Emerging Business Trends & New Vocabulary",
+      "kicker": "Ideas & Idioms",
+      "feeds": [
+        { "name": "TechCrunch", "url": "https://techcrunch.com/feed/" },
+        { "name": "Fast Company", "url": "https://www.fastcompany.com/latest/rss" },
+        { "name": "World Economic Forum", "url": "https://www.weforum.org/agenda/feed" },
+        { "name": "BBC News – Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml" },
+        { "name": "The Guardian – Business", "url": "https://www.theguardian.com/business/rss" }
+      ]
+    }
+  ],
+
+  "dictionary_word": {
+    "_note": "Optional second 'word of the day' from the Wiktionary featured feed (CC BY-SA 4.0). Set enabled to false to hide it.",
+    "enabled": true,
+    "url": "https://en.wiktionary.org/w/api.php?action=featuredfeed&feed=wotd&feedformat=atom"
+  }
+}
