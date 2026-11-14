@@ -43,6 +43,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
+          pip install beautifulsoup4 requests lxml
           pip install -r scripts/requirements.txt
 
       - name: Run offline unit tests
@@ -84,8 +85,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-- name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install beautifulsoup4 requests lxml
-          pip install -r scripts/requirements.txt
