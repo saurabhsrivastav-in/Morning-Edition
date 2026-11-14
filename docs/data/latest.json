@@ -5,7 +5,7 @@
     "date": "2026-11-14",
     "date_long": "Saturday, 14 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-14T22:19+05:30",
+    "generated_at": "2026-11-14T22:25+05:30",
     "is_sample": false
   },
   "dashboard": {
@@ -103,15 +103,15 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "65,094.00",
-        "change_pct": -5.09,
+        "display": "65,421.00",
+        "change_pct": -4.62,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,813.60",
-        "change_pct": -5.77,
+        "display": "1,826.00",
+        "change_pct": -5.17,
         "source": "CoinGecko"
       }
     ]
@@ -731,20 +731,6 @@
           "words": 21
         },
         {
-          "id": "a0251a737d92",
-          "title": "The most important shopper of the future isn’t human",
-          "url": "https://www.fastcompany.com/91635595/the-most-important-shopper-of-the-future-isnt-human-ai-agents-shopping",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "Nir Wegrzyn",
-          "published": "2026-11-14T16:24:11+00:00",
-          "summary": "A shopper asks an AI assistant for sneakers for a 23-year-old. Another Googles a boutique hotel in Rome. Before either sees a picture of a shoe or a room, artificial intelligence has helped decide which brands deserve consideration.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 38
-        },
-        {
           "id": "9dd15c73c575",
           "title": "The FAA’s IT troubles are far bigger then AI",
           "url": "https://www.fastcompany.com/91642664/the-faas-it-troubles-are-far-bigger-then-ai",
@@ -757,6 +743,20 @@
           "license": "",
           "license_url": "",
           "words": 33
+        },
+        {
+          "id": "49730cb030d2",
+          "title": "A cyberattack forces you to pull the plug. Can your business keep running?",
+          "url": "https://www.fastcompany.com/91640272/a-cyberattack-forces-you-to-pull-the-plug-can-your-business-keep-running-technology-cyberattacks",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Michael Wade",
+          "published": "2026-11-14T13:47:11+00:00",
+          "summary": "The recent cyberattack on European supermarkets sent the temperature in some Swedish freezers to a sweltering 131 F (55 C).",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
         },
         {
           "id": "a20a765200c5",
