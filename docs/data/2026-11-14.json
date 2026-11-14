@@ -5,7 +5,7 @@
     "date": "2026-11-14",
     "date_long": "Saturday, 14 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-14T22:16+05:30",
+    "generated_at": "2026-11-14T22:19+05:30",
     "is_sample": false
   },
   "dashboard": {
@@ -51,23 +51,23 @@
         "count": 3
       },
       {
+        "term": "large",
+        "count": 3
+      },
+      {
         "term": "public",
         "count": 3
       },
       {
-        "term": "world",
-        "count": 3
+        "term": "italy fines",
+        "count": 2
+      },
+      {
+        "term": "fines meta",
+        "count": 2
       },
       {
         "term": "commerce secretary",
-        "count": 2
-      },
-      {
-        "term": "jensen huang",
-        "count": 2
-      },
-      {
-        "term": "nvidia scandal",
         "count": 2
       }
     ],
@@ -103,15 +103,15 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "65,331.00",
-        "change_pct": -4.74,
+        "display": "65,094.00",
+        "change_pct": -5.09,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,825.58",
-        "change_pct": -5.16,
+        "display": "1,813.60",
+        "change_pct": -5.77,
         "source": "CoinGecko"
       }
     ]
@@ -150,18 +150,18 @@
           "words": 19
         },
         {
-          "id": "76a9ec4bdeba",
-          "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
+          "id": "76b99879a97e",
+          "title": "Italy fines Meta $880m over photo privacy",
+          "url": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
           "source": "Al Jazeera",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-14T16:13:43+00:00",
-          "summary": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
+          "published": "2026-11-14T16:16:15+00:00",
+          "summary": "Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 14
+          "words": 19
         },
         {
           "id": "86cee693d648",
