@@ -418,3 +418,293 @@ async function init() {
   renderSavedPanel();
 }
 init();
+let editionData = null;
+let currentSection = "ALL";
+let currentTagFilter = "ALL_TAGS";
+let currentModalArticle = null;
+
+function updateDashboardMetrics(habitData) {
+  const savedCount = Object.keys(BookmarkManager.getAll()).length;
+  document.getElementById("metric-saved").textContent = savedCount;
+  document.getElementById("metric-user-label").textContent = BookmarkManager.getReaderName().toUpperCase();
+
+  if (habitData) {
+    document.getElementById("metric-streak").textContent = `${habitData.streak} Day${habitData.streak > 1 ? "s" : ""} 🔥`;
+    document.getElementById("metric-read-count").textContent = `${habitData.articlesRead.length} briefs read`;
+  }
+}
+
+function renderEditionHeader() {
+  const { meta, word_of_the_day } = editionData;
+  document.getElementById("edition-date").textContent = meta.edition_date;
+  document.getElementById("metric-total").textContent = meta.total_articles;
+  document.getElementById("metric-time").textContent = `${meta.total_read_time_mins} mins total`;
+
+  document.getElementById("metric-keywords").innerHTML = meta.trending_keywords
+    .map(kw => `<span class="pill">#${kw}</span>`)
+    .join("");
+
+  document.getElementById("wotd-category").textContent = word_of_the_day.category;
+  document.getElementById("wotd-term").textContent = word_of_the_day.term;
+  document.getElementById("wotd-def").textContent = word_of_the_day.definition;
+  document.getElementById("wotd-context").textContent = `"${word_of_the_day.context}"`;
+}
+
+function renderTagFilterBar() {
+  const bar = document.getElementById("tag-filter-bar");
+  if (currentSection !== "SAVED") {
+    bar.classList.add("hidden");
+    return;
+  }
+  bar.classList.remove("hidden");
+  const tags = BookmarkManager.getUniqueTags();
+  bar.innerHTML = tags.map(tag => `
+    <button class="tag-pill ${currentTagFilter === tag ? 'active' : ''}" onclick="setTagFilter('${tag}')">
+      ${tag === "ALL_TAGS" ? "All Saved Boards" : tag}
+    </button>
+  `).join("");
+}
+
+window.setTagFilter = function(tag) {
+  currentTagFilter = tag;
+  renderTagFilterBar();
+  renderArticles();
+};
+
+function renderArticles() {
+  const grid = document.getElementById("news-grid");
+  const savedMap = BookmarkManager.getAll();
+  let articlesToDisplay = [];
+
+  if (currentSection === "SAVED") {
+    articlesToDisplay = Object.values(savedMap);
+    if (currentTagFilter !== "ALL_TAGS") {
+      articlesToDisplay = articlesToDisplay.filter(a => (a.tag || "#General") === currentTagFilter);
+    }
+    if (articlesToDisplay.length === 0) {
+      grid.innerHTML = `<p class="empty-state">No saved briefs under this board yet. Open any article to tag and save it.</p>`;
+      return;
+    }
+  } else if (currentSection === "ALL") {
+    Object.entries(editionData.sections).forEach(([secName, items]) => {
+      items.forEach((item, idx) => articlesToDisplay.push({ ...item, section: secName, isLead: idx === 0 }));
+    });
+  } else {
+    const items = editionData.sections[currentSection] || [];
+    articlesToDisplay = items.map((item, idx) => ({ ...item, section: currentSection, isLead: idx === 0 }));
+  }
+
+  grid.innerHTML = articlesToDisplay.map(article => {
+    const savedItem = savedMap[article.id];
+    const isSaved = Boolean(savedItem);
+    const takeawaysHtml = (article.takeaways || [])
+      .map(point => `<li>${point}</li>`)
+      .join("");
+
+    const imageHtml = article.image
+      ? `<div class="card-image-wrap" onclick="openReader('${article.id}')">
+           <img src="${article.image}" alt="" loading="lazy" onerror="this.parentElement.style.display='none'" />
+         </div>`
+      : "";
+
+    return `
+      <article class="article-card ${article.isLead && article.image ? 'lead-card' : ''}">
+        <div>
+          ${imageHtml}
+          <div class="section-kicker">
+            ${article.section || "Saved Board"} • ${article.read_time} min read
+            ${isSaved ? `<span class="saved-tag-badge">${savedItem.tag}</span>` : ""}
+          </div>
+          <h3 class="article-title" onclick="openReader('${article.id}')">${article.title}</h3>
+          <ul class="card-takeaways">${takeawaysHtml}</ul>
+        </div>
+        <div class="article-footer">
+          <span>${article.source}</span>
+          <div class="card-actions">
+            <button class="text-btn" onclick="openReader('${article.id}')">Deep Dive →</button>
+            <button class="text-btn ${isSaved ? 'saved' : ''}" onclick="quickToggleSave('${article.id}')">
+              ${isSaved ? '★ Saved' : '☆ Save'}
+            </button>
+          </div>
+        </div>
+      </article>
+    `;
+  }).join("");
+}
+
+function findArticleById(id) {
+  const saved = BookmarkManager.getAll();
+  if (saved[id]) return saved[id];
+  for (const [secName, items] of Object.entries(editionData.sections)) {
+    const found = items.find(a => a.id === id);
+    if (found) return { ...found, section: secName };
+  }
+  return null;
+}
+
+window.quickToggleSave = function(id) {
+  const article = findArticleById(id);
+  if (!article) return;
+  if (BookmarkManager.isSaved(id)) {
+    BookmarkManager.remove(id);
+  } else {
+    const defaultTag = "#" + (article.section || "Strategy").split(" ")[0].replace(/[^a-zA-Z]/g, "");
+    BookmarkManager.saveWithTag(article, defaultTag);
+  }
+  updateDashboardMetrics();
+  renderTagFilterBar();
+  renderArticles();
+};
+
+// TEXT-TO-SPEECH AUDIO ENGINE
+function stopSpeech() {
+  if ("speechSynthesis" in window) {
+    window.speechSynthesis.cancel();
+  }
+  document.getElementById("tts-toggle-btn").textContent = "🔊 Listen to Summary";
+  document.getElementById("tts-stop-btn").classList.add("hidden");
+  document.getElementById("tts-status").textContent = "Hands-free morning audio briefing";
+}
+
+function playArticleSpeech(article) {
+  if (!("speechSynthesis" in window)) {
+    alert("Sorry, your browser does not support built-in Text-to-Speech.");
+    return;
+  }
+  stopSpeech();
+  const bullets = (article.takeaways || []).join(". ");
+  const script = `${article.title}. Key takeaways: ${bullets}. Full brief: ${article.full_text}`;
+  const utterance = new SpeechSynthesisUtterance(script);
+  utterance.rate = 1.02;
+
+  utterance.onstart = () => {
+    document.getElementById("tts-toggle-btn").textContent = "⏸ Pause Briefing";
+    document.getElementById("tts-stop-btn").classList.remove("hidden");
+    document.getElementById("tts-status").textContent = "Reading aloud...";
+  };
+  utterance.onend = stopSpeech;
+  utterance.onerror = stopSpeech;
+
+  window.speechSynthesis.speak(utterance);
+}
+
+window.openReader = function(id) {
+  const article = findArticleById(id);
+  if (!article) return;
+  currentModalArticle = article;
+  stopSpeech();
+
+  // Track reading habit
+  const habitData = HabitTracker.markArticleRead(id);
+  updateDashboardMetrics(habitData);
+
+  document.getElementById("modal-source").textContent = `${article.section || "Archive"} • ${article.source}`;
+  document.getElementById("modal-title").textContent = article.title;
+
+  const heroImg = document.getElementById("modal-hero-img");
+  if (article.image) {
+    heroImg.src = article.image;
+    heroImg.classList.remove("hidden");
+  } else {
+    heroImg.classList.add("hidden");
+  }
+
+  document.getElementById("modal-takeaways-list").innerHTML = (article.takeaways || [])
+    .map(t => `<li>${t}</li>`)
+    .join("");
+
+  document.getElementById("modal-body").textContent = article.full_text;
+  document.getElementById("modal-original-link").href = article.link;
+
+  const savedItem = BookmarkManager.getAll()[id];
+  const tagInput = document.getElementById("tag-input");
+  const saveBtn = document.getElementById("modal-save-btn");
+
+  if (savedItem) {
+    tagInput.value = savedItem.tag || "#Strategy";
+    saveBtn.textContent = "★ Update Board Tag";
+  } else {
+    tagInput.value = "#" + (article.section || "Strategy").split(" ")[0].replace(/[^a-zA-Z]/g, "");
+    saveBtn.textContent = "☆ Save to Board";
+  }
+
+  document.getElementById("reader-modal").classList.remove("hidden");
+};
+
+document.addEventListener("DOMContentLoaded", async () => {
+  const habitData = HabitTracker.recordVisit();
+
+  const nameInput = document.getElementById("reader-name");
+  nameInput.value = BookmarkManager.getReaderName();
+  nameInput.addEventListener("input", (e) => {
+    BookmarkManager.setReaderName(e.target.value);
+    updateDashboardMetrics();
+  });
+
+  document.querySelectorAll(".nav-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll(".nav-btn").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      currentSection = btn.dataset.section;
+      currentTagFilter = "ALL_TAGS";
+      renderTagFilterBar();
+      renderArticles();
+    });
+  });
+
+  document.getElementById("close-modal").addEventListener("click", () => {
+    stopSpeech();
+    document.getElementById("reader-modal").classList.add("hidden");
+  });
+
+  document.getElementById("tts-toggle-btn").addEventListener("click", () => {
+    if (window.speechSynthesis.speaking && !window.speechSynthesis.paused) {
+      window.speechSynthesis.pause();
+      document.getElementById("tts-toggle-btn").textContent = "▶ Resume Briefing";
+      document.getElementById("tts-status").textContent = "Paused";
+    } else if (window.speechSynthesis.paused) {
+      window.speechSynthesis.resume();
+      document.getElementById("tts-toggle-btn").textContent = "⏸ Pause Briefing";
+      document.getElementById("tts-status").textContent = "Reading aloud...";
+    } else if (currentModalArticle) {
+      playArticleSpeech(currentModalArticle);
+    }
+  });
+
+  document.getElementById("tts-stop-btn").addEventListener("click", stopSpeech);
+
+  document.getElementById("modal-save-btn").addEventListener("click", () => {
+    if (!currentModalArticle) return;
+    const tagVal = document.getElementById("tag-input").value;
+    BookmarkManager.saveWithTag(currentModalArticle, tagVal);
+    document.getElementById("modal-save-btn").textContent = "★ Saved to Board";
+    updateDashboardMetrics();
+    renderTagFilterBar();
+    renderArticles();
+  });
+
+  document.getElementById("export-btn").addEventListener("click", () => {
+    const payload = {
+      publication: "The Morning Edition",
+      reader: BookmarkManager.getReaderName(),
+      exportedAt: new Date().toISOString(),
+      bookmarks: Object.values(BookmarkManager.getAll())
+    };
+    const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = `${BookmarkManager.getReaderName().toLowerCase().replace(/\s+/g, "_")}_executive_archive.json`;
+    a.click();
+  });
+
+  try {
+    const response = await fetch("data/latest.json");
+    editionData = await response.json();
+    renderEditionHeader();
+    updateDashboardMetrics(habitData);
+    renderArticles();
+  } catch {
+    document.getElementById("news-grid").innerHTML =
+      "<p>Run the GitHub Action workflow once to generate today's executive edition.</p>";
+  }
+});
