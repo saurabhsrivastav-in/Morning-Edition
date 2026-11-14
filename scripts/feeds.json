@@ -80,21 +80,7 @@
         { "name": "Finextra", "url": "https://www.finextra.com/rss/headlines.aspx" },
         { "name": "FinTech Futures", "url": "https://www.fintechfutures.com/feed/" },
         { "name": "The Fintech Times", "url": "https://thefintechtimes.com/feed/" },
-        { "name": "TechCrunch – Fintech", "url": "https://techcrunch.com/category/fintech/feed/" },
-        {
-          "name": "Global Voices",
-          "url": "https://globalvoices.org/feed/",
-          "license": "CC BY 3.0",
-          "license_url": "https://creativecommons.org/licenses/by/3.0/",
-          "full_text": true
-        },
-        {
-          "name": "Wikinews",
-          "url": "https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
-          "license": "CC BY 2.5",
-          "license_url": "https://creativecommons.org/licenses/by/2.5/",
-          "full_text": true
-        }
+        { "name": "TechCrunch – Fintech", "url": "https://techcrunch.com/category/fintech/feed/" }
       ]
     },
     {
@@ -132,3 +118,20 @@
     {
       "id": "business-trends",
       "title": "Emerging Business Trends & New Vocabulary",
+      "kicker": "Ideas & Idioms",
+      "feeds": [
+        { "name": "TechCrunch", "url": "https://techcrunch.com/feed/" },
+        { "name": "Fast Company", "url": "https://www.fastcompany.com/latest/rss" },
+        { "name": "World Economic Forum", "url": "https://www.weforum.org/agenda/feed" },
+        { "name": "BBC News – Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml" },
+        { "name": "The Guardian – Business", "url": "https://www.theguardian.com/business/rss" }
+      ]
+    }
+  ],
+
+  "dictionary_word": {
+    "_note": "Optional second 'word of the day' from the Wiktionary featured feed (CC BY-SA 4.0). Set enabled to false to hide it.",
+    "enabled": true,
+    "url": "https://en.wiktionary.org/w/api.php?action=featuredfeed&feed=wotd&feedformat=atom"
+  }
+}
