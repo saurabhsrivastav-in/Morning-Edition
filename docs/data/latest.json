@@ -5,13 +5,13 @@
     "date": "2026-11-14",
     "date_long": "Saturday, 14 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-14T22:03+05:30",
+    "generated_at": "2026-11-14T22:06+05:30",
     "is_sample": false
   },
   "dashboard": {
     "total_articles": 47,
-    "reading_minutes": 11,
-    "source_count": 23,
+    "reading_minutes": 10,
+    "source_count": 25,
     "full_text_count": 1,
     "per_section": {
       "national-international": 10,
@@ -27,19 +27,15 @@
         "count": 6
       },
       {
-        "term": "people",
-        "count": 5
-      },
-      {
         "term": "pressure",
-        "count": 5
-      },
-      {
-        "term": "without",
         "count": 4
       },
       {
-        "term": "government",
+        "term": "people",
+        "count": 4
+      },
+      {
+        "term": "local",
         "count": 4
       },
       {
@@ -47,15 +43,19 @@
         "count": 4
       },
       {
-        "term": "guardian view",
-        "count": 3
-      },
-      {
-        "term": "large",
+        "term": "jensen huang",
         "count": 3
       },
       {
         "term": "public",
+        "count": 3
+      },
+      {
+        "term": "group",
+        "count": 3
+      },
+      {
+        "term": "work",
         "count": 3
       },
       {
@@ -67,7 +67,7 @@
         "count": 2
       },
       {
-        "term": "jensen huang",
+        "term": "guardian view",
         "count": 2
       }
     ],
@@ -103,15 +103,15 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "65,326.00",
-        "change_pct": -4.9,
+        "display": "65,313.00",
+        "change_pct": -4.96,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,822.33",
-        "change_pct": -5.54,
+        "display": "1,822.63",
+        "change_pct": -5.61,
         "source": "CoinGecko"
       }
     ]
@@ -136,20 +136,6 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "76b99879a97e",
-          "title": "Italy fines Meta $880m over photo privacy",
-          "url": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
-          "source": "Al Jazeera",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-14T16:16:15+00:00",
-          "summary": "Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
-        },
-        {
           "id": "86cee693d648",
           "title": "Fuel crisis and protests pressure Chile's far-right president",
           "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
@@ -158,6 +144,20 @@
           "author": "John Bartlett",
           "published": "2026-11-14T16:05:12+00:00",
           "summary": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "aba212013333",
+          "title": "EU calls for immediate humanitarian access to Gaza",
+          "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-14T15:57:22+00:00",
+          "summary": "The EU said that “Israel must enable the work of the UN and its agencies\" after the group was blocked access into Gaza.",
           "full_html": null,
           "license": "",
           "license_url": "",
@@ -192,18 +192,18 @@
           "words": 21
         },
         {
-          "id": "6722fc2091ca",
-          "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
-          "url": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
-          "source": "NPR News",
+          "id": "31b9a2b00517",
+          "title": "Ex-ABVP candidate among 4 accused of raping minor at Uttarakhand hotel",
+          "url": "https://indianexpress.com/article/india/uttarakhand-haldwani-gang-rape-case-four-arrested-abvp-candidate-10963279/",
+          "source": "The Indian Express – India",
           "section": "national-international",
-          "author": "Ashley Lopez",
-          "published": "2026-11-14T13:08:05+00:00",
-          "summary": "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly.",
+          "author": "Vidheesha Kuntamalla",
+          "published": "2026-11-14T14:27:18+00:00",
+          "summary": "",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 31
+          "words": 0
         },
         {
           "id": "893f210d41dd",
@@ -297,6 +297,20 @@
           "words": 38
         },
         {
+          "id": "2ba5ba940f42",
+          "title": "As Jensen Huang leaves Nvidia, what really is the threat to the AI economy?",
+          "url": "https://indianexpress.com/article/opinion/columns/jensen-huang-leaves-nvidia-threat-to-ai-circular-economy-10963063/",
+          "source": "The Indian Express – Opinion",
+          "section": "editorials-opinion",
+          "author": "Srinath Sridharan",
+          "published": "2026-11-14T11:40:03+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
           "id": "956db56ce5da",
           "title": "King Æthelstan founded England in the year 927. Why don’t we celebrate that anniversary? | Tom Holland",
           "url": "https://www.theguardian.com/commentisfree/2026/nov/14/king-athelstan-england-1100-anniversary-2027",
@@ -311,18 +325,18 @@
           "words": 45
         },
         {
-          "id": "5a31c9f37986",
-          "title": "Power creates wars; wars create power. But these compelling acts of storytelling are breaking the loop | Charlotte Higgins",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/14/ukraine-gaza-better-stories-war-artists-remembrance",
-          "source": "The Guardian – Opinion",
+          "id": "a302254b14c7",
+          "title": "Brownies for Diwali and other new traditions that make a festival",
+          "url": "https://indianexpress.com/article/opinion/columns/brownies-for-diwali-other-new-traditions-that-make-a-festival-10962831/",
+          "source": "The Indian Express – Opinion",
           "section": "editorials-opinion",
-          "author": "Charlotte Higgins",
-          "published": "2026-11-14T08:00:38+00:00",
-          "summary": "Artists’ acts of remembrance about destruction and violence defy the dominant narratives of heroism and sacrifice The way stories are told about wars really matters.",
+          "author": "Olly Mohanta",
+          "published": "2026-11-14T07:58:24+00:00",
+          "summary": "",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 25
+          "words": 0
         },
         {
           "id": "37ba6d071f77",
@@ -379,20 +393,6 @@
           "license": "",
           "license_url": "",
           "words": 24
-        },
-        {
-          "id": "b7bc394f2cf5",
-          "title": "The Guardian view on Gaza’s misery: don’t let Palestinian deaths mount in this bleak winter | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/12/the-guardian-view-on-gazas-misery-dont-let-palestinian-deaths-mount-in-this-bleak-winter",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-12T18:54:58+00:00",
-          "summary": "The formation of a new Israeli government won’t stop the killing, but sustained international pressure must be applied What do you call a ceasefire when the firing has not ceased?",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 30
         }
       ]
     },
@@ -717,6 +717,20 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
+          "id": "075bbfb634c2",
+          "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+          "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Kate Park",
+          "published": "2026-11-14T16:34:15+00:00",
+          "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
           "id": "9dd15c73c575",
           "title": "The FAA’s IT troubles are far bigger then AI",
           "url": "https://www.fastcompany.com/91642664/the-faas-it-troubles-are-far-bigger-then-ai",
@@ -785,20 +799,6 @@
           "license": "",
           "license_url": "",
           "words": 28
-        },
-        {
-          "id": "ec577d4c46a6",
-          "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Marina Temkin, Dominic-Madori Davis",
-          "published": "2026-11-13T22:43:00+00:00",
-          "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
         },
         {
           "id": "b1b246b5ab5e",
@@ -992,17 +992,29 @@
       "license": "",
       "license_url": "",
       "full_text": false
+    },
+    {
+      "name": "The Indian Express – India",
+      "site": "https://indianexpress.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Indian Express – Opinion",
+      "site": "https://indianexpress.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
     }
   ],
   "errors": [
-    "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
     "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
-    "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
     "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
     "The Fintech Times: feed contained no entries",
     "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
     "Mind the Product: feed contained no entries",
-    "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
+    "World Economic Forum: 404 Client Error: Not Found for url: https://www.weforum.org/agenda/feed",
     "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
   ]
 }
