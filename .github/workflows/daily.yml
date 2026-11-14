@@ -1,38 +1,23 @@
-# =============================================================================
-# Daily Morning Edition
-#
-# Automated workflow that runs every morning:
-#   1. Runs offline self-tests and fetches stories from public RSS feeds
-#   2. Commits the generated JSON data files to docs/data/
-#   3. Builds and deploys the updated site to GitHub Pages
-#
-# Manual trigger: Actions tab -> "Daily Morning Edition" -> "Run workflow"
-# =============================================================================
-
 name: Daily Morning Edition
 
 on:
   schedule:
-    # Schedules use UTC. "30 0 * * *" = 00:30 UTC = 06:00 AM IST (India).
-    # See README "Changing Delivery Time" for other timezones.
     - cron: "30 0 * * *"
 
-  workflow_dispatch: # Enables the manual "Run workflow" button in GitHub Actions
+  workflow_dispatch:
 
   push:
-    branches: [main] # Automatically rebuilds when code, feeds, or workflow files change
+    branches: [main]
     paths:
       - "scripts/**"
       - "docs/index.html"
       - "docs/assets/**"
       - ".github/workflows/daily.yml"
 
-# Prevent overlapping runs from creating Git merge conflicts
 concurrency:
   group: morning-edition
   cancel-in-progress: false
 
-# Required permissions to commit generated data and deploy to GitHub Pages
 permissions:
   contents: write
   pages: write
@@ -62,8 +47,6 @@ jobs:
         run: python -m unittest scripts/test_fetcher.py
 
       - name: Fetch today's edition
-        # Fails only if zero articles are fetched across all feeds.
-        # Individual broken feeds are skipped and logged at the bottom of the page.
         run: python scripts/fetch_news.py
 
       - name: Save the new edition
