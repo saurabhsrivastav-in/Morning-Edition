@@ -264,3 +264,88 @@ export class BookmarkStore extends EventTarget {
     return { ok: true, added, profile: name };
   }
 }
+const READER_KEY = "morning_edition_reader_name";
+const SAVED_KEY = "morning_edition_tagged_bookmarks";
+const STREAK_KEY = "morning_edition_habit_tracker";
+
+window.BookmarkManager = {
+  getReaderName() {
+    return localStorage.getItem(READER_KEY) || "Product Leader";
+  },
+
+  setReaderName(name) {
+    localStorage.setItem(READER_KEY, name.trim() || "Product Leader");
+  },
+
+  getAll() {
+    try {
+      return JSON.parse(localStorage.getItem(SAVED_KEY)) || {};
+    } catch {
+      return {};
+    }
+  },
+
+  saveWithTag(article, rawTag) {
+    const saved = this.getAll();
+    let cleanTag = (rawTag || "#General").trim();
+    if (!cleanTag.startsWith("#")) cleanTag = "#" + cleanTag;
+
+    saved[article.id] = {
+      ...article,
+      tag: cleanTag,
+      savedBy: this.getReaderName(),
+      savedDate: new Date().toLocaleDateString()
+    };
+    localStorage.setItem(SAVED_KEY, JSON.stringify(saved));
+  },
+
+  remove(id) {
+    const saved = this.getAll();
+    delete saved[id];
+    localStorage.setItem(SAVED_KEY, JSON.stringify(saved));
+  },
+
+  isSaved(id) {
+    return Boolean(this.getAll()[id]);
+  },
+
+  getUniqueTags() {
+    const items = Object.values(this.getAll());
+    const tags = new Set(items.map(i => i.tag || "#General"));
+    return ["ALL_TAGS", ...Array.from(tags)];
+  }
+};
+
+window.HabitTracker = {
+  recordVisit() {
+    const today = new Date().toISOString().split("T")[0];
+    const yesterday = new Date(Date.now() - 86400000).toISOString().split("T")[0];
+    let data = { streak: 1, lastVisit: today, articlesRead: [] };
+
+    try {
+      const existing = JSON.parse(localStorage.getItem(STREAK_KEY));
+      if (existing) {
+        data = existing;
+        if (data.lastVisit === yesterday) {
+          data.streak += 1;
+          data.lastVisit = today;
+        } else if (data.lastVisit !== today) {
+          data.streak = 1;
+          data.lastVisit = today;
+        }
+      }
+    } catch {}
+
+    localStorage.setItem(STREAK_KEY, JSON.stringify(data));
+    return data;
+  },
+
+  markArticleRead(articleId) {
+    const data = this.recordVisit();
+    if (!data.articlesRead.includes(articleId)) {
+      data.articlesRead.push(articleId);
+      localStorage.setItem(STREAK_KEY, JSON.stringify(data));
+    }
+    return data;
+  }
+};
