@@ -5,7 +5,7 @@
     "date": "2026-11-14",
     "date_long": "Saturday, 14 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-14T21:52+05:30",
+    "generated_at": "2026-11-14T21:56+05:30",
     "is_sample": false
   },
   "dashboard": {
@@ -27,12 +27,12 @@
         "count": 6
       },
       {
-        "term": "pressure",
+        "term": "people",
         "count": 5
       },
       {
-        "term": "people",
-        "count": 4
+        "term": "pressure",
+        "count": 5
       },
       {
         "term": "without",
@@ -55,7 +55,7 @@
         "count": 3
       },
       {
-        "term": "work",
+        "term": "travel",
         "count": 3
       },
       {
@@ -103,15 +103,15 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "65,524.00",
-        "change_pct": -4.2,
+        "display": "65,438.00",
+        "change_pct": -4.77,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,830.29",
-        "change_pct": -4.6,
+        "display": "1,829.48",
+        "change_pct": -5.17,
         "source": "CoinGecko"
       }
     ]
@@ -136,6 +136,20 @@
       "kicker": "The World Today",
       "articles": [
         {
+          "id": "76a9ec4bdeba",
+          "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-14T16:13:43+00:00",
+          "summary": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        },
+        {
           "id": "86cee693d648",
           "title": "Fuel crisis and protests pressure Chile's far-right president",
           "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
@@ -144,20 +158,6 @@
           "author": "John Bartlett",
           "published": "2026-11-14T16:05:12+00:00",
           "summary": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 23
-        },
-        {
-          "id": "aba212013333",
-          "title": "EU calls for immediate humanitarian access to Gaza",
-          "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
-          "source": "Al Jazeera",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-14T15:57:22+00:00",
-          "summary": "The EU said that “Israel must enable the work of the UN and its agencies\" after the group was blocked access into Gaza.",
           "full_html": null,
           "license": "",
           "license_url": "",
