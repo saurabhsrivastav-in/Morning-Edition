@@ -65,12 +65,13 @@ function applyUi() {
   else delete document.documentElement.dataset.theme;
   document.documentElement.style.setProperty("--base", `${ui.size || 17}px`);
 }
-$("#btn-theme").addEventListener("click", () => {
+
+$("#btn-theme")?.addEventListener("click", () => {
   saveUi({ theme: loadUi().theme === "night" ? "day" : "night" });
   applyUi();
 });
 for (const [id, delta] of [["#btn-smaller", -1], ["#btn-larger", 1]]) {
-  $(id).addEventListener("click", () => {
+  $(id)?.addEventListener("click", () => {
     saveUi({ size: Math.min(22, Math.max(14, (loadUi().size || 17) + delta)) });
     applyUi();
   });
@@ -112,7 +113,7 @@ function ensureProfile() {
   if (store.active) return true;
   openSaved();
   setMsg("Please enter your name below to start saving articles.");
-  $("#profile-name").focus();
+  $("#profile-name")?.focus();
   return false;
 }
 
@@ -128,26 +129,39 @@ function syncSaveButtons() {
     btn.setAttribute("aria-pressed", String(on));
     btn.textContent = on ? "★ Saved" : "☆ Save";
   }
-  $("#saved-count").textContent = String(store.count());
+  const savedCount = $("#saved-count");
+  if (savedCount) savedCount.textContent = String(store.count());
 }
 
-function setMsg(text) { $("#profile-msg").textContent = text || ""; }
+function setMsg(text) { 
+  const msg = $("#profile-msg");
+  if (msg) msg.textContent = text || ""; 
+}
 
 function renderSavedPanel() {
-  // profile dropdown
   const sel = $("#profile-select");
+  if (!sel) return;
+  
   sel.replaceChildren(
     ...(store.profileNames().length
       ? store.profileNames().map((n) => h("option", { value: n, ...(n === store.active ? { selected: true } : {}) }, n))
       : [h("option", { value: "" }, "(no profile yet)")])
   );
   sel.disabled = !store.active;
-  $("#profile-delete").disabled = !store.active;
-  for (const id of ["#export-json", "#export-md", "#saved-search"]) $(id).disabled = !store.active;
+  const profileDel = $("#profile-delete");
+  if (profileDel) profileDel.disabled = !store.active;
+  
+  for (const id of ["#export-json", "#export-md", "#saved-search"]) {
+    const el = $(id);
+    if (el) el.disabled = !store.active;
+  }
 
-  // list
   const list = $("#saved-list");
-  const items = store.list($("#saved-search").value);
+  if (!list) return;
+  
+  const searchInput = $("#saved-search");
+  const items = store.list(searchInput ? searchInput.value : "");
+  
   if (!store.active) {
     list.replaceChildren(h("li", { class: "small" }, "Enter your name above to start your personal reading list."));
   } else if (!items.length) {
@@ -166,56 +180,91 @@ function renderSavedPanel() {
   if (store.isMemoryOnly) setMsg("Your browser is blocking storage, so saved articles disappear when you close this tab. Use “Download” to keep a copy.");
 }
 
-function openSaved() { $("#saved-panel").hidden = false; renderSavedPanel(); }
-function closeSaved() { $("#saved-panel").hidden = true; }
+function openSaved() { 
+  const panel = $("#saved-panel");
+  if (panel) panel.hidden = false; 
+  renderSavedPanel(); 
+}
+function closeSaved() { 
+  const panel = $("#saved-panel");
+  if (panel) panel.hidden = true; 
+}
 
-$("#btn-saved").addEventListener("click", () => ($("#saved-panel").hidden ? openSaved() : closeSaved()));
-$("#saved-close").addEventListener("click", closeSaved);
-document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !$("#saved-panel").hidden) closeSaved(); });
-$("#saved-search").addEventListener("input", renderSavedPanel);
-$("#profile-select").addEventListener("change", (e) => store.selectProfile(e.target.value));
-$("#profile-delete").addEventListener("click", () => {
+$("#btn-saved")?.addEventListener("click", () => {
+  const panel = $("#saved-panel");
+  if (panel) {
+    panel.hidden ? openSaved() : closeSaved();
+  }
+});
+$("#saved-close")?.addEventListener("click", closeSaved);
+document.addEventListener("keydown", (e) => { 
+  const panel = $("#saved-panel");
+  if (e.key === "Escape" && panel && !panel.hidden) closeSaved(); 
+});
+$("#saved-search")?.addEventListener("input", renderSavedPanel);
+$("#profile-select")?.addEventListener("change", (e) => store.selectProfile(e.target.value));
+$("#profile-delete")?.addEventListener("click", () => {
   if (store.active && confirm(`Delete the profile "${store.active}" and all its saved articles? This cannot be undone.`)) store.deleteProfile(store.active);
 });
-$("#profile-form").addEventListener("submit", (e) => {
+$("#profile-form")?.addEventListener("submit", (e) => {
   e.preventDefault();
-  const res = store.createProfile($("#profile-name").value);
+  const nameInput = $("#profile-name");
+  const res = store.createProfile(nameInput ? nameInput.value : "");
   setMsg(res.ok ? (res.switched ? "Welcome back! Switched to your profile." : "Profile created. Happy reading!") : res.error);
-  if (res.ok) $("#profile-name").value = "";
+  if (res.ok && nameInput) nameInput.value = "";
 });
+
 const stamp = () => `${(store.active || "reader").replace(/[^\w-]+/g, "_")}-${new Date().toISOString().slice(0, 10)}`;
-$("#export-json").addEventListener("click", () => download(`saved-${stamp()}.json`, store.exportJSON(), "application/json"));
-$("#export-md").addEventListener("click", () => download(`saved-${stamp()}.md`, store.exportMarkdown(), "text/markdown"));
-$("#import-file").addEventListener("change", async (e) => {
+$("#export-json")?.addEventListener("click", () => download(`saved-${stamp()}.json`, store.exportJSON(), "application/json"));
+$("#export-md")?.addEventListener("click", () => download(`saved-${stamp()}.md`, store.exportMarkdown(), "text/markdown"));
+$("#import-file")?.addEventListener("change", async (e) => {
   const file = e.target.files?.[0];
   if (!file) return;
   const res = store.importJSON(await file.text());
   setMsg(res.ok ? `Imported ${res.added} article(s) into "${res.profile}".` : res.error);
   e.target.value = "";
 });
-store.addEventListener("change", () => { syncSaveButtons(); if (!$("#saved-panel").hidden) renderSavedPanel(); });
+store.addEventListener("change", () => { 
+  syncSaveButtons(); 
+  const panel = $("#saved-panel");
+  if (panel && !panel.hidden) renderSavedPanel(); 
+});
 
 /* ------------------------------------------------------------- reader dialog */
 function openReader(a, sectionTitle) {
-  $("#reader-kicker").textContent = `${a.source} · ${sectionTitle}`;
-  $("#reader-title").textContent = a.title;
-  $("#reader-byline").textContent = [a.author && `By ${a.author}`, fmtTime(a.published)].filter(Boolean).join(" · ");
-  $("#reader-text").replaceChildren(safeFragment(a.full_html));
+  const rKicker = $("#reader-kicker");
+  const rTitle = $("#reader-title");
+  const rByline = $("#reader-byline");
+  const rText = $("#reader-text");
+  const rFooter = $("#reader-footer");
+  const readerModal = $("#reader");
+
+  if (rKicker) rKicker.textContent = `${a.source} · ${sectionTitle}`;
+  if (rTitle) rTitle.textContent = a.title;
+  if (rByline) rByline.textContent = [a.author && `By ${a.author}`, fmtTime(a.published)].filter(Boolean).join(" · ");
+  if (rText) rText.replaceChildren(safeFragment(a.full_html));
 
   const lic = a.license_url
     ? h("a", { href: a.license_url, target: "_blank", rel: "noopener noreferrer" }, a.license)
     : a.license || "see original";
-  $("#reader-footer").replaceChildren(
-    `Source: ${a.source}. Licence: `, lic, ". ",
-    "Images, ads and scripts removed for easier reading; text otherwise unaltered. ",
-    h("a", { href: a.url, target: "_blank", rel: "noopener noreferrer" }, "Read the original ↗")
-  );
+  if (rFooter) {
+    rFooter.replaceChildren(
+      `Source: ${a.source}. Licence: `, lic, ". ",
+      "Images, ads and scripts removed for easier reading; text otherwise unaltered. ",
+      h("a", { href: a.url, target: "_blank", rel: "noopener noreferrer" }, "Read the original ↗")
+    );
+  }
   const save = $("#reader-save");
-  save.dataset.id = a.id;
-  save.onclick = () => toggleSave(a, sectionTitle);
+  if (save) {
+    save.dataset.id = a.id;
+    save.onclick = () => toggleSave(a, sectionTitle);
+  }
   syncSaveButtons();
-  $("#reader").showModal();
-  $("#reader .reader-body").scrollTop = 0;
+  if (readerModal && typeof readerModal.showModal === "function") {
+    readerModal.showModal();
+    const body = $("#reader .reader-body");
+    if (body) body.scrollTop = 0;
+  }
 }
 
 /* ------------------------------------------------------------- article card */
@@ -244,17 +293,24 @@ function articleCard(a, sectionTitle, { compact = false, lead = false } = {}) {
 /* ----------------------------------------------------------------- page parts */
 function renderMasthead(e) {
   document.title = `${e.edition.name} — ${e.edition.date_long}`;
-  $("#mh-title").textContent = e.edition.name;
-  $("#mh-date").textContent = e.edition.date_long;
-  $("#mh-tagline").textContent = e.edition.tagline;
-  $("#mh-updated").textContent = `Compiled ${fmtTime(e.edition.generated_at)}`;
+  const mhTitle = $("#mh-title");
+  const mhDate = $("#mh-date");
+  const mhTagline = $("#mh-tagline");
+  const mhUpdated = $("#mh-updated");
+  if (mhTitle) mhTitle.textContent = e.edition.name;
+  if (mhDate) mhDate.textContent = e.edition.date_long;
+  if (mhTagline) mhTagline.textContent = e.edition.tagline;
+  if (mhUpdated) mhUpdated.textContent = `Compiled ${fmtTime(e.edition.generated_at)}`;
 }
 
 function renderNav(e) {
-  $("#section-nav").replaceChildren(
-    h("li", {}, h("a", { href: "#glance" }, "At a glance")),
-    ...e.sections.map((s) => h("li", {}, h("a", { href: `#sec-${s.id}` }, s.title)))
-  );
+  const nav = $("#section-nav");
+  if (nav) {
+    nav.replaceChildren(
+      h("li", {}, h("a", { href: "#glance" }, "At a glance")),
+      ...e.sections.map((s) => h("li", {}, h("a", { href: `#sec-${s.id}` }, s.title)))
+    );
+  }
 }
 
 function renderDashboard(e) {
@@ -350,6 +406,7 @@ function setKeyword(term) {
   for (const card of $$(".card")) card.hidden = Boolean(term) && !card.dataset.text.includes(term);
   for (const box of $$(".section, .frontpage")) box.hidden = Boolean(term) && !$(".card:not([hidden])", box);
   const notice = $("#notice");
+  if (!notice) return;
   notice.hidden = !term && !edition.edition.is_sample;
   if (term) {
     notice.replaceChildren(`Showing stories that mention “${term}”. `, h("button", { type: "button", onclick: () => setKeyword("") }, "Clear filter"));
@@ -358,8 +415,10 @@ function setKeyword(term) {
   }
 }
 function showSampleNotice() {
-  $("#notice").hidden = false;
-  $("#notice").textContent = "This is a SAMPLE edition with placeholder text. Run the “Daily Morning Edition” workflow on GitHub to fetch real news.";
+  const notice = $("#notice");
+  if (!notice) return;
+  notice.hidden = false;
+  notice.textContent = "This is a SAMPLE edition with placeholder text. Run the “Daily Morning Edition” workflow on GitHub to fetch real news.";
 }
 
 /* ---------------------------------------------------------------- main render */
@@ -372,10 +431,11 @@ function render(e) {
   renderMasthead(e);
   renderNav(e);
   const main = $("#edition");
+  if (!main) return;
+  
   const national = e.sections[0];
   const parts = [renderDashboard(e)];
 
-  // The first section's top stories form the "front page"; the remainder follow below it.
   let nationalRest = [];
   if (national) {
     const front = renderFrontPage(national);
@@ -386,8 +446,11 @@ function render(e) {
   for (const s of e.sections.slice(1)) parts.push(renderSection(s, s.articles));
 
   main.replaceChildren(...parts);
-  $("#colophon").replaceChildren(...renderColophon(e).filter(Boolean));
-  $("#notice").hidden = !e.edition.is_sample;
+  const colophon = $("#colophon");
+  if (colophon) colophon.replaceChildren(...renderColophon(e).filter(Boolean));
+  
+  const notice = $("#notice");
+  if (notice) notice.hidden = !e.edition.is_sample;
   if (e.edition.is_sample) showSampleNotice();
   syncSaveButtons();
 }
@@ -406,8 +469,11 @@ async function loadEdition(date) {
   try {
     render(await getJson(date ? `data/${date}.json` : "data/latest.json"));
   } catch (err) {
-    $("#edition").replaceChildren(h("p", { class: "notice" },
-      "Could not load the edition. If you opened this file directly from your computer, start a local server instead (see README). Details: " + err.message));
+    const main = $("#edition");
+    if (main) {
+      main.replaceChildren(h("p", { class: "notice" },
+        "Could not load the edition. If you opened this file directly from your computer, start a local server instead (see README). Details: " + err.message));
+    }
   }
 }
 
@@ -415,9 +481,11 @@ async function init() {
   let dates = [];
   try { dates = (await getJson("data/index.json")).dates; } catch { /* older deployments: fine */ }
   const picker = $("#date-picker");
-  picker.replaceChildren(...dates.map((d, i) => h("option", { value: d }, i === 0 ? `${d} (latest)` : d)));
-  picker.hidden = dates.length < 2;
-  picker.addEventListener("change", () => loadEdition(picker.value));
+  if (picker) {
+    picker.replaceChildren(...dates.map((d, i) => h("option", { value: d }, i === 0 ? `${d} (latest)` : d)));
+    picker.hidden = dates.length < 2;
+    picker.addEventListener("change", () => loadEdition(picker.value));
+  }
   await loadEdition(new URLSearchParams(location.search).get("date") || "");
   renderSavedPanel();
 }
