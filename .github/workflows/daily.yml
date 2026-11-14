@@ -2,7 +2,7 @@ name: Daily Morning Edition
 
 on:
   schedule:
-    - cron: '30 3 * * *' # Runs daily at 03:30 UTC
+    - cron: '30 6,18 * * *' # Runs twice daily at 6:30 AM UTC (12:00 PM IST) and 6:30 PM UTC (12:00 AM IST)
   workflow_dispatch:     # Allows manual triggering from the Actions tab
 
 permissions:
