@@ -476,23 +476,21 @@ function renderArticles() {
   const savedMap = BookmarkManager.getAll();
   let articlesToDisplay = [];
 
-  if (currentSection === "SAVED") {
-    articlesToDisplay = Object.values(savedMap);
-    if (currentTagFilter !== "ALL_TAGS") {
-      articlesToDisplay = articlesToDisplay.filter(a => (a.tag || "#General") === currentTagFilter);
-    }
-    if (articlesToDisplay.length === 0) {
-      grid.innerHTML = `<p class="empty-state">No saved briefs under this board yet. Open any article to tag and save it.</p>`;
-      return;
-    }
-  } else if (currentSection === "ALL") {
-    Object.entries(editionData.sections).forEach(([secName, items]) => {
-      items.forEach((item, idx) => articlesToDisplay.push({ ...item, section: secName, isLead: idx === 0 }));
-    });
-  } else {
-    const items = editionData.sections[currentSection] || [];
-    articlesToDisplay = items.map((item, idx) => ({ ...item, section: currentSection, isLead: idx === 0 }));
+if (currentSection === "SAVED") {
+  articlesToDisplay = Object.values(savedMap);
+  if (currentTagFilter !== "ALL_TAGS") {
+    articlesToDisplay = articlesToDisplay.filter(a => (a.tag || "#General") === currentTagFilter);
   }
+} else if (currentSection === "ALL") {
+  Object.entries(editionData.sections).forEach(([secName, items]) => {
+    if (Array.isArray(items)) {
+      items.forEach((item, idx) => articlesToDisplay.push({ ...item, section: secName, isLead: idx === 0 }));
+    }
+  });
+} else {
+  const items = editionData.sections[currentSection] || [];
+  articlesToDisplay = items.map((item, idx) => ({ ...item, section: currentSection, isLead: idx === 0 }));
+}
 
   grid.innerHTML = articlesToDisplay.map(article => {
     const savedItem = savedMap[article.id];
