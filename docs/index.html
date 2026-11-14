@@ -1,1 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Morning Ledger</title>
+  <meta name="description" content="A personal, distraction-free morning digital newspaper.">
+  <meta name="robots" content="noindex"><!-- personal reader: keep out of search engines -->
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%231b1a17'/%3E%3Ctext x='16' y='24' font-family='Georgia,serif' font-size='24' font-weight='700' text-anchor='middle' fill='%23f7f3ea'%3EL%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <a class="skip" href="#edition">Skip to the news</a>
+
+  <div class="page">
+    <!-- ============ MASTHEAD ============ -->
+    <header class="masthead">
+      <div class="masthead-top">
+        <span id="mh-date">&nbsp;</span>
+        <span id="mh-tagline" class="tagline"></span>
+        <span id="mh-updated" class="updated"></span>
+      </div>
+      <h1 id="mh-title" class="nameplate">The Morning Ledger</h1>
+    </header>
+
+    <!-- ============ TOOLBAR / SECTION NAV ============ -->
+    <nav class="toolbar" aria-label="Sections and tools">
+      <ul id="section-nav" class="section-nav"></ul>
+      <div class="tools">
+        <label class="visually-hidden" for="date-picker">Edition date</label>
+        <select id="date-picker" title="Read an earlier edition"></select>
+        <button id="btn-saved" type="button" title="Your saved articles">&#9733; Saved <span id="saved-count" class="badge">0</span></button>
+        <button id="btn-smaller" type="button" title="Smaller text" aria-label="Smaller text">A&minus;</button>
+        <button id="btn-larger" type="button" title="Larger text" aria-label="Larger text">A+</button>
+        <button id="btn-theme" type="button" title="Switch between day and night edition" aria-label="Toggle day or night theme">Day/Night</button>
+      </div>
+    </nav>
+
+    <noscript><p class="notice">This newspaper needs JavaScript to display today's edition.</p></noscript>
+    <div id="notice" class="notice" hidden></div>
+
+    <main id="edition" tabindex="-1">
+      <p class="loading">Setting the type&hellip;</p>
+    </main>
+
+    <footer class="colophon" id="colophon"></footer>
+  </div>
+
+  <!-- ============ READER (full text of openly-licensed articles) ============ -->
+  <dialog id="reader" aria-labelledby="reader-title">
+    <article class="reader-body">
+      <header>
+        <p id="reader-kicker" class="kicker"></p>
+        <h2 id="reader-title"></h2>
+        <p id="reader-byline" class="byline"></p>
+      </header>
+      <div id="reader-text" class="reader-text"></div>
+      <footer id="reader-footer" class="reader-footer"></footer>
+    </article>
+    <form method="dialog" class="reader-actions">
+      <button id="reader-save" type="button" class="save-btn" aria-pressed="false">&#9734; Save</button>
+      <button type="submit">Close</button>
+    </form>
+  </dialog>
+
+  <!-- ============ SAVED ARTICLES PANEL ============ -->
+  <aside id="saved-panel" class="saved-panel" hidden aria-labelledby="saved-heading">
+    <div class="saved-head">
+      <h2 id="saved-heading">Saved articles</h2>
+      <button id="saved-close" type="button" aria-label="Close saved articles">&times;</button>
+    </div>
+
+    <section class="profile-box" aria-label="Reader profile">
+      <label for="profile-select">Reading as</label>
+      <div class="row">
+        <select id="profile-select"></select>
+        <button id="profile-delete" type="button" title="Delete this profile and its saved articles">Delete</button>
+      </div>
+      <form id="profile-form" class="row">
+        <label class="visually-hidden" for="profile-name">New profile name</label>
+        <input id="profile-name" type="text" maxlength="40" placeholder="Your name, e.g. Asha" autocomplete="off">
+        <button type="submit">Create</button>
+      </form>
+      <p id="profile-msg" class="msg" role="status"></p>
+    </section>
+
+    <div class="row">
+      <label class="visually-hidden" for="saved-search">Search saved articles</label>
+      <input id="saved-search" type="search" placeholder="Search your saved articles&hellip;">
+    </div>
+    <ul id="saved-list" class="saved-list"></ul>
+
+    <section class="backup-box" aria-label="Back up or move your saved articles">
+      <h3>Back up &amp; move</h3>
+      <div class="row wrap">
+        <button id="export-json" type="button">Download JSON</button>
+        <button id="export-md" type="button">Download Markdown</button>
+        <label class="file-btn">Import JSON<input id="import-file" type="file" accept="application/json,.json" hidden></label>
+      </div>
+      <p class="small">Your saved articles live in <em>this browser</em> only. Download a backup now and then, or to use another device.</p>
+    </section>
+  </aside>
+
+  <script type="module" src="assets/app.js"></script>
+</body>
+</html>
 
