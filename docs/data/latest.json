@@ -5,86 +5,114 @@
     "date": "2026-11-14",
     "date_long": "Saturday, 14 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-14T19:22+05:30",
-    "is_sample": true
+    "generated_at": "2026-11-14T19:40+05:30",
+    "is_sample": false
   },
   "dashboard": {
-    "total_articles": 12,
-    "reading_minutes": 2,
-    "source_count": 1,
+    "total_articles": 47,
+    "reading_minutes": 11,
+    "source_count": 23,
     "full_text_count": 1,
     "per_section": {
-      "national-international": 2,
-      "editorials-opinion": 2,
-      "fintech-taxtech": 2,
-      "tax-policy": 2,
-      "product-analysis": 2,
-      "business-trends": 2
+      "national-international": 10,
+      "editorials-opinion": 8,
+      "fintech-taxtech": 5,
+      "tax-policy": 8,
+      "product-analysis": 8,
+      "business-trends": 8
     },
     "keywords": [
       {
-        "term": "workflow scripts",
-        "count": 12
+        "term": "product",
+        "count": 6
       },
       {
-        "term": "real attributed",
-        "count": 12
-      },
-      {
-        "term": "scripts fetch",
-        "count": 12
-      },
-      {
-        "term": "attributed stories",
-        "count": 12
-      },
-      {
-        "term": "placeholder",
-        "count": 12
-      },
-      {
-        "term": "text",
-        "count": 12
-      },
-      {
-        "term": "headline",
-        "count": 12
-      },
-      {
-        "term": "feeds",
-        "count": 12
-      },
-      {
-        "term": "replace",
-        "count": 12
-      },
-      {
-        "term": "sample",
-        "count": 12
-      },
-      {
-        "term": "business",
+        "term": "people",
         "count": 4
       },
       {
-        "term": "international",
+        "term": "pressure",
+        "count": 4
+      },
+      {
+        "term": "without",
+        "count": 4
+      },
+      {
+        "term": "government",
+        "count": 4
+      },
+      {
+        "term": "form",
+        "count": 4
+      },
+      {
+        "term": "guardian view",
+        "count": 3
+      },
+      {
+        "term": "world",
+        "count": 3
+      },
+      {
+        "term": "since",
+        "count": 3
+      },
+      {
+        "term": "jensen huang",
+        "count": 2
+      },
+      {
+        "term": "nvidia scandal",
+        "count": 2
+      },
+      {
+        "term": "commerce secretary",
         "count": 2
       }
     ],
     "markets": [
       {
-        "label": "S&P 500",
-        "group": "Indices",
-        "display": "0.00",
-        "change_pct": null,
-        "source": "sample"
+        "label": "USD/EUR",
+        "group": "Currencies",
+        "display": "0.9048",
+        "change_pct": 0.26,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/GBP",
+        "group": "Currencies",
+        "display": "0.7560",
+        "change_pct": 0.22,
+        "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/INR",
         "group": "Currencies",
-        "display": "0.00",
-        "change_pct": null,
-        "source": "sample"
+        "display": "94.25",
+        "change_pct": 0.22,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/JPY",
+        "group": "Currencies",
+        "display": "160.00",
+        "change_pct": 0.19,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "Bitcoin (USD)",
+        "group": "Crypto",
+        "display": "66,468.00",
+        "change_pct": -4.13,
+        "source": "CoinGecko"
+      },
+      {
+        "label": "Ethereum (USD)",
+        "group": "Crypto",
+        "display": "1,873.08",
+        "change_pct": -4.65,
+        "source": "CoinGecko"
       }
     ]
   },
@@ -96,7 +124,14 @@
     "example": "The audit questioned the transfer pricing on royalties paid to the group's overseas arm.",
     "source": "The Morning Ledger glossary"
   },
-  "dictionary_word": null,
+  "dictionary_word": {
+    "word": "Word of the day for November 14",
+    "definition": "edit · refresh · view Word of the day for November 14 Mamie pink n (US, also attributive) A light rosy pink colour with a slight orangish tinge.",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261114000000/en",
+    "source": "Wiktionary",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
   "sections": [
     {
       "id": "national-international",
@@ -104,32 +139,144 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "62d9858540a5",
-          "title": "Sample headline 1: National & International News",
-          "url": "https://example.com/sample/national-international-1",
-          "source": "Sample Source",
+          "id": "66000d42c535",
+          "title": "How does Iran view shift in US approach after JD Vance ordered away?",
+          "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
+          "source": "Al Jazeera",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-14T19:22:50+05:30",
-          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
-          "full_html": "<p>This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view.</p>",
-          "license": "CC BY 4.0 (sample)",
-          "license_url": "https://creativecommons.org/licenses/by/4.0/",
-          "words": 240
+          "published": "2026-11-14T13:24:44+00:00",
+          "summary": "Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
         },
         {
-          "id": "c3acddb764e9",
-          "title": "Sample headline 2: National & International News",
-          "url": "https://example.com/sample/national-international-2",
-          "source": "Sample Source",
+          "id": "6722fc2091ca",
+          "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Ashley Lopez",
+          "published": "2026-11-14T13:08:05+00:00",
+          "summary": "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 31
+        },
+        {
+          "id": "893f210d41dd",
+          "title": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
+          "url": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Jonathan Watts; graphics by Sara Fiorillo",
+          "published": "2026-11-14T13:00:44+00:00",
+          "summary": "People around the world have contended with unprecedented weather events and their fatal effects caused by the climate catastrophe After the world’s hottest summer since records began in 1850, the death toll from extreme weather in 2026 is already in the high tens of thousands.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "7b1a85e40fdc",
+          "title": "Perspective: A new kind of White House press secretary",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Scott Simon",
+          "published": "2026-11-14T13:00:00+00:00",
+          "summary": "With the White House press secretary job still left unfilled, maybe an AI assistant might be the answer?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "1476d670af2a",
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-14T19:22:50+05:30",
-          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "published": "2026-11-14T11:41:20+00:00",
+          "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 19
+        },
+        {
+          "id": "f8a8437145fb",
+          "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+          "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-14T10:42:20+00:00",
+          "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        },
+        {
+          "id": "30be69484595",
+          "title": "Letter from a jailed Azerbaijani political prisoner reveals deadly consequences of silence",
+          "url": "https://globalvoices.org/2026/11/14/letter-from-a-jailed-azerbaijani-political-prisoner-reveals-deadly-consequences-of-silence/",
+          "source": "Global Voices",
+          "section": "national-international",
+          "author": "Global Voices Eurasia",
+          "published": "2026-11-14T06:11:53+00:00",
+          "summary": "Bahruz Samadov: “The selective attitude to the human rights issues and turning the blind eye to our suffering endangers the democratic security of the US itself, not to mention its international image.”",
+          "full_html": "<p><em>The Trump administration’s blind eye to severe human rights violations in Azerbaijan is deadly for political prisoners</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/14/letter-from-a-jailed-azerbaijani-political-prisoner-reveals-deadly-consequences-of-silence/\">Global Voices</a></p><p>Bahruz Samadov being brought to Sabail District Court in 2024. <a href=\"https://commons.wikimedia.org/wiki/File:Bahruz_Samadov_in_2024.png\">Image</a> by Voice of America, via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>. Public domain.</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Bahruz_Samadov\">Bahruz Samadov</a> is an Azerbaijani political scientist, peace activist, and PhD candidate at Charles University in Prague, or at least he was until the summer of 2024. On August 21, 2024, the State Security Service detained Samadov while he was visiting his grandmother in Baku. Global Voices <a href=\"https://globalvoices.org/2024/08/30/azerbaijan-clears-out-critics-ahead-of-cop29/\">reported on his arrest</a> at the time, as part of a wider <a href=\"https://www.hrw.org/news/2024/08/30/azerbaijan-escalating-crackdown-critics\">crackdown on critics</a> before Azerbaijan hosted COP29 in November 2024.</p>\n<p>Samadov was one of the few Azerbaijani voices to oppose the 2020 <a href=\"https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict\">Karabakh war</a>. In his writing for <a href=\"https://oc-media.org/amnesty-reiterates-calls-for-oc-media-contributor-bahruz-samadovs-release/\">OC Media</a>, Eurasianet and other outlets, he argued for dialogue with Armenia and criticized the expulsion of ethnic Armenians from Karabakh. Prosecutors charged him with high treason based on his WhatsApp exchanges with Armenian peace activists and on publicly available information. Samadov denied the charges and called himself a “prisoner of peace.” His lawyer argued that the prosecution’s theory of “<a href=\"https://globalvoices.org/2024/10/25/in-azerbaijan-the-government-takes-treason-seriously-or-does-it/\">indirect espionage</a>” was vague and had no basis in case law.</p>\n<p>On June 23, 2025, after a <a href=\"https://www.hrw.org/news/2025/07/03/azerbaijan-convicts-critics-in-relentless-crackdown\">closed-door trial</a>, the Baku Grave Crimes Court <a href=\"https://globalvoices.org/2025/07/05/the-sentencing-of-bahruz-samadov-and-the-rise-of-post-war-paranoia-in-azerbaijan/\">sentenced him to 15 years in prison</a>. The Baku Court of Appeal <a href=\"https://freevoicescollective.org/bahruz-samadov/\">upheld the verdict</a> in September 2025, and the Supreme Court did the same in September 2026. <a href=\"https://amnesty.ca/urgent-actions/azerbaijan-arbitrarily-imprisoned-academic-at-risk-of-torture/\">Amnesty International</a>, which considers him arbitrarily imprisoned, reports that he has been held in solitary confinement and denied medical care, and that he has twice attempted suicide, most recently in his Supreme Court hearing. Below, Global Voices publishes a letter Samadov wrote from prison and asked us to share.</p>\n<blockquote><p>The 2024 summer holidays ended in a nightmare: while visiting Baku, my home city, from my doctoral studies in Prague, I was detained by the notorious State Security Service of Azerbaijan and soon was charged with “high treason.”</p>\n<p>Studying the ideological tenets of the hegemonic regime in my homeland, I directly connected its durability to the conflict between Azerbaijan and Armenia, revealing the narratives of “national unity” under the “savior strongman.”</p>\n<p>During and after the outbreak of the 2020 War in Karabakh, I criticized the deployment of military means. Between 2021–2024, I partook in various conferences and meetings across Europe, presenting my perspective and calling for a meaningful and inclusive policy of peace and co-existence.</p>\n<p>The Azerbaijani regime, having years of the crackdown experience, is aggressively intolerant to any kinds of contestation, and especially targets the independent academic voices. When the repressive machinery was re-launched in late 2023, the regime started the total crackdown on civil society, independent media, politicians, and academicians.</p>\n<p>In private communications, more than five political prisoners connected it to the worsened relations with the <a href=\"https://en.wikipedia.org/wiki/Joe_Biden\">Biden</a> administration. The latter was highly critical to the human rights violations in Azerbaijan.</p>\n<p>Weeks before leaving the White House, Blinken invited human rights defender <a href=\"https://en.wikipedia.org/wiki/Rufat_Safarov\">Rufat Safarov</a> to Washington to receive the Human Rights Defender Award. Several hours after visiting the US Embassy in Baku, Safarov was arrested and accused of hooliganism and fraud. It was an open signal to the US that the leaving administration had no power to endorse the Azerbaijani critical voices.</p>\n<p>The Azerbaijani government acted differently with the Trump administration. The August 8, 2025 meeting and the peace agreement was the soon-disappeared sign of hope for us. Even if the peace agreement did not include any references to human rights, the current administration’s plans for the long-term involvement in the region brought hopes for at least minimal reforms in Azerbaijan.</p>\n<p>Curiously, my sham trial was “fastened” and ended on June 23, 2025 — a process too explicitly controversial to the “peace agenda.” Following the US delegation’s visit to Baku in January 2026, a number of political prisoners, me among them, appealed to the US officials to raise the “political prisoners issue” to the official Baku — a policy that once partially worked during <a href=\"https://en.wikipedia.org/wiki/Barack_Obama\">Obama</a>’s second term.</p>\n<p>However, the recent severe sentences and USA’s silence prove our call remained rather a mere cry from the chamber cells. The Baku-based team of Toplum TV, the veteran human rights defender <a href=\"https://en.wikipedia.org/wiki/Anar_Mammadli\">Anar Mammadli</a> and others have received up to 15 years of imprisonment. To compare, the EU Parliament recently adopted a resolution calling for the release of political prisoners in Azerbaijan. Similar calls were made by the <a href=\"https://pace.coe.int/en/news/10364/pace-denounces-silencing-of-critical-voices-in-azerbaijan\">PACE</a> and even the UN.</p>\n<p>Meanwhile, the Trump administration is proud to end the violence in the South Caucasus (by the way, this narrative is implicitly contested by the official Baku — there D. Trump remains a mere “witness.”) While the Administration of White House endorses officials like <a href=\"https://en.wikipedia.org/wiki/Hikmet_Hajiyev\">Hikmet Hajiyev</a> for their nice compliments to D. Trump and villanization of “Biden–<a href=\"https://en.wikipedia.org/wiki/Antony_Blinken\">Blinken</a> couple,” the sufferings of Azerbaijani imprisoned dissent keep going.</p>\n<p>Many of those fellow political prisoners I had a chance to talk to remain pessimistic and sceptical regarding the US involvement in the region, dismissing the possibility of the “Belarusian scenario.” One prominent political prisoner even rejected to sign the aforementioned call: “They came for security-related issues, they do not care about human rights,” he shouted from the cell’s balcony. “We are Biden’s prisoners,” laughed my inmate, an imprisoned journalist and poet.</p>\n<p>True, nothing publicly known has been made by the Trump administration related to severe human rights violations in Azerbaijan. If the Republican administration aspires to replace Russia in the long-term in the South Caucasus, it should not abandon the ideals of the Founding Fathers in the foreign policy standards. Washington has officially repeatedly mentioned the human rights violations in rival countries like Iran, Cuba, and formerly Venezuela. The selective attitude to the human rights issues and turning the blind eye to our suffering endangers the democratic security of the US itself, not to mention its international image. This policy raises questions about the adherence to the American ideals of the current administration.</p>\n<p>Yet, it is still not too late to follow the recommendations of <a href=\"https://www.amnesty.org/en/latest/news/2026/09/azerbaijan-authorities-must-immediately-release-activist-bahruz-samadov-who-cut-himself-during-latest-court-appearance/\">Amnesty International</a>: “Use every available opportunity, in bilateral and multilateral forces, to raise concerns about Azerbaijan’s human rights record.”</p>\n<p>Bahruz Samadov<br>\nUmbaku Prison<br>\n27.10.2026</p></blockquote>\n<strong>Written by <a href=\"https://globalvoices.org/author/eurasia/\">Global Voices Eurasia</a></strong>",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "words": 1030
+        },
+        {
+          "id": "64d4544b04eb",
+          "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+          "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-13T23:11:51+00:00",
+          "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "de06bec5ec80",
+          "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Shrai Popat in Washington, Jonathan Yerushalmy, Mark Sweney and agencies",
+          "published": "2026-11-13T19:51:28+00:00",
+          "summary": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the Nvidia…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "19358d9764ad",
+          "title": "At least 24 killed after bus collides with truck in north-east India",
+          "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-13T15:16:50+00:00",
+          "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
         }
       ]
     },
@@ -139,32 +286,116 @@
       "kicker": "Opinion",
       "articles": [
         {
-          "id": "132b9f3988ce",
-          "title": "Sample headline 1: Editorials & Opinion",
-          "url": "https://example.com/sample/editorials-opinion-1",
-          "source": "Sample Source",
+          "id": "07f2bdbe0999",
+          "title": "Corporate Democrats are weaponizing identity politics to smear progressives | Arwa Mahdawi",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/14/corporate-democrats-identity-politics-progressives",
+          "source": "The Guardian – Opinion",
           "section": "editorials-opinion",
-          "author": "",
-          "published": "2026-11-14T19:22:50+05:30",
-          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "author": "Arwa Mahdawi",
+          "published": "2026-11-14T13:00:46+00:00",
+          "summary": "House members have responded to legitimate criticism with cynicism. Let’s not have another ‘Bernie bros’ moment Before we get started, some ground rules. You are, of course, completely free to disagree with everything I have to say here.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 19
+          "words": 38
         },
         {
-          "id": "d2b81c93aad5",
-          "title": "Sample headline 2: Editorials & Opinion",
-          "url": "https://example.com/sample/editorials-opinion-2",
-          "source": "Sample Source",
+          "id": "956db56ce5da",
+          "title": "King Æthelstan founded England in the year 927. Why don’t we celebrate that anniversary? | Tom Holland",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/14/king-athelstan-england-1100-anniversary-2027",
+          "source": "The Guardian – Opinion",
           "section": "editorials-opinion",
-          "author": "",
-          "published": "2026-11-14T19:22:50+05:30",
-          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "author": "Tom Holland",
+          "published": "2026-11-14T10:00:41+00:00",
+          "summary": "Nearly 1,100 years ago, the nation’s first king drove out the ‘heathen’ Vikings, declared war on starvation and made ‘Englalonde’ what it is today On 4 July, the United States celebrated its 250th birthday with all the razzmatazz and dazzle characteristic of an American public…",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 19
+          "words": 45
+        },
+        {
+          "id": "5a31c9f37986",
+          "title": "Power creates wars; wars create power. But these compelling acts of storytelling are breaking the loop | Charlotte Higgins",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/14/ukraine-gaza-better-stories-war-artists-remembrance",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Charlotte Higgins",
+          "published": "2026-11-14T08:00:38+00:00",
+          "summary": "Artists’ acts of remembrance about destruction and violence defy the dominant narratives of heroism and sacrifice The way stories are told about wars really matters.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "37ba6d071f77",
+          "title": "The Guardian view on press freedom: authoritarians target journalism because it matters | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-press-freedom-authoritarians-target-journalism-because-it-matters",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-13T18:01:46+00:00",
+          "summary": "From Cairo to Moscow to Washington, governments are turning up the pressure on media workers Lina Attalah is an influential Egyptian journalist. Yet until last month, even she was unaware of a major and concerning piece of news: her own conviction.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 41
+        },
+        {
+          "id": "d286ac102d02",
+          "title": "The Guardian view on M John Harrison’s Booker win: a new frontier for science fiction | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-m-john-harrisons-booker-win-a-new-frontier-for-science-fiction",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-13T18:00:56+00:00",
+          "summary": "The End of Everything is a novel for our age of permacrisis. Genre boundaries belong to the past “Science fiction will never be Literature with a capital ‘L,’” began a New York Times review of Margaret Atwood’s novel Oryx and Crake back in 2003.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 44
+        },
+        {
+          "id": "fa67c5920455",
+          "title": "Could you survive without Microsoft? Inside the costs of digital dependence",
+          "url": "https://theconversation.com/could-you-survive-without-microsoft-inside-the-costs-of-digital-dependence-296614",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Narmin Nahidi, Assistant Professor in Finance, University of Exeter",
+          "published": "2026-11-13T12:09:36+00:00",
+          "summary": "Digital choices have huge environmental costs but these are rarely counted up.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 12
+        },
+        {
+          "id": "e67209abafcd",
+          "title": "Young turtles find refuge in both natural and artificial wetlands in UAE – new study",
+          "url": "https://theconversation.com/young-turtles-find-refuge-in-both-natural-and-artificial-wetlands-in-uae-new-study-295707",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Owen Exeter, Postdoctoral Researcher, Marine Ecology, University of Exeter",
+          "published": "2026-11-13T10:16:11+00:00",
+          "summary": "A large basin was never used for its intended recreational purposes and has since been incorporated into a marine protected area alongside coastal mangroves.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "b7bc394f2cf5",
+          "title": "The Guardian view on Gaza’s misery: don’t let Palestinian deaths mount in this bleak winter | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/12/the-guardian-view-on-gazas-misery-dont-let-palestinian-deaths-mount-in-this-bleak-winter",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-12T18:54:58+00:00",
+          "summary": "The formation of a new Israeli government won’t stop the killing, but sustained international pressure must be applied What do you call a ceasefire when the firing has not ceased?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
         }
       ]
     },
@@ -174,32 +405,74 @@
       "kicker": "Technology & Money",
       "articles": [
         {
-          "id": "b9a6bd00db4b",
-          "title": "Sample headline 1: FinTech & Tax Technology",
-          "url": "https://example.com/sample/fintech-taxtech-1",
-          "source": "Sample Source",
+          "id": "64d53d7eac68",
+          "title": "OpenAI launches ChatGPT Wallet",
+          "url": "https://www.finextra.com/newsarticle/48759/openai-launches-chatgpt-wallet?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
           "section": "fintech-taxtech",
           "author": "",
-          "published": "2026-11-14T19:22:50+05:30",
-          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "published": "2026-11-13T18:28:00+00:00",
+          "summary": "OpenAI has unveiled ChatGPT Wallet, enabling AI agents to pay for purchases on users' behalf without accessing their card details.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 19
+          "words": 20
         },
         {
-          "id": "47a537bdfd92",
-          "title": "Sample headline 2: FinTech & Tax Technology",
-          "url": "https://example.com/sample/fintech-taxtech-2",
-          "source": "Sample Source",
+          "id": "ee31527cbb54",
+          "title": "German banks form financial crime fighting JV",
+          "url": "https://www.finextra.com/newsarticle/48758/german-banks-form-financial-crime-fighting-jv?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
           "section": "fintech-taxtech",
           "author": "",
-          "published": "2026-11-14T19:22:50+05:30",
-          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "published": "2026-11-13T15:12:00+00:00",
+          "summary": "Commerzbank, Deutsche Bank and the German Savings Banks Association have set up joint venture to tackle financial crime.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 19
+          "words": 18
+        },
+        {
+          "id": "8173be9cdb75",
+          "title": "Lloyds appoints Manija Poulatova as group chief security officer",
+          "url": "https://www.finextra.com/newsarticle/48757/lloyds-appoints-manija-poulatova-as-group-chief-security-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-13T14:43:00+00:00",
+          "summary": "Lloyds Banking Group has promoted former Googler Manija Poulatova to group chief security officer.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        },
+        {
+          "id": "1f380d299553",
+          "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+          "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+          "source": "TechCrunch – Fintech",
+          "section": "fintech-taxtech",
+          "author": "Jagmeet Singh",
+          "published": "2026-11-04T14:10:10+00:00",
+          "summary": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "9629b9d628e6",
+          "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+          "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+          "source": "TechCrunch – Fintech",
+          "section": "fintech-taxtech",
+          "author": "TechCrunch Events",
+          "published": "2026-11-04T13:00:00+00:00",
+          "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
         }
       ]
     },
@@ -209,32 +482,116 @@
       "kicker": "The Tax Desk",
       "articles": [
         {
-          "id": "4506b9f4b80a",
-          "title": "Sample headline 1: Tax News & Policy Updates",
-          "url": "https://example.com/sample/tax-policy-1",
-          "source": "Sample Source",
+          "id": "f376da808abc",
+          "title": "Agency Information Collection Activities; Comment Request on Form 14417-Reimbursable Agreement-Non-Federal Entities; Form 14417-A-Statistics of Income-User Fee and 14417-B-Statistics of Income (SOI) Public Use File (PUF) Intake",
+          "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23202/agency-information-collection-activities-comment-request-on-form-14417-reimbursable",
+          "source": "Federal Register – IRS",
           "section": "tax-policy",
-          "author": "",
-          "published": "2026-11-14T19:22:50+05:30",
-          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "author": "Treasury Department, Internal Revenue Service",
+          "published": "2026-11-16T05:00:00+00:00",
+          "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
           "full_html": null,
-          "license": "",
+          "license": "US Government work (public domain)",
           "license_url": "",
-          "words": 19
+          "words": 23
         },
         {
-          "id": "d0f492bdf9f8",
-          "title": "Sample headline 2: Tax News & Policy Updates",
-          "url": "https://example.com/sample/tax-policy-2",
-          "source": "Sample Source",
+          "id": "24491c21445c",
+          "title": "Unrefunded Advance for TMT Bar Supply Constitutes Operational Debt: NCLT Admits ₹3.85 Cr Insolvency Plea [Read Order]",
+          "url": "https://www.taxscan.in/corporate-laws/unrefunded-advance-for-tmt-bar-supply-constitutes-operational-debt-nclt-admits-385-cr-insolvency-plea-read-order",
+          "source": "Taxscan (India)",
           "section": "tax-policy",
-          "author": "",
-          "published": "2026-11-14T19:22:50+05:30",
-          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "author": "Solony Padhi",
+          "published": "2026-11-14T11:17:32+00:00",
+          "summary": "NCLT admitted CIRP as unrefunded advances for undelivered TMT bars constituted operational debt, with dishonoured cheques establishing default.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 19
+          "words": 18
+        },
+        {
+          "id": "3f2662feafde",
+          "title": "Pending Supreme Court Appeal No Bar to CIRP Admission Without Stay: NCLT Admits ₹2.80 Cr Insolvency Plea [Read Order]",
+          "url": "https://www.taxscan.in/corporate-laws/pending-supreme-court-appeal-no-bar-to-cirp-admission-without-stay-nclt-admits-280-cr-insolvency-plea-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Solony Padhi",
+          "published": "2026-11-14T11:16:53+00:00",
+          "summary": "NCLT Admits CIRP as Supreme Court Has Not Stayed NCLAT Order Upholding Debt, Default and Creditor’s Valid Authorisation.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "3140b4307b44",
+          "title": "Orissa HC Dismisses Income Tax Department’s Appeal as Tax Effect Falls Below CBDT’s Monetary Limit [Read Order]",
+          "url": "https://www.taxscan.in/income-tax/orissa-hc-dismisses-income-tax-departments-appeal-as-tax-effect-falls-below-cbdts-monetary-limit-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Kalyani B. Nair",
+          "published": "2026-11-14T08:32:51+00:00",
+          "summary": "Revenue’s appeal liable to be dismissed for failing to meet monetary threshold prescribed under CBDT Circular",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "04dd25bd4d89",
+          "title": "Indicator deep dive: Reporting of tax avoidance schemes",
+          "url": "https://taxjustice.net/2026/11/05/indicator-deep-dive-reporting-of-tax-avoidance-schemes/",
+          "source": "Tax Justice Network",
+          "section": "tax-policy",
+          "author": "Bob Michel",
+          "published": "2026-11-05T00:03:00+00:00",
+          "summary": "Today, the Tax Justice Network updated its Corporate Tax Haven Index with new data for two indicators.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "88d90ca20eed",
+          "title": "The ‘wealth exodus’ was manufactured by the press. The press complaints body IPSO must investigate or step aside.",
+          "url": "https://taxjustice.net/2026/10/19/the-wealth-exodus-was-manufactured-by-the-press-the-uks-biggest-press-complaints-body-must-investigate-or-step-aside/",
+          "source": "Tax Justice Network",
+          "section": "tax-policy",
+          "author": "Tax Justice Network",
+          "published": "2026-10-19T21:35:35+00:00",
+          "summary": "TL;DR Since 2024 about 30 news articles a day have been published around the world about an exodus of millionaires and billionaires fleeing taxes. ……………………….. The UK, we’re told, has had the worst of it thanks to the Labour government’s tax policies.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 42
+        },
+        {
+          "id": "9ad261889ed3",
+          "title": "Senator Moreno’s 100% Federal Tax on Data Center Incentives Would Usurp Sound State Sales Tax Policies",
+          "url": "https://taxfoundation.org/blog/data-center-sales-tax-reclaim-act/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Richard DiSalvo",
+          "published": null,
+          "summary": "Senator Bernie Moreno’s proposed RECLAIM Act (S. 5689) would impose a 100 percent tax on state and local “incentives” for large AI data centers, including state sales tax exemptions for servers and chips.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 33
+        },
+        {
+          "id": "a84fbaf07bb7",
+          "title": "Senator Kelly’s Plan to “Make AI Work for Americans” Is Funded by Three Poorly Designed Taxes",
+          "url": "https://taxfoundation.org/blog/senator-kelly-ai-taxes/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Richard DiSalvo, Andrew Lautz",
+          "published": null,
+          "summary": "If lawmakers want to pay for new government spending, better approaches include broadening the income tax base, reforming the corporate tax, or taxing consumption.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
         }
       ]
     },
@@ -244,32 +601,116 @@
       "kicker": "The Craft",
       "articles": [
         {
-          "id": "53b13b188b84",
-          "title": "Sample headline 1: Product Management & Business Analysis",
-          "url": "https://example.com/sample/product-analysis-1",
-          "source": "Sample Source",
+          "id": "a13699de7bba",
+          "title": "2027 Product Conferences",
+          "url": "https://www.producttalk.org/2027-product-conferences/",
+          "source": "Product Talk",
           "section": "product-analysis",
-          "author": "",
-          "published": "2026-11-14T19:22:50+05:30",
-          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "author": "Teresa Torres",
+          "published": "2026-11-11T14:00:00+00:00",
+          "summary": "We are starting to pull together our list of 2027 product conferences. This list is by no means exhaustive. If you know of product conferences that are not on the list and you think they should be, please send an email to conferences@producttalk.org.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 43
+        },
+        {
+          "id": "297402f6b6f0",
+          "title": "Discovery & The 4 Risks - All Things Product Podcast with Teresa Torres & Petra Wille",
+          "url": "https://www.producttalk.org/discovery-the-4-risks-all-things-product-podcast-with-teresa-torres-petra-wille/",
+          "source": "Product Talk",
+          "section": "product-analysis",
+          "author": "Teresa Torres",
+          "published": "2026-11-10T14:00:00+00:00",
+          "summary": "Listen to this episode on: Spotify | Apple Podcasts In one of their most philosophical episodes yet, Petra Wille and Teresa Torres turn product thinking on the discovery practice itself.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "b9e63452c6bd",
+          "title": "Analysis Debt: The Cost of a Question Nobody Tracks",
+          "url": "https://batimes.com/articles/analysis-debt-the-cost-of-a-question-nobody-tracks/",
+          "source": "BA Times",
+          "section": "product-analysis",
+          "author": "Michael Roy",
+          "published": "2026-11-09T14:38:54+00:00",
+          "summary": "Analysis Debt: The Cost of a Question Nobody Tracks By Michael Roy Every delivery organization can tell you how fast work moved last quarter. Far fewer can say how much of that work was checked before it started moving.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 39
+        },
+        {
+          "id": "21f59dea13c6",
+          "title": "AI and the Future of the Product Role",
+          "url": "https://www.svpg.com/ai-and-the-future-of-the-product-role/",
+          "source": "Silicon Valley Product Group",
+          "section": "product-analysis",
+          "author": "Marty Cagan",
+          "published": "2026-11-06T01:02:22+00:00",
+          "summary": "NOTE: This is a narrative form of a keynote for the 2026 Product Leader Summit. Overview Most people in the industry realize that the job definition and responsibilities of the people in the product role can vary widely across companies.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 40
+        },
+        {
+          "id": "265e6c45204a",
+          "title": "Experimentation, AI and the Product Model",
+          "url": "https://www.svpg.com/experimentation-ai-and-the-product-model/",
+          "source": "Silicon Valley Product Group",
+          "section": "product-analysis",
+          "author": "Marty Cagan",
+          "published": "2026-10-21T15:53:41+00:00",
+          "summary": "NOTE: This is a narrative form of a keynote for the Circus Austin Experimentation Conference. While experimentation can be found in various parts of a company, most people think of either product or marketing.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "30b7e2079ec1",
+          "title": "Product Ethics in the Age of AI",
+          "url": "https://www.romanpichler.com/blog/product-ethics-in-the-age-of-ai/",
+          "source": "Roman Pichler",
+          "section": "product-analysis",
+          "author": "Roman Pichler",
+          "published": "2026-10-05T09:39:41+00:00",
+          "summary": "AI is changing not only what product teams can build, but also what they need to take responsibility for.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 19
         },
         {
-          "id": "ec9caa193cde",
-          "title": "Sample headline 2: Product Management & Business Analysis",
-          "url": "https://example.com/sample/product-analysis-2",
-          "source": "Sample Source",
+          "id": "87cda737ce55",
+          "title": "Connecting Product Outcomes to Business Strategy",
+          "url": "https://www.romanpichler.com/blog/connecting-product-outcomes-and-business-strategy/",
+          "source": "Roman Pichler",
           "section": "product-analysis",
-          "author": "",
-          "published": "2026-11-14T19:22:50+05:30",
-          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "author": "Roman Pichler",
+          "published": "2026-09-15T09:41:42+00:00",
+          "summary": "Every product has to create real value for a group of people and the business, at least in theory. But in practice, that’s not always the case.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 19
+          "words": 27
+        },
+        {
+          "id": "95ac88e87dd6",
+          "title": "The Irreplaceable BA: How to Stay Essential in an AI-Augmented World",
+          "url": "https://batimes.com/articles/the-irreplaceable-ba-how-to-stay-essential-in-an-ai-augmented-world/",
+          "source": "BA Times",
+          "section": "product-analysis",
+          "author": "Mohanaraman Namasivayam",
+          "published": "2026-07-29T19:43:39+00:00",
+          "summary": "Four frameworks for deciding what AI takes, what you keep, and where to grow Mohanaraman Namasivayam Vice President | Senior Business Analyst, Investment Management Technology | IIBA Member The Inflection Point Is Now The research is blunt.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
         }
       ]
     },
@@ -279,44 +720,292 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
-          "id": "8110e4489a96",
-          "title": "Sample headline 1: Emerging Business Trends & New Vocabulary",
-          "url": "https://example.com/sample/business-trends-1",
-          "source": "Sample Source",
+          "id": "7278a0c0ed12",
+          "title": "5 ways to turn your cold outreach into a job offer",
+          "url": "https://www.fastcompany.com/91631346/5-ways-to-turn-your-cold-outreach-into-a-job-offer-job-hunting",
+          "source": "Fast Company",
           "section": "business-trends",
-          "author": "",
-          "published": "2026-11-14T19:22:50+05:30",
-          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "author": "Vanessa Errecarte",
+          "published": "2026-11-14T13:12:14+00:00",
+          "summary": "Taylor Stanton, a former student of mine, spent nearly 15 years as a communications professional for tech CEOs in Silicon Valley.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 19
+          "words": 21
         },
         {
-          "id": "6b443add1437",
-          "title": "Sample headline 2: Emerging Business Trends & New Vocabulary",
-          "url": "https://example.com/sample/business-trends-2",
-          "source": "Sample Source",
+          "id": "0f0d5e98aef7",
+          "title": "Taxing billionaires failed in California, but other states are taking steps to collect from the rich",
+          "url": "https://www.fastcompany.com/91641216/taxing-billionaires-failed-california-other-states-taking-steps-collect-rich",
+          "source": "Fast Company",
           "section": "business-trends",
-          "author": "",
-          "published": "2026-11-14T19:22:50+05:30",
-          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "author": "The Conversation",
+          "published": "2026-11-14T12:00:00+00:00",
+          "summary": "State efforts to tax the rich did relatively well in the 2026 midterm elections, following a series of state legislative moves in that direction in recent years. That might come as a surprise because a majority of voters rejected California’s Proposition 40.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 19
+          "words": 42
+        },
+        {
+          "id": "a20a765200c5",
+          "title": "Microsoft says services fully restored after day-long global outage",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-14T06:42:27+00:00",
+          "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "4b1ed9147537",
+          "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
+          "url": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Edward Helmore in New York",
+          "published": "2026-11-14T02:49:59+00:00",
+          "summary": "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stop The decision to ground all flights on Friday by the US Federal Aviation Administration (FAA) threw airports and travel plans into chaos across the country, as passengers on planes…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "57ae9f9b1f76",
+          "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+          "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Aisha Malik",
+          "published": "2026-11-13T23:00:00+00:00",
+          "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "ec577d4c46a6",
+          "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Marina Temkin, Dominic-Madori Davis",
+          "published": "2026-11-13T22:43:00+00:00",
+          "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "b1b246b5ab5e",
+          "title": "Microsoft outage shakes up companies, schools and local governments across US",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Gaya Gupta in New York",
+          "published": "2026-11-13T21:13:59+00:00",
+          "summary": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outage Microsoft outage – live updates The Microsoft Outlook outage has shaken up companies and local governments across the US that use its suite of email, calendar, video conferencing…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "dabb9c42293e",
+          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-13T19:53:57+00:00",
+          "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
         }
       ]
     }
   ],
   "sources": [
     {
-      "name": "Sample Source",
-      "site": "",
+      "name": "Al Jazeera",
+      "site": "https://www.aljazeera.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BA Times",
+      "site": "https://www.batimes.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – Business",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – India",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – World",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Fast Company",
+      "site": "https://www.fastcompany.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Federal Register – IRS",
+      "site": "https://www.federalregister.gov",
+      "license": "US Government work (public domain)",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Finextra",
+      "site": "https://www.finextra.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Global Voices",
+      "site": "https://globalvoices.org",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "full_text": true
+    },
+    {
+      "name": "NPR News",
+      "site": "https://feeds.npr.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Product Talk",
+      "site": "https://www.producttalk.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Roman Pichler",
+      "site": "https://www.romanpichler.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Silicon Valley Product Group",
+      "site": "https://www.svpg.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Tax Foundation",
+      "site": "https://taxfoundation.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Tax Justice Network",
+      "site": "https://taxjustice.net",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Taxscan (India)",
+      "site": "https://www.taxscan.in",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TechCrunch",
+      "site": "https://techcrunch.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TechCrunch – Fintech",
+      "site": "https://techcrunch.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Conversation",
+      "site": "https://theconversation.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Business",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Editorials",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Opinion",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – World",
+      "site": "https://www.theguardian.com",
       "license": "",
       "license_url": "",
       "full_text": false
     }
   ],
-  "errors": []
+  "errors": [
+    "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
+    "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published&notcategories=No%20publish%7CArchived%7CAutoArchived%7Cdisputed&namespace=0&count=15&ordermethod=categoryadd&stablepages=only",
+    "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
+    "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
+    "The Fintech Times: feed contained no entries",
+    "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+    "Mind the Product: feed contained no entries",
+    "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
+    "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
+  ]
 }
