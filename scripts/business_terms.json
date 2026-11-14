@@ -1,80 +1,29 @@
-[
-  {"term": "Unit economics", "pos": "noun", "domain": "Business", "definition": "The revenue and cost attached to a single unit of what a company sells (one customer, one order, one subscription), used to judge whether growth actually makes money.", "example": "At $12 per order against $15 in delivery and support costs, the unit economics never worked."},
-  {"term": "Moat", "pos": "noun", "domain": "Strategy", "definition": "A durable advantage such as brand, scale, data or switching costs that keeps rivals from easily winning a firm's customers or profits.", "example": "Its decade of proprietary payment data is the moat competitors cannot copy."},
-  {"term": "Burn rate", "pos": "noun", "domain": "Finance", "definition": "The speed at which a company spends its cash reserves, usually quoted per month.", "example": "With a monthly burn rate of $400,000, the startup has eleven months of runway."},
-  {"term": "Product-market fit", "pos": "noun", "domain": "Product", "definition": "The point at which a product satisfies a real and sizeable demand so well that customers pull it forward instead of needing to be pushed.", "example": "Waiting lists and organic referrals told the team they had finally reached product-market fit."},
-  {"term": "North Star metric", "pos": "noun", "domain": "Product", "definition": "The single number that best captures the value customers get from a product, used to align a team's priorities.", "example": "For the budgeting app, weekly active households became the North Star metric."},
-  {"term": "Jobs to be done", "pos": "noun", "domain": "Product", "definition": "A framing that explains why people 'hire' a product: by the progress they are trying to make in a given situation, rather than by their demographics.", "example": "Using jobs to be done, the team realised commuters were hiring the milkshake to make a boring drive less dull."},
-  {"term": "Technical debt", "pos": "noun", "domain": "Engineering", "definition": "The accumulated cost of shortcuts in software that make future changes slower and riskier until they are repaid.", "example": "Skipping the clean-up before launch added technical debt that slowed every later release."},
-  {"term": "Total addressable market (TAM)", "pos": "noun", "domain": "Strategy", "definition": "The full revenue opportunity if a product won every possible customer in its category.", "example": "Investors questioned whether the claimed TAM counted customers who could never afford the product."},
-  {"term": "Open banking", "pos": "noun", "domain": "FinTech", "definition": "A regime in which banks let customers share their account data with licensed third parties through secure APIs.", "example": "Open banking lets the budgeting app read your balances without ever seeing your password."},
-  {"term": "Embedded finance", "pos": "noun", "domain": "FinTech", "definition": "Financial services such as payments, credit or insurance offered inside a non-financial company's own app or checkout.", "example": "The ride-hailing app's instant driver loans are a classic case of embedded finance."},
-  {"term": "Buy now, pay later (BNPL)", "pos": "noun", "domain": "FinTech", "definition": "Short-term point-of-sale credit that splits a purchase into instalments, often interest-free for the shopper.", "example": "Regulators are asking whether BNPL schemes hide how much households really owe."},
-  {"term": "RegTech", "pos": "noun", "domain": "FinTech", "definition": "Software that helps firms meet regulatory obligations, such as monitoring, reporting and identity checks, with less manual effort.", "example": "The bank cut its onboarding time in half after adopting a RegTech identity-verification tool."},
-  {"term": "Tax gap", "pos": "noun", "domain": "Tax", "definition": "The difference between the tax a government should collect under the law and what it actually collects.", "example": "Better data matching is one way tax agencies hope to narrow the tax gap."},
-  {"term": "Base erosion and profit shifting (BEPS)", "pos": "noun", "domain": "Tax", "definition": "Strategies that move taxable profit to low-tax places where little real activity occurs; the target of a major OECD reform programme.", "example": "The new reporting rules were designed to curb BEPS by large multinationals."},
-  {"term": "Transfer pricing", "pos": "noun", "domain": "Tax", "definition": "The prices charged for goods, services or intellectual property exchanged between related companies in different countries, which tax rules expect to match what unrelated parties would agree.", "example": "The audit questioned the transfer pricing on royalties paid to the group's overseas arm."},
-  {"term": "Pillar Two", "pos": "noun", "domain": "Tax", "definition": "The OECD framework for a 15 per cent global minimum tax on large multinational groups.", "example": "Finance teams are updating their systems to calculate effective tax rates for Pillar Two."},
-  {"term": "E-invoicing", "pos": "noun", "domain": "Tax", "definition": "Issuing invoices as structured digital data exchanged through approved systems, often reported to tax authorities in near real time.", "example": "Mandatory e-invoicing means the tax portal sees the sale before the customer pays."},
-  {"term": "Straight-through processing", "pos": "noun", "domain": "FinTech", "definition": "Handling a transaction from start to finish electronically, with no manual intervention.", "example": "Straight-through processing cut settlement errors because nobody re-typed the trade details."},
-  {"term": "Cohort analysis", "pos": "noun", "domain": "Analytics", "definition": "Comparing groups of users who share a starting point, such as signup month, to see how their behaviour changes over time.", "example": "Cohort analysis showed that customers who joined in spring stayed far longer than winter signups."},
-  {"term": "Minimum viable product (MVP)", "pos": "noun", "domain": "Product", "definition": "The simplest version of a product that lets a team learn from real users with the least effort.", "example": "Their MVP was a single web form and a spreadsheet behind it."},
-  {"term": "OKRs", "pos": "noun", "domain": "Management", "definition": "Objectives and Key Results: a goal-setting method that pairs an ambitious aim with a few measurable results.", "example": "The quarterly OKRs made it clear which projects mattered and which could wait."},
-  {"term": "Backlog refinement", "pos": "noun", "domain": "Agile", "definition": "Ongoing work to clarify, size and order upcoming items so the team always has well-understood work ready to start.", "example": "A short weekly backlog refinement meant sprint planning no longer ran for three hours."},
-  {"term": "User story", "pos": "noun", "domain": "Business Analysis", "definition": "A short description of a need from the user's viewpoint, usually written as 'As a..., I want..., so that...'.", "example": "The user story read: as a taxpayer, I want to upload receipts from my phone so that filing takes minutes."},
-  {"term": "Acceptance criteria", "pos": "noun", "domain": "Business Analysis", "definition": "The specific conditions a piece of work must meet before it is accepted as done.", "example": "Clear acceptance criteria stopped the argument about whether the export feature was finished."},
-  {"term": "Stakeholder mapping", "pos": "noun", "domain": "Business Analysis", "definition": "Charting the people affected by or influencing a project by their interest and power, to decide how to engage each of them.", "example": "Stakeholder mapping revealed that the compliance team had a veto nobody had planned for."},
-  {"term": "Gap analysis", "pos": "noun", "domain": "Business Analysis", "definition": "Comparing the current state with the desired state to identify what must change to close the difference.", "example": "The gap analysis showed the finance system could not produce the new regulatory report."},
-  {"term": "SWOT analysis", "pos": "noun", "domain": "Strategy", "definition": "A structured list of a business's strengths, weaknesses, opportunities and threats.", "example": "Their SWOT analysis listed a loyal customer base as a strength and one-supplier dependence as a threat."},
-  {"term": "RACI matrix", "pos": "noun", "domain": "Management", "definition": "A chart assigning each task to the people who are Responsible, Accountable, Consulted and Informed.", "example": "The RACI matrix settled who signs off on pricing changes."},
-  {"term": "Pivot", "pos": "noun / verb", "domain": "Strategy", "definition": "A deliberate change in a startup's direction based on what it has learned, while keeping its core insights.", "example": "After lukewarm sales to consumers, the company pivoted to selling its software to accountants."},
-  {"term": "Network effects", "pos": "noun", "domain": "Strategy", "definition": "The way a product becomes more valuable to each user as more people use it.", "example": "A payments app is only useful if your friends and local shops are on it too, which is a network effect."},
-  {"term": "Platform economy", "pos": "noun", "domain": "Business", "definition": "Markets organised around digital platforms that connect producers and consumers and earn a fee or commission on the matches.", "example": "Freelancers in the platform economy depend on a few apps for most of their work."},
-  {"term": "Flywheel", "pos": "noun", "domain": "Strategy", "definition": "A self-reinforcing loop in which each success makes the next one easier, such as more sellers attracting more buyers who attract more sellers.", "example": "Lower prices brought more shoppers, which brought more sellers, and the flywheel kept spinning."},
-  {"term": "Disintermediation", "pos": "noun", "domain": "Business", "definition": "Cutting out the middleman so that producers deal directly with customers.", "example": "Direct-to-consumer brands grew by disintermediation of the traditional retailer."},
-  {"term": "Unbundling", "pos": "noun", "domain": "FinTech", "definition": "Splitting a bundled offering into separate services that specialists can do better, as fintech firms did to banks.", "example": "The unbundling of the bank left one app for savings, another for transfers and a third for loans."},
-  {"term": "Switching costs", "pos": "noun", "domain": "Strategy", "definition": "The time, money or effort a customer must spend to move from one provider to another.", "example": "High switching costs keep businesses on their accounting software even when a cheaper tool appears."},
-  {"term": "Operating leverage", "pos": "noun", "domain": "Finance", "definition": "How much profit swings for a given change in sales, which depends on how much of a firm's cost base is fixed.", "example": "With high operating leverage, a small rise in sales lifted profit sharply."},
-  {"term": "Churn", "pos": "noun", "domain": "Business", "definition": "The rate at which customers or subscribers stop buying or cancel.", "example": "Monthly churn fell from five per cent to three after the onboarding redesign."},
-  {"term": "Annual recurring revenue (ARR)", "pos": "noun", "domain": "Finance", "definition": "The yearly value of a company's subscription contracts, normalised to a twelve-month figure.", "example": "Crossing $10 million in ARR made the firm eligible for the growth-stage fund."},
-  {"term": "Regulatory sandbox", "pos": "noun", "domain": "FinTech", "definition": "A supervised space in which firms can test new financial products under eased rules for a limited time.", "example": "The lender trialled its AI credit model inside the regulator's sandbox before a full launch."},
-  {"term": "Nudge", "pos": "noun / verb", "domain": "Behavioural economics", "definition": "A small change in how choices are presented that steers behaviour without removing any options.", "example": "Pre-filling the tax form with last year's details was a gentle nudge toward filing early."}
-]
-[
-  {
-    "term": "Second-Order Thinking",
-    "category": "Executive Strategy",
-    "definition": "Evaluating not just the immediate outcome of a product or business decision, but the downstream ripple effects that follow those outcomes.",
-    "context": "While cutting onboarding steps boosted short-term signups, second-order thinking revealed it increased 60-day churn due to unqualified leads."
-  },
-  {
-    "term": "MECE Principle",
-    "category": "Management Consulting",
-    "definition": "Mutually Exclusive, Collectively Exhaustive—a framework used by top strategy firms to break complex problems into non-overlapping categories that cover every possibility.",
-    "context": "Before presenting the root-cause analysis to the VP, the PM structured the churn drivers into a strict MECE tree."
-  },
-  {
-    "term": "Net Dollar Retention (NDR)",
-    "category": "SaaS & Product Metrics",
-    "definition": "The percentage of recurring revenue retained from existing customers over a given period, accounting for upgrades, downgrades, and churn.",
-    "context": "An NDR above 120% signals strong product-market expansion even without acquiring a single net-new logo."
-  },
-  {
-    "term": "Asymmetric Risk-Reward",
-    "category": "Capital Allocation",
-    "definition": "A strategic bet where the potential upside is vastly larger than the capped, known downside.",
-    "context": "Launching a lightweight AI workflow prototype represented an asymmetric bet: two weeks of engineering effort for a potential 3x enterprise upsell."
-  },
-  {
-    "term": "Switching Cost Moat",
-    "category": "Competitive Strategy",
-    "definition": "The financial, operational, or psychological friction a customer faces when migrating from your product to a competitor.",
-    "context": "Deep ERP and tax-compliance integrations created a high switching-cost moat that insulated our enterprise accounts from price-cutting rivals."
-  },
-  {
-    "term": "Jobs-to-be-Done (JTBD)",
-    "category": "Product Discovery",
-    "definition": "A lens for understanding customer motivation by focusing on the underlying progress a user is trying to achieve in a specific circumstance, rather than demographic traits.",
-    "context": "Customers weren't buying a dashboard; the core Job-to-be-Done was walking into Monday's board meeting without being blindsided by margin slippage."
-  }
-]
+{
+  "_readme": "This file contains business terms and definitions for the daily edition.",
+  "terms": [
+    {
+      "term": "Amortization",
+      "definition": "The practice of spreading an intangible asset's cost over a period of time."
+    },
+    {
+      "term": "EBITDA",
+      "definition": "Earnings Before Interest, Taxes, Depreciation, and Amortization—a measure of a company's overall financial performance."
+    },
+    {
+      "term": "Liquidity",
+      "definition": "The ease with which an asset, security, or commodity can be converted into ready cash without affecting its market price."
+    },
+    {
+      "term": "Arbitrage",
+      "definition": "The simultaneous purchase and sale of an asset in different markets to profit from a difference in the price."
+    },
+    {
+      "term": "Hedging",
+      "definition": "An investment position intended to offset potential losses or gains that may be incurred by a companion investment."
+    },
+    {
+      "term": "Venture Capital",
+      "definition": "A form of private equity and a type of financing that investors provide to startup companies and small businesses that are believed to have long-term growth potential."
+    }
+  ]
+}
