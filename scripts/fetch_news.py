@@ -653,3 +653,187 @@ def main(argv=None) -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
+  import json
+import os
+import datetime
+import re
+from collections import Counter
+import feedparser
+from bs4 import BeautifulSoup
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(BASE_DIR, "..", "docs", "data")
+os.makedirs(DATA_DIR, exist_ok=True)
+
+with open(os.path.join(BASE_DIR, "feeds.json"), "r", encoding="utf-8") as f:
+    FEEDS = json.load(f)
+
+with open(os.path.join(BASE_DIR, "business_terms.json"), "r", encoding="utf-8") as f:
+    VOCABULARY_BANK = json.load(f)
+
+STOP_WORDS = {
+    "the", "and", "to", "of", "in", "a", "for", "on", "with", "as", "by",
+    "at", "from", "is", "are", "was", "were", "be", "been", "being", "have",
+    "has", "had", "do", "does", "did", "but", "if", "or", "because", "until",
+    "while", "about", "against", "between", "into", "through", "during",
+    "before", "after", "above", "below", "up", "down", "out", "off", "over",
+    "under", "again", "further", "then", "once", "here", "there", "when",
+    "where", "why", "how", "all", "any", "both", "each", "few", "more",
+    "most", "other", "some", "such", "no", "nor", "not", "only", "own",
+    "same", "so", "than", "too", "very", "can", "will", "just", "should",
+    "now", "new", "says", "said", "year", "years", "market", "company"
+}
+
+def clean_html(raw_html):
+    if not raw_html:
+        return ""
+    soup = BeautifulSoup(raw_html, "html.parser")
+    text = soup.get_text(separator=" ").strip()
+    return re.sub(r'\s+', ' ', text)
+
+def extract_image(entry, raw_html):
+    """Extracts cover image from media tags, enclosures, or inline HTML."""
+    if "media_content" in entry and len(entry.media_content) > 0:
+        url = entry.media_content[0].get("url", "")
+        if url.startswith("http"):
+            return url
+    if "media_thumbnail" in entry and len(entry.media_thumbnail) > 0:
+        url = entry.media_thumbnail[0].get("url", "")
+        if url.startswith("http"):
+            return url
+    if "links" in entry:
+        for link in entry.links:
+            if link.get("type", "").startswith("image/") and link.get("href", "").startswith("http"):
+                return link["href"]
+    if raw_html:
+        soup = BeautifulSoup(raw_html, "html.parser")
+        img = soup.find("img")
+        if img and img.get("src", "").startswith("http"):
+            src = img["src"]
+            # Filter out tiny 1x1 tracking pixels
+            if not any(x in src.lower() for x in ["pixel", "tracker", "1x1", "doubleclick"]):
+                return src
+    return ""
+
+def generate_takeaways(text, title, num_bullets=3):
+    """Extractive summarization: ranks sentences by keyword density to create 3 executive bullets."""
+    sentences = re.split(r'(?<=[.!?])\s+', text)
+    sentences = [s.strip() for s in sentences if 45 <= len(s.strip()) <= 260]
+    if not sentences:
+        return [text[:180] + ("..." if len(text) > 180 else "")]
+    if len(sentences) <= num_bullets:
+        return sentences
+
+    # Build word frequency map weighted with title keywords
+    words = re.findall(r'\b[a-zA-Z]{4,}\b', (title + " " + text).lower())
+    freq = Counter(w for w in words if w not in STOP_WORDS)
+    if not freq:
+        return sentences[:num_bullets]
+
+    scored = []
+    for idx, sent in enumerate(sentences):
+        sent_words = re.findall(r'\b[a-zA-Z]{4,}\b', sent.lower())
+        score = sum(freq.get(w, 0) for w in sent_words) / (len(sent_words) + 1)
+        # Slight boost for opening sentences
+        if idx < 2:
+            score *= 1.15
+        scored.append((score, idx, sent))
+
+    top = sorted(scored, key=lambda x: x[0], reverse=True)[:num_bullets]
+    # Preserve original narrative order
+    top_ordered = [item[2] for item in sorted(top, key=lambda x: x[1])]
+    return top_ordered
+
+def estimate_read_time(text):
+    words = len(text.split())
+    return max(1, round(words / 200))
+
+def extract_trending_keywords(all_titles):
+    words = []
+    for title in all_titles:
+        cleaned = re.findall(r'\b[a-zA-Z]{4,}\b', title.lower())
+        words.extend([w for w in cleaned if w not in STOP_WORDS])
+    return [word.capitalize() for word, _ in Counter(words).most_common(6)]
+
+def build_edition():
+    today = datetime.datetime.now(datetime.timezone.utc)
+    date_str = today.strftime("%A, %B %d, %Y")
+    iso_date = today.strftime("%Y-%m-%d")
+
+    articles_by_section = {}
+    all_titles = []
+    total_articles = 0
+    total_read_minutes = 0
+
+    for section, urls in FEEDS.items():
+        section_articles = []
+        for url in urls:
+            try:
+                feed = feedparser.parse(url)
+                source_title = feed.feed.get("title", "Open Source Feed")
+                for entry in feed.entries[:4]:
+                    title = clean_html(entry.get("title", "Untitled"))
+                    link = entry.get("link", "#")
+
+                    raw_content = ""
+                    if "content" in entry and len(entry.content) > 0:
+                        raw_content = entry.content[0].value
+                    else:
+                        raw_content = entry.get("summary", entry.get("description", ""))
+
+                    clean_body = clean_html(raw_content)
+                    if len(clean_body) < 60:
+                        continue
+
+                    image_url = extract_image(entry, raw_content)
+                    takeaways = generate_takeaways(clean_body, title, num_bullets=3)
+                    read_time = estimate_read_time(clean_body)
+
+                    total_read_minutes += read_time
+                    total_articles += 1
+                    all_titles.append(title)
+
+                    section_articles.append({
+                        "id": str(abs(hash(link))),
+                        "title": title,
+                        "source": source_title,
+                        "link": link,
+                        "image": image_url,
+                        "takeaways": takeaways,
+                        "summary": clean_body[:380] + ("..." if len(clean_body) > 380 else ""),
+                        "full_text": clean_body,
+                        "read_time": read_time,
+                        "published": entry.get("published", date_str)
+                    })
+            except Exception as e:
+                print(f"Skipping feed {url}: {e}")
+
+        articles_by_section[section] = section_articles
+
+    day_index = today.timetuple().tm_yday % len(VOCABULARY_BANK)
+    word_of_the_day = VOCABULARY_BANK[day_index]
+
+    edition_data = {
+        "meta": {
+            "edition_date": date_str,
+            "iso_date": iso_date,
+            "generated_at": today.isoformat(),
+            "total_articles": total_articles,
+            "total_read_time_mins": total_read_minutes,
+            "trending_keywords": extract_trending_keywords(all_titles)
+        },
+        "word_of_the_day": word_of_the_day,
+        "sections": articles_by_section
+    }
+
+    latest_path = os.path.join(DATA_DIR, "latest.json")
+    dated_path = os.path.join(DATA_DIR, f"{iso_date}.json")
+
+    for path in (latest_path, dated_path):
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(edition_data, f, indent=2, ensure_ascii=False)
+
+    print(f"Generated executive edition for {iso_date} with {total_articles} articles.")
+
+if __name__ == "__main__":
+    build_edition()
