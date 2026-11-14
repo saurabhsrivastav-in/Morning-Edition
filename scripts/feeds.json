@@ -54,7 +54,7 @@
         },
         {
           "name": "Wikinews",
-          "url": "https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published&notcategories=No%20publish%7CArchived%7CAutoArchived%7Cdisputed&namespace=0&count=15&ordermethod=categoryadd&stablepages=only",
+          "url": "https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
           "license": "CC BY 2.5",
           "license_url": "https://creativecommons.org/licenses/by/2.5/",
           "full_text": true
@@ -80,8 +80,8 @@
         { "name": "Finextra", "url": "https://www.finextra.com/rss/headlines.aspx" },
         { "name": "FinTech Futures", "url": "https://www.fintechfutures.com/feed/" },
         { "name": "The Fintech Times", "url": "https://thefintechtimes.com/feed/" },
-        { "name": "TechCrunch – Fintech", "url": "https://techcrunch.com/category/fintech/feed/" }
-    {
+        { "name": "TechCrunch – Fintech", "url": "https://techcrunch.com/category/fintech/feed/" },
+        {
           "name": "Global Voices",
           "url": "https://globalvoices.org/feed/",
           "license": "CC BY 3.0",
@@ -95,3 +95,40 @@
           "license_url": "https://creativecommons.org/licenses/by/2.5/",
           "full_text": true
         }
+      ]
+    },
+    {
+      "id": "tax-policy",
+      "title": "Tax News & Policy Updates",
+      "kicker": "The Tax Desk",
+      "feeds": [
+        {
+          "name": "Federal Register – IRS",
+          "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bagencies%5D%5B%5D=internal-revenue-service",
+          "license": "US Government work (public domain)"
+        },
+        { "name": "Tax Foundation", "url": "https://taxfoundation.org/feed/" },
+        { "name": "Tax Justice Network", "url": "https://taxjustice.net/feed/" },
+        { "name": "Taxscan (India)", "url": "https://www.taxscan.in/feed/" },
+        {
+          "name": "PIB – Government of India",
+          "_note": "Verify this feed id on pib.gov.in/RSS.aspx and change the URL if you prefer another ministry.",
+          "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3"
+        }
+      ]
+    },
+    {
+      "id": "product-analysis",
+      "title": "Product Management & Business Analysis",
+      "kicker": "The Craft",
+      "feeds": [
+        { "name": "Mind the Product", "url": "https://www.mindtheproduct.com/feed/" },
+        { "name": "Product Talk", "url": "https://www.producttalk.org/feed/" },
+        { "name": "Roman Pichler", "url": "https://www.romanpichler.com/feed/" },
+        { "name": "Silicon Valley Product Group", "url": "https://www.svpg.com/feed/" },
+        { "name": "BA Times", "url": "https://www.batimes.com/feed/" }
+      ]
+    },
+    {
+      "id": "business-trends",
+      "title": "Emerging Business Trends & New Vocabulary",
