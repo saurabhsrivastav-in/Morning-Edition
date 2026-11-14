@@ -5,7 +5,7 @@
     "date": "2026-11-14",
     "date_long": "Saturday, 14 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-14T22:02+05:30",
+    "generated_at": "2026-11-14T22:03+05:30",
     "is_sample": false
   },
   "dashboard": {
@@ -59,7 +59,7 @@
         "count": 3
       },
       {
-        "term": "jensen huang",
+        "term": "nvidia scandal",
         "count": 2
       },
       {
@@ -67,7 +67,7 @@
         "count": 2
       },
       {
-        "term": "nvidia scandal",
+        "term": "jensen huang",
         "count": 2
       }
     ],
@@ -103,15 +103,15 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "65,289.00",
+        "display": "65,326.00",
         "change_pct": -4.9,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,822.96",
-        "change_pct": -5.51,
+        "display": "1,822.33",
+        "change_pct": -5.54,
         "source": "CoinGecko"
       }
     ]
