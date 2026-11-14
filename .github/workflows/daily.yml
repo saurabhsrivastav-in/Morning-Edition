@@ -92,4 +92,37 @@ jobs:
       - name: Publish to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+name: Build Daily Executive Briefing
 
+on:
+  schedule:
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch & Summarize Executive News
+        run: python scripts/fetch_news.py
+
+      - name: Commit and Push Daily Edition
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Morning Edition Bot"
+          git add docs/data/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: publish daily morning edition" && git push)
