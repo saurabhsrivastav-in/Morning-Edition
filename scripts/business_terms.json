@@ -40,3 +40,41 @@
   {"term": "Regulatory sandbox", "pos": "noun", "domain": "FinTech", "definition": "A supervised space in which firms can test new financial products under eased rules for a limited time.", "example": "The lender trialled its AI credit model inside the regulator's sandbox before a full launch."},
   {"term": "Nudge", "pos": "noun / verb", "domain": "Behavioural economics", "definition": "A small change in how choices are presented that steers behaviour without removing any options.", "example": "Pre-filling the tax form with last year's details was a gentle nudge toward filing early."}
 ]
+[
+  {
+    "term": "Second-Order Thinking",
+    "category": "Executive Strategy",
+    "definition": "Evaluating not just the immediate outcome of a product or business decision, but the downstream ripple effects that follow those outcomes.",
+    "context": "While cutting onboarding steps boosted short-term signups, second-order thinking revealed it increased 60-day churn due to unqualified leads."
+  },
+  {
+    "term": "MECE Principle",
+    "category": "Management Consulting",
+    "definition": "Mutually Exclusive, Collectively Exhaustive—a framework used by top strategy firms to break complex problems into non-overlapping categories that cover every possibility.",
+    "context": "Before presenting the root-cause analysis to the VP, the PM structured the churn drivers into a strict MECE tree."
+  },
+  {
+    "term": "Net Dollar Retention (NDR)",
+    "category": "SaaS & Product Metrics",
+    "definition": "The percentage of recurring revenue retained from existing customers over a given period, accounting for upgrades, downgrades, and churn.",
+    "context": "An NDR above 120% signals strong product-market expansion even without acquiring a single net-new logo."
+  },
+  {
+    "term": "Asymmetric Risk-Reward",
+    "category": "Capital Allocation",
+    "definition": "A strategic bet where the potential upside is vastly larger than the capped, known downside.",
+    "context": "Launching a lightweight AI workflow prototype represented an asymmetric bet: two weeks of engineering effort for a potential 3x enterprise upsell."
+  },
+  {
+    "term": "Switching Cost Moat",
+    "category": "Competitive Strategy",
+    "definition": "The financial, operational, or psychological friction a customer faces when migrating from your product to a competitor.",
+    "context": "Deep ERP and tax-compliance integrations created a high switching-cost moat that insulated our enterprise accounts from price-cutting rivals."
+  },
+  {
+    "term": "Jobs-to-be-Done (JTBD)",
+    "category": "Product Discovery",
+    "definition": "A lens for understanding customer motivation by focusing on the underlying progress a user is trying to achieve in a specific circumstance, rather than demographic traits.",
+    "context": "Customers weren't buying a dashboard; the core Job-to-be-Done was walking into Monday's board meeting without being blindsided by margin slippage."
+  }
+]
