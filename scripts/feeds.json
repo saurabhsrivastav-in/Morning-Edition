@@ -134,4 +134,30 @@
     "enabled": true,
     "url": "https://en.wiktionary.org/w/api.php?action=featuredfeed&feed=wotd&feedformat=atom"
   }
+},
+{
+  "Product Strategy & Execution": [
+    "https://productcoalition.com/feed",
+    "https://www.mindtheproduct.com/feed/",
+    "https://svpg.com/feed/"
+  ],
+  "Business Strategy & Consulting": [
+    "https://hbr.org/feed",
+    "https://sloanreview.mit.edu/feed/",
+    "https://stratechery.com/feed/"
+  ],
+  "Global Macro & Geopolitics": [
+    "https://theconversation.com/global/articles.atom",
+    "http://feeds.bbci.co.uk/news/business/rss.xml",
+    "https://www.oecd.org/newsroom/rss.xml"
+  ],
+  "FinTech, AI & Tech Trends": [
+    "https://techcrunch.com/category/fintech/feed/",
+    "https://feeds.feedburner.com/venturebeat/SZYF",
+    "https://www.finextra.com/rss/headlines.aspx"
+  ],
+  "Policy, Tax & Regulatory": [
+    "https://www.rbi.org.in/pressreleases_rss.xml",
+    "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3"
+  ]
 }
