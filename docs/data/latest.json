@@ -1,0 +1,322 @@
+{
+  "edition": {
+    "name": "The Morning Ledger",
+    "tagline": "A quiet read for a busy morning",
+    "date": "2026-11-14",
+    "date_long": "Saturday, 14 November 2026",
+    "timezone": "Asia/Kolkata",
+    "generated_at": "2026-11-14T19:22+05:30",
+    "is_sample": true
+  },
+  "dashboard": {
+    "total_articles": 12,
+    "reading_minutes": 2,
+    "source_count": 1,
+    "full_text_count": 1,
+    "per_section": {
+      "national-international": 2,
+      "editorials-opinion": 2,
+      "fintech-taxtech": 2,
+      "tax-policy": 2,
+      "product-analysis": 2,
+      "business-trends": 2
+    },
+    "keywords": [
+      {
+        "term": "workflow scripts",
+        "count": 12
+      },
+      {
+        "term": "real attributed",
+        "count": 12
+      },
+      {
+        "term": "scripts fetch",
+        "count": 12
+      },
+      {
+        "term": "attributed stories",
+        "count": 12
+      },
+      {
+        "term": "placeholder",
+        "count": 12
+      },
+      {
+        "term": "text",
+        "count": 12
+      },
+      {
+        "term": "headline",
+        "count": 12
+      },
+      {
+        "term": "feeds",
+        "count": 12
+      },
+      {
+        "term": "replace",
+        "count": 12
+      },
+      {
+        "term": "sample",
+        "count": 12
+      },
+      {
+        "term": "business",
+        "count": 4
+      },
+      {
+        "term": "international",
+        "count": 2
+      }
+    ],
+    "markets": [
+      {
+        "label": "S&P 500",
+        "group": "Indices",
+        "display": "0.00",
+        "change_pct": null,
+        "source": "sample"
+      },
+      {
+        "label": "USD/INR",
+        "group": "Currencies",
+        "display": "0.00",
+        "change_pct": null,
+        "source": "sample"
+      }
+    ]
+  },
+  "word_of_the_day": {
+    "term": "Transfer pricing",
+    "pos": "noun",
+    "domain": "Tax",
+    "definition": "The prices charged for goods, services or intellectual property exchanged between related companies in different countries, which tax rules expect to match what unrelated parties would agree.",
+    "example": "The audit questioned the transfer pricing on royalties paid to the group's overseas arm.",
+    "source": "The Morning Ledger glossary"
+  },
+  "dictionary_word": null,
+  "sections": [
+    {
+      "id": "national-international",
+      "title": "National & International News",
+      "kicker": "The World Today",
+      "articles": [
+        {
+          "id": "62d9858540a5",
+          "title": "Sample headline 1: National & International News",
+          "url": "https://example.com/sample/national-international-1",
+          "source": "Sample Source",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-14T19:22:50+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": "<p>This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view. This sample article shows the distraction-free reader view.</p>",
+          "license": "CC BY 4.0 (sample)",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "words": 240
+        },
+        {
+          "id": "c3acddb764e9",
+          "title": "Sample headline 2: National & International News",
+          "url": "https://example.com/sample/national-international-2",
+          "source": "Sample Source",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-14T19:22:50+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        }
+      ]
+    },
+    {
+      "id": "editorials-opinion",
+      "title": "Editorials & Opinion",
+      "kicker": "Opinion",
+      "articles": [
+        {
+          "id": "132b9f3988ce",
+          "title": "Sample headline 1: Editorials & Opinion",
+          "url": "https://example.com/sample/editorials-opinion-1",
+          "source": "Sample Source",
+          "section": "editorials-opinion",
+          "author": "",
+          "published": "2026-11-14T19:22:50+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "d2b81c93aad5",
+          "title": "Sample headline 2: Editorials & Opinion",
+          "url": "https://example.com/sample/editorials-opinion-2",
+          "source": "Sample Source",
+          "section": "editorials-opinion",
+          "author": "",
+          "published": "2026-11-14T19:22:50+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        }
+      ]
+    },
+    {
+      "id": "fintech-taxtech",
+      "title": "FinTech & Tax Technology",
+      "kicker": "Technology & Money",
+      "articles": [
+        {
+          "id": "b9a6bd00db4b",
+          "title": "Sample headline 1: FinTech & Tax Technology",
+          "url": "https://example.com/sample/fintech-taxtech-1",
+          "source": "Sample Source",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-14T19:22:50+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "47a537bdfd92",
+          "title": "Sample headline 2: FinTech & Tax Technology",
+          "url": "https://example.com/sample/fintech-taxtech-2",
+          "source": "Sample Source",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-14T19:22:50+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        }
+      ]
+    },
+    {
+      "id": "tax-policy",
+      "title": "Tax News & Policy Updates",
+      "kicker": "The Tax Desk",
+      "articles": [
+        {
+          "id": "4506b9f4b80a",
+          "title": "Sample headline 1: Tax News & Policy Updates",
+          "url": "https://example.com/sample/tax-policy-1",
+          "source": "Sample Source",
+          "section": "tax-policy",
+          "author": "",
+          "published": "2026-11-14T19:22:50+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "d0f492bdf9f8",
+          "title": "Sample headline 2: Tax News & Policy Updates",
+          "url": "https://example.com/sample/tax-policy-2",
+          "source": "Sample Source",
+          "section": "tax-policy",
+          "author": "",
+          "published": "2026-11-14T19:22:50+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        }
+      ]
+    },
+    {
+      "id": "product-analysis",
+      "title": "Product Management & Business Analysis",
+      "kicker": "The Craft",
+      "articles": [
+        {
+          "id": "53b13b188b84",
+          "title": "Sample headline 1: Product Management & Business Analysis",
+          "url": "https://example.com/sample/product-analysis-1",
+          "source": "Sample Source",
+          "section": "product-analysis",
+          "author": "",
+          "published": "2026-11-14T19:22:50+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "ec9caa193cde",
+          "title": "Sample headline 2: Product Management & Business Analysis",
+          "url": "https://example.com/sample/product-analysis-2",
+          "source": "Sample Source",
+          "section": "product-analysis",
+          "author": "",
+          "published": "2026-11-14T19:22:50+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        }
+      ]
+    },
+    {
+      "id": "business-trends",
+      "title": "Emerging Business Trends & New Vocabulary",
+      "kicker": "Ideas & Idioms",
+      "articles": [
+        {
+          "id": "8110e4489a96",
+          "title": "Sample headline 1: Emerging Business Trends & New Vocabulary",
+          "url": "https://example.com/sample/business-trends-1",
+          "source": "Sample Source",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-14T19:22:50+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "6b443add1437",
+          "title": "Sample headline 2: Emerging Business Trends & New Vocabulary",
+          "url": "https://example.com/sample/business-trends-2",
+          "source": "Sample Source",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-14T19:22:50+05:30",
+          "summary": "This is placeholder text. Run the workflow (or scripts/fetch_news.py) to replace it with real, attributed stories from your feeds.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Sample Source",
+      "site": "",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    }
+  ],
+  "errors": []
+}
