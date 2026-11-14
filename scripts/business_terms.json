@@ -1,28 +1,26 @@
-{
-  "terms": [
-    {
-      "term": "Amortization",
-      "definition": "The practice of spreading an intangible asset's cost over a period of time."
-    },
-    {
-      "term": "EBITDA",
-      "definition": "Earnings Before Interest, Taxes, Depreciation, and Amortization—a measure of a company's overall financial performance."
-    },
-    {
-      "term": "Liquidity",
-      "definition": "The ease with which an asset, security, or commodity can be converted into ready cash without affecting its market price."
-    },
-    {
-      "term": "Arbitrage",
-      "definition": "The simultaneous purchase and sale of an asset in different markets to profit from a difference in the price."
-    },
-    {
-      "term": "Hedging",
-      "definition": "An investment position intended to offset potential losses or gains that may be incurred by a companion investment."
-    },
-    {
-      "term": "Venture Capital",
-      "definition": "A form of private equity and a type of financing that investors provide to startup companies and small businesses that are believed to have long-term growth potential."
-    }
-  ]
-}
+[
+  {
+    "term": "Amortization",
+    "definition": "The practice of spreading an intangible asset's cost over a period of time."
+  },
+  {
+    "term": "EBITDA",
+    "definition": "Earnings Before Interest, Taxes, Depreciation, and Amortization—a measure of a company's overall financial performance."
+  },
+  {
+    "term": "Liquidity",
+    "definition": "The ease with which an asset, security, or commodity can be converted into ready cash without affecting its market price."
+  },
+  {
+    "term": "Arbitrage",
+    "definition": "The simultaneous purchase and sale of an asset in different markets to profit from a difference in the price."
+  },
+  {
+    "term": "Hedging",
+    "definition": "An investment position intended to offset potential losses or gains that may be incurred by a companion investment."
+  },
+  {
+    "term": "Venture Capital",
+    "definition": "A form of private equity and a type of financing that investors provide to startup companies and small businesses that are believed to have long-term growth potential."
+  }
+]
