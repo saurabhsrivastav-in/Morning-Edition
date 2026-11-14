@@ -5,7 +5,7 @@
     "date": "2026-11-14",
     "date_long": "Saturday, 14 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-14T19:40+05:30",
+    "generated_at": "2026-11-14T19:51+05:30",
     "is_sample": false
   },
   "dashboard": {
@@ -51,15 +51,15 @@
         "count": 3
       },
       {
+        "term": "officials",
+        "count": 3
+      },
+      {
         "term": "world",
         "count": 3
       },
       {
-        "term": "since",
-        "count": 3
-      },
-      {
-        "term": "jensen huang",
+        "term": "ground stop",
         "count": 2
       },
       {
@@ -103,15 +103,15 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "66,468.00",
-        "change_pct": -4.13,
+        "display": "66,544.00",
+        "change_pct": -3.82,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,873.08",
-        "change_pct": -4.65,
+        "display": "1,875.57",
+        "change_pct": -4.38,
         "source": "CoinGecko"
       }
     ]
@@ -139,18 +139,46 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "66000d42c535",
-          "title": "How does Iran view shift in US approach after JD Vance ordered away?",
-          "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
-          "source": "Al Jazeera",
+          "id": "fb9303c76708",
+          "title": "What we know about the ground stop and what to do if you're affected",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-14T13:24:44+00:00",
-          "summary": "Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working",
+          "published": "2026-11-14T14:20:57+00:00",
+          "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 14
+          "words": 15
+        },
+        {
+          "id": "713a48e07b7f",
+          "title": "Second catch attempt for SpaceX Starship rocket",
+          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-14T14:18:41+00:00",
+          "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "bf95e6085744",
+          "title": "Young musicians connect a community across the Line of Control",
+          "url": "https://www.aljazeera.com/editorial/longform/2026/11/14/young-musicians-connect-a-community-across-the-line-of-control?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-14T13:56:07+00:00",
+          "summary": "Sharing Shina songs online, musicians in Kashmir, Ladakh and Gilgit-Baltistan renew ties across the divide.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
         },
         {
           "id": "6722fc2091ca",
@@ -193,34 +221,6 @@
           "license": "",
           "license_url": "",
           "words": 18
-        },
-        {
-          "id": "1476d670af2a",
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-14T11:41:20+00:00",
-          "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
-        },
-        {
-          "id": "f8a8437145fb",
-          "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-          "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-14T10:42:20+00:00",
-          "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 14
         },
         {
           "id": "30be69484595",
