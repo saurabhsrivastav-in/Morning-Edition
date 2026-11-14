@@ -105,3 +105,144 @@
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Morning Edition — Executive & Product Broadsheet</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Playfair+Display:wght@700;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+  <!-- MASTHEAD -->
+  <header class="masthead">
+    <div class="masthead-top">
+      <span id="edition-date">Loading Edition...</span>
+      <span>PRODUCT STRATEGY • GLOBAL MACRO • EXECUTIVE INTELLIGENCE</span>
+      <div class="profile-box">
+        <label for="reader-name">Reader:</label>
+        <input type="text" id="reader-name" placeholder="Your Name" />
+      </div>
+    </div>
+    <h1 class="paper-title">THE MORNING EDITION</h1>
+    <p class="paper-tagline">Distilled Business Strategy, Global Dynamics & Product Mastery</p>
+  </header>
+
+  <!-- EXECUTIVE METRICS & HABIT DASHBOARD -->
+  <section class="dashboard-bar" aria-label="Morning Briefing Metrics">
+    <div class="metric-card">
+      <span class="metric-label">MORNING STREAK</span>
+      <strong class="metric-value" id="metric-streak">1 Day 🔥</strong>
+      <span class="metric-sub" id="metric-read-count">0 briefs read</span>
+    </div>
+    <div class="metric-card">
+      <span class="metric-label">TODAY'S BRIEFINGS</span>
+      <strong class="metric-value" id="metric-total">--</strong>
+      <span class="metric-sub" id="metric-time">-- mins total</span>
+    </div>
+    <div class="metric-card">
+      <span class="metric-label">SAVED BY <span id="metric-user-label">YOU</span></span>
+      <strong class="metric-value" id="metric-saved">0</strong>
+      <span class="metric-sub">Tagged insights</span>
+    </div>
+    <div class="metric-card wide">
+      <span class="metric-label">BOARDROOM BUZZWORDS TODAY</span>
+      <div class="keyword-pills" id="metric-keywords">Loading...</div>
+    </div>
+  </section>
+
+  <!-- NAVIGATION RIBBON -->
+  <nav class="section-nav" id="section-nav">
+    <button class="nav-btn active" data-section="ALL">Front Page</button>
+    <button class="nav-btn" data-section="Product Strategy & Execution">Product Strategy</button>
+    <button class="nav-btn" data-section="Business Strategy & Consulting">Business & Consulting</button>
+    <button class="nav-btn" data-section="Global Macro & Geopolitics">Global Dynamics</button>
+    <button class="nav-btn" data-section="FinTech, AI & Tech Trends">FinTech & AI</button>
+    <button class="nav-btn" data-section="Policy, Tax & Regulatory">Policy & Tax</button>
+    <button class="nav-btn saved-tab" data-section="SAVED">★ My Tagged Archive</button>
+  </nav>
+
+  <!-- TAG FILTER BAR (Shown inside Saved Archive) -->
+  <div id="tag-filter-bar" class="tag-filter-bar hidden"></div>
+
+  <!-- MAIN BROADSHEET LAYOUT -->
+  <main class="broadsheet-container">
+    <div class="news-columns" id="news-grid">
+      <p class="loading-msg">Typesetting today's executive edition...</p>
+    </div>
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+      <div class="sidebar-box word-box">
+        <div class="box-header">EXECUTIVE LEXICON • CONCEPT OF THE DAY</div>
+        <span class="vocab-category" id="wotd-category">--</span>
+        <h2 class="vocab-term" id="wotd-term">Loading...</h2>
+        <p class="vocab-def" id="wotd-def"></p>
+        <blockquote class="vocab-context" id="wotd-context"></blockquote>
+      </div>
+
+      <div class="sidebar-box archive-tools">
+        <div class="box-header">KNOWLEDGE VAULT BACKUP</div>
+        <p class="small-note">Export your tagged insights and strategic reading notes for interview prep or executive decks.</p>
+        <button id="export-btn" class="secondary-btn">Export Tagged Archive (.JSON)</button>
+      </div>
+    </aside>
+  </main>
+
+  <!-- DISTRACTION-FREE READER & AUDIO MODAL -->
+  <div id="reader-modal" class="modal hidden">
+    <div class="modal-content">
+      <div class="modal-header">
+        <span id="modal-source" class="article-meta"></span>
+        <button id="close-modal" class="close-btn">✕ Close</button>
+      </div>
+
+      <!-- AUDIO BRIEFING BAR -->
+      <div class="audio-bar">
+        <button id="tts-toggle-btn" class="audio-btn">🔊 Listen to Summary</button>
+        <button id="tts-stop-btn" class="audio-btn secondary hidden">⏹ Stop</button>
+        <span id="tts-status" class="audio-status">Hands-free morning audio briefing</span>
+      </div>
+
+      <h2 id="modal-title" class="modal-title"></h2>
+      <img id="modal-hero-img" class="modal-hero-img hidden" alt="Article Cover" />
+
+      <div class="modal-takeaways-box">
+        <div class="takeaways-header">⚡ QUICK READ • KEY EXECUTIVE TAKEAWAYS</div>
+        <ul id="modal-takeaways-list" class="takeaways-list"></ul>
+      </div>
+
+      <div id="modal-body" class="modal-body"></div>
+
+      <!-- SMART TAGGING & BOOKMARKING -->
+      <div class="modal-tag-row">
+        <label for="tag-input">Board / Tag:</label>
+        <input type="text" id="tag-input" list="preset-tags" placeholder="e.g. #ProductStrategy, #Macro, #ExecPrep" />
+        <datalist id="preset-tags">
+          <option value="#ProductStrategy">
+          <option value="#BusinessModels">
+          <option value="#GlobalMacro">
+          <option value="#FinTech">
+          <option value="#ConsultingFramework">
+        </datalist>
+        <button id="modal-save-btn" class="primary-btn">☆ Save to Board</button>
+      </div>
+
+      <div class="modal-footer">
+        <a id="modal-original-link" href="#" target="_blank" rel="noopener noreferrer" class="original-link">Read Full Original Source Publication ↗</a>
+      </div>
+    </div>
+  </div>
+
+  <footer class="paper-footer">
+    <p>The Morning Edition • Ad-Free Open-Source Executive Reader • Built for Product & Business Mastery</p>
+  </footer>
+
+  <script src="assets/bookmarks.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
+
