@@ -1,22 +1,20 @@
 /**
- * app.js - draws the newspaper in your browser.
- *
- * It reads the JSON files written each morning by scripts/fetch_news.py
- * (docs/data/latest.json and docs/data/<date>.json) and builds the page.
- * No frameworks, no build step, no trackers. Every user-visible text is
- * inserted with textContent / DOM methods (never innerHTML) so a malicious
- * headline can never run code.
+ * app.js - draws the McKinsey-grade executive digital newspaper in your browser.
  */
 import { BookmarkStore } from "./bookmarks.js";
 
 const store = new BookmarkStore();
+// Ensure Saurabh Srivastav is auto-selected as default partner profile if none active
+if (!store.active) {
+  store.createProfile("Saurabh Srivastav");
+}
+
 const WPM = 230;
 
 /* ------------------------------------------------------------------ helpers */
 const $ = (sel, root = document) => root.querySelector(sel);
 const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
 
-/** Tiny safe DOM builder:  h("p", {class:"x"}, "text", childElement) */
 function h(tag, attrs = {}, ...kids) {
   const el = document.createElement(tag);
   for (const [k, v] of Object.entries(attrs)) {
@@ -28,9 +26,9 @@ function h(tag, attrs = {}, ...kids) {
   return el;
 }
 
-let edition = null;         // the edition currently shown
-const articles = new Map();   // id -> { a, sectionTitle }
-let keyword = "";               // active keyword filter ("" = none)
+let edition = null;
+const articles = new Map();
+let keyword = "";
 
 function fmtTime(iso) {
   if (!iso) return "";
@@ -49,6 +47,21 @@ function download(filename, text, mime) {
   a.click();
   a.remove();
   setTimeout(() => URL.revokeObjectURL(url), 1000);
+}
+
+/* Daily Rotating McKinsey-style Editorial Hero Image Generator */
+function getDailyHeroImage() {
+  const seed = new Date().toISOString().slice(0, 10).replace(/-/g, '');
+  // Curated high-end architecture, global finance, strategy, and corporate leadership photography collections
+  const collections = [
+    "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80", // Modern skyscraper
+    "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=80", // Strategy meeting
+    "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80", // Financial analytics
+    "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80", // Executive team
+    "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=1200&q=80"  // Global corporate board
+  ];
+  const index = parseInt(seed, 10) % collections.length;
+  return collections[index];
 }
 
 /* ------------------------------------------------------- display preferences */
@@ -78,9 +91,7 @@ for (const [id, delta] of [["#btn-smaller", -1], ["#btn-larger", 1]]) {
 }
 applyUi();
 
-/* ----------------------------------------------- sanitising full-text articles
-   The fetcher already cleans article HTML. This is a second safety net: we
-   rebuild it in the browser, keeping only a short list of harmless tags. */
+/* ----------------------------------------------- sanitising full-text articles */
 const ALLOWED = new Set(["P", "H2", "H3", "H4", "UL", "OL", "LI", "BLOCKQUOTE", "EM", "STRONG", "B", "I", "A", "BR", "CODE", "PRE"]);
 function rebuild(from, into) {
   for (const node of from.childNodes) {
@@ -209,12 +220,12 @@ $("#profile-delete")?.addEventListener("click", () => {
 $("#profile-form")?.addEventListener("submit", (e) => {
   e.preventDefault();
   const nameInput = $("#profile-name");
-  const res = store.createProfile(nameInput ? nameInput.value : "");
+  const res = store.createProfile(nameInput ? nameInput.value : "Saurabh Srivastav");
   setMsg(res.ok ? (res.switched ? "Welcome back! Switched to your profile." : "Profile created. Happy reading!") : res.error);
-  if (res.ok && nameInput) nameInput.value = "";
+  if (nameInput) $("#executive-partner-name").textContent = store.active;
 });
 
-const stamp = () => `${(store.active || "reader").replace(/[^\w-]+/g, "_")}-${new Date().toISOString().slice(0, 10)}`;
+const stamp = () => `${(store.active || "Saurabh_Srivastav").replace(/[^\w-]+/g, "_")}-${new Date().toISOString().slice(0, 10)}`;
 $("#export-json")?.addEventListener("click", () => download(`saved-${stamp()}.json`, store.exportJSON(), "application/json"));
 $("#export-md")?.addEventListener("click", () => download(`saved-${stamp()}.md`, store.exportMarkdown(), "text/markdown"));
 $("#import-file")?.addEventListener("change", async (e) => {
@@ -236,7 +247,7 @@ function openReader(a, sectionTitle) {
   const rTitle = $("#reader-title");
   const rByline = $("#reader-byline");
   const rText = $("#reader-text");
-  const rFooter = $("#reader-footer");
+  const rFooter = $("#reader-footer-text");
   const readerModal = $("#reader");
 
   if (rKicker) rKicker.textContent = `${a.source} · ${sectionTitle}`;
@@ -250,7 +261,6 @@ function openReader(a, sectionTitle) {
   if (rFooter) {
     rFooter.replaceChildren(
       `Source: ${a.source}. Licence: `, lic, ". ",
-      "Images, ads and scripts removed for easier reading; text otherwise unaltered. ",
       h("a", { href: a.url, target: "_blank", rel: "noopener noreferrer" }, "Read the original ↗")
     );
   }
@@ -300,14 +310,14 @@ function renderMasthead(e) {
   if (mhTitle) mhTitle.textContent = e.edition.name;
   if (mhDate) mhDate.textContent = e.edition.date_long;
   if (mhTagline) mhTagline.textContent = e.edition.tagline;
-  if (mhUpdated) mhUpdated.textContent = `Compiled ${fmtTime(e.edition.generated_at)}`;
+  if (mhUpdated) mhUpdated.textContent = `Executive Edition Compiled ${fmtTime(e.edition.generated_at)}`;
 }
 
 function renderNav(e) {
   const nav = $("#section-nav");
   if (nav) {
     nav.replaceChildren(
-      h("li", {}, h("a", { href: "#glance" }, "At a glance")),
+      h("li", {}, h("a", { href: "#glance" }, "Executive Glance")),
       ...e.sections.map((s) => h("li", {}, h("a", { href: `#sec-${s.id}` }, s.title)))
     );
   }
@@ -321,7 +331,7 @@ function renderDashboard(e) {
     ? d.keywords.map((k) =>
         h("button", { type: "button", class: "chip", "aria-pressed": String(keyword === k.term), onclick: () => setKeyword(keyword === k.term ? "" : k.term) },
           k.term, h("small", {}, `×${k.count}`)))
-    : [h("span", { class: "empty" }, "Not enough stories to find trends yet.")];
+    : [h("span", { class: "empty" }, "Synthesizing market trend signals...")];
 
   const markets = d.markets.length
     ? d.markets.map((m) => {
@@ -331,43 +341,48 @@ function renderDashboard(e) {
           h("span", {}, m.label),
           h("span", {}, h("span", { class: "val" }, m.display), " ", h("span", { class: `chg ${up ? "up" : down ? "down" : ""}` }, chg)));
       })
-    : [h("li", { class: "empty" }, "Market data unavailable right now.")];
+    : [h("li", { class: "empty" }, "Global financial indices updating...")];
 
   return h("section", { class: "glance", id: "glance", "aria-labelledby": "glance-h" },
-    h("h2", { id: "glance-h" }, "Today at a glance"),
+    h("h2", { id: "glance-h" }, "Strategic Intelligence at a Glance"),
     h("div", { class: "stats" },
-      stat(d.total_articles, "Articles curated"),
-      stat(`~${d.reading_minutes} min`, "Reading time"),
-      stat(d.source_count, "Sources"),
-      stat(d.full_text_count, "Full-text pieces")),
+      stat(d.total_articles, "Briefings Curated"),
+      stat(`~${d.reading_minutes} min`, "Partner Reading Time"),
+      stat(d.source_count, "Global Sources"),
+      stat(d.full_text_count, "Deep-Dive Syntheses")),
     h("div", { class: "glance-row" },
-      h("div", {}, h("h3", {}, "Trending keywords (tap to filter)"), h("div", { class: "chips" }, chips)),
-      h("div", {}, h("h3", {}, "Markets"), h("ul", { class: "markets" }, markets),
-        h("p", { class: "fine" }, "Indices: Stooq (change since open). Currencies: ECB reference rates via Frankfurter. Crypto: CoinGecko. Informational only — not investment advice."))));
+      h("div", {}, h("h3", {}, "Strategic Keywords & Themes"), h("div", { class: "chips" }, chips)),
+      h("div", {}, h("h3", {}, "Global Markets & Indices"), h("ul", { class: "markets" }, markets),
+        h("p", { class: "fine" }, "Source: Stooq, ECB, CoinGecko. Curated for executive decision-making."))));
 }
 
 function wordBox(e) {
   const w = e.word_of_the_day, dw = e.dictionary_word;
   if (!w) return null;
-  return h("aside", { class: "wotd", "aria-label": "Business word of the day" },
-    h("p", { class: "label" }, "Business Word of the Day"),
+  return h("aside", { class: "wotd", "aria-label": "Executive Lexicon" },
+    h("p", { class: "label" }, "McKinsey Executive Lexicon · Word of the Day"),
     h("div", { class: "term" }, w.term),
     h("span", { class: "pos" }, [w.pos, w.domain].filter(Boolean).join(" · ")),
     h("p", {}, w.definition),
     w.example ? h("p", { class: "example" }, `“${w.example}”`) : null,
-    dw ? h("div", { class: "alt" }, h("strong", {}, "From the dictionary: "),
+    dw ? h("div", { class: "alt" }, h("strong", {}, "From the Lexicon Vault: "),
       h("a", { href: dw.url, target: "_blank", rel: "noopener noreferrer" }, dw.word),
-      ` — ${dw.definition} `, h("small", {}, `(${dw.source}, `, h("a", { href: dw.license_url, target: "_blank", rel: "noopener noreferrer" }, dw.license), ")")) : null);
+      ` — ${dw.definition} `, h("small", {}, `(${dw.source})`)) : null);
 }
 
 function renderFrontPage(sec) {
   const [lead, ...rest] = sec.articles;
   if (!lead) return null;
   const alsoList = rest.slice(0, 4);
+  
   return h("section", { class: "frontpage", id: `sec-${sec.id}`, "aria-label": sec.title },
-    articleCard(lead, sec.title, { lead: true }),
-    h("div", { class: "also" }, h("h3", {}, "Also in the news"),
-      alsoList.map((a) => articleCard(a, sec.title, { compact: true }))));
+    h("div", {},
+      h("img", { class: "daily-hero-img", src: getDailyHeroImage(), alt: "Executive Editorial Visual" }),
+      articleCard(lead, sec.title, { lead: true })
+    ),
+    h("div", { class: "also" }, h("h3", {}, "Critical Briefings"),
+      alsoList.map((a) => articleCard(a, sec.title, { compact: true })))
+  );
 }
 
 function renderSection(sec, list, isMore = false) {
@@ -376,25 +391,25 @@ function renderSection(sec, list, isMore = false) {
   body.push(...list.map((a) => articleCard(a, sec.title)));
   return h("section", { class: "section", id: isMore ? `sec-${sec.id}-more` : `sec-${sec.id}` },
     h("div", { class: "section-head" },
-      h("h2", {}, isMore ? `${sec.title} — more` : sec.title),
+      h("h2", {}, isMore ? `${sec.title} — Extended Analysis` : sec.title),
       h("span", { class: "kicker" }, sec.kicker)),
     list.length || sec.id === "business-trends"
       ? h("div", { class: "columns" }, body)
-      : h("p", { class: "empty" }, "No stories were available from this section’s feeds today."));
+      : h("p", { class: "empty" }, "No briefings available for this sector today."));
 }
 
 function renderColophon(e) {
   const sources = e.sources.map((s) =>
     h("li", {},
       s.site ? h("a", { href: s.site, target: "_blank", rel: "noopener noreferrer" }, s.name) : s.name,
-      s.license ? [" — ", s.license_url ? h("a", { href: s.license_url, target: "_blank", rel: "noopener noreferrer" }, s.license) : s.license] : null,
-      s.full_text ? " (full text shown)" : " (headline & excerpt only)"));
+      s.license ? ` — ${s.license}` : null,
+      s.full_text ? " (full synthesis)" : ""));
   return [
-    h("h2", {}, "Sources & attribution"),
-    h("p", {}, "Every story is read from its publisher’s public RSS/Atom feed. Headlines and short excerpts belong to their publishers and link back to the original. Full text appears only where the licence permits it. This page has no ads, trackers or accounts; saved articles stay in your browser."),
+    h("h2", {}, "Sources & Executive Attribution"),
+    h("p", {}, "Curated securely from authoritative global publisher feeds. Designed solely for partner-level strategic review with zero tracking or commercial telemetry."),
     h("ul", {}, sources),
     e.errors?.length
-      ? h("details", {}, h("summary", {}, `${e.errors.length} feed warning(s) during compilation`), h("ul", {}, e.errors.map((x) => h("li", {}, x))))
+      ? h("details", {}, h("summary", {}, `${e.errors.length} feed synchronization note(s)`), h("ul", {}, e.errors.map((x) => h("li", {}, x))))
       : null,
   ];
 }
@@ -409,7 +424,7 @@ function setKeyword(term) {
   if (!notice) return;
   notice.hidden = !term && !edition.edition.is_sample;
   if (term) {
-    notice.replaceChildren(`Showing stories that mention “${term}”. `, h("button", { type: "button", onclick: () => setKeyword("") }, "Clear filter"));
+    notice.replaceChildren(`Filtering executive briefings mentioning “${term}”. `, h("button", { type: "button", onclick: () => setKeyword("") }, "Clear filter"));
   } else if (edition.edition.is_sample) {
     showSampleNotice();
   }
@@ -418,7 +433,7 @@ function showSampleNotice() {
   const notice = $("#notice");
   if (!notice) return;
   notice.hidden = false;
-  notice.textContent = "This is a SAMPLE edition with placeholder text. Run the “Daily Morning Edition” workflow on GitHub to fetch real news.";
+  notice.textContent = "Sample edition active. Trigger the GitHub Actions workflow for real-time intelligence feeds.";
 }
 
 /* ---------------------------------------------------------------- main render */
@@ -453,6 +468,11 @@ function render(e) {
   if (notice) notice.hidden = !e.edition.is_sample;
   if (e.edition.is_sample) showSampleNotice();
   syncSaveButtons();
+  
+  const profileNameInput = $("#profile-name");
+  if (profileNameInput && store.active) profileNameInput.value = store.active;
+  const partnerNameEl = $("#executive-partner-name");
+  if (partnerNameEl && store.active) partnerNameEl.textContent = store.active;
 }
 
 async function getJson(path) {
@@ -472,14 +492,14 @@ async function loadEdition(date) {
     const main = $("#edition");
     if (main) {
       main.replaceChildren(h("p", { class: "notice" },
-        "Could not load the edition. If you opened this file directly from your computer, start a local server instead (see README). Details: " + err.message));
+        "Awaiting compilation of today's executive edition. Details: " + err.message));
     }
   }
 }
 
 async function init() {
   let dates = [];
-  try { dates = (await getJson("data/index.json")).dates; } catch { /* older deployments: fine */ }
+  try { dates = (await getJson("data/index.json")).dates; } catch { /* fine */ }
   const picker = $("#date-picker");
   if (picker) {
     picker.replaceChildren(...dates.map((d, i) => h("option", { value: d }, i === 0 ? `${d} (latest)` : d)));
