@@ -30,7 +30,7 @@ function h(tag, attrs = {}, ...kids) {
 
 let edition = null;         // the edition currently shown
 const articles = new Map();   // id -> { a, sectionTitle }
-let keyword = "";             // active keyword filter ("" = none)
+let keyword = "";               // active keyword filter ("" = none)
 
 function fmtTime(iso) {
   if (!iso) return "";
@@ -392,7 +392,11 @@ function render(e) {
   syncSaveButtons();
 }
 
-async function getJson(url) {
+async function getJson(path) {
+  const base = location.pathname.includes('/Morning-Edition') ? '/Morning-Edition/' : './';
+  const cleanPath = path.startsWith('/') ? path.slice(1) : path;
+  const url = new URL(cleanPath, location.origin + base).href;
+
   const res = await fetch(url, { cache: "no-cache" });
   if (!res.ok) throw new Error(`${url}: HTTP ${res.status}`);
   return res.json();
