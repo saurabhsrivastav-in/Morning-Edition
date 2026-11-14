@@ -1,0 +1,960 @@
+{
+  "edition": {
+    "name": "The Morning Ledger",
+    "tagline": "A quiet read for a busy morning",
+    "date": "2026-11-15",
+    "date_long": "Sunday, 15 November 2026",
+    "timezone": "Asia/Kolkata",
+    "generated_at": "2026-11-15T04:11+05:30",
+    "is_sample": false
+  },
+  "dashboard": {
+    "total_articles": 44,
+    "reading_minutes": 9,
+    "source_count": 22,
+    "full_text_count": 1,
+    "per_section": {
+      "national-international": 10,
+      "editorials-opinion": 8,
+      "fintech-taxtech": 2,
+      "tax-policy": 8,
+      "product-analysis": 8,
+      "business-trends": 8
+    },
+    "keywords": [
+      {
+        "term": "product",
+        "count": 6
+      },
+      {
+        "term": "people",
+        "count": 4
+      },
+      {
+        "term": "microsoft",
+        "count": 4
+      },
+      {
+        "term": "tech",
+        "count": 4
+      },
+      {
+        "term": "without",
+        "count": 3
+      },
+      {
+        "term": "world",
+        "count": 3
+      },
+      {
+        "term": "since",
+        "count": 3
+      },
+      {
+        "term": "corporate",
+        "count": 3
+      },
+      {
+        "term": "artificial intelligence",
+        "count": 2
+      },
+      {
+        "term": "guardian view",
+        "count": 2
+      },
+      {
+        "term": "global outage",
+        "count": 2
+      },
+      {
+        "term": "order nclt",
+        "count": 2
+      }
+    ],
+    "markets": [
+      {
+        "label": "USD/EUR",
+        "group": "Currencies",
+        "display": "0.9048",
+        "change_pct": 0.26,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/GBP",
+        "group": "Currencies",
+        "display": "0.7560",
+        "change_pct": 0.22,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/INR",
+        "group": "Currencies",
+        "display": "94.25",
+        "change_pct": 0.22,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/JPY",
+        "group": "Currencies",
+        "display": "160.00",
+        "change_pct": 0.19,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "Bitcoin (USD)",
+        "group": "Crypto",
+        "display": "63,718.00",
+        "change_pct": -6.73,
+        "source": "CoinGecko"
+      },
+      {
+        "label": "Ethereum (USD)",
+        "group": "Crypto",
+        "display": "1,750.88",
+        "change_pct": -9.16,
+        "source": "CoinGecko"
+      }
+    ]
+  },
+  "word_of_the_day": {
+    "term": "Arbitrage",
+    "definition": "The simultaneous purchase and sale of an asset in different markets to profit from a difference in the price.",
+    "source": "The Morning Ledger glossary"
+  },
+  "dictionary_word": {
+    "word": "Word of the day for November 14",
+    "definition": "edit · refresh · view Word of the day for November 14 Mamie pink n (US, also attributive) A light rosy pink colour with a slight orangish tinge.",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261114000000/en",
+    "source": "Wiktionary",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "sections": [
+    {
+      "id": "national-international",
+      "title": "National & International News",
+      "kicker": "The World Today",
+      "articles": [
+        {
+          "id": "1476d670af2a",
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-14T22:37:25+00:00",
+          "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
+          "id": "efa9822a8d94",
+          "title": "US has lost measles elimination status, global health authorities say",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Amy Maxmen",
+          "published": "2026-11-14T22:15:02+00:00",
+          "summary": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "06a1e4f4652e",
+          "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+          "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-14T22:09:40+00:00",
+          "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 11
+        },
+        {
+          "id": "86b64eac3892",
+          "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
+          "url": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-14T22:00:45+00:00",
+          "summary": "Rasmus Hojlund stars with brace on as Denmark close in on a spot in the Nations League quarterfinals.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "5f3128295c2d",
+          "title": "SpaceX successfully catches Starship and makes history",
+          "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "The Associated Press",
+          "published": "2026-11-14T21:42:41+00:00",
+          "summary": "The company's spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "7442b50228ce",
+          "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Raphael Rashid",
+          "published": "2026-11-14T19:01:32+00:00",
+          "summary": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra, to victory in Bangkok on Saturday night, at the first regional edition of the…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "4991dd8037fe",
+          "title": "Learning under trees in the era of AI: The paradox of education in Mozambique",
+          "url": "https://globalvoices.org/2026/11/14/learning-under-trees-in-the-era-of-ai-the-paradox-of-education-in-mozambique/",
+          "source": "Global Voices",
+          "section": "national-international",
+          "author": "Masudul Zarif",
+          "published": "2026-11-14T18:39:17+00:00",
+          "summary": "Mozambique faces an educational paradox: While the use of artificial intelligence is being debated, thousands of students still learn outdoors, without basic infrastructure or internet access.",
+          "full_html": "<p><em>AI could help bridge educational inequality in a country where thousands of students still learn outdoors</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/14/learning-under-trees-in-the-era-of-ai-the-paradox-of-education-in-mozambique/\">Global Voices</a></p><p><a href=\"https://commons.wikimedia.org/wiki/File:School_(7175864900).jpg\">Photo</a> taken by Rahul Ingle, May 2012. This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\">Creative Commons</a> <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>\n<p>In many communities across <a href=\"https://pt.wikipedia.org/wiki/Mo%C3%A7ambique\">Mozambique</a>, formal education still takes place in the open air, <a href=\"https://www.bbc.com/portuguese/42533107\">under trees</a>, in improvised yards, or inside fragile structures that barely offer protection from the sun and rain. These so-called outdoor classrooms are not an innovative pedagogical choice, but more often than not, the expression of a structural deficiency: a lack of infrastructure, a shortage of materials, and an estimated deficit of around <a href=\"https://aimnews.org/2025/01/28/sector-da-educacao-com-um-defice-de-12-mil-professores-para-2025/\">12,000 teachers in 2025</a>.</p>\n<p>During the rainy season (roughly November to March in Mozambique), the situation becomes more challenging. In several regions, the school calendar must be adjusted to respond to inclement weather, <a href=\"https://www.dw.com/pt-002/chuvas-em-mo%C3%A7ambique-%C3%A9-preciso-repensar-calend%C3%A1rio-escolar/a-76032971\">such as heavy rains</a> that disrupt classes and hinder the continuity of teaching between November and March each year.</p>\n<p>In this context, the question arises: What is the place of artificial intelligence (AI) in an educational system that, in many areas of the country, is still fighting for the basics?</p>\n\n<h3>A school without walls</h3>\n<p>In rural districts of provinces like <a href=\"https://pt.wikipedia.org/wiki/Cabo_Delgado_(prov%C3%ADncia)\">Cabo Delgado</a>, <a href=\"https://pt.wikipedia.org/wiki/Nampula\">Nampula</a>, and <a href=\"https://pt.wikipedia.org/wiki/Zamb%C3%A9zia\">Zambézia</a>, it is common to find classes of students studying under trees. The <a href=\"https://www.correiodamanhacanada.com/mocambique-avalia-mudancas-para-se-evitar-alunos-a-estudar-debaixo-das-arvores/\">Minister of Education</a>, Samaria Tovela, has been evaluating schedule adjustments because, while classes are frequently interrupted during the <a href=\"https://www.rfi.fr/pt/mocambique/20181125-epoca-chuvosa-e-calamidades-em-mocambique\">rainy season</a>, concentration becomes a constant challenge during periods of intense heat. Without proper blackboards or textbooks, and often with a single <a href=\"https://opais.co.mz/qualidade-do-ensino-em-mocambique-ainda-enfrenta-grandes-desafios-alerta-paulino-fumo/\">teacher responsible for several classes</a>, the learning process becomes irregular and deeply unequal when <a href=\"https://mznews.co.mz/nampula-mais-de-um-milhao-de-alunos-aprendem-a-ler-e-a-escrever-no-chao/\">one million students learn to read and write on the ground</a>.</p>\n<p>This scenario highlights a central problem: Learning depends on minimum standards that are not yet guaranteed in Mozambique. At the same time, one of the biggest obstacles to introducing technologies like AI in rural African contexts is the lack of connectivity. In Mozambique, about <a href=\"https://aimnews.org/2024/06/19/cerca-de-73-da-populacao-mocambicana-nao-tem-acesso-a-servicos-de-internet/\">73 percent of the population lacks internet access</a>, according to 2024 data from the Ministry of Transport and Communications.</p>\n<p>Regional inequalities limit these initiatives, despite <a href=\"https://www.noticiasaominuto.com/tech/2854164/fraco-acesso-a-internet-dificulta-ensino-a-distancia-em-mocambique\">some progress recorded in recent years</a>. This limitation directly affects the potential of solutions such as distance learning or digital learning platforms.</p>\n\n<h3>Language, culture, and the role of the state</h3>\n<p>Another critical challenge is the linguistic and cultural dimension. In Africa, where more than <a href=\"https://pt.smartling.com/blog/african-languages-lab-empowers-low-resource-languages-with-ai\">2,000 languages are spoken</a>, only a fraction — around 49 — are represented on digital platforms like Google’s translation service. Integrating Mozambique’s Indigenous languages, such as <a href=\"https://pt.wikipedia.org/wiki/L%C3%ADngua_macua\">Emakhuwa</a>, <a href=\"https://pt.wikipedia.org/wiki/L%C3%ADngua_tsonga\">Xichangana</a>, or <a href=\"https://pt.wikipedia.org/wiki/L%C3%ADngua_lomu%C3%A9\">Elomwe</a>, into digital educational tools could significantly increase students’ comprehension and engagement, especially in the early years of schooling. However, implementing these solutions raises practical questions in contexts where access to technology is still limited.</p>\n<p>The <a href=\"https://www.mozcensus.com/theme_of_mozambique/facts-sheets/ThematicStudies-2017/Padrao_LinguisticoVFprint-02-02-24.pdf\">overwhelming majority of the Mozambican population</a> speaks a Bantu language most frequently at home (81.7 percent), and a portion cannot speak Portuguese at all (41.9 percent), though it is the sole official language of the country due to its colonial history. Despite this, the media, official government communications, and healthcare institutions continue to privilege Portuguese to the detriment of Bantu languages — the languages of the masses — which, activists argue, constitutes a form of social exclusion. Emerging initiatives, however, show that it is possible to bridge this gap with the aid of technology. <a href=\"https://mittechreview.com.br/ia-idiomas-africanos-lelapa-ai/?srsltid=AfmBOorHN67qlfdeSrbrLkAIF1QLuOpEqmd1bAIBqcRTMum1dyEZAao4\">In Johannesburg</a>, for instance, tech startups are developing AI solutions tailored to African languages.</p>\n\n<h3>Risks and potential</h3>\n<p>Offline tools, pre-loaded content, and digital pedagogical assistants are some of the possible solutions to address the deficiencies and limitations of Mozambique’s education system. While the government <a href=\"https://unesdoc.unesco.org/ark:/48223/pf0000392743\">does not yet have specific policies</a> to integrate AI tools in schools, advocates say the state could play a central role in integrating technology into the daily lives of students and teachers. This also involves investing in teacher training; ensuring basic infrastructure; facilitating energy access; and strengthening partnerships with universities, startups, and international organizations.</p>\n<p>Talking about artificial intelligence in outdoor classrooms may seem contradictory at first glance, but it is precisely in these contexts that technology needs to be considered creatively and responsibly, not as a replacement for the essential, but as a strategic complement.</p>\n\n<p>The priority remains clear: Building schools, training teachers, and ensuring access to basic materials. The question is how to integrate developed technology without creating profound inequalities, respecting local contexts, and placing the student and teacher at the center of decision-making. In a country where learning still takes place under trees, the future of education will depend not only on the technology available, but also on the political and social choices that define who has access to knowledge and under what conditions.</p>\n\n<strong>Written (Português) by <a href=\"https://pt.globalvoices.org/author/tirso-sitoe/\">Tirso Sitoe</a>Translated (English) by <a href=\"https://globalvoices.org/author/masudulzarif/\">Masudul Zarif</a><a href=\"https://pt.globalvoices.org/2026/05/04/aprender-sob-arvores-na-era-da-ia-o-paradoxo-da-educacao-em-mocambique/\">View original post (Português)</a></strong>",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "words": 786
+        },
+        {
+          "id": "893f210d41dd",
+          "title": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
+          "url": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Jonathan Watts; graphics by Sara Fiorillo",
+          "published": "2026-11-14T13:00:44+00:00",
+          "summary": "People around the world have contended with unprecedented weather events and their fatal effects caused by the climate catastrophe After the world’s hottest summer since records began in 1850, the death toll from extreme weather in 2026 is already in the high tens of thousands.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "58b9d270390d",
+          "title": "Sooryavanshi becomes youngest captain in men's T20s",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-14T09:53:45+00:00",
+          "summary": "Teenage India sensation Vaibhav Sooryavanshi breaks the record held by Croatia's Zach Vukusic as the youngest captain in top-level men's Twenty20 cricket.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
+          "id": "64d4544b04eb",
+          "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+          "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-13T23:11:51+00:00",
+          "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        }
+      ]
+    },
+    {
+      "id": "editorials-opinion",
+      "title": "Editorials & Opinion",
+      "kicker": "Opinion",
+      "articles": [
+        {
+          "id": "3d0fef91a5f0",
+          "title": "In an age of grievance politics, Australia’s politicians should heed the lessons from US and New Zealand and rise above mediocrity | Zoe Daniel",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/15/australian-politics-should-heed-lessons-from-us-and-nz-elections",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Zoe Daniel",
+          "published": "2026-11-14T19:00:52+00:00",
+          "summary": "We’ve learned that ignoring the hip pocket is a grievous mistake. Australia could benefit from a courageous reset of economic and social policy Wouldn’t it be nice, as the Beach Boys sang, if the US midterm election results represented a return to kindness?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 43
+        },
+        {
+          "id": "07f2bdbe0999",
+          "title": "Corporate Democrats are weaponizing identity politics to smear progressives | Arwa Mahdawi",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/14/corporate-democrats-identity-politics-progressives",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Arwa Mahdawi",
+          "published": "2026-11-14T13:00:46+00:00",
+          "summary": "House members have responded to legitimate criticism with cynicism. Let’s not have another ‘Bernie bros’ moment Before we get started, some ground rules. You are, of course, completely free to disagree with everything I have to say here.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 38
+        },
+        {
+          "id": "956db56ce5da",
+          "title": "King Æthelstan founded England in the year 927. Why don’t we celebrate that anniversary? | Tom Holland",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/14/king-athelstan-england-1100-anniversary-2027",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Tom Holland",
+          "published": "2026-11-14T10:00:41+00:00",
+          "summary": "Nearly 1,100 years ago, the nation’s first king drove out the ‘heathen’ Vikings, declared war on starvation and made ‘Englalonde’ what it is today On 4 July, the United States celebrated its 250th birthday with all the razzmatazz and dazzle characteristic of an American public…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "37ba6d071f77",
+          "title": "The Guardian view on press freedom: authoritarians target journalism because it matters | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-press-freedom-authoritarians-target-journalism-because-it-matters",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-13T18:01:46+00:00",
+          "summary": "From Cairo to Moscow to Washington, governments are turning up the pressure on media workers Lina Attalah is an influential Egyptian journalist. Yet until last month, even she was unaware of a major and concerning piece of news: her own conviction.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 41
+        },
+        {
+          "id": "d286ac102d02",
+          "title": "The Guardian view on M John Harrison’s Booker win: a new frontier for science fiction | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-m-john-harrisons-booker-win-a-new-frontier-for-science-fiction",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-13T18:00:56+00:00",
+          "summary": "The End of Everything is a novel for our age of permacrisis. Genre boundaries belong to the past “Science fiction will never be Literature with a capital ‘L,’” began a New York Times review of Margaret Atwood’s novel Oryx and Crake back in 2003.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 44
+        },
+        {
+          "id": "fa67c5920455",
+          "title": "Could you survive without Microsoft? Inside the costs of digital dependence",
+          "url": "https://theconversation.com/could-you-survive-without-microsoft-inside-the-costs-of-digital-dependence-296614",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Narmin Nahidi, Assistant Professor in Finance, University of Exeter",
+          "published": "2026-11-13T12:09:36+00:00",
+          "summary": "Digital choices have huge environmental costs but these are rarely counted up.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 12
+        },
+        {
+          "id": "e67209abafcd",
+          "title": "Young turtles find refuge in both natural and artificial wetlands in UAE – new study",
+          "url": "https://theconversation.com/young-turtles-find-refuge-in-both-natural-and-artificial-wetlands-in-uae-new-study-295707",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Owen Exeter, Postdoctoral Researcher, Marine Ecology, University of Exeter",
+          "published": "2026-11-13T10:16:11+00:00",
+          "summary": "A large basin was never used for its intended recreational purposes and has since been incorporated into a marine protected area alongside coastal mangroves.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "1b60a17ac806",
+          "title": "Microsoft has suffered a global outage. A tech expert explains what went wrong",
+          "url": "https://theconversation.com/microsoft-has-suffered-a-global-outage-a-tech-expert-explains-what-went-wrong-296588",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Mahmoud Elkhodr, Senior Lecturer in Information and Communication Technologies, CQUniversity Australia",
+          "published": "2026-11-13T01:26:45+00:00",
+          "summary": "This outage shows why we must urgently prepare for digital outages in a similar way we do for natural disasters.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        }
+      ]
+    },
+    {
+      "id": "fintech-taxtech",
+      "title": "FinTech & Tax Technology",
+      "kicker": "Technology & Money",
+      "articles": [
+        {
+          "id": "1f380d299553",
+          "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+          "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+          "source": "TechCrunch – Fintech",
+          "section": "fintech-taxtech",
+          "author": "Jagmeet Singh",
+          "published": "2026-11-04T14:10:10+00:00",
+          "summary": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "9629b9d628e6",
+          "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+          "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+          "source": "TechCrunch – Fintech",
+          "section": "fintech-taxtech",
+          "author": "TechCrunch Events",
+          "published": "2026-11-04T13:00:00+00:00",
+          "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        }
+      ]
+    },
+    {
+      "id": "tax-policy",
+      "title": "Tax News & Policy Updates",
+      "kicker": "The Tax Desk",
+      "articles": [
+        {
+          "id": "f376da808abc",
+          "title": "Agency Information Collection Activities; Comment Request on Form 14417-Reimbursable Agreement-Non-Federal Entities; Form 14417-A-Statistics of Income-User Fee and 14417-B-Statistics of Income (SOI) Public Use File (PUF) Intake",
+          "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23202/agency-information-collection-activities-comment-request-on-form-14417-reimbursable",
+          "source": "Federal Register – IRS",
+          "section": "tax-policy",
+          "author": "Treasury Department, Internal Revenue Service",
+          "published": "2026-11-16T05:00:00+00:00",
+          "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "24491c21445c",
+          "title": "Unrefunded Advance for TMT Bar Supply Constitutes Operational Debt: NCLT Admits ₹3.85 Cr Insolvency Plea [Read Order]",
+          "url": "https://www.taxscan.in/corporate-laws/unrefunded-advance-for-tmt-bar-supply-constitutes-operational-debt-nclt-admits-385-cr-insolvency-plea-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Solony Padhi",
+          "published": "2026-11-14T11:17:32+00:00",
+          "summary": "NCLT admitted CIRP as unrefunded advances for undelivered TMT bars constituted operational debt, with dishonoured cheques establishing default.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "3f2662feafde",
+          "title": "Pending Supreme Court Appeal No Bar to CIRP Admission Without Stay: NCLT Admits ₹2.80 Cr Insolvency Plea [Read Order]",
+          "url": "https://www.taxscan.in/corporate-laws/pending-supreme-court-appeal-no-bar-to-cirp-admission-without-stay-nclt-admits-280-cr-insolvency-plea-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Solony Padhi",
+          "published": "2026-11-14T11:16:53+00:00",
+          "summary": "NCLT Admits CIRP as Supreme Court Has Not Stayed NCLAT Order Upholding Debt, Default and Creditor’s Valid Authorisation.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "3140b4307b44",
+          "title": "Orissa HC Dismisses Income Tax Department’s Appeal as Tax Effect Falls Below CBDT’s Monetary Limit [Read Order]",
+          "url": "https://www.taxscan.in/income-tax/orissa-hc-dismisses-income-tax-departments-appeal-as-tax-effect-falls-below-cbdts-monetary-limit-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Kalyani B. Nair",
+          "published": "2026-11-14T08:32:51+00:00",
+          "summary": "Revenue’s appeal liable to be dismissed for failing to meet monetary threshold prescribed under CBDT Circular",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "04dd25bd4d89",
+          "title": "Indicator deep dive: Reporting of tax avoidance schemes",
+          "url": "https://taxjustice.net/2026/11/05/indicator-deep-dive-reporting-of-tax-avoidance-schemes/",
+          "source": "Tax Justice Network",
+          "section": "tax-policy",
+          "author": "Bob Michel",
+          "published": "2026-11-05T00:03:00+00:00",
+          "summary": "Today, the Tax Justice Network updated its Corporate Tax Haven Index with new data for two indicators.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "88d90ca20eed",
+          "title": "The ‘wealth exodus’ was manufactured by the press. The press complaints body IPSO must investigate or step aside.",
+          "url": "https://taxjustice.net/2026/10/19/the-wealth-exodus-was-manufactured-by-the-press-the-uks-biggest-press-complaints-body-must-investigate-or-step-aside/",
+          "source": "Tax Justice Network",
+          "section": "tax-policy",
+          "author": "Tax Justice Network",
+          "published": "2026-10-19T21:35:35+00:00",
+          "summary": "TL;DR Since 2024 about 30 news articles a day have been published around the world about an exodus of millionaires and billionaires fleeing taxes. ……………………….. The UK, we’re told, has had the worst of it thanks to the Labour government’s tax policies.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 42
+        },
+        {
+          "id": "9ad261889ed3",
+          "title": "Senator Moreno’s 100% Federal Tax on Data Center Incentives Would Usurp Sound State Sales Tax Policies",
+          "url": "https://taxfoundation.org/blog/data-center-sales-tax-reclaim-act/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Richard DiSalvo",
+          "published": null,
+          "summary": "Senator Bernie Moreno’s proposed RECLAIM Act (S. 5689) would impose a 100 percent tax on state and local “incentives” for large AI data centers, including state sales tax exemptions for servers and chips.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 33
+        },
+        {
+          "id": "a84fbaf07bb7",
+          "title": "Senator Kelly’s Plan to “Make AI Work for Americans” Is Funded by Three Poorly Designed Taxes",
+          "url": "https://taxfoundation.org/blog/senator-kelly-ai-taxes/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Richard DiSalvo, Andrew Lautz",
+          "published": null,
+          "summary": "If lawmakers want to pay for new government spending, better approaches include broadening the income tax base, reforming the corporate tax, or taxing consumption.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        }
+      ]
+    },
+    {
+      "id": "product-analysis",
+      "title": "Product Management & Business Analysis",
+      "kicker": "The Craft",
+      "articles": [
+        {
+          "id": "a13699de7bba",
+          "title": "2027 Product Conferences",
+          "url": "https://www.producttalk.org/2027-product-conferences/",
+          "source": "Product Talk",
+          "section": "product-analysis",
+          "author": "Teresa Torres",
+          "published": "2026-11-11T14:00:00+00:00",
+          "summary": "We are starting to pull together our list of 2027 product conferences. This list is by no means exhaustive. If you know of product conferences that are not on the list and you think they should be, please send an email to conferences@producttalk.org.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 43
+        },
+        {
+          "id": "297402f6b6f0",
+          "title": "Discovery & The 4 Risks - All Things Product Podcast with Teresa Torres & Petra Wille",
+          "url": "https://www.producttalk.org/discovery-the-4-risks-all-things-product-podcast-with-teresa-torres-petra-wille/",
+          "source": "Product Talk",
+          "section": "product-analysis",
+          "author": "Teresa Torres",
+          "published": "2026-11-10T14:00:00+00:00",
+          "summary": "Listen to this episode on: Spotify | Apple Podcasts In one of their most philosophical episodes yet, Petra Wille and Teresa Torres turn product thinking on the discovery practice itself.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "b9e63452c6bd",
+          "title": "Analysis Debt: The Cost of a Question Nobody Tracks",
+          "url": "https://batimes.com/articles/analysis-debt-the-cost-of-a-question-nobody-tracks/",
+          "source": "BA Times",
+          "section": "product-analysis",
+          "author": "Michael Roy",
+          "published": "2026-11-09T14:38:54+00:00",
+          "summary": "Analysis Debt: The Cost of a Question Nobody Tracks By Michael Roy Every delivery organization can tell you how fast work moved last quarter. Far fewer can say how much of that work was checked before it started moving.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 39
+        },
+        {
+          "id": "21f59dea13c6",
+          "title": "AI and the Future of the Product Role",
+          "url": "https://www.svpg.com/ai-and-the-future-of-the-product-role/",
+          "source": "Silicon Valley Product Group",
+          "section": "product-analysis",
+          "author": "Marty Cagan",
+          "published": "2026-11-06T01:02:22+00:00",
+          "summary": "NOTE: This is a narrative form of a keynote for the 2026 Product Leader Summit. Overview Most people in the industry realize that the job definition and responsibilities of the people in the product role can vary widely across companies.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 40
+        },
+        {
+          "id": "265e6c45204a",
+          "title": "Experimentation, AI and the Product Model",
+          "url": "https://www.svpg.com/experimentation-ai-and-the-product-model/",
+          "source": "Silicon Valley Product Group",
+          "section": "product-analysis",
+          "author": "Marty Cagan",
+          "published": "2026-10-21T15:53:41+00:00",
+          "summary": "NOTE: This is a narrative form of a keynote for the Circus Austin Experimentation Conference. While experimentation can be found in various parts of a company, most people think of either product or marketing.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "30b7e2079ec1",
+          "title": "Product Ethics in the Age of AI",
+          "url": "https://www.romanpichler.com/blog/product-ethics-in-the-age-of-ai/",
+          "source": "Roman Pichler",
+          "section": "product-analysis",
+          "author": "Roman Pichler",
+          "published": "2026-10-05T09:39:41+00:00",
+          "summary": "AI is changing not only what product teams can build, but also what they need to take responsibility for.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "87cda737ce55",
+          "title": "Connecting Product Outcomes to Business Strategy",
+          "url": "https://www.romanpichler.com/blog/connecting-product-outcomes-and-business-strategy/",
+          "source": "Roman Pichler",
+          "section": "product-analysis",
+          "author": "Roman Pichler",
+          "published": "2026-09-15T09:41:42+00:00",
+          "summary": "Every product has to create real value for a group of people and the business, at least in theory. But in practice, that’s not always the case.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "95ac88e87dd6",
+          "title": "The Irreplaceable BA: How to Stay Essential in an AI-Augmented World",
+          "url": "https://batimes.com/articles/the-irreplaceable-ba-how-to-stay-essential-in-an-ai-augmented-world/",
+          "source": "BA Times",
+          "section": "product-analysis",
+          "author": "Mohanaraman Namasivayam",
+          "published": "2026-07-29T19:43:39+00:00",
+          "summary": "Four frameworks for deciding what AI takes, what you keep, and where to grow Mohanaraman Namasivayam Vice President | Senior Business Analyst, Investment Management Technology | IIBA Member The Inflection Point Is Now The research is blunt.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
+        }
+      ]
+    },
+    {
+      "id": "business-trends",
+      "title": "Emerging Business Trends & New Vocabulary",
+      "kicker": "Ideas & Idioms",
+      "articles": [
+        {
+          "id": "a4a92fbcda03",
+          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Anthony Ha",
+          "published": "2026-11-14T21:41:22+00:00",
+          "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 12
+        },
+        {
+          "id": "0f3c66386c82",
+          "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+          "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Anthony Ha",
+          "published": "2026-11-14T20:04:44+00:00",
+          "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 10
+        },
+        {
+          "id": "a0251a737d92",
+          "title": "The most important shopper of the future isn’t human",
+          "url": "https://www.fastcompany.com/91635595/the-most-important-shopper-of-the-future-isnt-human-ai-agents-shopping",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Nir Wegrzyn",
+          "published": "2026-11-14T16:24:11+00:00",
+          "summary": "A shopper asks an AI assistant for sneakers for a 23-year-old. Another Googles a boutique hotel in Rome. Before either sees a picture of a shoe or a room, artificial intelligence has helped decide which brands deserve consideration.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 38
+        },
+        {
+          "id": "9dd15c73c575",
+          "title": "The FAA’s IT troubles are far bigger then AI",
+          "url": "https://www.fastcompany.com/91642664/the-faas-it-troubles-are-far-bigger-then-ai",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Rebecca Heilweil",
+          "published": "2026-11-14T15:22:59+00:00",
+          "summary": "U.S. airlines are still reeling from a nationwide ground stop issued on Friday that interrupted weekend travel and wreaked havoc on schedules. The culprit, the Federal Aviation Administration says, was simply outdated tech.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 33
+        },
+        {
+          "id": "a20a765200c5",
+          "title": "Microsoft says services fully restored after day-long global outage",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-14T06:42:27+00:00",
+          "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "4b1ed9147537",
+          "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
+          "url": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Edward Helmore in New York",
+          "published": "2026-11-14T02:49:59+00:00",
+          "summary": "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stop The decision to ground all flights on Friday by the US Federal Aviation Administration (FAA) threw airports and travel plans into chaos across the country, as passengers on planes…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "b1b246b5ab5e",
+          "title": "Microsoft outage shakes up companies, schools and local governments across US",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Gaya Gupta in New York",
+          "published": "2026-11-13T21:13:59+00:00",
+          "summary": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outage Microsoft outage – live updates The Microsoft Outlook outage has shaken up companies and local governments across the US that use its suite of email, calendar, video conferencing…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "dabb9c42293e",
+          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-13T19:53:57+00:00",
+          "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "site": "https://www.aljazeera.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BA Times",
+      "site": "https://www.batimes.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – Business",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – India",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – World",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Fast Company",
+      "site": "https://www.fastcompany.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Federal Register – IRS",
+      "site": "https://www.federalregister.gov",
+      "license": "US Government work (public domain)",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Global Voices",
+      "site": "https://globalvoices.org",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "full_text": true
+    },
+    {
+      "name": "NPR News",
+      "site": "https://feeds.npr.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Product Talk",
+      "site": "https://www.producttalk.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Roman Pichler",
+      "site": "https://www.romanpichler.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Silicon Valley Product Group",
+      "site": "https://www.svpg.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Tax Foundation",
+      "site": "https://taxfoundation.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Tax Justice Network",
+      "site": "https://taxjustice.net",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Taxscan (India)",
+      "site": "https://www.taxscan.in",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TechCrunch",
+      "site": "https://techcrunch.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TechCrunch – Fintech",
+      "site": "https://techcrunch.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Conversation",
+      "site": "https://theconversation.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Business",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Editorials",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Opinion",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – World",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    }
+  ],
+  "errors": [
+    "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
+    "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
+    "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
+    "Finextra: 403 Client Error: Forbidden for url: https://www.finextra.com/rss/headlines.aspx",
+    "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
+    "The Fintech Times: feed contained no entries",
+    "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+    "Mind the Product: feed contained no entries",
+    "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
+    "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
+  ]
+}

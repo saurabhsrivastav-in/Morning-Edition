@@ -2,21 +2,21 @@
   "edition": {
     "name": "The Morning Ledger",
     "tagline": "A quiet read for a busy morning",
-    "date": "2026-11-14",
-    "date_long": "Saturday, 14 November 2026",
+    "date": "2026-11-15",
+    "date_long": "Sunday, 15 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-14T22:25+05:30",
+    "generated_at": "2026-11-15T04:11+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 47,
-    "reading_minutes": 11,
-    "source_count": 23,
+    "total_articles": 44,
+    "reading_minutes": 9,
+    "source_count": 22,
     "full_text_count": 1,
     "per_section": {
       "national-international": 10,
       "editorials-opinion": 8,
-      "fintech-taxtech": 5,
+      "fintech-taxtech": 2,
       "tax-policy": 8,
       "product-analysis": 8,
       "business-trends": 8
@@ -28,46 +28,46 @@
       },
       {
         "term": "people",
-        "count": 5
-      },
-      {
-        "term": "pressure",
-        "count": 5
-      },
-      {
-        "term": "local",
         "count": 4
       },
       {
-        "term": "government",
+        "term": "microsoft",
         "count": 4
       },
       {
-        "term": "form",
+        "term": "tech",
         "count": 4
+      },
+      {
+        "term": "without",
+        "count": 3
+      },
+      {
+        "term": "world",
+        "count": 3
+      },
+      {
+        "term": "since",
+        "count": 3
+      },
+      {
+        "term": "corporate",
+        "count": 3
+      },
+      {
+        "term": "artificial intelligence",
+        "count": 2
       },
       {
         "term": "guardian view",
-        "count": 3
-      },
-      {
-        "term": "large",
-        "count": 3
-      },
-      {
-        "term": "public",
-        "count": 3
-      },
-      {
-        "term": "italy fines",
         "count": 2
       },
       {
-        "term": "fines meta",
+        "term": "global outage",
         "count": 2
       },
       {
-        "term": "commerce secretary",
+        "term": "order nclt",
         "count": 2
       }
     ],
@@ -103,22 +103,22 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "65,421.00",
-        "change_pct": -4.62,
+        "display": "63,718.00",
+        "change_pct": -6.73,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,826.00",
-        "change_pct": -5.17,
+        "display": "1,750.88",
+        "change_pct": -9.16,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Liquidity",
-    "definition": "The ease with which an asset, security, or commodity can be converted into ready cash without affecting its market price.",
+    "term": "Arbitrage",
+    "definition": "The simultaneous purchase and sale of an asset in different markets to profit from a difference in the price.",
     "source": "The Morning Ledger glossary"
   },
   "dictionary_word": {
@@ -136,74 +136,102 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "359fb450257d",
-          "title": "Italy fines Meta €805m over accessing users' photos",
-          "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+          "id": "1476d670af2a",
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – World",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-14T16:29:48+00:00",
-          "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+          "published": "2026-11-14T22:37:25+00:00",
+          "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 19
+          "words": 22
         },
         {
-          "id": "76b99879a97e",
-          "title": "Italy fines Meta $880m over photo privacy",
-          "url": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
+          "id": "efa9822a8d94",
+          "title": "US has lost measles elimination status, global health authorities say",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Amy Maxmen",
+          "published": "2026-11-14T22:15:02+00:00",
+          "summary": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "06a1e4f4652e",
+          "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+          "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-14T22:09:40+00:00",
+          "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 11
+        },
+        {
+          "id": "86b64eac3892",
+          "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
+          "url": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
           "source": "Al Jazeera",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-14T16:16:15+00:00",
-          "summary": "Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.",
+          "published": "2026-11-14T22:00:45+00:00",
+          "summary": "Rasmus Hojlund stars with brace on as Denmark close in on a spot in the Nations League quarterfinals.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 19
+          "words": 18
         },
         {
-          "id": "86cee693d648",
-          "title": "Fuel crisis and protests pressure Chile's far-right president",
-          "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+          "id": "5f3128295c2d",
+          "title": "SpaceX successfully catches Starship and makes history",
+          "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
           "source": "NPR News",
           "section": "national-international",
-          "author": "John Bartlett",
-          "published": "2026-11-14T16:05:12+00:00",
-          "summary": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
+          "author": "The Associated Press",
+          "published": "2026-11-14T21:42:41+00:00",
+          "summary": "The company's spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 23
+          "words": 28
         },
         {
-          "id": "92720765a427",
-          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
+          "id": "7442b50228ce",
+          "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+          "source": "The Guardian – World",
           "section": "national-international",
-          "author": "",
-          "published": "2026-11-14T15:53:55+00:00",
-          "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+          "author": "Raphael Rashid",
+          "published": "2026-11-14T19:01:32+00:00",
+          "summary": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra, to victory in Bangkok on Saturday night, at the first regional edition of the…",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 15
+          "words": 45
         },
         {
-          "id": "6722fc2091ca",
-          "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
-          "url": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
-          "source": "NPR News",
+          "id": "4991dd8037fe",
+          "title": "Learning under trees in the era of AI: The paradox of education in Mozambique",
+          "url": "https://globalvoices.org/2026/11/14/learning-under-trees-in-the-era-of-ai-the-paradox-of-education-in-mozambique/",
+          "source": "Global Voices",
           "section": "national-international",
-          "author": "Ashley Lopez",
-          "published": "2026-11-14T13:08:05+00:00",
-          "summary": "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 31
+          "author": "Masudul Zarif",
+          "published": "2026-11-14T18:39:17+00:00",
+          "summary": "Mozambique faces an educational paradox: While the use of artificial intelligence is being debated, thousands of students still learn outdoors, without basic infrastructure or internet access.",
+          "full_html": "<p><em>AI could help bridge educational inequality in a country where thousands of students still learn outdoors</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/14/learning-under-trees-in-the-era-of-ai-the-paradox-of-education-in-mozambique/\">Global Voices</a></p><p><a href=\"https://commons.wikimedia.org/wiki/File:School_(7175864900).jpg\">Photo</a> taken by Rahul Ingle, May 2012. This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\">Creative Commons</a> <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>\n<p>In many communities across <a href=\"https://pt.wikipedia.org/wiki/Mo%C3%A7ambique\">Mozambique</a>, formal education still takes place in the open air, <a href=\"https://www.bbc.com/portuguese/42533107\">under trees</a>, in improvised yards, or inside fragile structures that barely offer protection from the sun and rain. These so-called outdoor classrooms are not an innovative pedagogical choice, but more often than not, the expression of a structural deficiency: a lack of infrastructure, a shortage of materials, and an estimated deficit of around <a href=\"https://aimnews.org/2025/01/28/sector-da-educacao-com-um-defice-de-12-mil-professores-para-2025/\">12,000 teachers in 2025</a>.</p>\n<p>During the rainy season (roughly November to March in Mozambique), the situation becomes more challenging. In several regions, the school calendar must be adjusted to respond to inclement weather, <a href=\"https://www.dw.com/pt-002/chuvas-em-mo%C3%A7ambique-%C3%A9-preciso-repensar-calend%C3%A1rio-escolar/a-76032971\">such as heavy rains</a> that disrupt classes and hinder the continuity of teaching between November and March each year.</p>\n<p>In this context, the question arises: What is the place of artificial intelligence (AI) in an educational system that, in many areas of the country, is still fighting for the basics?</p>\n\n<h3>A school without walls</h3>\n<p>In rural districts of provinces like <a href=\"https://pt.wikipedia.org/wiki/Cabo_Delgado_(prov%C3%ADncia)\">Cabo Delgado</a>, <a href=\"https://pt.wikipedia.org/wiki/Nampula\">Nampula</a>, and <a href=\"https://pt.wikipedia.org/wiki/Zamb%C3%A9zia\">Zambézia</a>, it is common to find classes of students studying under trees. The <a href=\"https://www.correiodamanhacanada.com/mocambique-avalia-mudancas-para-se-evitar-alunos-a-estudar-debaixo-das-arvores/\">Minister of Education</a>, Samaria Tovela, has been evaluating schedule adjustments because, while classes are frequently interrupted during the <a href=\"https://www.rfi.fr/pt/mocambique/20181125-epoca-chuvosa-e-calamidades-em-mocambique\">rainy season</a>, concentration becomes a constant challenge during periods of intense heat. Without proper blackboards or textbooks, and often with a single <a href=\"https://opais.co.mz/qualidade-do-ensino-em-mocambique-ainda-enfrenta-grandes-desafios-alerta-paulino-fumo/\">teacher responsible for several classes</a>, the learning process becomes irregular and deeply unequal when <a href=\"https://mznews.co.mz/nampula-mais-de-um-milhao-de-alunos-aprendem-a-ler-e-a-escrever-no-chao/\">one million students learn to read and write on the ground</a>.</p>\n<p>This scenario highlights a central problem: Learning depends on minimum standards that are not yet guaranteed in Mozambique. At the same time, one of the biggest obstacles to introducing technologies like AI in rural African contexts is the lack of connectivity. In Mozambique, about <a href=\"https://aimnews.org/2024/06/19/cerca-de-73-da-populacao-mocambicana-nao-tem-acesso-a-servicos-de-internet/\">73 percent of the population lacks internet access</a>, according to 2024 data from the Ministry of Transport and Communications.</p>\n<p>Regional inequalities limit these initiatives, despite <a href=\"https://www.noticiasaominuto.com/tech/2854164/fraco-acesso-a-internet-dificulta-ensino-a-distancia-em-mocambique\">some progress recorded in recent years</a>. This limitation directly affects the potential of solutions such as distance learning or digital learning platforms.</p>\n\n<h3>Language, culture, and the role of the state</h3>\n<p>Another critical challenge is the linguistic and cultural dimension. In Africa, where more than <a href=\"https://pt.smartling.com/blog/african-languages-lab-empowers-low-resource-languages-with-ai\">2,000 languages are spoken</a>, only a fraction — around 49 — are represented on digital platforms like Google’s translation service. Integrating Mozambique’s Indigenous languages, such as <a href=\"https://pt.wikipedia.org/wiki/L%C3%ADngua_macua\">Emakhuwa</a>, <a href=\"https://pt.wikipedia.org/wiki/L%C3%ADngua_tsonga\">Xichangana</a>, or <a href=\"https://pt.wikipedia.org/wiki/L%C3%ADngua_lomu%C3%A9\">Elomwe</a>, into digital educational tools could significantly increase students’ comprehension and engagement, especially in the early years of schooling. However, implementing these solutions raises practical questions in contexts where access to technology is still limited.</p>\n<p>The <a href=\"https://www.mozcensus.com/theme_of_mozambique/facts-sheets/ThematicStudies-2017/Padrao_LinguisticoVFprint-02-02-24.pdf\">overwhelming majority of the Mozambican population</a> speaks a Bantu language most frequently at home (81.7 percent), and a portion cannot speak Portuguese at all (41.9 percent), though it is the sole official language of the country due to its colonial history. Despite this, the media, official government communications, and healthcare institutions continue to privilege Portuguese to the detriment of Bantu languages — the languages of the masses — which, activists argue, constitutes a form of social exclusion. Emerging initiatives, however, show that it is possible to bridge this gap with the aid of technology. <a href=\"https://mittechreview.com.br/ia-idiomas-africanos-lelapa-ai/?srsltid=AfmBOorHN67qlfdeSrbrLkAIF1QLuOpEqmd1bAIBqcRTMum1dyEZAao4\">In Johannesburg</a>, for instance, tech startups are developing AI solutions tailored to African languages.</p>\n\n<h3>Risks and potential</h3>\n<p>Offline tools, pre-loaded content, and digital pedagogical assistants are some of the possible solutions to address the deficiencies and limitations of Mozambique’s education system. While the government <a href=\"https://unesdoc.unesco.org/ark:/48223/pf0000392743\">does not yet have specific policies</a> to integrate AI tools in schools, advocates say the state could play a central role in integrating technology into the daily lives of students and teachers. This also involves investing in teacher training; ensuring basic infrastructure; facilitating energy access; and strengthening partnerships with universities, startups, and international organizations.</p>\n<p>Talking about artificial intelligence in outdoor classrooms may seem contradictory at first glance, but it is precisely in these contexts that technology needs to be considered creatively and responsibly, not as a replacement for the essential, but as a strategic complement.</p>\n\n<p>The priority remains clear: Building schools, training teachers, and ensuring access to basic materials. The question is how to integrate developed technology without creating profound inequalities, respecting local contexts, and placing the student and teacher at the center of decision-making. In a country where learning still takes place under trees, the future of education will depend not only on the technology available, but also on the political and social choices that define who has access to knowledge and under what conditions.</p>\n\n<strong>Written (Português) by <a href=\"https://pt.globalvoices.org/author/tirso-sitoe/\">Tirso Sitoe</a>Translated (English) by <a href=\"https://globalvoices.org/author/masudulzarif/\">Masudul Zarif</a><a href=\"https://pt.globalvoices.org/2026/05/04/aprender-sob-arvores-na-era-da-ia-o-paradoxo-da-educacao-em-mocambique/\">View original post (Português)</a></strong>",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "words": 786
         },
         {
           "id": "893f210d41dd",
@@ -220,18 +248,18 @@
           "words": 45
         },
         {
-          "id": "30be69484595",
-          "title": "Letter from a jailed Azerbaijani political prisoner reveals deadly consequences of silence",
-          "url": "https://globalvoices.org/2026/11/14/letter-from-a-jailed-azerbaijani-political-prisoner-reveals-deadly-consequences-of-silence/",
-          "source": "Global Voices",
+          "id": "58b9d270390d",
+          "title": "Sooryavanshi becomes youngest captain in men's T20s",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
           "section": "national-international",
-          "author": "Global Voices Eurasia",
-          "published": "2026-11-14T06:11:53+00:00",
-          "summary": "Bahruz Samadov: “The selective attitude to the human rights issues and turning the blind eye to our suffering endangers the democratic security of the US itself, not to mention its international image.”",
-          "full_html": "<p><em>The Trump administration’s blind eye to severe human rights violations in Azerbaijan is deadly for political prisoners</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/14/letter-from-a-jailed-azerbaijani-political-prisoner-reveals-deadly-consequences-of-silence/\">Global Voices</a></p><p>Bahruz Samadov being brought to Sabail District Court in 2024. <a href=\"https://commons.wikimedia.org/wiki/File:Bahruz_Samadov_in_2024.png\">Image</a> by Voice of America, via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>. Public domain.</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Bahruz_Samadov\">Bahruz Samadov</a> is an Azerbaijani political scientist, peace activist, and PhD candidate at Charles University in Prague, or at least he was until the summer of 2024. On August 21, 2024, the State Security Service detained Samadov while he was visiting his grandmother in Baku. Global Voices <a href=\"https://globalvoices.org/2024/08/30/azerbaijan-clears-out-critics-ahead-of-cop29/\">reported on his arrest</a> at the time, as part of a wider <a href=\"https://www.hrw.org/news/2024/08/30/azerbaijan-escalating-crackdown-critics\">crackdown on critics</a> before Azerbaijan hosted COP29 in November 2024.</p>\n<p>Samadov was one of the few Azerbaijani voices to oppose the 2020 <a href=\"https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict\">Karabakh war</a>. In his writing for <a href=\"https://oc-media.org/amnesty-reiterates-calls-for-oc-media-contributor-bahruz-samadovs-release/\">OC Media</a>, Eurasianet and other outlets, he argued for dialogue with Armenia and criticized the expulsion of ethnic Armenians from Karabakh. Prosecutors charged him with high treason based on his WhatsApp exchanges with Armenian peace activists and on publicly available information. Samadov denied the charges and called himself a “prisoner of peace.” His lawyer argued that the prosecution’s theory of “<a href=\"https://globalvoices.org/2024/10/25/in-azerbaijan-the-government-takes-treason-seriously-or-does-it/\">indirect espionage</a>” was vague and had no basis in case law.</p>\n<p>On June 23, 2025, after a <a href=\"https://www.hrw.org/news/2025/07/03/azerbaijan-convicts-critics-in-relentless-crackdown\">closed-door trial</a>, the Baku Grave Crimes Court <a href=\"https://globalvoices.org/2025/07/05/the-sentencing-of-bahruz-samadov-and-the-rise-of-post-war-paranoia-in-azerbaijan/\">sentenced him to 15 years in prison</a>. The Baku Court of Appeal <a href=\"https://freevoicescollective.org/bahruz-samadov/\">upheld the verdict</a> in September 2025, and the Supreme Court did the same in September 2026. <a href=\"https://amnesty.ca/urgent-actions/azerbaijan-arbitrarily-imprisoned-academic-at-risk-of-torture/\">Amnesty International</a>, which considers him arbitrarily imprisoned, reports that he has been held in solitary confinement and denied medical care, and that he has twice attempted suicide, most recently in his Supreme Court hearing. Below, Global Voices publishes a letter Samadov wrote from prison and asked us to share.</p>\n<blockquote><p>The 2024 summer holidays ended in a nightmare: while visiting Baku, my home city, from my doctoral studies in Prague, I was detained by the notorious State Security Service of Azerbaijan and soon was charged with “high treason.”</p>\n<p>Studying the ideological tenets of the hegemonic regime in my homeland, I directly connected its durability to the conflict between Azerbaijan and Armenia, revealing the narratives of “national unity” under the “savior strongman.”</p>\n<p>During and after the outbreak of the 2020 War in Karabakh, I criticized the deployment of military means. Between 2021–2024, I partook in various conferences and meetings across Europe, presenting my perspective and calling for a meaningful and inclusive policy of peace and co-existence.</p>\n<p>The Azerbaijani regime, having years of the crackdown experience, is aggressively intolerant to any kinds of contestation, and especially targets the independent academic voices. When the repressive machinery was re-launched in late 2023, the regime started the total crackdown on civil society, independent media, politicians, and academicians.</p>\n<p>In private communications, more than five political prisoners connected it to the worsened relations with the <a href=\"https://en.wikipedia.org/wiki/Joe_Biden\">Biden</a> administration. The latter was highly critical to the human rights violations in Azerbaijan.</p>\n<p>Weeks before leaving the White House, Blinken invited human rights defender <a href=\"https://en.wikipedia.org/wiki/Rufat_Safarov\">Rufat Safarov</a> to Washington to receive the Human Rights Defender Award. Several hours after visiting the US Embassy in Baku, Safarov was arrested and accused of hooliganism and fraud. It was an open signal to the US that the leaving administration had no power to endorse the Azerbaijani critical voices.</p>\n<p>The Azerbaijani government acted differently with the Trump administration. The August 8, 2025 meeting and the peace agreement was the soon-disappeared sign of hope for us. Even if the peace agreement did not include any references to human rights, the current administration’s plans for the long-term involvement in the region brought hopes for at least minimal reforms in Azerbaijan.</p>\n<p>Curiously, my sham trial was “fastened” and ended on June 23, 2025 — a process too explicitly controversial to the “peace agenda.” Following the US delegation’s visit to Baku in January 2026, a number of political prisoners, me among them, appealed to the US officials to raise the “political prisoners issue” to the official Baku — a policy that once partially worked during <a href=\"https://en.wikipedia.org/wiki/Barack_Obama\">Obama</a>’s second term.</p>\n<p>However, the recent severe sentences and USA’s silence prove our call remained rather a mere cry from the chamber cells. The Baku-based team of Toplum TV, the veteran human rights defender <a href=\"https://en.wikipedia.org/wiki/Anar_Mammadli\">Anar Mammadli</a> and others have received up to 15 years of imprisonment. To compare, the EU Parliament recently adopted a resolution calling for the release of political prisoners in Azerbaijan. Similar calls were made by the <a href=\"https://pace.coe.int/en/news/10364/pace-denounces-silencing-of-critical-voices-in-azerbaijan\">PACE</a> and even the UN.</p>\n<p>Meanwhile, the Trump administration is proud to end the violence in the South Caucasus (by the way, this narrative is implicitly contested by the official Baku — there D. Trump remains a mere “witness.”) While the Administration of White House endorses officials like <a href=\"https://en.wikipedia.org/wiki/Hikmet_Hajiyev\">Hikmet Hajiyev</a> for their nice compliments to D. Trump and villanization of “Biden–<a href=\"https://en.wikipedia.org/wiki/Antony_Blinken\">Blinken</a> couple,” the sufferings of Azerbaijani imprisoned dissent keep going.</p>\n<p>Many of those fellow political prisoners I had a chance to talk to remain pessimistic and sceptical regarding the US involvement in the region, dismissing the possibility of the “Belarusian scenario.” One prominent political prisoner even rejected to sign the aforementioned call: “They came for security-related issues, they do not care about human rights,” he shouted from the cell’s balcony. “We are Biden’s prisoners,” laughed my inmate, an imprisoned journalist and poet.</p>\n<p>True, nothing publicly known has been made by the Trump administration related to severe human rights violations in Azerbaijan. If the Republican administration aspires to replace Russia in the long-term in the South Caucasus, it should not abandon the ideals of the Founding Fathers in the foreign policy standards. Washington has officially repeatedly mentioned the human rights violations in rival countries like Iran, Cuba, and formerly Venezuela. The selective attitude to the human rights issues and turning the blind eye to our suffering endangers the democratic security of the US itself, not to mention its international image. This policy raises questions about the adherence to the American ideals of the current administration.</p>\n<p>Yet, it is still not too late to follow the recommendations of <a href=\"https://www.amnesty.org/en/latest/news/2026/09/azerbaijan-authorities-must-immediately-release-activist-bahruz-samadov-who-cut-himself-during-latest-court-appearance/\">Amnesty International</a>: “Use every available opportunity, in bilateral and multilateral forces, to raise concerns about Azerbaijan’s human rights record.”</p>\n<p>Bahruz Samadov<br>\nUmbaku Prison<br>\n27.10.2026</p></blockquote>\n<strong>Written by <a href=\"https://globalvoices.org/author/eurasia/\">Global Voices Eurasia</a></strong>",
-          "license": "CC BY 3.0",
-          "license_url": "https://creativecommons.org/licenses/by/3.0/",
-          "words": 1030
+          "author": "",
+          "published": "2026-11-14T09:53:45+00:00",
+          "summary": "Teenage India sensation Vaibhav Sooryavanshi breaks the record held by Croatia's Zach Vukusic as the youngest captain in top-level men's Twenty20 cricket.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
         },
         {
           "id": "64d4544b04eb",
@@ -246,34 +274,6 @@
           "license": "",
           "license_url": "",
           "words": 17
-        },
-        {
-          "id": "de06bec5ec80",
-          "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
-          "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Shrai Popat in Washington, Jonathan Yerushalmy, Mark Sweney and agencies",
-          "published": "2026-11-13T19:51:28+00:00",
-          "summary": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the Nvidia…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "19358d9764ad",
-          "title": "At least 24 killed after bus collides with truck in north-east India",
-          "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – India",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-13T15:16:50+00:00",
-          "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
         }
       ]
     },
@@ -282,6 +282,20 @@
       "title": "Editorials & Opinion",
       "kicker": "Opinion",
       "articles": [
+        {
+          "id": "3d0fef91a5f0",
+          "title": "In an age of grievance politics, Australia’s politicians should heed the lessons from US and New Zealand and rise above mediocrity | Zoe Daniel",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/15/australian-politics-should-heed-lessons-from-us-and-nz-elections",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Zoe Daniel",
+          "published": "2026-11-14T19:00:52+00:00",
+          "summary": "We’ve learned that ignoring the hip pocket is a grievous mistake. Australia could benefit from a courageous reset of economic and social policy Wouldn’t it be nice, as the Beach Boys sang, if the US midterm election results represented a return to kindness?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 43
+        },
         {
           "id": "07f2bdbe0999",
           "title": "Corporate Democrats are weaponizing identity politics to smear progressives | Arwa Mahdawi",
@@ -309,20 +323,6 @@
           "license": "",
           "license_url": "",
           "words": 45
-        },
-        {
-          "id": "5a31c9f37986",
-          "title": "Power creates wars; wars create power. But these compelling acts of storytelling are breaking the loop | Charlotte Higgins",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/14/ukraine-gaza-better-stories-war-artists-remembrance",
-          "source": "The Guardian – Opinion",
-          "section": "editorials-opinion",
-          "author": "Charlotte Higgins",
-          "published": "2026-11-14T08:00:38+00:00",
-          "summary": "Artists’ acts of remembrance about destruction and violence defy the dominant narratives of heroism and sacrifice The way stories are told about wars really matters.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 25
         },
         {
           "id": "37ba6d071f77",
@@ -381,18 +381,18 @@
           "words": 24
         },
         {
-          "id": "b7bc394f2cf5",
-          "title": "The Guardian view on Gaza’s misery: don’t let Palestinian deaths mount in this bleak winter | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/12/the-guardian-view-on-gazas-misery-dont-let-palestinian-deaths-mount-in-this-bleak-winter",
-          "source": "The Guardian – Editorials",
+          "id": "1b60a17ac806",
+          "title": "Microsoft has suffered a global outage. A tech expert explains what went wrong",
+          "url": "https://theconversation.com/microsoft-has-suffered-a-global-outage-a-tech-expert-explains-what-went-wrong-296588",
+          "source": "The Conversation",
           "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-12T18:54:58+00:00",
-          "summary": "The formation of a new Israeli government won’t stop the killing, but sustained international pressure must be applied What do you call a ceasefire when the firing has not ceased?",
+          "author": "Mahmoud Elkhodr, Senior Lecturer in Information and Communication Technologies, CQUniversity Australia",
+          "published": "2026-11-13T01:26:45+00:00",
+          "summary": "This outage shows why we must urgently prepare for digital outages in a similar way we do for natural disasters.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 30
+          "words": 20
         }
       ]
     },
@@ -401,48 +401,6 @@
       "title": "FinTech & Tax Technology",
       "kicker": "Technology & Money",
       "articles": [
-        {
-          "id": "64d53d7eac68",
-          "title": "OpenAI launches ChatGPT Wallet",
-          "url": "https://www.finextra.com/newsarticle/48759/openai-launches-chatgpt-wallet?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-13T18:28:00+00:00",
-          "summary": "OpenAI has unveiled ChatGPT Wallet, enabling AI agents to pay for purchases on users' behalf without accessing their card details.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
-        },
-        {
-          "id": "ee31527cbb54",
-          "title": "German banks form financial crime fighting JV",
-          "url": "https://www.finextra.com/newsarticle/48758/german-banks-form-financial-crime-fighting-jv?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-13T15:12:00+00:00",
-          "summary": "Commerzbank, Deutsche Bank and the German Savings Banks Association have set up joint venture to tackle financial crime.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 18
-        },
-        {
-          "id": "8173be9cdb75",
-          "title": "Lloyds appoints Manija Poulatova as group chief security officer",
-          "url": "https://www.finextra.com/newsarticle/48757/lloyds-appoints-manija-poulatova-as-group-chief-security-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-13T14:43:00+00:00",
-          "summary": "Lloyds Banking Group has promoted former Googler Manija Poulatova to group chief security officer.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 14
-        },
         {
           "id": "1f380d299553",
           "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
@@ -717,18 +675,46 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
-          "id": "075bbfb634c2",
-          "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-          "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+          "id": "a4a92fbcda03",
+          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
           "source": "TechCrunch",
           "section": "business-trends",
-          "author": "Kate Park",
-          "published": "2026-11-14T16:34:15+00:00",
-          "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+          "author": "Anthony Ha",
+          "published": "2026-11-14T21:41:22+00:00",
+          "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 21
+          "words": 12
+        },
+        {
+          "id": "0f3c66386c82",
+          "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+          "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Anthony Ha",
+          "published": "2026-11-14T20:04:44+00:00",
+          "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 10
+        },
+        {
+          "id": "a0251a737d92",
+          "title": "The most important shopper of the future isn’t human",
+          "url": "https://www.fastcompany.com/91635595/the-most-important-shopper-of-the-future-isnt-human-ai-agents-shopping",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Nir Wegrzyn",
+          "published": "2026-11-14T16:24:11+00:00",
+          "summary": "A shopper asks an AI assistant for sneakers for a 23-year-old. Another Googles a boutique hotel in Rome. Before either sees a picture of a shoe or a room, artificial intelligence has helped decide which brands deserve consideration.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 38
         },
         {
           "id": "9dd15c73c575",
@@ -738,25 +724,11 @@
           "section": "business-trends",
           "author": "Rebecca Heilweil",
           "published": "2026-11-14T15:22:59+00:00",
-          "summary": "U.S. airlines are still reeling from a nationwide groundstop issued late Friday night that interrupted weekend travel and wreaked havoc on schedules. The culprit, the Federal Aviation Administration says, was simply outdated tech.",
+          "summary": "U.S. airlines are still reeling from a nationwide ground stop issued on Friday that interrupted weekend travel and wreaked havoc on schedules. The culprit, the Federal Aviation Administration says, was simply outdated tech.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 33
-        },
-        {
-          "id": "49730cb030d2",
-          "title": "A cyberattack forces you to pull the plug. Can your business keep running?",
-          "url": "https://www.fastcompany.com/91640272/a-cyberattack-forces-you-to-pull-the-plug-can-your-business-keep-running-technology-cyberattacks",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "Michael Wade",
-          "published": "2026-11-14T13:47:11+00:00",
-          "summary": "The recent cyberattack on European supermarkets sent the temperature in some Swedish freezers to a sweltering 131 F (55 C).",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
         },
         {
           "id": "a20a765200c5",
@@ -785,20 +757,6 @@
           "license": "",
           "license_url": "",
           "words": 45
-        },
-        {
-          "id": "57ae9f9b1f76",
-          "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-          "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Aisha Malik",
-          "published": "2026-11-13T23:00:00+00:00",
-          "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 28
         },
         {
           "id": "b1b246b5ab5e",
@@ -878,13 +836,6 @@
       "name": "Federal Register – IRS",
       "site": "https://www.federalregister.gov",
       "license": "US Government work (public domain)",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "Finextra",
-      "site": "https://www.finextra.com",
-      "license": "",
       "license_url": "",
       "full_text": false
     },
@@ -998,6 +949,7 @@
     "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
     "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
     "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
+    "Finextra: 403 Client Error: Forbidden for url: https://www.finextra.com/rss/headlines.aspx",
     "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
     "The Fintech Times: feed contained no entries",
     "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
