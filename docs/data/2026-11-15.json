@@ -5,18 +5,18 @@
     "date": "2026-11-15",
     "date_long": "Sunday, 15 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-15T04:11+05:30",
+    "generated_at": "2026-11-15T19:45+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 44,
-    "reading_minutes": 9,
-    "source_count": 22,
+    "total_articles": 47,
+    "reading_minutes": 13,
+    "source_count": 25,
     "full_text_count": 1,
     "per_section": {
       "national-international": 10,
       "editorials-opinion": 8,
-      "fintech-taxtech": 2,
+      "fintech-taxtech": 5,
       "tax-policy": 8,
       "product-analysis": 8,
       "business-trends": 8
@@ -27,43 +27,43 @@
         "count": 6
       },
       {
-        "term": "people",
+        "term": "form",
         "count": 4
       },
       {
-        "term": "microsoft",
+        "term": "income",
         "count": 4
+      },
+      {
+        "term": "work",
+        "count": 3
+      },
+      {
+        "term": "government",
+        "count": 3
+      },
+      {
+        "term": "every",
+        "count": 3
+      },
+      {
+        "term": "global",
+        "count": 3
       },
       {
         "term": "tech",
-        "count": 4
-      },
-      {
-        "term": "without",
         "count": 3
       },
       {
-        "term": "world",
-        "count": 3
+        "term": "exam admits",
+        "count": 2
       },
       {
-        "term": "since",
-        "count": 3
-      },
-      {
-        "term": "corporate",
-        "count": 3
-      },
-      {
-        "term": "artificial intelligence",
+        "term": "admits cheating",
         "count": 2
       },
       {
         "term": "guardian view",
-        "count": 2
-      },
-      {
-        "term": "global outage",
         "count": 2
       },
       {
@@ -103,15 +103,15 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "63,718.00",
-        "change_pct": -6.73,
+        "display": "65,224.00",
+        "change_pct": -1.81,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,750.88",
-        "change_pct": -9.16,
+        "display": "1,820.08",
+        "change_pct": -2.77,
         "source": "CoinGecko"
       }
     ]
@@ -122,9 +122,9 @@
     "source": "The Morning Ledger glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 14",
-    "definition": "edit · refresh · view Word of the day for November 14 Mamie pink n (US, also attributive) A light rosy pink colour with a slight orangish tinge.",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261114000000/en",
+    "word": "Word of the day for November 15",
+    "definition": "edit · refresh · view Word of the day for November 15 bungee v (transitive) To secure (luggage, etc.) using a bungee (noun sense 2.2.1). (intransitive) Synonym of bungee jump (“to participate in bungee jumping”). bungee n (slang, archaic) A…",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261115000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -136,112 +136,112 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "1476d670af2a",
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "id": "22b6b64a17a3",
+          "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
+          "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-15T14:02:08+00:00",
+          "summary": "Yashar and Likud are scheduled to hold talks on Sunday, but will need to overcome major differences to work together.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "309752d11fe9",
+          "title": "FIR against Congress MLA for vandalism at fair. Uttarakhand CM says party ‘losing balance’",
+          "url": "https://indianexpress.com/article/india/harish-dhami-fir-jauljibi-fair-vandalism-uttarakhand-10964226/",
+          "source": "The Indian Express – India",
+          "section": "national-international",
+          "author": "Vidheesha Kuntamalla",
+          "published": "2026-11-15T13:52:18+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "c7e011fee4e7",
+          "title": "Iran targets US military base in Bahrain with drone attack",
+          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – World",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-14T22:37:25+00:00",
-          "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+          "published": "2026-11-15T13:42:58+00:00",
+          "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "b74d8070ffe9",
+          "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+          "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-15T13:37:45+00:00",
+          "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "ee9e0bf7d406",
+          "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Julie Depenbrock",
+          "published": "2026-11-15T10:00:00+00:00",
+          "summary": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 22
         },
         {
-          "id": "efa9822a8d94",
-          "title": "US has lost measles elimination status, global health authorities say",
-          "url": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "Amy Maxmen",
-          "published": "2026-11-14T22:15:02+00:00",
-          "summary": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 28
-        },
-        {
-          "id": "06a1e4f4652e",
-          "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-          "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-14T22:09:40+00:00",
-          "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 11
-        },
-        {
-          "id": "86b64eac3892",
-          "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
-          "url": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
-          "source": "Al Jazeera",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-14T22:00:45+00:00",
-          "summary": "Rasmus Hojlund stars with brace on as Denmark close in on a spot in the Nations League quarterfinals.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 18
-        },
-        {
-          "id": "5f3128295c2d",
-          "title": "SpaceX successfully catches Starship and makes history",
-          "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "The Associated Press",
-          "published": "2026-11-14T21:42:41+00:00",
-          "summary": "The company's spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 28
-        },
-        {
-          "id": "7442b50228ce",
-          "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
-          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+          "id": "aa2588991e1a",
+          "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+          "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
           "source": "The Guardian – World",
           "section": "national-international",
-          "author": "Raphael Rashid",
-          "published": "2026-11-14T19:01:32+00:00",
-          "summary": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra, to victory in Bangkok on Saturday night, at the first regional edition of the…",
+          "author": "Agencies",
+          "published": "2026-11-15T08:56:11+00:00",
+          "summary": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 45
+          "words": 43
         },
         {
-          "id": "4991dd8037fe",
-          "title": "Learning under trees in the era of AI: The paradox of education in Mozambique",
-          "url": "https://globalvoices.org/2026/11/14/learning-under-trees-in-the-era-of-ai-the-paradox-of-education-in-mozambique/",
+          "id": "5dfaff33e82d",
+          "title": "Madagascar aims to support biodiversity by protecting marine areas",
+          "url": "https://globalvoices.org/2026/11/15/madagascar-aims-to-support-biodiversity-by-protecting-marine-areas/",
           "source": "Global Voices",
           "section": "national-international",
-          "author": "Masudul Zarif",
-          "published": "2026-11-14T18:39:17+00:00",
-          "summary": "Mozambique faces an educational paradox: While the use of artificial intelligence is being debated, thousands of students still learn outdoors, without basic infrastructure or internet access.",
-          "full_html": "<p><em>AI could help bridge educational inequality in a country where thousands of students still learn outdoors</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/14/learning-under-trees-in-the-era-of-ai-the-paradox-of-education-in-mozambique/\">Global Voices</a></p><p><a href=\"https://commons.wikimedia.org/wiki/File:School_(7175864900).jpg\">Photo</a> taken by Rahul Ingle, May 2012. This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\">Creative Commons</a> <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">Attribution 2.0 Generic</a> license.</p>\n<p>In many communities across <a href=\"https://pt.wikipedia.org/wiki/Mo%C3%A7ambique\">Mozambique</a>, formal education still takes place in the open air, <a href=\"https://www.bbc.com/portuguese/42533107\">under trees</a>, in improvised yards, or inside fragile structures that barely offer protection from the sun and rain. These so-called outdoor classrooms are not an innovative pedagogical choice, but more often than not, the expression of a structural deficiency: a lack of infrastructure, a shortage of materials, and an estimated deficit of around <a href=\"https://aimnews.org/2025/01/28/sector-da-educacao-com-um-defice-de-12-mil-professores-para-2025/\">12,000 teachers in 2025</a>.</p>\n<p>During the rainy season (roughly November to March in Mozambique), the situation becomes more challenging. In several regions, the school calendar must be adjusted to respond to inclement weather, <a href=\"https://www.dw.com/pt-002/chuvas-em-mo%C3%A7ambique-%C3%A9-preciso-repensar-calend%C3%A1rio-escolar/a-76032971\">such as heavy rains</a> that disrupt classes and hinder the continuity of teaching between November and March each year.</p>\n<p>In this context, the question arises: What is the place of artificial intelligence (AI) in an educational system that, in many areas of the country, is still fighting for the basics?</p>\n\n<h3>A school without walls</h3>\n<p>In rural districts of provinces like <a href=\"https://pt.wikipedia.org/wiki/Cabo_Delgado_(prov%C3%ADncia)\">Cabo Delgado</a>, <a href=\"https://pt.wikipedia.org/wiki/Nampula\">Nampula</a>, and <a href=\"https://pt.wikipedia.org/wiki/Zamb%C3%A9zia\">Zambézia</a>, it is common to find classes of students studying under trees. The <a href=\"https://www.correiodamanhacanada.com/mocambique-avalia-mudancas-para-se-evitar-alunos-a-estudar-debaixo-das-arvores/\">Minister of Education</a>, Samaria Tovela, has been evaluating schedule adjustments because, while classes are frequently interrupted during the <a href=\"https://www.rfi.fr/pt/mocambique/20181125-epoca-chuvosa-e-calamidades-em-mocambique\">rainy season</a>, concentration becomes a constant challenge during periods of intense heat. Without proper blackboards or textbooks, and often with a single <a href=\"https://opais.co.mz/qualidade-do-ensino-em-mocambique-ainda-enfrenta-grandes-desafios-alerta-paulino-fumo/\">teacher responsible for several classes</a>, the learning process becomes irregular and deeply unequal when <a href=\"https://mznews.co.mz/nampula-mais-de-um-milhao-de-alunos-aprendem-a-ler-e-a-escrever-no-chao/\">one million students learn to read and write on the ground</a>.</p>\n<p>This scenario highlights a central problem: Learning depends on minimum standards that are not yet guaranteed in Mozambique. At the same time, one of the biggest obstacles to introducing technologies like AI in rural African contexts is the lack of connectivity. In Mozambique, about <a href=\"https://aimnews.org/2024/06/19/cerca-de-73-da-populacao-mocambicana-nao-tem-acesso-a-servicos-de-internet/\">73 percent of the population lacks internet access</a>, according to 2024 data from the Ministry of Transport and Communications.</p>\n<p>Regional inequalities limit these initiatives, despite <a href=\"https://www.noticiasaominuto.com/tech/2854164/fraco-acesso-a-internet-dificulta-ensino-a-distancia-em-mocambique\">some progress recorded in recent years</a>. This limitation directly affects the potential of solutions such as distance learning or digital learning platforms.</p>\n\n<h3>Language, culture, and the role of the state</h3>\n<p>Another critical challenge is the linguistic and cultural dimension. In Africa, where more than <a href=\"https://pt.smartling.com/blog/african-languages-lab-empowers-low-resource-languages-with-ai\">2,000 languages are spoken</a>, only a fraction — around 49 — are represented on digital platforms like Google’s translation service. Integrating Mozambique’s Indigenous languages, such as <a href=\"https://pt.wikipedia.org/wiki/L%C3%ADngua_macua\">Emakhuwa</a>, <a href=\"https://pt.wikipedia.org/wiki/L%C3%ADngua_tsonga\">Xichangana</a>, or <a href=\"https://pt.wikipedia.org/wiki/L%C3%ADngua_lomu%C3%A9\">Elomwe</a>, into digital educational tools could significantly increase students’ comprehension and engagement, especially in the early years of schooling. However, implementing these solutions raises practical questions in contexts where access to technology is still limited.</p>\n<p>The <a href=\"https://www.mozcensus.com/theme_of_mozambique/facts-sheets/ThematicStudies-2017/Padrao_LinguisticoVFprint-02-02-24.pdf\">overwhelming majority of the Mozambican population</a> speaks a Bantu language most frequently at home (81.7 percent), and a portion cannot speak Portuguese at all (41.9 percent), though it is the sole official language of the country due to its colonial history. Despite this, the media, official government communications, and healthcare institutions continue to privilege Portuguese to the detriment of Bantu languages — the languages of the masses — which, activists argue, constitutes a form of social exclusion. Emerging initiatives, however, show that it is possible to bridge this gap with the aid of technology. <a href=\"https://mittechreview.com.br/ia-idiomas-africanos-lelapa-ai/?srsltid=AfmBOorHN67qlfdeSrbrLkAIF1QLuOpEqmd1bAIBqcRTMum1dyEZAao4\">In Johannesburg</a>, for instance, tech startups are developing AI solutions tailored to African languages.</p>\n\n<h3>Risks and potential</h3>\n<p>Offline tools, pre-loaded content, and digital pedagogical assistants are some of the possible solutions to address the deficiencies and limitations of Mozambique’s education system. While the government <a href=\"https://unesdoc.unesco.org/ark:/48223/pf0000392743\">does not yet have specific policies</a> to integrate AI tools in schools, advocates say the state could play a central role in integrating technology into the daily lives of students and teachers. This also involves investing in teacher training; ensuring basic infrastructure; facilitating energy access; and strengthening partnerships with universities, startups, and international organizations.</p>\n<p>Talking about artificial intelligence in outdoor classrooms may seem contradictory at first glance, but it is precisely in these contexts that technology needs to be considered creatively and responsibly, not as a replacement for the essential, but as a strategic complement.</p>\n\n<p>The priority remains clear: Building schools, training teachers, and ensuring access to basic materials. The question is how to integrate developed technology without creating profound inequalities, respecting local contexts, and placing the student and teacher at the center of decision-making. In a country where learning still takes place under trees, the future of education will depend not only on the technology available, but also on the political and social choices that define who has access to knowledge and under what conditions.</p>\n\n<strong>Written (Português) by <a href=\"https://pt.globalvoices.org/author/tirso-sitoe/\">Tirso Sitoe</a>Translated (English) by <a href=\"https://globalvoices.org/author/masudulzarif/\">Masudul Zarif</a><a href=\"https://pt.globalvoices.org/2026/05/04/aprender-sob-arvores-na-era-da-ia-o-paradoxo-da-educacao-em-mocambique/\">View original post (Português)</a></strong>",
+          "author": "Rebecca Cluett",
+          "published": "2026-11-15T08:11:47+00:00",
+          "summary": "At the annual COP17 on biodiversity, Madagascar confirmed its commitment to the 30x30 Global Target and the conservation of its natural heritage.",
+          "full_html": "<p><em>In Madagascar, biodiversity goals are being tested by funding challenges and local realities</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/15/madagascar-aims-to-support-biodiversity-by-protecting-marine-areas/\">Global Voices</a></p><p>A booth at COP17 showcases Madagascar’s local communities and biodiversity. Photo by Sary nalain&#x27;ny mpanoratra. Used with permission.</p>\n<p>At the <a href=\"https://www.cbd.int/cop\">17th Conference of the Parties (COP17) on biological diversity</a>, held October 19–30, 2026, in <a href=\"https://en.wikipedia.org/wiki/Yerevan\">Yerevan</a>, <a href=\"https://en.wikipedia.org/wiki/Armenia\">Armenia</a>, Madagascar reaffirmed its commitment to protecting its remarkable biodiversity and showcased techniques local community members have implemented.</p>\n<p>The country further outlined its plans and priorities for the future and promoted the initiatives it is committed to in order to protect both its terrestrial and marine ecosystems. This conference was also a strategic opportunity to strengthen green partnerships, develop new collaborations, and to engage with national and international stakeholders involved in biodiversity conservation.</p>\n<p>To mark the occasion, Global Voices interviewed <a href=\"https://www.environnement.mg/__trashed/\">Tojotsara Ratefason</a>, Director of the Directorate of Protected Areas, Renewable Natural Resources, and Ecosystems (DAPRNRE), part of the Madagascan government’s <a href=\"https://www.environnement.mg/organisation/\">Ministry of Environment and Sustainable Development (MEDD)</a>, at this conference. The interview focused on Madagascar’s role in implementing the <a href=\"https://www.cbd.int/gbf\">Kunming-Montreal</a> Global Biodiversity Framework, the <a href=\"https://for-the-ocean.org/why-30x30/\">30×30 global target</a>, conservation funding, and the vital role of local communities, women, and young people in the sustainable protection of Madagascar’s natural heritage. </p>\n<p>Watch the <a href=\"https://youtu.be/NzOTSxpSJdE\">full interview</a> in French here:</p>\n\n<p><strong>Raveloaritiana Mamisoa (RM):</strong><strong> Where does Madagascar stand on implementing the Kunming-Montreal Global Biodiversity Framework? </strong></p>\n<blockquote><p><strong>Tojotsara Ratefason (TF): </strong>Madagascar est confiante dans sa capacité à contribuer à l’atteinte de l’objectif mondial 30×30, aussi bien pour les écosystèmes terrestres que marins. Notre pays dispose déjà d’un système d’aires protégées qui constitue un socle essentiel pour préserver sa biodiversité exceptionnelle. Selon les chiffres que nous présentons, ce réseau compte 155 aires protégées terrestres et marines. Il s’agit d’un acquis important sur lequel nous pouvons nous appuyer pour poursuivre nos efforts de conservation.</p>\n<p>Madagascar dispose d’un cadre national de référence pour orienter ses actions en faveur de la biodiversité : la <a href=\"https://www.environnement.mg/guide/spanb/\">Stratégie et le Plan d’Actions Nationaux pour la Biodiversité (SPANB)</a>. Ce document définit les grandes orientations du pays en matière de conservation, d’utilisation durable et de valorisation de son patrimoine naturel exceptionnel. Il s’inscrit dans le cadre de la<a href=\"https://www.cbd.int/doc/legal/cbd-fr.pdf\"> Convention sur la diversité biologique</a>, à laquelle Madagascar est partie, et constitue un instrument essentiel pour traduire les engagements internationaux en actions nationales.</p>\n<p>Mais la protection de la biodiversité ne se résume pas au nombre d’aires protégées ni aux superficies concernées. Notre objectif est avant tout de préserver les écosystèmes, les espèces et les habitats naturels qui font la singularité de Madagascar. Notre patrimoine naturel est unique au monde et nous avons la responsabilité de le transmettre aux générations futures.</p>\n<p>Cette ambition implique également de renforcer la collaboration avec les communautés locales (<em>vahoaka eny ifotony)</em>, qui vivent au contact direct de ces ressources naturelles. Leur participation est indispensable, car la conservation ne peut pas reposer uniquement sur les décisions du gouvernement. Elle doit être portée conjointement par les institutions publiques, les gestionnaires des aires protégées et les populations qui vivent dans les territoires concernés.</p>\n<p>Nous devons donc trouver les moyens de travailler ensemble, dans une démarche de responsabilité partagée. Les communautés locales doivent comprendre l’importance de la biodiversité, participer à sa protection et pouvoir constater les bénéfices qu’elles peuvent tirer de sa conservation.</p>\n<p>C’est également dans cette perspective que le Ministère de l’Environnement et du Développement Durable cherche à promouvoir les emplois verts et les opportunités économiques liés à la biodiversité unique de Madagascar. Notre richesse naturelle ne doit pas seulement être considérée comme un patrimoine à protéger : elle peut aussi représenter une source de revenus et de développement pour les populations, à condition d’être valorisée de manière durable.</p>\n<p>L’enjeu est de permettre aux communautés de mieux connaître la valeur de leurs ressources naturelles, d’en être fières et de comprendre qu’elles ont tout intérêt à les préserver. Lorsque les populations constatent que la conservation contribue à améliorer leurs conditions de vie, elles peuvent devenir des partenaires encore plus engagés dans la protection de leur environnement.</p></blockquote>\n<blockquote><p><strong>Tojotsara Ratefason (TF): </strong>Madagascar is confident in its ability to contribute to achieving the global 30×30 target, for both terrestrial and marine ecosystems. Our country already has a system of protected areas which forms the foundation for preserving its exceptional biodiversity. According the figures we are presenting, this network includes 155 terrestrial and marine protected areas. This is a significant achievement on which we can build to continue our conservation efforts.</p>\n<p>Madagascar uses a national reference framework to guide its actions to support biodiversity — the <a href=\"https://www.environnement.mg/guide/spanb/\">National strategy and Action Plan for Biodiversity (SPANB)</a>. This document defines the country’s general direction in terms of conservation, sustainable use, and enhancing its remarkable natural heritage. It is part of the <a href=\"https://www.cbd.int/\">Convention on Biological Diversity</a>, of which Madagascar is a signatory, and is an essential for translating international commitments into national actions.</p>\n<p>However, the conservation of biodiversity is not limited to the number of protected areas, nor is that the sole area of concern. Above all our aim is to preserve the ecosystems, species, and natural habitats which are distinct to Madagascar. Our heritage is unique in the world and we have a responsibility to pass it on to future generations.</p>\n<p>This ambition also requires collaboration with the local communities who live directly alongside these natural resources. Their involvement is indispensable as conservation cannot rest solely on the decisions of the government. Decisions must be jointly taken by state institutions, those who manage the protected areas and the populace of the regions concerned.</p>\n<p>Therefore, we must find ways to work together and to share the burden. It is important that local communities understand the importance of biodiversity and participate in its protection and can see the benefits that they can raw from its conservation.</p>\n<p>It is in this vein that the Ministry of the Environment and Sustainable Development is looking for ways to promote ‘green’ jobs and opportunities linked to Madagascar’s biodiversity. Our natural wealth should not only be seen as a heritage to be protected: It can also present a source of revenue and development for the population, as long as it is used in a sustainable way.</p>\n<p>The challenge is allowing communities to better understand the value of their natural resources, to be proud of them and that it is in their interest to preserve them. Once populations realize that conservation can help improve their living conditions, they can become even more committed partners to protecting their environment.</p></blockquote>\n<p><strong>RM: What finance is available for conservation and how is it used? And how does the government ensure that these resources actually benefit local communities? </strong></p>\n<blockquote><p><strong>TR: </strong>Madagascar dispose d’un atout majeur pour mobiliser des financements en faveur de la biodiversité : notre pays figure parmi les<a href=\"https://blog.3bee.com/fr/pays-megadivers/\"> 17 pays mégadivers</a> au monde, reconnus pour la richesse exceptionnelle de leur patrimoine naturel et l’importance de leurs espèces endémiques. Cette reconnaissance renforce l’importance de Madagascar dans les efforts internationaux de conservation de la biodiversité. Notre pays a également bénéficié de financements du<a href=\"https://fr.wikipedia.org/wiki/Fonds_pour_l%27environnement_mondial\"> Fonds pour l’environnement mondial (FEM),</a> connu sous son sigle anglais GEF (<em>Global Environment Facility</em>), qui soutient des projets environnementaux.</p>\n<p>Toutefois, au-delà de la mobilisation des ressources financières, notre objectif est de faire en sorte que ces financements puissent atteindre les communautés locales. Les populations vivant à proximité des aires protégées jouent un rôle essentiel dans la préservation des écosystèmes et doivent pouvoir bénéficier concrètement des efforts de conservation.</p>\n<p>Nous devons donc veiller à ce que les financements consacrés à la biodiversité ne servent pas uniquement à soutenir les activités de protection de la nature, mais contribuent également au développement des communautés concernées. Il est important que les populations locales puissent tirer des bénéfices de la conservation, notamment à travers des initiatives économiques durables et des activités génératrices de revenus compatibles avec la préservation des ressources naturelles.</p>\n<p>L’enjeu est de concilier la protection de notre patrimoine naturel avec l’amélioration des conditions de vie des populations. La conservation doit être une responsabilité partagée, mais aussi une opportunité pour les communautés locales. En constatant les bénéfices concrets de ces actions, elles pourront s’impliquer davantage dans la protection de la biodiversité malgache.</p></blockquote>\n<blockquote><p><strong>TR: </strong>Madagascar has a major advantage when it comes to securing funding for biodiversity. Our country is one of the world’s <a href=\"https://blog.3bee.com/en/megadiverse-countries/\">17 megadiverse countries,</a> recognized for the exceptional richness of their natural heritage and the importance of their endemic species. This recognition reinforces the importance of Madagascar in international efforts in biodiversity conservation. Our country also benefits from funding from the <a href=\"https://en.wikipedia.org/wiki/Global_Environment_Facility\">Global Environment Facility (GEF),</a> which supports environmental projects.</p>\n<p>At the same time, as well as mobilising financial resources our aim is to ensure that these funds reach local communities. Communities living near the protected areas play an essential role in preserving ecosystems and should receive concrete benefits for the conservation efforts.</p>\n<p>We must, therefore, ensure that the funds allocated to biodiversity are not only used for nature conservation but that they also contribute to the development of local communities. It is important that these local communities can see the benefits of conservation particularly through sustainable economic initiatives and income-generating activities that are compatible with the preservation of natural resources.</p>\n<p>The challenge is to reconcile protecting out natural heritage with the improvement in living conditions of these local communities. Conservation should be a shared responsibilty but also an opportunity for local people. By seeing the concrete<strong> </strong>benefits of these initiatives they will get more involved in protecting Madagascan biodiversity.</p></blockquote>\n<em>This article was produced as part of the “2026 CBD COP17 Fellowship” run by Informed Earth in partnership with <a href=\"https://www.internews.org/\">Internews</a>’ <a href=\"https://earthjournalism.net/\">Earth Journalism Network</a>.</em>\n<strong>Written (Français) by <a href=\"https://fr.globalvoices.org/author/mamisoar/\">Mamisoa Raveloaritiana</a>Translated (English) by <a href=\"https://globalvoices.org/author/rebecca-cluett/\">Rebecca Cluett</a><a href=\"https://fr.globalvoices.org/2026/11/09/304239/\">View original post (Français)</a></strong>",
           "license": "CC BY 3.0",
           "license_url": "https://creativecommons.org/licenses/by/3.0/",
-          "words": 786
+          "words": 1598
         },
         {
-          "id": "893f210d41dd",
-          "title": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
-          "url": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
+          "id": "e6ff120e40a3",
+          "title": "World leaders head to Asia for back-to-back diplomatic summits",
+          "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
           "source": "The Guardian – World",
           "section": "national-international",
-          "author": "Jonathan Watts; graphics by Sara Fiorillo",
-          "published": "2026-11-14T13:00:44+00:00",
-          "summary": "People around the world have contended with unprecedented weather events and their fatal effects caused by the climate catastrophe After the world’s hottest summer since records began in 1850, the death toll from extreme weather in 2026 is already in the high tens of thousands.",
+          "author": "Oliver Holmes and Rebecca Bailey",
+          "published": "2026-11-15T04:00:02+00:00",
+          "summary": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetings World leaders will fly in to Asia for back-to-back high-level summits this week against the backdrop of the tussle for influence between the superpowers China and…",
           "full_html": null,
           "license": "",
           "license_url": "",
@@ -283,46 +283,60 @@
       "kicker": "Opinion",
       "articles": [
         {
-          "id": "3d0fef91a5f0",
-          "title": "In an age of grievance politics, Australia’s politicians should heed the lessons from US and New Zealand and rise above mediocrity | Zoe Daniel",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/15/australian-politics-should-heed-lessons-from-us-and-nz-elections",
+          "id": "a39fa7636e6a",
+          "title": "Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise",
           "source": "The Guardian – Opinion",
           "section": "editorials-opinion",
-          "author": "Zoe Daniel",
-          "published": "2026-11-14T19:00:52+00:00",
-          "summary": "We’ve learned that ignoring the hip pocket is a grievous mistake. Australia could benefit from a courageous reset of economic and social policy Wouldn’t it be nice, as the Beach Boys sang, if the US midterm election results represented a return to kindness?",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 43
-        },
-        {
-          "id": "07f2bdbe0999",
-          "title": "Corporate Democrats are weaponizing identity politics to smear progressives | Arwa Mahdawi",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/14/corporate-democrats-identity-politics-progressives",
-          "source": "The Guardian – Opinion",
-          "section": "editorials-opinion",
-          "author": "Arwa Mahdawi",
-          "published": "2026-11-14T13:00:46+00:00",
-          "summary": "House members have responded to legitimate criticism with cynicism. Let’s not have another ‘Bernie bros’ moment Before we get started, some ground rules. You are, of course, completely free to disagree with everything I have to say here.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 38
-        },
-        {
-          "id": "956db56ce5da",
-          "title": "King Æthelstan founded England in the year 927. Why don’t we celebrate that anniversary? | Tom Holland",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/14/king-athelstan-england-1100-anniversary-2027",
-          "source": "The Guardian – Opinion",
-          "section": "editorials-opinion",
-          "author": "Tom Holland",
-          "published": "2026-11-14T10:00:41+00:00",
-          "summary": "Nearly 1,100 years ago, the nation’s first king drove out the ‘heathen’ Vikings, declared war on starvation and made ‘Englalonde’ what it is today On 4 July, the United States celebrated its 250th birthday with all the razzmatazz and dazzle characteristic of an American public…",
+          "author": "John Quiggin",
+          "published": "2026-11-15T14:00:19+00:00",
+          "summary": "The role AI played in job losses at Australia’s NAB, Qantas, Canva and Atlassian is far from clear – but it may prove to have more impact on the stock market than the jobs market Get our breaking news email, free app or daily news…",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
+        },
+        {
+          "id": "4f1ad40909c9",
+          "title": "How do we face uncertainty without allowing it to overwhelm us? This Islamic teaching shows us the way",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/16/making-sense-of-uncertainty-this-islamic-teaching-shows-us-the-way-ntwnfb",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Shadi Khan Saif",
+          "published": "2026-11-15T14:00:18+00:00",
+          "summary": "For generations of Muslims, tawakkul has been an essential part of faith – making a sincere effort while recognising the limits of human control I once asked an elderly naan seller on the streets of Kabul how he was managing to make a living.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 44
+        },
+        {
+          "id": "db1fdc9d0e27",
+          "title": "From US midterms to continuing Bihar political churn — an identity question, and no easy answers",
+          "url": "https://indianexpress.com/article/opinion/us-midterms-bihar-political-churn-identity-question-answers-10964284/",
+          "source": "The Indian Express – Opinion",
+          "section": "editorials-opinion",
+          "author": "Aakash Joshi",
+          "published": "2026-11-15T13:52:28+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "385664ff6966",
+          "title": "India U-19 Asia Cup victory against Pakistan: Winning matters, but so does sportsmanship",
+          "url": "https://indianexpress.com/article/opinion/columns/india-u-19-asia-cup-victory-against-pakistan-winning-matters-but-so-does-sportsmanship-10964055/",
+          "source": "The Indian Express – Opinion",
+          "section": "editorials-opinion",
+          "author": "Nihal Koshie",
+          "published": "2026-11-15T10:30:12+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
         },
         {
           "id": "37ba6d071f77",
@@ -379,20 +393,6 @@
           "license": "",
           "license_url": "",
           "words": 24
-        },
-        {
-          "id": "1b60a17ac806",
-          "title": "Microsoft has suffered a global outage. A tech expert explains what went wrong",
-          "url": "https://theconversation.com/microsoft-has-suffered-a-global-outage-a-tech-expert-explains-what-went-wrong-296588",
-          "source": "The Conversation",
-          "section": "editorials-opinion",
-          "author": "Mahmoud Elkhodr, Senior Lecturer in Information and Communication Technologies, CQUniversity Australia",
-          "published": "2026-11-13T01:26:45+00:00",
-          "summary": "This outage shows why we must urgently prepare for digital outages in a similar way we do for natural disasters.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
         }
       ]
     },
@@ -401,6 +401,48 @@
       "title": "FinTech & Tax Technology",
       "kicker": "Technology & Money",
       "articles": [
+        {
+          "id": "991f49e129eb",
+          "title": "Onramper Launches Chrome Extension for Crypto Quote Comparison",
+          "url": "https://thefintechtimes.com/onramper-launches-chrome-extension-for-crypto-quote-comparison/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-15T14:00:18+00:00",
+          "summary": "The Amsterdam fiat-to-crypto aggregator is bringing live quotes from 30+ licensed providers into Chrome's side panel for in-browser buying.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "39af049582c8",
+          "title": "Mastercard Extends First-Party Trust Fraud Programme to Europe",
+          "url": "https://thefintechtimes.com/mastercard-extends-first-party-trust-fraud-programme-to-europe/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-15T10:00:08+00:00",
+          "summary": "Mastercard is rolling out its chargeback-dispute programme to Europe from July 2027, targeting a projected 324 million global chargeback transactions by 2028.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
+          "id": "be4637cc07bd",
+          "title": "Tipalti Launches AP Agent with MCP Links to Enterprise AI Tools",
+          "url": "https://thefintechtimes.com/tipalti-launches-ap-agent-with-mcp-links-to-enterprise-ai-tools/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-15T01:00:45+00:00",
+          "summary": "Tipalti's next-generation AP Agent coordinates the full accounts payable lifecycle, while new MCP capabilities connect live financial data to tools including Claude",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
         {
           "id": "1f380d299553",
           "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
@@ -451,6 +493,20 @@
           "words": 23
         },
         {
+          "id": "e184a6141a7c",
+          "title": "ITAT Weekly Roundup",
+          "url": "https://www.taxscan.in/income-tax/itat-weekly-roundup-7",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Raheel Midhat",
+          "published": "2026-11-15T01:55:59+00:00",
+          "summary": "The Round-up of the Income Tax Appellate Tribunal (ITAT) Cases Reported at Taxscan from 8 November 2026 to 14 November 2026.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
           "id": "24491c21445c",
           "title": "Unrefunded Advance for TMT Bar Supply Constitutes Operational Debt: NCLT Admits ₹3.85 Cr Insolvency Plea [Read Order]",
           "url": "https://www.taxscan.in/corporate-laws/unrefunded-advance-for-tmt-bar-supply-constitutes-operational-debt-nclt-admits-385-cr-insolvency-plea-read-order",
@@ -477,20 +533,6 @@
           "license": "",
           "license_url": "",
           "words": 18
-        },
-        {
-          "id": "3140b4307b44",
-          "title": "Orissa HC Dismisses Income Tax Department’s Appeal as Tax Effect Falls Below CBDT’s Monetary Limit [Read Order]",
-          "url": "https://www.taxscan.in/income-tax/orissa-hc-dismisses-income-tax-departments-appeal-as-tax-effect-falls-below-cbdts-monetary-limit-read-order",
-          "source": "Taxscan (India)",
-          "section": "tax-policy",
-          "author": "Kalyani B. Nair",
-          "published": "2026-11-14T08:32:51+00:00",
-          "summary": "Revenue’s appeal liable to be dismissed for failing to meet monetary threshold prescribed under CBDT Circular",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 16
         },
         {
           "id": "04dd25bd4d89",
@@ -675,6 +717,62 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
+          "id": "8edd280b08fc",
+          "title": "Thinking of quitting your job? Don’t until you consider this factor",
+          "url": "https://www.fastcompany.com/91633889/thinking-of-quitting-your-job-dont-do-it-until-you-consider-this-under-recognized-factor-workplace-quitting-job",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Stacy S. Kim",
+          "published": "2026-11-15T13:10:00+00:00",
+          "summary": "You know that stinging sensation you get when your coworker gets the promotion that you thought was yours? Or that sinking feeling of doom when you realize that a new hire could take over your role?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 36
+        },
+        {
+          "id": "82bdeec2a1a0",
+          "title": "AI is making software easier to build. Keeping it running is another story",
+          "url": "https://www.fastcompany.com/91642024/ai-is-making-software-easier-to-build-keeping-it-running-is-another-story",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Kolawole Samuel Adebayo",
+          "published": "2026-11-15T10:00:00+00:00",
+          "summary": "These days, it almost feels like old news: Developers can now use AI tools to generate code, build features, and make changes in a fraction of the time they once needed.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 31
+        },
+        {
+          "id": "acaf00569e86",
+          "title": "Where was Nvidia’s security team?",
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Connie Loizos",
+          "published": "2026-11-15T00:08:07+00:00",
+          "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "2693065fc308",
+          "title": "Beauty advent calendars can cost hundreds but are they value for money?",
+          "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-15T00:01:07+00:00",
+          "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
           "id": "a4a92fbcda03",
           "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
           "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
@@ -687,48 +785,6 @@
           "license": "",
           "license_url": "",
           "words": 12
-        },
-        {
-          "id": "0f3c66386c82",
-          "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-          "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Anthony Ha",
-          "published": "2026-11-14T20:04:44+00:00",
-          "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 10
-        },
-        {
-          "id": "a0251a737d92",
-          "title": "The most important shopper of the future isn’t human",
-          "url": "https://www.fastcompany.com/91635595/the-most-important-shopper-of-the-future-isnt-human-ai-agents-shopping",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "Nir Wegrzyn",
-          "published": "2026-11-14T16:24:11+00:00",
-          "summary": "A shopper asks an AI assistant for sneakers for a 23-year-old. Another Googles a boutique hotel in Rome. Before either sees a picture of a shoe or a room, artificial intelligence has helped decide which brands deserve consideration.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 38
-        },
-        {
-          "id": "9dd15c73c575",
-          "title": "The FAA’s IT troubles are far bigger then AI",
-          "url": "https://www.fastcompany.com/91642664/the-faas-it-troubles-are-far-bigger-then-ai",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "Rebecca Heilweil",
-          "published": "2026-11-14T15:22:59+00:00",
-          "summary": "U.S. airlines are still reeling from a nationwide ground stop issued on Friday that interrupted weekend travel and wreaked havoc on schedules. The culprit, the Federal Aviation Administration says, was simply outdated tech.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 33
         },
         {
           "id": "a20a765200c5",
@@ -771,20 +827,6 @@
           "license": "",
           "license_url": "",
           "words": 45
-        },
-        {
-          "id": "dabb9c42293e",
-          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Business",
-          "section": "business-trends",
-          "author": "",
-          "published": "2026-11-13T19:53:57+00:00",
-          "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
         }
       ]
     }
@@ -917,6 +959,13 @@
       "full_text": false
     },
     {
+      "name": "The Fintech Times",
+      "site": "https://thefintechtimes.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
       "name": "The Guardian – Business",
       "site": "https://www.theguardian.com",
       "license": "",
@@ -943,18 +992,29 @@
       "license": "",
       "license_url": "",
       "full_text": false
+    },
+    {
+      "name": "The Indian Express – India",
+      "site": "https://indianexpress.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Indian Express – Opinion",
+      "site": "https://indianexpress.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
     }
   ],
   "errors": [
-    "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
     "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
-    "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
     "Finextra: 403 Client Error: Forbidden for url: https://www.finextra.com/rss/headlines.aspx",
     "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
-    "The Fintech Times: feed contained no entries",
     "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
     "Mind the Product: feed contained no entries",
-    "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
+    "World Economic Forum: 404 Client Error: Not Found for url: https://www.weforum.org/agenda/feed",
     "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
   ]
 }
