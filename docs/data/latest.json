@@ -2,20 +2,20 @@
   "edition": {
     "name": "The Morning Ledger",
     "tagline": "A quiet read for a busy morning",
-    "date": "2026-11-15",
-    "date_long": "Sunday, 15 November 2026",
+    "date": "2026-11-16",
+    "date_long": "Monday, 16 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-15T19:45+05:30",
+    "generated_at": "2026-11-16T04:35+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 47,
+    "total_articles": 45,
     "reading_minutes": 13,
-    "source_count": 25,
+    "source_count": 23,
     "full_text_count": 1,
     "per_section": {
       "national-international": 10,
-      "editorials-opinion": 8,
+      "editorials-opinion": 6,
       "fintech-taxtech": 5,
       "tax-policy": 8,
       "product-analysis": 8,
@@ -27,47 +27,47 @@
         "count": 6
       },
       {
-        "term": "form",
+        "term": "world",
         "count": 4
       },
       {
-        "term": "income",
+        "term": "people",
         "count": 4
       },
       {
-        "term": "work",
+        "term": "jensen huang",
         "count": 3
       },
       {
-        "term": "government",
+        "term": "order",
         "count": 3
       },
       {
-        "term": "every",
+        "term": "nvidia",
         "count": 3
       },
       {
-        "term": "global",
+        "term": "take",
         "count": 3
       },
       {
-        "term": "tech",
+        "term": "role",
         "count": 3
       },
       {
-        "term": "exam admits",
-        "count": 2
-      },
-      {
-        "term": "admits cheating",
-        "count": 2
+        "term": "live",
+        "count": 3
       },
       {
         "term": "guardian view",
         "count": 2
       },
       {
-        "term": "order nclt",
+        "term": "admits insolvency",
+        "count": 2
+      },
+      {
+        "term": "nclt admits",
         "count": 2
       }
     ],
@@ -103,22 +103,22 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "65,224.00",
-        "change_pct": -1.81,
+        "display": "65,371.00",
+        "change_pct": 2.89,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,820.08",
-        "change_pct": -2.77,
+        "display": "1,835.35",
+        "change_pct": 5.3,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Arbitrage",
-    "definition": "The simultaneous purchase and sale of an asset in different markets to profit from a difference in the price.",
+    "term": "Hedging",
+    "definition": "An investment position intended to offset potential losses or gains that may be incurred by a companion investment.",
     "source": "The Morning Ledger glossary"
   },
   "dictionary_word": {
@@ -136,74 +136,74 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "22b6b64a17a3",
-          "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
-          "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
-          "source": "Al Jazeera",
+          "id": "1adf31d370b1",
+          "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
+          "source": "NPR News",
           "section": "national-international",
-          "author": "",
-          "published": "2026-11-15T14:02:08+00:00",
-          "summary": "Yashar and Likud are scheduled to hold talks on Sunday, but will need to overcome major differences to work together.",
+          "author": "Ava Pukatch",
+          "published": "2026-11-15T22:41:22+00:00",
+          "summary": "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 20
+          "words": 32
         },
         {
-          "id": "309752d11fe9",
-          "title": "FIR against Congress MLA for vandalism at fair. Uttarakhand CM says party ‘losing balance’",
-          "url": "https://indianexpress.com/article/india/harish-dhami-fir-jauljibi-fair-vandalism-uttarakhand-10964226/",
-          "source": "The Indian Express – India",
-          "section": "national-international",
-          "author": "Vidheesha Kuntamalla",
-          "published": "2026-11-15T13:52:18+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "c7e011fee4e7",
-          "title": "Iran targets US military base in Bahrain with drone attack",
-          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+          "id": "ddaa095629ad",
+          "title": "Police ban protests near 10 schools and five universities in Paris",
+          "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – World",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-15T13:42:58+00:00",
-          "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+          "published": "2026-11-15T22:28:54+00:00",
+          "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "c6f717fdbe76",
+          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-15T22:24:20+00:00",
+          "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "917b9a52c807",
+          "title": "Sydney Sweeney has great jeans. Who made them? (Psst: Workers)",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Diaa Hadid",
+          "published": "2026-11-15T22:07:55+00:00",
+          "summary": "Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 28
         },
         {
-          "id": "b74d8070ffe9",
-          "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-          "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
+          "id": "735bc3150eb4",
+          "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
+          "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
+          "source": "Al Jazeera",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-15T13:37:45+00:00",
-          "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+          "published": "2026-11-15T22:06:38+00:00",
+          "summary": "The countries accuse Israel of preventing tents and other supplies from entering Gaza, despite the humanitarian crisis.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 20
-        },
-        {
-          "id": "ee9e0bf7d406",
-          "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
-          "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "Julie Depenbrock",
-          "published": "2026-11-15T10:00:00+00:00",
-          "summary": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 22
+          "words": 17
         },
         {
           "id": "aa2588991e1a",
@@ -283,6 +283,48 @@
       "kicker": "Opinion",
       "articles": [
         {
+          "id": "7f58595b876a",
+          "title": "The Guardian view on Cop31: the green transition must not be derailed | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/15/the-guardian-view-on-cop31-the-green-transition-must-not-be-derailed",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-15T17:30:19+00:00",
+          "summary": "Renewed commitments to electrification and climate science are vital outcomes from the latest round of UN talks The Cop31 climate talks have acquired something their delegates scarcely expected: a little political breathing space.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 33
+        },
+        {
+          "id": "0502dc334f32",
+          "title": "The Guardian view on civil service reform: AI cannot conjure a capable state on its own | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/15/the-guardian-view-on-civil-service-reform-ai-cannot-conjure-a-capable-state-on-its-own",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-15T17:25:19+00:00",
+          "summary": "Whitehall needs to change, but more technology isn’t enough. Opening routes to leadership would bring skills that are too often overlooked The cabinet secretary, Antonia Romeo, called for an overhaul of a “reactive and risk-averse” civil service in her speech last Tuesday.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 42
+        },
+        {
+          "id": "bd8868028e7d",
+          "title": "The crisis facing Britain’s young people is politicians’ fault. To fix it, we need a generational response | Andy Burnham",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/15/britain-young-people-crisis-alan-milburn-review-welfare-childhood",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Andy Burnham",
+          "published": "2026-11-15T17:00:18+00:00",
+          "summary": "Alan Milburn’s review will mark a watershed moment for our approach to welfare and childhood.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
           "id": "a39fa7636e6a",
           "title": "Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin",
           "url": "https://www.theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise",
@@ -295,76 +337,6 @@
           "license": "",
           "license_url": "",
           "words": 45
-        },
-        {
-          "id": "4f1ad40909c9",
-          "title": "How do we face uncertainty without allowing it to overwhelm us? This Islamic teaching shows us the way",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/16/making-sense-of-uncertainty-this-islamic-teaching-shows-us-the-way-ntwnfb",
-          "source": "The Guardian – Opinion",
-          "section": "editorials-opinion",
-          "author": "Shadi Khan Saif",
-          "published": "2026-11-15T14:00:18+00:00",
-          "summary": "For generations of Muslims, tawakkul has been an essential part of faith – making a sincere effort while recognising the limits of human control I once asked an elderly naan seller on the streets of Kabul how he was managing to make a living.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 44
-        },
-        {
-          "id": "db1fdc9d0e27",
-          "title": "From US midterms to continuing Bihar political churn — an identity question, and no easy answers",
-          "url": "https://indianexpress.com/article/opinion/us-midterms-bihar-political-churn-identity-question-answers-10964284/",
-          "source": "The Indian Express – Opinion",
-          "section": "editorials-opinion",
-          "author": "Aakash Joshi",
-          "published": "2026-11-15T13:52:28+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "385664ff6966",
-          "title": "India U-19 Asia Cup victory against Pakistan: Winning matters, but so does sportsmanship",
-          "url": "https://indianexpress.com/article/opinion/columns/india-u-19-asia-cup-victory-against-pakistan-winning-matters-but-so-does-sportsmanship-10964055/",
-          "source": "The Indian Express – Opinion",
-          "section": "editorials-opinion",
-          "author": "Nihal Koshie",
-          "published": "2026-11-15T10:30:12+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "37ba6d071f77",
-          "title": "The Guardian view on press freedom: authoritarians target journalism because it matters | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-press-freedom-authoritarians-target-journalism-because-it-matters",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-13T18:01:46+00:00",
-          "summary": "From Cairo to Moscow to Washington, governments are turning up the pressure on media workers Lina Attalah is an influential Egyptian journalist. Yet until last month, even she was unaware of a major and concerning piece of news: her own conviction.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 41
-        },
-        {
-          "id": "d286ac102d02",
-          "title": "The Guardian view on M John Harrison’s Booker win: a new frontier for science fiction | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-m-john-harrisons-booker-win-a-new-frontier-for-science-fiction",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-13T18:00:56+00:00",
-          "summary": "The End of Everything is a novel for our age of permacrisis. Genre boundaries belong to the past “Science fiction will never be Literature with a capital ‘L,’” began a New York Times review of Margaret Atwood’s novel Oryx and Crake back in 2003.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 44
         },
         {
           "id": "fa67c5920455",
@@ -717,6 +689,76 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
+          "id": "339ad517f722",
+          "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-15T22:30:03+00:00",
+          "summary": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "9e3d554c6cb5",
+          "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+          "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Anthony Ha",
+          "published": "2026-11-15T21:56:35+00:00",
+          "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        },
+        {
+          "id": "d9bb72c7b4b4",
+          "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+          "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Anthony Ha",
+          "published": "2026-11-15T20:20:57+00:00",
+          "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "8327947f6831",
+          "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+          "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Anthony Ha",
+          "published": "2026-11-15T18:29:14+00:00",
+          "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        },
+        {
+          "id": "6283af300979",
+          "title": "When the boss has an affair, the whole family business can pay the price",
+          "url": "https://www.theguardian.com/business/2026/nov/15/nvidia-ceo-jensen-huang-affair-business",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Gene Marks",
+          "published": "2026-11-15T15:00:16+00:00",
+          "summary": "Fallout from ex-Nvidia CEO Jensen Huang’s affair is the latest reminder of the shared toll paid when patriarchs cheat From Profumo to Petraeus to Gary Hart, Bill Gates and Bill Clinton, history is littered with older men in positions of great responsibility having affairs with…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
           "id": "8edd280b08fc",
           "title": "Thinking of quitting your job? Don’t until you consider this factor",
           "url": "https://www.fastcompany.com/91633889/thinking-of-quitting-your-job-dont-do-it-until-you-consider-this-under-recognized-factor-workplace-quitting-job",
@@ -745,84 +787,14 @@
           "words": 31
         },
         {
-          "id": "acaf00569e86",
-          "title": "Where was Nvidia’s security team?",
-          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Connie Loizos",
-          "published": "2026-11-15T00:08:07+00:00",
-          "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "2693065fc308",
-          "title": "Beauty advent calendars can cost hundreds but are they value for money?",
-          "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Business",
-          "section": "business-trends",
-          "author": "",
-          "published": "2026-11-15T00:01:07+00:00",
-          "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 15
-        },
-        {
-          "id": "a4a92fbcda03",
-          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Anthony Ha",
-          "published": "2026-11-14T21:41:22+00:00",
-          "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 12
-        },
-        {
-          "id": "a20a765200c5",
-          "title": "Microsoft says services fully restored after day-long global outage",
-          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Business",
-          "section": "business-trends",
-          "author": "",
-          "published": "2026-11-14T06:42:27+00:00",
-          "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
-        },
-        {
-          "id": "4b1ed9147537",
-          "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
-          "url": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
+          "id": "2460d1d60ca9",
+          "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+          "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
           "source": "The Guardian – Business",
           "section": "business-trends",
-          "author": "Edward Helmore in New York",
-          "published": "2026-11-14T02:49:59+00:00",
-          "summary": "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stop The decision to ground all flights on Friday by the US Federal Aviation Administration (FAA) threw airports and travel plans into chaos across the country, as passengers on planes…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "b1b246b5ab5e",
-          "title": "Microsoft outage shakes up companies, schools and local governments across US",
-          "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
-          "source": "The Guardian – Business",
-          "section": "business-trends",
-          "author": "Gaya Gupta in New York",
-          "published": "2026-11-13T21:13:59+00:00",
-          "summary": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outage Microsoft outage – live updates The Microsoft Outlook outage has shaken up companies and local governments across the US that use its suite of email, calendar, video conferencing…",
+          "author": "Nick Robins-Early",
+          "published": "2026-11-15T06:00:06+00:00",
+          "summary": "Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true The resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory, featuring allegations of international espionage and extramarital affairs involving one…",
           "full_html": null,
           "license": "",
           "license_url": "",
@@ -992,29 +964,17 @@
       "license": "",
       "license_url": "",
       "full_text": false
-    },
-    {
-      "name": "The Indian Express – India",
-      "site": "https://indianexpress.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "The Indian Express – Opinion",
-      "site": "https://indianexpress.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
     }
   ],
   "errors": [
+    "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
     "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
+    "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
     "Finextra: 403 Client Error: Forbidden for url: https://www.finextra.com/rss/headlines.aspx",
     "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
     "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
     "Mind the Product: feed contained no entries",
-    "World Economic Forum: 404 Client Error: Not Found for url: https://www.weforum.org/agenda/feed",
+    "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
     "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
   ]
 }
