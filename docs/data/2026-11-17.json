@@ -1,0 +1,980 @@
+{
+  "edition": {
+    "name": "The Morning Ledger",
+    "tagline": "A quiet read for a busy morning",
+    "date": "2026-11-17",
+    "date_long": "Tuesday, 17 November 2026",
+    "timezone": "Asia/Kolkata",
+    "generated_at": "2026-11-17T07:30+05:30",
+    "is_sample": false
+  },
+  "dashboard": {
+    "total_articles": 45,
+    "reading_minutes": 12,
+    "source_count": 23,
+    "full_text_count": 1,
+    "per_section": {
+      "national-international": 10,
+      "editorials-opinion": 7,
+      "fintech-taxtech": 5,
+      "tax-policy": 8,
+      "product-analysis": 7,
+      "business-trends": 8
+    },
+    "keywords": [
+      {
+        "term": "people",
+        "count": 6
+      },
+      {
+        "term": "product",
+        "count": 5
+      },
+      {
+        "term": "political",
+        "count": 4
+      },
+      {
+        "term": "every",
+        "count": 4
+      },
+      {
+        "term": "bank",
+        "count": 4
+      },
+      {
+        "term": "guardian view",
+        "count": 3
+      },
+      {
+        "term": "nvidia",
+        "count": 3
+      },
+      {
+        "term": "europe",
+        "count": 3
+      },
+      {
+        "term": "announced",
+        "count": 3
+      },
+      {
+        "term": "rwanda five",
+        "count": 2
+      },
+      {
+        "term": "centre rwanda",
+        "count": 2
+      },
+      {
+        "term": "rwanda germany",
+        "count": 2
+      }
+    ],
+    "markets": [
+      {
+        "label": "USD/EUR",
+        "group": "Currencies",
+        "display": "0.9079",
+        "change_pct": 0.35,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/GBP",
+        "group": "Currencies",
+        "display": "0.7577",
+        "change_pct": 0.21,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/INR",
+        "group": "Currencies",
+        "display": "93.93",
+        "change_pct": -0.34,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/JPY",
+        "group": "Currencies",
+        "display": "159.60",
+        "change_pct": -0.25,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "Bitcoin (USD)",
+        "group": "Crypto",
+        "display": "64,673.00",
+        "change_pct": 0.08,
+        "source": "CoinGecko"
+      },
+      {
+        "label": "Ethereum (USD)",
+        "group": "Crypto",
+        "display": "1,817.58",
+        "change_pct": 0.66,
+        "source": "CoinGecko"
+      }
+    ]
+  },
+  "word_of_the_day": {
+    "term": "Venture Capital",
+    "definition": "A form of private equity and a type of financing that investors provide to startup companies and small businesses that are believed to have long-term growth potential.",
+    "source": "The Morning Ledger glossary"
+  },
+  "dictionary_word": {
+    "word": "Word of the day for November 17",
+    "definition": "edit · refresh · view Word of the day for November 17 promenade v (transitive) Followed by the dummy pronoun it: to walk, or drive or ride, in a leisurely manner, especially in a place where one can be seen…",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261117000000/en",
+    "source": "Wiktionary",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "sections": [
+    {
+      "id": "national-international",
+      "title": "National & International News",
+      "kicker": "The World Today",
+      "articles": [
+        {
+          "id": "349134aed1b0",
+          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-17T01:49:26+00:00",
+          "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "899257ebfc02",
+          "title": "Yemen army reports 661 attacks on Houthis amid Houthi push towards Aden",
+          "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-17T01:38:13+00:00",
+          "summary": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "115d73dd0391",
+          "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+          "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Jennifer Rankin in Brussels",
+          "published": "2026-11-17T01:10:59+00:00",
+          "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "8d5a143784b6",
+          "title": "Five EU countries announce migrant deportation centre in Rwanda",
+          "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-16T23:20:45+00:00",
+          "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "2f3e3028b5a9",
+          "title": "California sues OpenAI over hacking risks",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Huo Jingnan",
+          "published": "2026-11-16T22:06:22+00:00",
+          "summary": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "45edaf233812",
+          "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Katie McQue",
+          "published": "2026-11-16T18:49:26+00:00",
+          "summary": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "82e8729347a0",
+          "title": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
+          "url": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Guardian sport",
+          "published": "2026-11-16T13:16:36+00:00",
+          "summary": "Suspect named as Greene Da’monte Khiree Drug smuggling carries life sentence in Nigeria An American basketball player has been arrested in Nigeria for allegedly attempting to smuggle 33.95kg (75lb) of marijuana into the country.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "b651bad88986",
+          "title": "Civil society questions decree that could block access to telecommunications networks in Mozambique",
+          "url": "https://globalvoices.org/2026/11/16/civil-society-questions-decree-that-could-block-access-to-telecommunications-networks-in-mozambique/",
+          "source": "Global Voices",
+          "section": "national-international",
+          "author": "Masudul Zarif",
+          "published": "2026-11-16T08:38:21+00:00",
+          "summary": "The telecommunications decree in Mozambique raises serious concerns regarding potential restrictions on fundamental rights, including freedom of expression and access to information during periods of political tension.",
+          "full_html": "<p><em>Officials claim the measure ‘protects society,’ but civil society organizations see a threat to freedom of expression</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/16/civil-society-questions-decree-that-could-block-access-to-telecommunications-networks-in-mozambique/\">Global Voices</a></p><p>Post-election protests in Maputo, Mozambique, in 2025. Photo by Wilson Thole. Used with permission.</p>\n<p>Civil society organizations in Mozambique, such as the <a href=\"https://cddmoz.org/?lang=en\">Center for Democracy and Human Rights (CDD)</a>, submitted a <a href=\"https://cddmoz.org/wp-content/uploads/2026/02/Conselho-Constitucional-deve-declarar-inconstitucional-decreto-que-institucionaliza-o-bloqueio-das-redes-de-telecomunicacoes-em-Mocambique.pdf\">document</a> to the <a href=\"https://pt.wikipedia.org/wiki/Provedor_de_Justi%C3%A7a_(Mo%C3%A7ambique)\">Ombudsman</a> contesting the constitutionality of <a href=\"https://mznews.co.mz/executivo-mocambicano-aprova-decreto-que-permite-bloqueio-da-internet-em-caso-de-manifestacoes/\">Decree No. 48/2025, issued in December 2025</a>, which establishes control mechanisms and potential blocks on access to telecommunications networks in the country.</p>\n<p>According to the <a href=\"https://moz24h.co.mz/lei-da-comunicacao-levanta-suspeitas-de-censura-e-ameaca-liberdade-de-imprensa-em-mocambique/\">portal Moz24h</a>, journalists and experts are concerned that the measure could threaten rights such as freedom of expression, access to information, and communication, particularly in contexts of social mobilization or political tension. The challenge arises in an environment still heated from the conflicts <a href=\"https://pt.globalvoices.org/2025/01/30/manifestacoes-em-mocambique-pos-eleicoes-inspiram-protestos-contra-a-crise-socioeconomica-em-angola/\">following the 2024 elections</a>.</p>\n<p>Activists and civil society actors argue that the decree could enable <a href=\"https://www.dw.com/pt-002/mo%C3%A7ambique-governo-pode-bloquear-telecomunica%C3%A7%C3%B5es-em-caso-de-risco/a-75513767\">restrictions on access to the internet and digital platforms</a> — tools that have become increasingly central to the circulation of information, the organization of protests, and civic participation. The approved text allows the state to suspend telecommunications services for up to 48 hours without needing a court order, reports <a href=\"https://www.dw.com/pt-002/mo%C3%A7ambique-governo-pode-bloquear-telecomunica%C3%A7%C3%B5es-em-caso-de-risco/a-75513767\">Deutsche Welle.</a></p>\n<p>Also, according to civil society organizations, <a href=\"https://cddmoz.org/wp-content/uploads/2026/01/Legalizacao-do-bloqueio-das-redes-de-telecomunicacoes-e-um-retrocesso-democratico-e-uma-afronta-aos-direitos-humanos.pdf\">the decree grants broad powers to authorities</a> to intervene in telecommunications networks on grounds of national security or the maintenance of public order.</p>\n<p>By appealing to the Ombudsman, the organizations are requesting an analysis of whether the decree is compatible with the Constitution of the Republic of Mozambique, as well as Mozambique’s international commitments regarding human rights and freedom of expression.</p>\n<p>In March 2026, the <a href=\"https://mznews.co.mz/governo-insiste-que-bloqueio-de-telecomunicacoes-visa-proteger-a-sociedade-em-momentos-criticos/\">Minister of Communications and Digital Transformation</a>, Américo Muchanga, denied that the measure restricted rights. He defended it as a way to protect society in critical moments, strengthening the state’s capacity to manage crises and protect critical telecommunications infrastructure.</p>\n<h3>Experts diverge in their reading </h3>\n<p>In discussions with Global Voices, various experts presented different interpretations of its potential impacts.</p>\n<p>One researcher, who asked not to be identified for security reasons, recalls that several democracies around the world have legal mechanisms allowing temporary restrictions on communications. For the researcher, political contexts where social demonstrations are frequently interpreted as threats to stability can make the application of this type of legislation particularly sensitive. He notes:</p>\n<blockquote>\n<p>O que foi feito neste decreto é tentativa de legalizar toda e qualquer ação que o governo possa ter em uma situação de protesto social. Na França existe, no Brasil existe, nos Estados Unidos existem. Em qualquer parte em que exista alguma democracia, que chamamos a dita democracia consolidada, existem dispositivos estatais, governamentais, que limitam o acesso às comunicações, quando se entende que eles violam o direito de outras pessoas ou imposições em causa do próprio Estado. Não é o decreto o problema. O problema é como pode ser aplicado. O nosso problema é que não há tolerância. Tudo aquilo que parece ser protesto é visto como tentativa de subversão, tentativa de colocar em causa a ordem. É um problema histórico de governança e questão central na interpretação também do próprio decreto.</p>\n</blockquote>\n<p>What was done in this decree is an attempt to legalize any and all actions the government might take in a situation of social protest. It exists in France, it exists in Brazil, and it exists in the United States. Anywhere there is some form of democracy, what we call so-called consolidated democracies, there are state, governmental mechanisms that limit access to communications when it is understood that they violate the rights of other people or impose demands against the state itself. The decree is not the problem. The problem is how it can be applied. Our problem is that there is no tolerance. Everything that looks like a protest is seen as an attempt at subversion, an attempt to jeopardize order. It is a historical problem of governance and a central issue in the interpretation of the decree itself.</p>\n<p>Meanwhile, activist and journalist <a href=\"https://4vesreportermoz.com/equipa-de-trabalho/\">Nadio Taimo</a> emphasizes that the decree comes at a time when Mozambique’s digital civic spaces face growing pressure. According to him, internet access has become fundamental for the circulation of information and the exercise of freedom of expression. Taimo observes that many media outlets migrated to digital platforms because of the high costs of traditional printing, making the online environment an important space for news dissemination, public debate, and social mobilization. In this context, potential blocks on internet access could significantly limit access to information.</p>\n<blockquote>\n<p> Já temos uma expansão, uma onda crescente de jornais eletrônicos. Já não imprimimos jornais, devido aos custos. Migramos para a era digital, logo, há aqui um bloqueio de acesso à informação, e até o próprio espaço de opinião, de promoção da liberdade de expressão, pode ser limitado. Os órgãos de comunicação social são todos, a maior parte deles, do governo, e controlados, e nos é fechado o espaço cívico, o espaço físico, nas ruas, quando nos proíbem de realizar marchas. </p>\n</blockquote>\n<blockquote><p>We already have an expansion: a growing wave of electronic newspapers. We no longer print newspapers due to costs. We migrated to the digital era; therefore, there is a block on access to information here, and even the very space for opinion, for promoting freedom of expression, can be limited. The media outlets are all — most of them — government-owned and controlled, and our civic space, the physical space in the streets, is closed to us when they prohibit us from holding marches.</p></blockquote>\n<p>The activist further adds that the decree could formalize practices that, according to civil society organizations, have already occurred during moments of political tension:</p>\n<blockquote>\n<p>Este documento é apenas uma formalização de uma intenção política de bloqueio da internet, que já vinha sendo aplicada, só que não havia uma formalização legal.</p>\n</blockquote>\n<blockquote><p>This document is merely a formalization of a political intention to block the internet, which was already being applied, only without a legal framework.</p></blockquote>\n<h3>Precedent cases: Protests and control</h3>\n<p>The debate over telecommunications control in Mozambique is also linked to previous episodes of social mobilization. In <a href=\"https://pt.globalvoices.org/2010/09/01/mocambique-maputo-em-alerta-com-revolta/\">February 2008</a> and <a href=\"https://pt.globalvoices.org/2010/09/05/mocambique-inquietacao-violenta-frustracao-em-maputo/\">September 2010</a>, mass protests in the cities of Maputo and Matola were triggered by the rising cost of living, particularly the prices of transport and essential goods. During those demonstrations, mobile phones and text messages were widely used to mobilize and coordinate actions. In response, the government at the time promoted stricter communications regulation measures, including mandatory <a href=\"https://pt.globalvoices.org/2014/04/02/governo-de-mocambique-quer-criminalizar-mensagens-telefonicas-e-publicacoes-insultuosas-na-internet/\">SIM card</a> registration for all users.</p>\n<p>New protests broke out again in <a href=\"https://www.voaportugues.com/a/mozambique--disturbances-maputo/1537522.html\">November 2012</a> as young people protested the fare hikes for urban semi-collective transport, locally known as <a href=\"https://www.folhademaputo.co.mz/pt/noticias/nacional/chapa-100-mais-caro-a-partir-de-segunda-feira/\">chapa-100</a>. Swift intervention by police forces in areas with the highest concentration of protesters prevented the demonstrations from spreading.</p>\n<p>These episodes occurred during defining moments of social demand by Mozambican youth in the <a href=\"https://pt.wikipedia.org/wiki/Guerra_da_Independ%C3%AAncia_de_Mo%C3%A7ambique\">post-independence period</a> (1975), reflecting frustrations over economic inequalities, unemployment, and the rising cost of living amid economic liberalization. In this scenario, urban culture also played an important role in expressing social discontent. Artists like the rapper <a href=\"https://pt.globalvoices.org/2023/03/21/mocambique-morte-de-rapper-e-activista-provoca-actos-de-manifestacao-e-repressao-policial/\">Azagaia</a> became influential voices among young people, with social critique songs widely broadcast during demonstrations and across digital platforms.</p>\n<h3>A regional trend of internet shutdowns</h3>\n<p>The debate in Mozambique is not an isolated situation. <a href=\"https://www.southernafricalitigationcentre.org/regulamentacao-das-comunicacoes-ameaca-encerramento-da-internet/\">International digital monitoring organizations</a> have documented numerous cases of internet shutdowns in African countries in recent years, often linked to electoral processes, popular protests, or internal conflicts. In <a href=\"https://www.dw.com/pt-002/protestos-em-angola-corte-da-internet-levanta-suspeitas-de-censura/a-73381952\">Angola</a> and <a href=\"https://www.diarioeconomico.co.mz/2025/12/10/mundo/africa/guine-bissau-comando-militar-ameaca-fechar-comunicacao-social-que-noticiar-desobediencia-civil/\">Guinea-Bissau</a>, for instance, blocking or restricting internet access has been utilized by governments during periods of political instability.</p>\n<p>Human rights organizations and digital freedom advocacy groups argue that shutdowns limit access to information, hinder the work of journalists, and restrict civic participation, while digital governance experts warn that such measures can have significant impacts not only on public debate, but also on the <a href=\"https://www.southernafricalitigationcentre.org/regulamentacao-das-comunicacoes-ameaca-encerramento-da-internet/\">livelihoods</a> of the civilian population.</p>\n<p>Despite the ratification of the aforementioned decree in Mozambique, its practical application has not yet been documented, making it difficult to assess its potential effects in practice. Concurrently, the Constitutional Council has not yet ruled on civil society organizations’ position regarding the decree’s potential unconstitutionality, contributing to a landscape of legal and institutional uncertainty.</p>\n<strong>Written (Português) by <a href=\"https://pt.globalvoices.org/author/tirso-sitoe/\">Tirso Sitoe</a>Translated (English) by <a href=\"https://globalvoices.org/author/masudulzarif/\">Masudul Zarif</a><a href=\"https://pt.globalvoices.org/2026/04/30/sociedade-civil-questiona-decreto-que-pode-bloquear-acesso-a-redes-de-telecomunicacoes-em-mocambique/\">View original post (Português)</a></strong>",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "words": 1353
+        },
+        {
+          "id": "fa228b7df7ad",
+          "title": "Prince and Princess of Wales play street cricket in Mumbai",
+          "url": "https://www.bbc.co.uk/news/videos/cmvg2nl8v22do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-16T08:13:17+00:00",
+          "summary": "William and Catherine met locals on their visit to India, ahead of a meeting with Indian Prime Minister Narendra Modi later in the week.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "13589cb5cce5",
+          "title": "Is India rethinking its short-term military recruitment scheme?",
+          "url": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-16T00:41:42+00:00",
+          "summary": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        }
+      ]
+    },
+    {
+      "id": "editorials-opinion",
+      "title": "Editorials & Opinion",
+      "kicker": "Opinion",
+      "articles": [
+        {
+          "id": "ccefa2bd2e97",
+          "title": "The Guardian view on Europe and Burnham: a future that can only be viewed through a glass darkly | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/16/the-guardian-view-on-europe-and-burnham-a-future-that-can-only-be-viewed-through-a-glass-darkly",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-16T18:37:44+00:00",
+          "summary": "Predicting a final destination for reset negotiations between the EU and the UK is futile, given the wider challenges that Brussels is facing At the European Political Community summit in Dublin last week, Emmanuel Macron was pictured apparently waving a grinning Andy Burnham to a…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "1f089f23abbd",
+          "title": "The Guardian view on sporting triumphs: more than just a game | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/16/the-guardian-view-on-sporting-triumphs-more-than-just-a-game",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-16T18:36:12+00:00",
+          "summary": "From Welsh rugby to English football, victories on the pitch can capture a nation’s imagination and briefly make the impossible seem possible The world divides roughly in two: people who like sport and people who don’t see the point.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 39
+        },
+        {
+          "id": "16bb48dee74d",
+          "title": "Milburn’s historic report on Britain’s lost generation says one key thing: finally, young lives will really matter | Polly Toynbee",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/16/milburn-report-britain-lost-generation-historic-young-lives-neets",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Polly Toynbee",
+          "published": "2026-11-16T17:43:57+00:00",
+          "summary": "The year-long Neets inquiry has yielded a slew of new policies. But what matters is the political and social priority shift designed to change this country This week marks a monumental turning point for young people in Britain: finally they will come first, not last.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "20e51cd64ddd",
+          "title": "Though Trump is giving him the cold shoulder, Netanyahu is pulling out all the stops to cling to power. And he just might | Simon Tisdall",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/16/donald-trump-benjamin-netanyahu-power-israel-pm",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Simon Tisdall",
+          "published": "2026-11-16T15:00:46+00:00",
+          "summary": "The downfall of the Israeli PM may seem inevitable now; it is anything but. He must be ejected from office and brought to justice It’s unsporting to kick a man when he’s down. But let’s make an exception for Benjamin Netanyahu.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 41
+        },
+        {
+          "id": "014447f0af2d",
+          "title": "As an oncologist, I’ve received my fair share of thank you notes, but nothing like this | Ranjana Srivastava",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/17/doctor-thank-you-notes-from-patients",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Ranjana Srivastava",
+          "published": "2026-11-16T14:00:20+00:00",
+          "summary": "Every year I receive a letter from the daughter of a patient I treated. It’s an act of unbelievable grace in a job that often feels thankless Many years ago, in early November, I received a note.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
+        },
+        {
+          "id": "428730d65d26",
+          "title": "Eurovision Asia: a diverse and spectacular showcase of Asian pop",
+          "url": "https://theconversation.com/eurovision-asia-a-diverse-and-spectacular-showcase-of-asian-pop-294346",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Jess Carniel, Associate Professor in Humanities, University of Southern Queensland",
+          "published": "2026-11-16T04:44:27+00:00",
+          "summary": "Some major regional players were missing, but the inaugural Asian edition showed it has the potential to be a powerful global platform for Asian pop.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "7f58595b876a",
+          "title": "The Guardian view on Cop31: the green transition must not be derailed | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/15/the-guardian-view-on-cop31-the-green-transition-must-not-be-derailed",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-15T17:30:19+00:00",
+          "summary": "Renewed commitments to electrification and climate science are vital outcomes from the latest round of UN talks The Cop31 climate talks have acquired something their delegates scarcely expected: a little political breathing space.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 33
+        }
+      ]
+    },
+    {
+      "id": "fintech-taxtech",
+      "title": "FinTech & Tax Technology",
+      "kicker": "Technology & Money",
+      "articles": [
+        {
+          "id": "e39f4037f1a9",
+          "title": "N26 and Franklin Templeton to Launch Digital Retirement Account in Germany",
+          "url": "https://thefintechtimes.com/n26-and-franklin-templeton-to-launch-digital-retirement-account-in-germany/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-16T14:00:23+00:00",
+          "summary": "N26 partners with Franklin Templeton to launch a digital, state-subsidised private retirement account in Germany on 1 January 2027.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "800e0b1eedcc",
+          "title": "Zowie Expands AI Customer-Service Agents into Romania",
+          "url": "https://thefintechtimes.com/zowie-expands-ai-customer-service-agents-into-romania/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-16T10:01:18+00:00",
+          "summary": "The Polish AI firm is opening a Bucharest office, backed by $20m in prior funding, targeting banks, telecoms and insurers in a low-adoption market.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "6e5dfc895dc8",
+          "title": "SFF 2026 Opens This Week to Address Rewiring of Global Finance",
+          "url": "https://thefintechtimes.com/sff-2026-opens-this-week-to-address-rewiring-of-global-finance/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-16T07:30:54+00:00",
+          "summary": "Singapore FinTech Festival 2026 kicks off this week at Singapore EXPO, uniting global leaders to examine how technology, geoeconomics, capital, talent, and policy are rewiring finance.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "1f380d299553",
+          "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+          "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+          "source": "TechCrunch – Fintech",
+          "section": "fintech-taxtech",
+          "author": "Jagmeet Singh",
+          "published": "2026-11-04T14:10:10+00:00",
+          "summary": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "9629b9d628e6",
+          "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+          "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+          "source": "TechCrunch – Fintech",
+          "section": "fintech-taxtech",
+          "author": "TechCrunch Events",
+          "published": "2026-11-04T13:00:00+00:00",
+          "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        }
+      ]
+    },
+    {
+      "id": "tax-policy",
+      "title": "Tax News & Policy Updates",
+      "kicker": "The Tax Desk",
+      "articles": [
+        {
+          "id": "466131234ddb",
+          "title": "Lease Deed Executed in 2019 does not attract S. 56(2)(x) of Income Tax Act Where Rights were Acquired in 2016: ITAT [Read Order]",
+          "url": "https://www.taxscan.in/income-tax/lease-deed-executed-in-2019-does-not-attract-s-562x-of-income-tax-act-where-rights-were-acquired-in-2016-itat-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Kavi Priya",
+          "published": "2026-11-17T02:00:22+00:00",
+          "summary": "Section 56(2)(x) cannot be invoked merely because a lease deed was executed after the provision came into force when the underlying leasehold rights had already been acquired.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "ea12991fa71f",
+          "title": "Orissa HC Stays GST Order Based on Consolidated SCN for Multiple Tax Periods [Read Order]",
+          "url": "https://www.taxscan.in/gst/orissa-hc-stays-gst-order-based-on-consolidated-scn-for-multiple-tax-periods-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Kalyani B. Nair",
+          "published": "2026-11-17T01:45:21+00:00",
+          "summary": "GST order stayed as a consolidated SCN covering multiple tax periods was issued",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 13
+        },
+        {
+          "id": "2efd71a40e05",
+          "title": "Orissa HC Stays Recovery of Rs.24.31 Crores GST Penalty, Pending Challenge to Retrospective Application of Section 122(1A) of CGST Act [Read Order]",
+          "url": "https://www.taxscan.in/gst/orissa-hc-stays-recovery-of-rs2431-crores-gst-penalty-pending-challenge-to-retrospective-application-of-section-1221a-of-cgst-act-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Kalyani B. Nair",
+          "published": "2026-11-17T01:45:10+00:00",
+          "summary": "Challenge to retrospective imposition of penalty u/s 122(1A) of CGST Act under consideration",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 13
+        },
+        {
+          "id": "f376da808abc",
+          "title": "Agency Information Collection Activities; Comment Request on Form 14417-Reimbursable Agreement-Non-Federal Entities; Form 14417-A-Statistics of Income-User Fee and 14417-B-Statistics of Income (SOI) Public Use File (PUF) Intake",
+          "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23202/agency-information-collection-activities-comment-request-on-form-14417-reimbursable",
+          "source": "Federal Register – IRS",
+          "section": "tax-policy",
+          "author": "Treasury Department, Internal Revenue Service",
+          "published": "2026-11-16T05:00:00+00:00",
+          "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "04dd25bd4d89",
+          "title": "Indicator deep dive: Reporting of tax avoidance schemes",
+          "url": "https://taxjustice.net/2026/11/05/indicator-deep-dive-reporting-of-tax-avoidance-schemes/",
+          "source": "Tax Justice Network",
+          "section": "tax-policy",
+          "author": "Bob Michel",
+          "published": "2026-11-05T00:03:00+00:00",
+          "summary": "Today, the Tax Justice Network updated its Corporate Tax Haven Index with new data for two indicators.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "88d90ca20eed",
+          "title": "The ‘wealth exodus’ was manufactured by the press. The press complaints body IPSO must investigate or step aside.",
+          "url": "https://taxjustice.net/2026/10/19/the-wealth-exodus-was-manufactured-by-the-press-the-uks-biggest-press-complaints-body-must-investigate-or-step-aside/",
+          "source": "Tax Justice Network",
+          "section": "tax-policy",
+          "author": "Tax Justice Network",
+          "published": "2026-10-19T21:35:35+00:00",
+          "summary": "TL;DR Since 2024 about 30 news articles a day have been published around the world about an exodus of millionaires and billionaires fleeing taxes. ……………………….. The UK, we’re told, has had the worst of it thanks to the Labour government’s tax policies.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 42
+        },
+        {
+          "id": "94cf0be066fe",
+          "title": "Not All Bipartisan Tax Ideas Are Created Equal",
+          "url": "https://taxfoundation.org/blog/not-all-bipartisan-tax-ideas-are-created-equal/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Garrett Watson, Andrew Lautz",
+          "published": null,
+          "summary": "Unfortunately, not all bipartisan efforts will make for sound tax reform. Both parties have leaned into the “no tax on” trend in recent years, complicating the tax code and narrowing the US income tax base.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 35
+        },
+        {
+          "id": "b4ec70fe1ea4",
+          "title": "Bank Taxes in Europe, 2026",
+          "url": "https://taxfoundation.org/data/all/eu/bank-taxes-europe/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Cristina Enache",
+          "published": null,
+          "summary": "13 European OECD countries have implemented financial stability contributions (FSCs), commonly referred to as “bank taxes.” Explore the 2026 data.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        }
+      ]
+    },
+    {
+      "id": "product-analysis",
+      "title": "Product Management & Business Analysis",
+      "kicker": "The Craft",
+      "articles": [
+        {
+          "id": "75bc32c51914",
+          "title": "Ch. 11: Measuring Impact",
+          "url": "https://www.producttalk.org/ch-11-measuring-impact/",
+          "source": "Product Talk",
+          "section": "product-analysis",
+          "author": "Teresa Torres",
+          "published": "2026-11-16T14:00:00+00:00",
+          "summary": "Continuous Discovery Habits turns five this year. And to celebrate we are reading the book together.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "b9e63452c6bd",
+          "title": "Analysis Debt: The Cost of a Question Nobody Tracks",
+          "url": "https://batimes.com/articles/analysis-debt-the-cost-of-a-question-nobody-tracks/",
+          "source": "BA Times",
+          "section": "product-analysis",
+          "author": "Michael Roy",
+          "published": "2026-11-09T14:38:54+00:00",
+          "summary": "Analysis Debt: The Cost of a Question Nobody Tracks By Michael Roy Every delivery organization can tell you how fast work moved last quarter. Far fewer can say how much of that work was checked before it started moving.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 39
+        },
+        {
+          "id": "21f59dea13c6",
+          "title": "AI and the Future of the Product Role",
+          "url": "https://www.svpg.com/ai-and-the-future-of-the-product-role/",
+          "source": "Silicon Valley Product Group",
+          "section": "product-analysis",
+          "author": "Marty Cagan",
+          "published": "2026-11-06T01:02:22+00:00",
+          "summary": "NOTE: This is a narrative form of a keynote for the 2026 Product Leader Summit. Overview Most people in the industry realize that the job definition and responsibilities of the people in the product role can vary widely across companies.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 40
+        },
+        {
+          "id": "265e6c45204a",
+          "title": "Experimentation, AI and the Product Model",
+          "url": "https://www.svpg.com/experimentation-ai-and-the-product-model/",
+          "source": "Silicon Valley Product Group",
+          "section": "product-analysis",
+          "author": "Marty Cagan",
+          "published": "2026-10-21T15:53:41+00:00",
+          "summary": "NOTE: This is a narrative form of a keynote for the Circus Austin Experimentation Conference. While experimentation can be found in various parts of a company, most people think of either product or marketing.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "30b7e2079ec1",
+          "title": "Product Ethics in the Age of AI",
+          "url": "https://www.romanpichler.com/blog/product-ethics-in-the-age-of-ai/",
+          "source": "Roman Pichler",
+          "section": "product-analysis",
+          "author": "Roman Pichler",
+          "published": "2026-10-05T09:39:41+00:00",
+          "summary": "AI is changing not only what product teams can build, but also what they need to take responsibility for.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "87cda737ce55",
+          "title": "Connecting Product Outcomes to Business Strategy",
+          "url": "https://www.romanpichler.com/blog/connecting-product-outcomes-and-business-strategy/",
+          "source": "Roman Pichler",
+          "section": "product-analysis",
+          "author": "Roman Pichler",
+          "published": "2026-09-15T09:41:42+00:00",
+          "summary": "Every product has to create real value for a group of people and the business, at least in theory. But in practice, that’s not always the case.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "95ac88e87dd6",
+          "title": "The Irreplaceable BA: How to Stay Essential in an AI-Augmented World",
+          "url": "https://batimes.com/articles/the-irreplaceable-ba-how-to-stay-essential-in-an-ai-augmented-world/",
+          "source": "BA Times",
+          "section": "product-analysis",
+          "author": "Mohanaraman Namasivayam",
+          "published": "2026-07-29T19:43:39+00:00",
+          "summary": "Four frameworks for deciding what AI takes, what you keep, and where to grow Mohanaraman Namasivayam Vice President | Senior Business Analyst, Investment Management Technology | IIBA Member The Inflection Point Is Now The research is blunt.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
+        }
+      ]
+    },
+    {
+      "id": "business-trends",
+      "title": "Emerging Business Trends & New Vocabulary",
+      "kicker": "Ideas & Idioms",
+      "articles": [
+        {
+          "id": "66cb3d97bd3c",
+          "title": "Customers report service outages at major US banks",
+          "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-17T00:18:01+00:00",
+          "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "aae8c4832e63",
+          "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+          "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Julie Bort",
+          "published": "2026-11-16T23:32:32+00:00",
+          "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "436c9107665e",
+          "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+          "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Zack Whittaker",
+          "published": "2026-11-16T22:12:31+00:00",
+          "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "ac8ed7d9657d",
+          "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+          "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Julie Bort",
+          "published": "2026-11-16T22:03:02+00:00",
+          "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "59e6ae9bc1ba",
+          "title": "Customers report difficulty accessing online services at major US banks",
+          "url": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Lucy Campbell and agencies",
+          "published": "2026-11-16T22:01:40+00:00",
+          "summary": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues Customers reported service outages and difficulty accessing their online accounts at several major US banks and the money transfer service Zelle on Monday after a technical…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "16f432244f5a",
+          "title": "The FAA’s ground stop has a simple culprit. Its causes may not",
+          "url": "https://www.fastcompany.com/91643272/the-faa-was-warned-about-its-telecom-upgrade",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Alex Pasternack",
+          "published": "2026-11-16T22:01:00+00:00",
+          "summary": "On Friday afternoon, L3Harris Technologies was doing what it has done at Federal Aviation Administration facilities month after month: moving a communications line off decades-old copper and onto fiber, work that federal auditors count as part of a $12.5 billion overhaul of the country’s air…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "b421feb219b4",
+          "title": "Kevin O’Leary tells Gen Z: ‘Every generation has had whiners like you’",
+          "url": "https://www.fastcompany.com/91643236/kevin-oleary-vs-gen-z-every-generation-has-whiners-like-you",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "María José Gutiérrez Chávez",
+          "published": "2026-11-16T21:05:00+00:00",
+          "summary": "Shark Tank investor and businessman Kevin O’Leary is at odds with Gen Z, who say building wealth and success is harder for their generation than it was for his.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 29
+        },
+        {
+          "id": "010ec8bc472a",
+          "title": "The man with the golden touch: James Bond franchise is a money-spinner",
+          "url": "https://www.theguardian.com/film/2026/nov/16/man-with-golden-touch-james-bond-franchise-money-spinner",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Mark Sweney",
+          "published": "2026-11-16T18:47:38+00:00",
+          "summary": "Big-screen debut of Ian Fleming’s creation in 1962, with Sean Connery as lead in Dr No, was start of marketing dream New James Bond announced ... and the name’s Pattinson, Robert Pattinson Share your thoughts on the casting Peter Bradshaw’s take Robert Pattinson’s journey to…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "site": "https://www.aljazeera.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BA Times",
+      "site": "https://www.batimes.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – Business",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – India",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – World",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Fast Company",
+      "site": "https://www.fastcompany.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Federal Register – IRS",
+      "site": "https://www.federalregister.gov",
+      "license": "US Government work (public domain)",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Global Voices",
+      "site": "https://globalvoices.org",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "full_text": true
+    },
+    {
+      "name": "NPR News",
+      "site": "https://feeds.npr.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Product Talk",
+      "site": "https://www.producttalk.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Roman Pichler",
+      "site": "https://www.romanpichler.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Silicon Valley Product Group",
+      "site": "https://www.svpg.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Tax Foundation",
+      "site": "https://taxfoundation.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Tax Justice Network",
+      "site": "https://taxjustice.net",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Taxscan (India)",
+      "site": "https://www.taxscan.in",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TechCrunch",
+      "site": "https://techcrunch.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TechCrunch – Fintech",
+      "site": "https://techcrunch.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Conversation",
+      "site": "https://theconversation.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Fintech Times",
+      "site": "https://thefintechtimes.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Business",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Editorials",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Opinion",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – World",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    }
+  ],
+  "errors": [
+    "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
+    "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
+    "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
+    "Finextra: 403 Client Error: Forbidden for url: https://www.finextra.com/rss/headlines.aspx",
+    "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
+    "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+    "Mind the Product: feed contained no entries",
+    "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
+    "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
+  ]
+}

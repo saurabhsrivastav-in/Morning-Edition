@@ -2,20 +2,20 @@
   "edition": {
     "name": "The Morning Ledger",
     "tagline": "A quiet read for a busy morning",
-    "date": "2026-11-16",
-    "date_long": "Monday, 16 November 2026",
+    "date": "2026-11-17",
+    "date_long": "Tuesday, 17 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-16T21:48+05:30",
+    "generated_at": "2026-11-17T07:30+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 44,
+    "total_articles": 45,
     "reading_minutes": 12,
     "source_count": 23,
     "full_text_count": 1,
     "per_section": {
       "national-international": 10,
-      "editorials-opinion": 6,
+      "editorials-opinion": 7,
       "fintech-taxtech": 5,
       "tax-policy": 8,
       "product-analysis": 7,
@@ -23,23 +23,27 @@
     },
     "keywords": [
       {
-        "term": "must",
-        "count": 4
-      },
-      {
-        "term": "income",
-        "count": 4
+        "term": "people",
+        "count": 6
       },
       {
         "term": "product",
+        "count": 5
+      },
+      {
+        "term": "political",
         "count": 4
       },
       {
-        "term": "business",
+        "term": "every",
         "count": 4
       },
       {
-        "term": "jensen huang",
+        "term": "bank",
+        "count": 4
+      },
+      {
+        "term": "guardian view",
         "count": 3
       },
       {
@@ -47,27 +51,23 @@
         "count": 3
       },
       {
-        "term": "world",
+        "term": "europe",
         "count": 3
       },
       {
-        "term": "including",
+        "term": "announced",
         "count": 3
       },
       {
-        "term": "summit",
-        "count": 3
-      },
-      {
-        "term": "donald trump",
+        "term": "rwanda five",
         "count": 2
       },
       {
-        "term": "ground stop",
+        "term": "centre rwanda",
         "count": 2
       },
       {
-        "term": "guardian view",
+        "term": "rwanda germany",
         "count": 2
       }
     ],
@@ -103,28 +103,28 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "64,436.00",
-        "change_pct": -0.11,
+        "display": "64,673.00",
+        "change_pct": 0.08,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,817.92",
-        "change_pct": 0.62,
+        "display": "1,817.58",
+        "change_pct": 0.66,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Hedging",
-    "definition": "An investment position intended to offset potential losses or gains that may be incurred by a companion investment.",
+    "term": "Venture Capital",
+    "definition": "A form of private equity and a type of financing that investors provide to startup companies and small businesses that are believed to have long-term growth potential.",
     "source": "The Morning Ledger glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 16",
-    "definition": "edit · refresh · view Word of the day for November 16 katabasis n (military, historical or literary) A retreat by military forces; specifically, that of Cyrus the Younger's troops from Asia back to Greece in 401–399 B.C.E.; also (generally…",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261116000000/en",
+    "word": "Word of the day for November 17",
+    "definition": "edit · refresh · view Word of the day for November 17 promenade v (transitive) Followed by the dummy pronoun it: to walk, or drive or ride, in a leisurely manner, especially in a place where one can be seen…",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261117000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -136,13 +136,55 @@
       "kicker": "The World Today",
       "articles": [
         {
+          "id": "349134aed1b0",
+          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-17T01:49:26+00:00",
+          "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "899257ebfc02",
+          "title": "Yemen army reports 661 attacks on Houthis amid Houthi push towards Aden",
+          "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-17T01:38:13+00:00",
+          "summary": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "115d73dd0391",
+          "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+          "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Jennifer Rankin in Brussels",
+          "published": "2026-11-17T01:10:59+00:00",
+          "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
           "id": "8d5a143784b6",
           "title": "Five EU countries announce migrant deportation centre in Rwanda",
           "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – World",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-16T16:03:24+00:00",
+          "published": "2026-11-16T23:20:45+00:00",
           "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
           "full_html": null,
           "license": "",
@@ -150,46 +192,32 @@
           "words": 16
         },
         {
-          "id": "011eb490949c",
-          "title": "Oil tankers hit sea mines in the Strait of Hormuz",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
-          "source": "Al Jazeera",
+          "id": "2f3e3028b5a9",
+          "title": "California sues OpenAI over hacking risks",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+          "source": "NPR News",
           "section": "national-international",
-          "author": "",
-          "published": "2026-11-16T15:37:49+00:00",
-          "summary": "",
+          "author": "Huo Jingnan",
+          "published": "2026-11-16T22:06:22+00:00",
+          "summary": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 0
+          "words": 26
         },
         {
-          "id": "349134aed1b0",
-          "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
-          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
+          "id": "45edaf233812",
+          "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+          "source": "NPR News",
           "section": "national-international",
-          "author": "",
-          "published": "2026-11-16T15:31:20+00:00",
-          "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+          "author": "Katie McQue",
+          "published": "2026-11-16T18:49:26+00:00",
+          "summary": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 20
-        },
-        {
-          "id": "40b384f11cea",
-          "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
-          "url": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Rebecca Bailey in Shenzhen and agencies",
-          "published": "2026-11-16T14:29:55+00:00",
-          "summary": "Beijing stops short of confirming specific agenda items, but many hope world’s three biggest nuclear powers will talk about denuclearisation The meeting of Xi Jinping, Donald Trump and Vladimir Putin in Shenzhen this week will cover topics of “groundbreaking significance” including “safeguarding world peace”, the…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
+          "words": 28
         },
         {
           "id": "82e8729347a0",
@@ -204,34 +232,6 @@
           "license": "",
           "license_url": "",
           "words": 34
-        },
-        {
-          "id": "dd0fd43506cb",
-          "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
-          "url": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "Brittney Melton",
-          "published": "2026-11-16T12:08:14+00:00",
-          "summary": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 35
-        },
-        {
-          "id": "04a6be43e897",
-          "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
-          "url": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "Steve Inskeep",
-          "published": "2026-11-16T11:39:14+00:00",
-          "summary": "Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Sen. Chuck Schumer and what he would change about Senate Democratic leadership.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
         },
         {
           "id": "b651bad88986",
@@ -283,6 +283,48 @@
       "kicker": "Opinion",
       "articles": [
         {
+          "id": "ccefa2bd2e97",
+          "title": "The Guardian view on Europe and Burnham: a future that can only be viewed through a glass darkly | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/16/the-guardian-view-on-europe-and-burnham-a-future-that-can-only-be-viewed-through-a-glass-darkly",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-16T18:37:44+00:00",
+          "summary": "Predicting a final destination for reset negotiations between the EU and the UK is futile, given the wider challenges that Brussels is facing At the European Political Community summit in Dublin last week, Emmanuel Macron was pictured apparently waving a grinning Andy Burnham to a…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "1f089f23abbd",
+          "title": "The Guardian view on sporting triumphs: more than just a game | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/16/the-guardian-view-on-sporting-triumphs-more-than-just-a-game",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-16T18:36:12+00:00",
+          "summary": "From Welsh rugby to English football, victories on the pitch can capture a nation’s imagination and briefly make the impossible seem possible The world divides roughly in two: people who like sport and people who don’t see the point.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 39
+        },
+        {
+          "id": "16bb48dee74d",
+          "title": "Milburn’s historic report on Britain’s lost generation says one key thing: finally, young lives will really matter | Polly Toynbee",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/16/milburn-report-britain-lost-generation-historic-young-lives-neets",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Polly Toynbee",
+          "published": "2026-11-16T17:43:57+00:00",
+          "summary": "The year-long Neets inquiry has yielded a slew of new policies. But what matters is the political and social priority shift designed to change this country This week marks a monumental turning point for young people in Britain: finally they will come first, not last.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
           "id": "20e51cd64ddd",
           "title": "Though Trump is giving him the cold shoulder, Netanyahu is pulling out all the stops to cling to power. And he just might | Simon Tisdall",
           "url": "https://www.theguardian.com/commentisfree/2026/nov/16/donald-trump-benjamin-netanyahu-power-israel-pm",
@@ -311,20 +353,6 @@
           "words": 37
         },
         {
-          "id": "3ff0f2da787c",
-          "title": "Two reasons Democrats can overcome infighting next year | Robert Reich",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/16/democrats-infighting",
-          "source": "The Guardian – Opinion",
-          "section": "editorials-opinion",
-          "author": "Robert Reich",
-          "published": "2026-11-16T13:00:01+00:00",
-          "summary": "The party’s big-tent approach has caused post-election feuding in the past. But a pair of singular goals can prevent it Democrats usually suffer big tent disease.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
-        },
-        {
           "id": "428730d65d26",
           "title": "Eurovision Asia: a diverse and spectacular showcase of Asian pop",
           "url": "https://theconversation.com/eurovision-asia-a-diverse-and-spectacular-showcase-of-asian-pop-294346",
@@ -351,20 +379,6 @@
           "license": "",
           "license_url": "",
           "words": 33
-        },
-        {
-          "id": "0502dc334f32",
-          "title": "The Guardian view on civil service reform: AI cannot conjure a capable state on its own | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/15/the-guardian-view-on-civil-service-reform-ai-cannot-conjure-a-capable-state-on-its-own",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-15T17:25:19+00:00",
-          "summary": "Whitehall needs to change, but more technology isn’t enough. Opening routes to leadership would bring skills that are too often overlooked The cabinet secretary, Antonia Romeo, called for an overhaul of a “reactive and risk-averse” civil service in her speech last Tuesday.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 42
         }
       ]
     },
@@ -451,46 +465,46 @@
       "kicker": "The Tax Desk",
       "articles": [
         {
-          "id": "2dbf9baf12ed",
-          "title": "Setback to Everest Kanto Cylinder Ltd.: Bombay HC upholds Disallowance of Rs. 56.79L Loss on Sale of Depreciable Assets [Read Judgment]",
-          "url": "https://www.taxscan.in/income-tax/setback-to-everest-kanto-cylinder-ltd-bombay-hc-upholds-disallowance-of-rs-5679l-loss-on-sale-of-depreciable-assets-read-judgment",
-          "source": "Taxscan (India)",
-          "section": "tax-policy",
-          "author": "Navasree A.M",
-          "published": "2026-11-16T11:40:47+00:00",
-          "summary": "Section 41(2) of the Income Tax Act applies exclusively to power-generating entities claiming straight-line depreciation under Section 32(1)(i).",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 18
-        },
-        {
-          "id": "e8cbbfa1f110",
-          "title": "Foreign Assets Disclosure Scheme 2026: Here's What You Must Know Before Filing",
-          "url": "https://www.taxscan.in/income-tax/foreign-assets-disclosure-scheme-2026-heres-what-you-must-know-before-filing",
+          "id": "466131234ddb",
+          "title": "Lease Deed Executed in 2019 does not attract S. 56(2)(x) of Income Tax Act Where Rights were Acquired in 2016: ITAT [Read Order]",
+          "url": "https://www.taxscan.in/income-tax/lease-deed-executed-in-2019-does-not-attract-s-562x-of-income-tax-act-where-rights-were-acquired-in-2016-itat-read-order",
           "source": "Taxscan (India)",
           "section": "tax-policy",
           "author": "Kavi Priya",
-          "published": "2026-11-16T10:03:28+00:00",
-          "summary": "FAST-DS 2026 offers eligible taxpayers a one-time opportunity to disclose previously unreported foreign assets and income. The last date to submit the declaration is 31 December 2026.",
+          "published": "2026-11-17T02:00:22+00:00",
+          "summary": "Section 56(2)(x) cannot be invoked merely because a lease deed was executed after the provision came into force when the underlying leasehold rights had already been acquired.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 27
         },
         {
-          "id": "a8491545da86",
-          "title": "Input Service Nexus Cannot Be Ground to Reject Rebate on Exported Services: CESTAT Remands Dell International ₹45.52 Lakh Claim [Read Order]",
-          "url": "https://www.taxscan.in/excise-customs/input-service-nexus-cannot-be-ground-to-reject-rebate-on-exported-services-cestat-remands-dell-international-4552-lakh-claim-read-order",
+          "id": "ea12991fa71f",
+          "title": "Orissa HC Stays GST Order Based on Consolidated SCN for Multiple Tax Periods [Read Order]",
+          "url": "https://www.taxscan.in/gst/orissa-hc-stays-gst-order-based-on-consolidated-scn-for-multiple-tax-periods-read-order",
           "source": "Taxscan (India)",
           "section": "tax-policy",
-          "author": "Solony Padhi",
-          "published": "2026-11-16T09:47:17+00:00",
-          "summary": "CESTAT remanded Dell’s ₹45.52 lakh rebate claim, holding that input service nexus cannot justify rejection when export conditions are fulfilled.",
+          "author": "Kalyani B. Nair",
+          "published": "2026-11-17T01:45:21+00:00",
+          "summary": "GST order stayed as a consolidated SCN covering multiple tax periods was issued",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 20
+          "words": 13
+        },
+        {
+          "id": "2efd71a40e05",
+          "title": "Orissa HC Stays Recovery of Rs.24.31 Crores GST Penalty, Pending Challenge to Retrospective Application of Section 122(1A) of CGST Act [Read Order]",
+          "url": "https://www.taxscan.in/gst/orissa-hc-stays-recovery-of-rs2431-crores-gst-penalty-pending-challenge-to-retrospective-application-of-section-1221a-of-cgst-act-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Kalyani B. Nair",
+          "published": "2026-11-17T01:45:10+00:00",
+          "summary": "Challenge to retrospective imposition of penalty u/s 122(1A) of CGST Act under consideration",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 13
         },
         {
           "id": "f376da808abc",
@@ -535,32 +549,32 @@
           "words": 42
         },
         {
-          "id": "9ad261889ed3",
-          "title": "Senator Moreno’s 100% Federal Tax on Data Center Incentives Would Usurp Sound State Sales Tax Policies",
-          "url": "https://taxfoundation.org/blog/data-center-sales-tax-reclaim-act/",
+          "id": "94cf0be066fe",
+          "title": "Not All Bipartisan Tax Ideas Are Created Equal",
+          "url": "https://taxfoundation.org/blog/not-all-bipartisan-tax-ideas-are-created-equal/",
           "source": "Tax Foundation",
           "section": "tax-policy",
-          "author": "Richard DiSalvo",
+          "author": "Garrett Watson, Andrew Lautz",
           "published": null,
-          "summary": "Senator Bernie Moreno’s proposed RECLAIM Act (S. 5689) would impose a 100 percent tax on state and local “incentives” for large AI data centers, including state sales tax exemptions for servers and chips.",
+          "summary": "Unfortunately, not all bipartisan efforts will make for sound tax reform. Both parties have leaned into the “no tax on” trend in recent years, complicating the tax code and narrowing the US income tax base.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 33
+          "words": 35
         },
         {
-          "id": "a84fbaf07bb7",
-          "title": "Senator Kelly’s Plan to “Make AI Work for Americans” Is Funded by Three Poorly Designed Taxes",
-          "url": "https://taxfoundation.org/blog/senator-kelly-ai-taxes/",
+          "id": "b4ec70fe1ea4",
+          "title": "Bank Taxes in Europe, 2026",
+          "url": "https://taxfoundation.org/data/all/eu/bank-taxes-europe/",
           "source": "Tax Foundation",
           "section": "tax-policy",
-          "author": "Richard DiSalvo, Andrew Lautz",
+          "author": "Cristina Enache",
           "published": null,
-          "summary": "If lawmakers want to pay for new government spending, better approaches include broadening the income tax base, reforming the corporate tax, or taxing consumption.",
+          "summary": "13 European OECD countries have implemented financial stability contributions (FSCs), commonly referred to as “bank taxes.” Explore the 2026 data.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 24
+          "words": 20
         }
       ]
     },
@@ -675,112 +689,112 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
-          "id": "6df19d4445d1",
-          "title": "Serena Williams winds down her VC firm, launches new fund, targets $200M",
-          "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Dominic-Madori Davis",
-          "published": "2026-11-16T16:06:30+00:00",
-          "summary": "Serena Williams and long time business partner Beth Ferreira announced Monday the launch of an early stage firm called Starfire Ventures.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
-        },
-        {
-          "id": "7163ff8dd6d1",
-          "title": "Audible turns to AI to help users discover audiobooks",
-          "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Sarah Perez",
-          "published": "2026-11-16T15:52:19+00:00",
-          "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 22
-        },
-        {
-          "id": "6e08f93a1109",
-          "title": "Trump says he wouldn’t mind Jensen Huang being reinstated as Nvidia CEO, as its shares fall again – as it happened",
-          "url": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates",
-          "source": "The Guardian – Business",
-          "section": "business-trends",
-          "author": "Graeme Wearden",
-          "published": "2026-11-16T15:43:06+00:00",
-          "summary": "Rolling coverage of the latest economic and financial news Insurance industry workers: how is climate-related risk managed in your company?",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
-        },
-        {
-          "id": "a5d843ad810e",
-          "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+          "id": "66cb3d97bd3c",
+          "title": "Customers report service outages at major US banks",
+          "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Business",
           "section": "business-trends",
           "author": "",
-          "published": "2026-11-16T15:40:16+00:00",
-          "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+          "published": "2026-11-17T00:18:01+00:00",
+          "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "aae8c4832e63",
+          "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+          "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Julie Bort",
+          "published": "2026-11-16T23:32:32+00:00",
+          "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "436c9107665e",
+          "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+          "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Zack Whittaker",
+          "published": "2026-11-16T22:12:31+00:00",
+          "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 18
         },
         {
-          "id": "7d989a1d8bd5",
-          "title": "Trump’s tariffs will be tough to defeat, despite Democrats’ landslide in the midterms. Here’s why",
-          "url": "https://www.fastcompany.com/91642993/trumps-tariffs-tough-defeat-despite-democrats-landslide-midterms-heres-why",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "Associated Press",
-          "published": "2026-11-16T15:20:51+00:00",
-          "summary": "For months, Democrats on the campaign trail hammered President Donald Trump’s unpopular tariffs, arguing that the taxes on imports drive up prices for American families already frustrated by the high cost of living. James Talarico, a Democrat running for a U.S.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 41
-        },
-        {
-          "id": "43465bb55600",
-          "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-          "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+          "id": "ac8ed7d9657d",
+          "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+          "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
           "source": "TechCrunch",
           "section": "business-trends",
-          "author": "Ram Iyer",
-          "published": "2026-11-16T15:02:34+00:00",
-          "summary": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
-        },
-        {
-          "id": "59d1968ecf03",
-          "title": "What is the FAA’s SMART AI system? Officials are denying a link to the nationwide ground stop",
-          "url": "https://www.fastcompany.com/91643010/what-faas-smart-ai-system-officials-denying-link-nationwide-ground-stop",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "Associated Press",
-          "published": "2026-11-16T14:30:34+00:00",
-          "summary": "The airline ground stop that wreaked havoc on travel since Friday was not related to the FAA’s new, $875 million AI-powered system the agency is rolling out to help predict problems in the sky, according to government officials and the artificial intelligence company behind the…",
+          "author": "Julie Bort",
+          "published": "2026-11-16T22:03:02+00:00",
+          "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
         },
         {
-          "id": "97a84867dfb0",
-          "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
-          "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+          "id": "59e6ae9bc1ba",
+          "title": "Customers report difficulty accessing online services at major US banks",
+          "url": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
           "source": "The Guardian – Business",
           "section": "business-trends",
-          "author": "Lauren Almeida and Dan Milmo",
-          "published": "2026-11-16T11:30:35+00:00",
-          "summary": "CEO ousted after affair with suspected Chinese spy reportedly plans comeback, but US treasury secretary urges ‘dramatic shake-up’ Megaspeed says it’s a ‘legitimate and lawful business’ Business live – latest updates Elon Musk and a host of other tech bosses have called for Jensen Huang’s…",
+          "author": "Lucy Campbell and agencies",
+          "published": "2026-11-16T22:01:40+00:00",
+          "summary": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues Customers reported service outages and difficulty accessing their online accounts at several major US banks and the money transfer service Zelle on Monday after a technical…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "16f432244f5a",
+          "title": "The FAA’s ground stop has a simple culprit. Its causes may not",
+          "url": "https://www.fastcompany.com/91643272/the-faa-was-warned-about-its-telecom-upgrade",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Alex Pasternack",
+          "published": "2026-11-16T22:01:00+00:00",
+          "summary": "On Friday afternoon, L3Harris Technologies was doing what it has done at Federal Aviation Administration facilities month after month: moving a communications line off decades-old copper and onto fiber, work that federal auditors count as part of a $12.5 billion overhaul of the country’s air…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "b421feb219b4",
+          "title": "Kevin O’Leary tells Gen Z: ‘Every generation has had whiners like you’",
+          "url": "https://www.fastcompany.com/91643236/kevin-oleary-vs-gen-z-every-generation-has-whiners-like-you",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "María José Gutiérrez Chávez",
+          "published": "2026-11-16T21:05:00+00:00",
+          "summary": "Shark Tank investor and businessman Kevin O’Leary is at odds with Gen Z, who say building wealth and success is harder for their generation than it was for his.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 29
+        },
+        {
+          "id": "010ec8bc472a",
+          "title": "The man with the golden touch: James Bond franchise is a money-spinner",
+          "url": "https://www.theguardian.com/film/2026/nov/16/man-with-golden-touch-james-bond-franchise-money-spinner",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Mark Sweney",
+          "published": "2026-11-16T18:47:38+00:00",
+          "summary": "Big-screen debut of Ian Fleming’s creation in 1962, with Sean Connery as lead in Dr No, was start of marketing dream New James Bond announced ... and the name’s Pattinson, Robert Pattinson Share your thoughts on the casting Peter Bradshaw’s take Robert Pattinson’s journey to…",
           "full_html": null,
           "license": "",
           "license_url": "",
