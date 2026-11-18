@@ -2,10 +2,10 @@
   "edition": {
     "name": "The Morning Ledger",
     "tagline": "A quiet read for a busy morning",
-    "date": "2026-11-17",
-    "date_long": "Tuesday, 17 November 2026",
+    "date": "2026-11-18",
+    "date_long": "Wednesday, 18 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-17T21:54+05:30",
+    "generated_at": "2026-11-18T06:42+05:30",
     "is_sample": false
   },
   "dashboard": {
@@ -15,19 +15,27 @@
     "full_text_count": 1,
     "per_section": {
       "national-international": 10,
-      "editorials-opinion": 7,
-      "fintech-taxtech": 5,
+      "editorials-opinion": 8,
+      "fintech-taxtech": 4,
       "tax-policy": 8,
       "product-analysis": 8,
       "business-trends": 8
     },
     "keywords": [
       {
-        "term": "summit",
+        "term": "jensen huang",
+        "count": 7
+      },
+      {
+        "term": "nvidia",
         "count": 6
       },
       {
         "term": "people",
+        "count": 6
+      },
+      {
+        "term": "tuesday",
         "count": 5
       },
       {
@@ -35,7 +43,15 @@
         "count": 5
       },
       {
-        "term": "business",
+        "term": "investment",
+        "count": 4
+      },
+      {
+        "term": "europe",
+        "count": 4
+      },
+      {
+        "term": "company",
         "count": 4
       },
       {
@@ -43,31 +59,15 @@
         "count": 3
       },
       {
-        "term": "case",
+        "term": "earnings",
         "count": 3
       },
       {
-        "term": "time",
-        "count": 3
-      },
-      {
-        "term": "plans",
-        "count": 3
-      },
-      {
-        "term": "real",
-        "count": 3
-      },
-      {
-        "term": "summits live",
+        "term": "reinstate jensen",
         "count": 2
       },
       {
-        "term": "trump manila",
-        "count": 2
-      },
-      {
-        "term": "andy burnham",
+        "term": "intend reinstate",
         "count": 2
       }
     ],
@@ -103,28 +103,28 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "64,027.00",
-        "change_pct": -1.11,
+        "display": "64,546.00",
+        "change_pct": -0.11,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,783.28",
-        "change_pct": -2.5,
+        "display": "1,813.84",
+        "change_pct": -0.11,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Venture Capital",
-    "definition": "A form of private equity and a type of financing that investors provide to startup companies and small businesses that are believed to have long-term growth potential.",
+    "term": "Amortization",
+    "definition": "The practice of spreading an intangible asset's cost over a period of time.",
     "source": "The Morning Ledger glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 17",
-    "definition": "edit · refresh · view Word of the day for November 17 promenade v (transitive) Followed by the dummy pronoun it: to walk, or drive or ride, in a leisurely manner, especially in a place where one can be seen…",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261117000000/en",
+    "word": "Word of the day for November 18",
+    "definition": "edit · refresh · view Word of the day for November 18 voyager n (also figurative) A person or thing that voyages or travels; a traveller.",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261118000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -136,46 +136,102 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "64916d6055ce",
-          "title": "US loses measles elimination status after 26 years amid record case numbers",
-          "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-17T16:19:30+00:00",
-          "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 18
-        },
-        {
-          "id": "c72367bfbd83",
-          "title": "Election-winning student movement enters Serbia’s new parliament",
-          "url": "https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament?traffic_source=rss",
+          "id": "d0399a8b5041",
+          "title": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss",
           "source": "Al Jazeera",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-17T16:13:48+00:00",
-          "summary": "Hundreds hail Student List lawmakers as the new parliament meets for the first time.",
+          "published": "2026-11-18T00:47:02+00:00",
+          "summary": "Israel’s parliament has elected Matan Kahana as the new speaker with support from Arab parties.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 14
+          "words": 15
         },
         {
-          "id": "4b88ce23b69e",
-          "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "id": "1eb6c4f0c38d",
+          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – World",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-17T16:07:41+00:00",
-          "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+          "published": "2026-11-18T00:28:01+00:00",
+          "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 19
+          "words": 17
+        },
+        {
+          "id": "c07f218d12a7",
+          "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+          "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-17T22:46:30+00:00",
+          "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "23d25a05deab",
+          "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+          "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Natricia Duncan Caribbean correspondent",
+          "published": "2026-11-17T21:49:29+00:00",
+          "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free access The decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exchange for investment threatens its economy and ability to support…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "542e4d1fcea8",
+          "title": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
+          "url": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Agence France-Presse",
+          "published": "2026-11-17T21:40:56+00:00",
+          "summary": "Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territory About 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, several organizations reported on Tuesday, raising the alarm about increased invasions into the tribe’s territory.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 43
+        },
+        {
+          "id": "2ab58983706a",
+          "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "The Associated Press",
+          "published": "2026-11-17T18:34:31+00:00",
+          "summary": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "5b565cfaa495",
+          "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Shannon Bond",
+          "published": "2026-11-17T17:36:31+00:00",
+          "summary": "The former Nvidia CEO said he would be \"honored\" to return if the board allowed. But the board says it has no intention of reinstating him.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
         },
         {
           "id": "fc07be86578b",
@@ -190,62 +246,6 @@
           "license": "CC BY 3.0",
           "license_url": "https://creativecommons.org/licenses/by/3.0/",
           "words": 1484
-        },
-        {
-          "id": "3642c1ffb440",
-          "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
-          "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "Brittney Melton",
-          "published": "2026-11-17T12:20:57+00:00",
-          "summary": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 31
-        },
-        {
-          "id": "ff2116b226df",
-          "title": "Sen. Jack Reed says FAA needs a real plan, not just more money",
-          "url": "https://www.npr.org/2026/11/17/nx-s1-6042514/jack-reed-faa-oversight-ground-stop-funding",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "Michel Martin",
-          "published": "2026-11-17T11:58:42+00:00",
-          "summary": "Sen. Jack Reed raised concerns about FAA oversight of contractors after last week's nationwide ground stop and criticized the Trump administration's request for $50 billion in additional funding.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 28
-        },
-        {
-          "id": "bac46a537b29",
-          "title": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit",
-          "url": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Rebecca Bailey in Shenzhen",
-          "published": "2026-11-17T11:18:26+00:00",
-          "summary": "Host city offers showcase of China’s rise into a confident and innovative power central to global economy In a Shenzhen square on a balmy evening, locals and tourists watched the dozens of glinting towers that make up the city’s skyline ripple through the colour spectrum…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "9efce15ccb9c",
-          "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
-          "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Tom McIlroy in Manila",
-          "published": "2026-11-17T11:00:39+00:00",
-          "summary": "Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit Asean and Apec summits – live updates Hundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as the US president arrived…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
         },
         {
           "id": "0d60ac4d9419",
@@ -282,6 +282,62 @@
       "title": "Editorials & Opinion",
       "kicker": "Opinion",
       "articles": [
+        {
+          "id": "01d6eb729a09",
+          "title": "Jensen Huang scandal illustrates why human nature is cybersecurity’s weakest link",
+          "url": "https://theconversation.com/jensen-huang-scandal-illustrates-why-human-nature-is-cybersecuritys-weakest-link-296763",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Vanessa Bohns, Braunstein Family Professor and Chair of Organizational Behavior, Cornell University",
+          "published": "2026-11-17T19:53:14+00:00",
+          "summary": "Voice, physical touch and face-to-face interactions make people more trusting, compliant and willing to share sensitive information.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "a3cb9e0745e4",
+          "title": "Fighting in Yemen has made crossing the Bab el-Mandeb even more dangerous – jeopardizing aid and refuge for millions",
+          "url": "https://theconversation.com/fighting-in-yemen-has-made-crossing-the-bab-el-mandeb-even-more-dangerous-jeopardizing-aid-and-refuge-for-millions-295106",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Lahra Smith, Associate Professor of Political Science, Georgetown University",
+          "published": "2026-11-17T19:48:54+00:00",
+          "summary": "Escalating violence in the Horn of Africa and Yemen puts greater pressure on this key humanitarian corridor.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "2f9d630c2e79",
+          "title": "The Guardian view on the Milburn report: a manifesto for youth participation | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/17/the-guardian-view-on-the-milburn-report-a-manifesto-for-youth-participation",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-17T19:08:54+00:00",
+          "summary": "This is not a rerun of failed welfare cuts, but young people who rely on benefits cannot be expected to take promised opportunities on trust The gap between the state’s investment in young people compared with older generations has more than doubled in two decades.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "3e845fa3643e",
+          "title": "The Guardian view on climate debt: a vicious cycle the world must break at Cop31 | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/17/the-guardian-view-on-climate-debt-a-vicious-cycle-the-world-must-break-at-cop31",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-17T19:08:05+00:00",
+          "summary": "Poor countries are paying creditors instead of preparing for climate disasters. The international financial system must stop deepening their vulnerability The catastrophe that struck Nepal’s Himalayas in August began with a collapsing glacier.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 33
+        },
         {
           "id": "5a6ce98acf8a",
           "title": "Hoping for Britain to rejoin the EU with Andy Burnham? You may be waiting a long time | Timothy Garton Ash",
@@ -337,48 +393,6 @@
           "license": "",
           "license_url": "",
           "words": 45
-        },
-        {
-          "id": "1f089f23abbd",
-          "title": "The Guardian view on sporting triumphs: more than just a game | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/16/the-guardian-view-on-sporting-triumphs-more-than-just-a-game",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-16T18:36:12+00:00",
-          "summary": "From Welsh rugby to English football, victories on the pitch can capture a nation’s imagination and briefly make the impossible seem possible The world divides roughly in two: people who like sport and people who don’t see the point.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 39
-        },
-        {
-          "id": "428730d65d26",
-          "title": "Eurovision Asia: a diverse and spectacular showcase of Asian pop",
-          "url": "https://theconversation.com/eurovision-asia-a-diverse-and-spectacular-showcase-of-asian-pop-294346",
-          "source": "The Conversation",
-          "section": "editorials-opinion",
-          "author": "Jess Carniel, Associate Professor in Humanities, University of Southern Queensland",
-          "published": "2026-11-16T04:44:27+00:00",
-          "summary": "Some major regional players were missing, but the inaugural Asian edition showed it has the potential to be a powerful global platform for Asian pop.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 25
-        },
-        {
-          "id": "7f58595b876a",
-          "title": "The Guardian view on Cop31: the green transition must not be derailed | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/15/the-guardian-view-on-cop31-the-green-transition-must-not-be-derailed",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-15T17:30:19+00:00",
-          "summary": "Renewed commitments to electrification and climate science are vital outcomes from the latest round of UN talks The Cop31 climate talks have acquired something their delegates scarcely expected: a little political breathing space.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 33
         }
       ]
     },
@@ -387,6 +401,20 @@
       "title": "FinTech & Tax Technology",
       "kicker": "Technology & Money",
       "articles": [
+        {
+          "id": "d9a047affb02",
+          "title": "Model ML raises $250M to automate investment banking grunt work",
+          "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+          "source": "TechCrunch – Fintech",
+          "section": "fintech-taxtech",
+          "author": "Marina Temkin",
+          "published": "2026-11-17T19:32:11+00:00",
+          "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
         {
           "id": "ee5f0becb53f",
           "title": "In Profile: Howard Wu, CEO, Provable",
@@ -428,34 +456,6 @@
           "license": "",
           "license_url": "",
           "words": 24
-        },
-        {
-          "id": "1f380d299553",
-          "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
-          "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
-          "source": "TechCrunch – Fintech",
-          "section": "fintech-taxtech",
-          "author": "Jagmeet Singh",
-          "published": "2026-11-04T14:10:10+00:00",
-          "summary": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 16
-        },
-        {
-          "id": "9629b9d628e6",
-          "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-          "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-          "source": "TechCrunch – Fintech",
-          "section": "fintech-taxtech",
-          "author": "TechCrunch Events",
-          "published": "2026-11-04T13:00:00+00:00",
-          "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 23
         }
       ]
     },
@@ -549,32 +549,32 @@
           "words": 42
         },
         {
-          "id": "94cf0be066fe",
-          "title": "Not All Bipartisan Tax Ideas Are Created Equal",
-          "url": "https://taxfoundation.org/blog/not-all-bipartisan-tax-ideas-are-created-equal/",
+          "id": "c09a0111deab",
+          "title": "Washington Can Start Delivering on Affordability by Rejecting Trump’s Tariffs",
+          "url": "https://taxfoundation.org/oped/congress-trump-tariffs-affordability-inflation/",
           "source": "Tax Foundation",
           "section": "tax-policy",
-          "author": "Garrett Watson, Andrew Lautz",
+          "author": "Daniel Bunn",
           "published": null,
-          "summary": "Unfortunately, not all bipartisan efforts will make for sound tax reform. Both parties have leaned into the “no tax on” trend in recent years, complicating the tax code and narrowing the US income tax base.",
+          "summary": "This new Congress will need to address the existing policies hurting affordability, prepare for Social Security insolvency in 2032, and build a regulatory environment that allows American dynamism to flourish.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 35
+          "words": 30
         },
         {
-          "id": "b4ec70fe1ea4",
-          "title": "Bank Taxes in Europe, 2026",
-          "url": "https://taxfoundation.org/data/all/eu/bank-taxes-europe/",
+          "id": "efd2e999bc22",
+          "title": "IRS Filing Data Show Higher Refunds and More Itemizers Following OBBBA",
+          "url": "https://taxfoundation.org/blog/irs-filing-data-obbba-tax-refunds-more-itemizers/",
           "source": "Tax Foundation",
           "section": "tax-policy",
-          "author": "Cristina Enache",
+          "author": "Erica York, Andrew Lautz",
           "published": null,
-          "summary": "13 European OECD countries have implemented financial stability contributions (FSCs), commonly referred to as “bank taxes.” Explore the 2026 data.",
+          "summary": "New IRS data for tax year 2025 shows how tax refunds and taxes owed at filing time changed under the new tax breaks enacted as part of the One Big Beautiful Bill Act (OBBBA).",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 20
+          "words": 34
         }
       ]
     },
@@ -703,116 +703,116 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
-          "id": "bf87b2822f81",
-          "title": "Markets drop ahead of Nvidia’s results; China pledges ‘necessary measures’ against US AI chip restrictions – business live",
-          "url": "https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates",
+          "id": "83a48772429a",
+          "title": "Nvidia promises that revenue will keep soaring — for now",
+          "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Julie Bort",
+          "published": "2026-11-18T00:16:50+00:00",
+          "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "d3a2efc31677",
+          "title": "Stripe backer Atomico calls for Europe to own its success stories",
+          "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Anna Heim",
+          "published": "2026-11-18T00:01:00+00:00",
+          "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "ca73aba529d8",
+          "title": "Europe plans to catch the next computer chip wave",
+          "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-18T00:00:24+00:00",
+          "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "28509d8a3a74",
+          "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Tim Fernholz",
+          "published": "2026-11-17T23:37:48+00:00",
+          "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "daa9959cb12c",
+          "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
           "source": "The Guardian – Business",
           "section": "business-trends",
-          "author": "Graeme Wearden",
-          "published": "2026-11-17T16:09:45+00:00",
-          "summary": "Rolling coverage of the latest economic and financial news Apec and Asean summits live: protests await Trump in Manila, as Xi greets leaders in Shenzhen China has threatened to retaliate against the US after Washington tightened restrictions on remote access to AI chips and servers.",
+          "author": "Dara Kerr",
+          "published": "2026-11-17T23:32:16+00:00",
+          "summary": "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spy Nvidia “does not intend to reinstate Jensen as CEO”, the chairman of the company’s board said Tuesday.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "a29240342356",
+          "title": "Nvidia’s first earnings call without Jensen Huang had one message: It’s business as usual",
+          "url": "https://www.fastcompany.com/91644237/nvidia-q3-earnings-first-without-jensen-huang",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Mark Sullivan",
+          "published": "2026-11-17T23:26:48+00:00",
+          "summary": "Nvidia on Tuesday held its first earnings call in its 33-year history without cofounder Jensen Huang, who resigned five days ago after a scandal involving an extramarital affair with a suspected Chinese spy.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 33
+        },
+        {
+          "id": "5a5ecd78527d",
+          "title": "A new report says free childcare in NYC will pay for itself",
+          "url": "https://www.fastcompany.com/91644150/a-new-report-says-free-childcare-in-nyc-will-pay-for-itself",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Pavithra Mohan",
+          "published": "2026-11-17T22:30:00+00:00",
+          "summary": "Since taking office, New York City mayor Zohran Mamdani has made it his mission to expand access to affordable childcare in the city, and for good reason. On average, NYC families spend $21,000 on childcare annually per child—the equivalent of about $10 billion every year.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
         },
         {
-          "id": "ff281fdbffb9",
-          "title": "This is the wrong reason to claim Social Security benefits early",
-          "url": "https://www.fastcompany.com/91643974/this-wrong-reason-claim-social-security-benefits-early",
-          "source": "Fast Company",
+          "id": "e48357026cb5",
+          "title": "Judge extends deadline for Trump’s deposition in $10bn BBC lawsuit",
+          "url": "https://www.theguardian.com/us-news/2026/nov/17/trump-bbc-deposition-delay",
+          "source": "The Guardian – Business",
           "section": "business-trends",
-          "author": "Associated Press",
-          "published": "2026-11-17T16:00:47+00:00",
-          "summary": "YouTube creator Erin Moriarity recently appeared on Morningstar’s The Long View podcast.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 12
-        },
-        {
-          "id": "1ada33b2314e",
-          "title": "Shopping for a tween? These gifts won’t get an eye roll",
-          "url": "https://www.fastcompany.com/91639801/shopping-for-a-tween-these-gifts-wont-get-an-eye-roll",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "Elizabeth Segran",
-          "published": "2026-11-17T16:00:00+00:00",
-          "summary": "Buying a gift for a tween is a risky endeavor. Nail it, and you’re a legend. Miss, and you’ll get an eyeroll. Tweens live in a tricky in-between zone. They’ve outgrown the kids’ section, but they’re not ready for the adult aisle.",
+          "author": "Jeremy Barr in Washington",
+          "published": "2026-11-17T21:45:58+00:00",
+          "summary": "President, who had agreed to sit for deposition in October but backed out, must now appear by 22 January Donald Trump has been granted a temporary delay before he must give a witness statement in his $10bn defamation lawsuit against the BBC.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 42
-        },
-        {
-          "id": "48dc1a3164c4",
-          "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-          "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Business",
-          "section": "business-trends",
-          "author": "",
-          "published": "2026-11-17T15:56:04+00:00",
-          "summary": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
-        },
-        {
-          "id": "80311802f135",
-          "title": "Speed camera fault may have allowed drivers to escape fines",
-          "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Business",
-          "section": "business-trends",
-          "author": "",
-          "published": "2026-11-17T15:08:48+00:00",
-          "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
-        },
-        {
-          "id": "5a12ee8825b7",
-          "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
-          "url": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Kirsten Korosec",
-          "published": "2026-11-17T15:07:06+00:00",
-          "summary": "The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
-        },
-        {
-          "id": "45f18158044f",
-          "title": "Meta launches Direct, a stand-alone messaging app for Instagram",
-          "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Aisha Malik",
-          "published": "2026-11-17T15:01:46+00:00",
-          "summary": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
-        },
-        {
-          "id": "f8d4745de352",
-          "title": "Deutsche Bank dismissed warnings about dealings with risky clients, reports claim",
-          "url": "https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim",
-          "source": "The Guardian – Business",
-          "section": "business-trends",
-          "author": "Kalyeena Makortoff Banking correspondent",
-          "published": "2026-11-17T13:35:39+00:00",
-          "summary": "International investigation using trove of leaked internal data allegedly shows German bank overlooked compliance concerns to safeguard profits Deutsche Bank reportedly dismissed warnings about its dealings with risky clients, including high-profile Russian oligarchs, to protect profits, the findings of an investigation into a trove of…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
         }
       ]
     }

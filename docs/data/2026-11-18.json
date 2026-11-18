@@ -1,0 +1,994 @@
+{
+  "edition": {
+    "name": "The Morning Ledger",
+    "tagline": "A quiet read for a busy morning",
+    "date": "2026-11-18",
+    "date_long": "Wednesday, 18 November 2026",
+    "timezone": "Asia/Kolkata",
+    "generated_at": "2026-11-18T06:42+05:30",
+    "is_sample": false
+  },
+  "dashboard": {
+    "total_articles": 46,
+    "reading_minutes": 12,
+    "source_count": 23,
+    "full_text_count": 1,
+    "per_section": {
+      "national-international": 10,
+      "editorials-opinion": 8,
+      "fintech-taxtech": 4,
+      "tax-policy": 8,
+      "product-analysis": 8,
+      "business-trends": 8
+    },
+    "keywords": [
+      {
+        "term": "jensen huang",
+        "count": 7
+      },
+      {
+        "term": "nvidia",
+        "count": 6
+      },
+      {
+        "term": "people",
+        "count": 6
+      },
+      {
+        "term": "tuesday",
+        "count": 5
+      },
+      {
+        "term": "product",
+        "count": 5
+      },
+      {
+        "term": "investment",
+        "count": 4
+      },
+      {
+        "term": "europe",
+        "count": 4
+      },
+      {
+        "term": "company",
+        "count": 4
+      },
+      {
+        "term": "guardian view",
+        "count": 3
+      },
+      {
+        "term": "earnings",
+        "count": 3
+      },
+      {
+        "term": "reinstate jensen",
+        "count": 2
+      },
+      {
+        "term": "intend reinstate",
+        "count": 2
+      }
+    ],
+    "markets": [
+      {
+        "label": "USD/EUR",
+        "group": "Currencies",
+        "display": "0.9100",
+        "change_pct": 0.23,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/GBP",
+        "group": "Currencies",
+        "display": "0.7581",
+        "change_pct": 0.05,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/INR",
+        "group": "Currencies",
+        "display": "93.48",
+        "change_pct": -0.48,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/JPY",
+        "group": "Currencies",
+        "display": "159.30",
+        "change_pct": -0.19,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "Bitcoin (USD)",
+        "group": "Crypto",
+        "display": "64,546.00",
+        "change_pct": -0.11,
+        "source": "CoinGecko"
+      },
+      {
+        "label": "Ethereum (USD)",
+        "group": "Crypto",
+        "display": "1,813.84",
+        "change_pct": -0.11,
+        "source": "CoinGecko"
+      }
+    ]
+  },
+  "word_of_the_day": {
+    "term": "Amortization",
+    "definition": "The practice of spreading an intangible asset's cost over a period of time.",
+    "source": "The Morning Ledger glossary"
+  },
+  "dictionary_word": {
+    "word": "Word of the day for November 18",
+    "definition": "edit · refresh · view Word of the day for November 18 voyager n (also figurative) A person or thing that voyages or travels; a traveller.",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261118000000/en",
+    "source": "Wiktionary",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "sections": [
+    {
+      "id": "national-international",
+      "title": "National & International News",
+      "kicker": "The World Today",
+      "articles": [
+        {
+          "id": "d0399a8b5041",
+          "title": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-18T00:47:02+00:00",
+          "summary": "Israel’s parliament has elected Matan Kahana as the new speaker with support from Arab parties.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "1eb6c4f0c38d",
+          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-18T00:28:01+00:00",
+          "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "c07f218d12a7",
+          "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+          "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-17T22:46:30+00:00",
+          "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "23d25a05deab",
+          "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+          "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Natricia Duncan Caribbean correspondent",
+          "published": "2026-11-17T21:49:29+00:00",
+          "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free access The decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exchange for investment threatens its economy and ability to support…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "542e4d1fcea8",
+          "title": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
+          "url": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Agence France-Presse",
+          "published": "2026-11-17T21:40:56+00:00",
+          "summary": "Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territory About 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, several organizations reported on Tuesday, raising the alarm about increased invasions into the tribe’s territory.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 43
+        },
+        {
+          "id": "2ab58983706a",
+          "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "The Associated Press",
+          "published": "2026-11-17T18:34:31+00:00",
+          "summary": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "5b565cfaa495",
+          "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Shannon Bond",
+          "published": "2026-11-17T17:36:31+00:00",
+          "summary": "The former Nvidia CEO said he would be \"honored\" to return if the board allowed. But the board says it has no intention of reinstating him.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "fc07be86578b",
+          "title": "Street medicine vendors are dangerously filling Haiti’s healthcare gaps",
+          "url": "https://globalvoices.org/2026/11/17/street-medicine-vendors-are-dangerously-filling-haitis-healthcare-gaps/",
+          "source": "Global Voices",
+          "section": "national-international",
+          "author": "Jude Pierre Louis",
+          "published": "2026-11-17T15:19:06+00:00",
+          "summary": "Street medicine vendors have no professional medical training — and the drugs they sell in questionable conditions on the street pose a serious danger to consumers’ lives.",
+          "full_html": "<p><em>The ongoing security situation has made the country’s healthcare crisis worse </em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/17/street-medicine-vendors-are-dangerously-filling-haitis-healthcare-gaps/\">Global Voices</a></p><a href=\"https://www.canva.com/pro/\"></a><p>Image by Global Voices, created using <a href=\"https://www.canva.com/en_gb/\">Canva</a> elements.</p>\n<p>Haiti is a country with very few health facilities and a dearth of healthcare workers to meet people’s needs. Public hospitals lack basic medical equipment, demand <a href=\"https://www.paho.org/sites/default/files/2024-10/phsa-haiti-update-oct2024.pdf\">far exceeds</a> staff capacity, and administrative problems are rife.</p>\n<p>Other health centres, usually run by non-profit organisations, help some of the most vulnerable people, while private hospitals are few and far between, given that most Haitians <a href=\"https://www.msf.org/haiti\">cannot afford to pay</a> for treatment there. Even the wealthy are often forced to go abroad for treatment when faced with critical health issues.</p>\n<p>This already dire situation <a href=\"https://www.msf.org/haiti-people-risk-their-lives-seek-medical-care\">became worse</a> when gangs from the <a href=\"https://en.wikipedia.org/wiki/Viv_Ansanm\">Viv Ansanm</a> criminal coalition began <a href=\"https://www.msf.org/haiti-civilians-and-medical-facilities-must-be-spared-surge-violence-port-au-prince\">targeting</a> both public and private health facilities, looting many of them, stealing equipment, and even setting fire to some of the properties. Health centres located in gang-controlled areas are often <a href=\"https://english.elpais.com/international/2024-12-30/hospitals-under-attack-gang-violence-threatens-haitis-healthcare-system.html\">forced to close</a> temporarily because of fights that break out between rival gangs.</p>\n<p>Enter the challenge of street medicine vendors, mobile drugstores, and sellers operating from kiosks. Practically everywhere you go — on sidewalks and public markets, inside bus stations and more — you can find hucksters selling medicine out of buckets and bags, or from small stalls. These vendors have no professional medical training; yet they often “prescribe” drugs that have nothing to do with their customers’ health concerns. Sold in questionable conditions on the street, in heat and dust, these “medicines” <a href=\"https://ayibopost.com/letat-a-saisi-des-medicaments-dangereux-devant-lhopital-la-paix/\">pose a serious danger</a> to consumers’ lives.</p>\n<p>No Haitian government has fought effectively against this issue. Because most people cannot afford private health centres, they self-medicate, taking these drugs without medical advice. In many cases, the drugs are either expired, spoiled, fake, or do not work as promised. While licensed drug stores are operating, they are small in number compared to the many unauthorised vendors that line the streets.</p>\n<p>In a YouTube video on the channel <a href=\"https://www.youtube.com/watch?v=cNBQww9Zo68\">Sedney the Reporter</a> with host Sedney Saint-Fleur, <a href=\"https://www.researchgate.net/profile/Wellington-Derameau\">Dr Wellington Derameau</a>, a doctor, pharmacist, and researcher who completed several specialised university training programmes in the United States and France, spoke about the problems in Haiti’s pharmaceutical sector.</p>\n<p>That public concern over low-quality medicine led him, in collaboration with the University of Colorado and the Faculty of Medicine at the State University of Haiti, to test the quality of pharmaceuticals circulating across Haiti, particularly in the capital, Port-au-Prince. In 2020, they published the first scientific paper, showing the results of tests in which researchers sampled roughly 258 boxes of antibiotics across 28 open-air markets in Port-au-Prince:</p>\n<blockquote><p>Nou te jwenn 6 antimikwobyen (antibiyotik) sou 11 ki pa t gen okenn konfòmite spèktr. Sa vle di, lòske nou fè des analiz poussées, nou wè ke medikaman sa yo nou te ranmase nan lari a yo pa gen anyen pou wè ak medikaman, pa gen prensip aktif.</p></blockquote>\n<blockquote><p>We found that six out of 11 antibiotic types failed basic spectral compliance testing. Advanced laboratory analysis revealed that these street-bought products contained no active ingredients whatsoever.</p></blockquote>\n<p>Selling drugs without active compounds in this informal market leaves patients without effective treatment and accelerates antimicrobial resistance. Dr Derameau highlighted cases where patients bought “amoxicillin” expecting a functioning antibiotic, but received capsules filled with starch:</p>\n<blockquote><p>Mache paralèl la fragilize mache legal la, se premye konsta pa m pa rapò ak sa, epi li mete an evidans movèz kalite medikaman yo.</p></blockquote>\n<blockquote><p>The parallel market undercuts the regulated sector, directly contributing to the spread of substandard medicine.</p></blockquote>\n<p>Official statistics from the <a href=\"https://en.wikipedia.org/wiki/Ministry_of_Health_(Haiti)\">Ministry of Public Health and Population</a> (MSPP) for the 2025–2026 fiscal year underline the scope of the problem. Across the nation, only 101 pharmaceutical companies, 49 storage drugstores, 49 import agencies, and three local manufacturing labs <a href=\"https://www.haitidocs.org/doc/mspp-2025-10-etablissements-pharmaceutiques-autorises\">hold valid licenses</a>, while some geographic departments lack any legal pharmaceutical representation.</p>\n<p>This vacuum, Dr Derameau emphasised, feeds a real threat to public health:</p>\n<blockquote><p>Donc le constat est criant par rapport avec la non-réglementation des pharmacies dans le pays, tout sa pral anjandre nou avèk yon cercle vicieux de vente illicite des médicaments.</p></blockquote>\n<blockquote><p>The lack of pharmacy regulation creates a glaring threat, trapping the country in a vicious cycle of illicit medicine sales.</p></blockquote>\n<p>Compounded by widespread gang violence and insecurity, these unregulated sales leave the population without reliable access to essential healthcare.</p>\n<p>Dr Derameau shared a sad anecdote from his time at <a href=\"https://www.paho.org/en/news/14-5-2024-hopital-universitaire-paix-beacon-resilience-heart-crisis\">Hôpital Universitaire La Paix</a>, involving a child suffering from <a href=\"https://emedicine.medscape.com/article/239278-overview\">acute glomerulonephritis</a>. Curious why the patient was not improving, he asked the parents to show him the medicines they were administering. Upon checking, he saw that the medicine was inappropriate for the child’s condition and did not match what had been prescribed. If he hadn’t discovered this in time, it could have led to the child’s death, and nobody would have known the cause because of the <a href=\"https://www.haitilibre.com/en/news-39060-haiti-justice-forensic-medicine-has-ceased-to-exist-in-haiti.html\">absence of forensic facilities</a> in the country:</p>\n<blockquote><p>Mwen pa bezwen di&#x27;w ki kantite lòt moun ki viktim, chak desè ta sipoze dokimante pou ale gade koz ki alawouz li malerezman, c&#x27;est pas le cas, mwen pran egzanp grenn echantiyon sa donc mwen menm mwen veku, men pa bezwen di&#x27;w ki kantite lòt moun ki viktim pa rapò avèk movèz medikaman.</p></blockquote>\n<blockquote><p>I do not need to tell you how many other people are victims; every death is supposed to be documented to look at the root cause, but unfortunately, that is not the case. I take this single example that I personally experienced, but I do not need to tell you how many other people are victims because of bad medicines.</p></blockquote>\n<p>The child’s parents bought the medicine from a street vendor stationed directly in front of the public hospital, where it is common to find small kiosks and mobile vendors offering different types of medication, and using loudspeakers to advertise all kinds of drugs for various illnesses.</p>\n<p>The lion’s share of medication being sold on the Haitian market, Dr Derameau said, comes from India and <a href=\"https://ntelemicro.com/incautan-mas-de-rd531-millones-en-medicamentos-e-insumos-medicos-ilegales/\">the Dominican Republic</a> (DR). However, there are also many products with no listed origin at all, which he considers an anomaly. Authorised pharmaceutical laboratories respect quality standards, he explained, as do legitimate importation agencies. The vulnerable area, however, is the border, which serves as the main entry point for contraband.</p>\n<p>Although quality control and verification institutions exist alongside the national laboratory as public bodies responsible for regulating the importation, manufacturing, and sale of medicines, this does not stop all kinds of drugs from circulating freely on the market without any real oversight.</p>\n<p>Even as he <a href=\"https://www.youtube.com/watch?v=cNBQww9Zo68\">stressed</a> that not all medicines imported from the Dominican Republic are sub-standard, Haiti is flooded with many low-quality drugs, especially when it comes to medications that are in high demand. From his work experience at the <a href=\"https://en.wikipedia.org/wiki/Hôpital_Universitaire_Justinien\">Justinien University Hospital</a> in Cap-Haïtien, Dr Derameau also discovered that many of these medicines are not registered with the Ministry of Public Health:</p>\n<blockquote><p>Yo soti nan lòt sirkwit la atravè les fwontyè yo. Gen des laboratwa an Repiblik Dominikèn k ap ponpe nou des medikaman ki pwòp pou Ayiti.</p></blockquote>\n<blockquote><p>They enter through the other channel across the borders. There are laboratories in the Dominican Republic pumping out medicines made specifically for Haiti.</p></blockquote>\n<p>Noting that generic medicines manufactured by local pharmaceutical laboratories — which number three in total — are very good and respect quality standards, he also <a href=\"https://www.youtube.com/watch?v=cNBQww9Zo68\">posited</a> that there is an industry manufacturing fake medicines within Haiti itself, and called on the state to investigate.</p>\n<p>The security crisis is not helping matters. Roads leading to the <a href=\"https://en.wikipedia.org/wiki/Nord_(Haitian_department)\">Great North</a> and <a href=\"https://en.wikipedia.org/wiki/Sud_(department)\">Great South</a> — as well as parts of Port-au-Prince — are controlled by various gangs, creating a major obstacle for the free movement of medicine, as well as access to health centres and other distribution points. He highlighted the sabotage and <a href=\"https://globalvoices.org/2026/09/27/we-cannot-take-it-anymore-haitis-informal-vendors-protest-over-gang-warfare/\">looting</a> that many pharmacies <a href=\"https://english.elpais.com/international/2024-12-30/hospitals-under-attack-gang-violence-threatens-haitis-healthcare-system.html\">suffered</a> in downtown Port-au-Prince:</p>\n<blockquote><p>Chaîne d&#x27;approvisionnement an, insécurité a gen anpil enpak sou li, donk li kraze disponibilité médicaments yo, donc patient vin soufri, marché noir fèt ak médicaments sa yo. Imajine&#x27;w tout pharmacie ki te anba lavil la ke bandi yo kase (piye). Gen lòt fenomèn, se machann kap vann nan bus yo kap chanje dat expiration médicaments yo epi y ap vann yo. Donc insécurité a impacté qualité de vie moun yo, insécurité a impacté qualité soins yo, insécurité a impacté protocole thérapeutique yo.</p></blockquote>\n<blockquote><p>The security crisis heavily impacts the supply chain, thereby destroying medicine availability, causing patients to suffer, and creating a black market for these drugs. Imagine all the pharmacies downtown that bandits looted. There is another phenomenon where vendors selling on buses change the expiration dates on medicines and sell them. So insecurity impacts people’s quality of life, insecurity impacts the quality of care, and insecurity impacts therapeutic protocols.</p></blockquote>\n<p>The challenges around transporting medicines also drive black-market demand and further increase border contraband. Yet Dr Derameau says he is optimistic that if the state shows real political will and enforces strict regulations, it can end these practices.</p>\n<strong>Written by <a href=\"https://globalvoices.org/author/jude-pierre-louis/\">Jude Pierre Louis</a></strong>",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "words": 1484
+        },
+        {
+          "id": "0d60ac4d9419",
+          "title": "Gujarat riots gang-rape survivor 'heartbroken' after bail for two convicts",
+          "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-17T09:27:44+00:00",
+          "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "f6d6d71d4d55",
+          "title": "The AI start-ups fixing India's broken roads and messy land records",
+          "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-16T23:25:53+00:00",
+          "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        }
+      ]
+    },
+    {
+      "id": "editorials-opinion",
+      "title": "Editorials & Opinion",
+      "kicker": "Opinion",
+      "articles": [
+        {
+          "id": "01d6eb729a09",
+          "title": "Jensen Huang scandal illustrates why human nature is cybersecurity’s weakest link",
+          "url": "https://theconversation.com/jensen-huang-scandal-illustrates-why-human-nature-is-cybersecuritys-weakest-link-296763",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Vanessa Bohns, Braunstein Family Professor and Chair of Organizational Behavior, Cornell University",
+          "published": "2026-11-17T19:53:14+00:00",
+          "summary": "Voice, physical touch and face-to-face interactions make people more trusting, compliant and willing to share sensitive information.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "a3cb9e0745e4",
+          "title": "Fighting in Yemen has made crossing the Bab el-Mandeb even more dangerous – jeopardizing aid and refuge for millions",
+          "url": "https://theconversation.com/fighting-in-yemen-has-made-crossing-the-bab-el-mandeb-even-more-dangerous-jeopardizing-aid-and-refuge-for-millions-295106",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Lahra Smith, Associate Professor of Political Science, Georgetown University",
+          "published": "2026-11-17T19:48:54+00:00",
+          "summary": "Escalating violence in the Horn of Africa and Yemen puts greater pressure on this key humanitarian corridor.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "2f9d630c2e79",
+          "title": "The Guardian view on the Milburn report: a manifesto for youth participation | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/17/the-guardian-view-on-the-milburn-report-a-manifesto-for-youth-participation",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-17T19:08:54+00:00",
+          "summary": "This is not a rerun of failed welfare cuts, but young people who rely on benefits cannot be expected to take promised opportunities on trust The gap between the state’s investment in young people compared with older generations has more than doubled in two decades.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "3e845fa3643e",
+          "title": "The Guardian view on climate debt: a vicious cycle the world must break at Cop31 | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/17/the-guardian-view-on-climate-debt-a-vicious-cycle-the-world-must-break-at-cop31",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-17T19:08:05+00:00",
+          "summary": "Poor countries are paying creditors instead of preparing for climate disasters. The international financial system must stop deepening their vulnerability The catastrophe that struck Nepal’s Himalayas in August began with a collapsing glacier.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 33
+        },
+        {
+          "id": "5a6ce98acf8a",
+          "title": "Hoping for Britain to rejoin the EU with Andy Burnham? You may be waiting a long time | Timothy Garton Ash",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/17/hope-britain-rejoin-eu-andy-burnham-europe",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Timothy Garton Ash",
+          "published": "2026-11-17T15:58:47+00:00",
+          "summary": "The PM’s first big speech on the UK and Europe was cautious and disappointing.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        },
+        {
+          "id": "50db40d0a9e0",
+          "title": "Should JD Vance run for president? I say go for it, habibi! | Arwa Mahdawi",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/17/should-jd-vance-run-for-president-2028",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Arwa Mahdawi",
+          "published": "2026-11-17T15:21:32+00:00",
+          "summary": "Now the vice-president’s luck is turning, he seems reluctant to commit himself to the next presidential race – and I, for one, hate to see it How do you think history will remember JD Vance?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 35
+        },
+        {
+          "id": "6d14aa1a8bee",
+          "title": "James Talarico’s ‘love thy neighbour’ message won over Texas. Is Australia ready to embrace a new Christian left? | Brigid Delaney",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/18/is-australia-ready-to-embrace-a-new-christian-left-religion-politics-ntwnfb",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Brigid Delaney",
+          "published": "2026-11-17T14:00:13+00:00",
+          "summary": "The Democrat tapped into a hunger for politics with more moral authority.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 12
+        },
+        {
+          "id": "ccefa2bd2e97",
+          "title": "The Guardian view on Europe and Burnham: a future that can only be viewed through a glass darkly | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/16/the-guardian-view-on-europe-and-burnham-a-future-that-can-only-be-viewed-through-a-glass-darkly",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-16T18:37:44+00:00",
+          "summary": "Predicting a final destination for reset negotiations between the EU and the UK is futile, given the wider challenges that Brussels is facing At the European Political Community summit in Dublin last week, Emmanuel Macron was pictured apparently waving a grinning Andy Burnham to a…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        }
+      ]
+    },
+    {
+      "id": "fintech-taxtech",
+      "title": "FinTech & Tax Technology",
+      "kicker": "Technology & Money",
+      "articles": [
+        {
+          "id": "d9a047affb02",
+          "title": "Model ML raises $250M to automate investment banking grunt work",
+          "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+          "source": "TechCrunch – Fintech",
+          "section": "fintech-taxtech",
+          "author": "Marina Temkin",
+          "published": "2026-11-17T19:32:11+00:00",
+          "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "ee5f0becb53f",
+          "title": "In Profile: Howard Wu, CEO, Provable",
+          "url": "https://thefintechtimes.com/in-profile-howard-wu-provable/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "Claire Woffenden",
+          "published": "2026-11-17T15:00:07+00:00",
+          "summary": "Howard Wu, co-founder and CEO of Provable, discusses blockchain privacy, confidential stablecoins, AI agents and the future of digital finance.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "e39f4037f1a9",
+          "title": "N26 and Franklin Templeton to Launch Digital Retirement Account in Germany",
+          "url": "https://thefintechtimes.com/n26-and-franklin-templeton-to-launch-digital-retirement-account-in-germany/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-16T14:00:23+00:00",
+          "summary": "N26 partners with Franklin Templeton to launch a digital, state-subsidised private retirement account in Germany on 1 January 2027.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "800e0b1eedcc",
+          "title": "Zowie Expands AI Customer-Service Agents into Romania",
+          "url": "https://thefintechtimes.com/zowie-expands-ai-customer-service-agents-into-romania/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-16T10:01:18+00:00",
+          "summary": "The Polish AI firm is opening a Bucharest office, backed by $20m in prior funding, targeting banks, telecoms and insurers in a low-adoption market.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        }
+      ]
+    },
+    {
+      "id": "tax-policy",
+      "title": "Tax News & Policy Updates",
+      "kicker": "The Tax Desk",
+      "articles": [
+        {
+          "id": "516f2acd1626",
+          "title": "Same Lenders' Loans Held Genuine in Filatex India Case : ITAT Upholds Deletion of ₹11.47 Cr Addition U/s 68 of Income Tax Act",
+          "url": "https://www.taxscan.in/income-tax/same-lenders-loans-held-genuine-in-filatex-india-case-itat-upholds-deletion-of-1147-cr-addition-us-68-of-income-tax-act",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Ansha Dillu PK",
+          "published": "2026-11-17T12:10:06+00:00",
+          "summary": "The Tribunal followed its earlier decision, observing that there was no difference in the facts or law involved in the two cases.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
+          "id": "9cb1bc9f0e86",
+          "title": "Can a Loan Liability Be Treated as an “Asset” for Extended Assessment U/s 153A of the Income Tax Act? ITAT Delhi Examines Issue [Read Order]",
+          "url": "https://www.taxscan.in/income-tax/can-a-loan-liability-be-treated-as-an-asset-for-extended-assessment-us-153a-of-the-income-tax-act-itat-delhi-examines-issue-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Ansha Dillu PK",
+          "published": "2026-11-17T12:10:00+00:00",
+          "summary": "The ITAT held that loans appearing on the liability side of a balance sheet can also qualify as “assets” under the fourth proviso to Section 153A of the Income Tax Act.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 31
+        },
+        {
+          "id": "d6d1ab04dca8",
+          "title": "Publication of the Tier 2 Tax Rates",
+          "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23384/publication-of-the-tier-2-tax-rates",
+          "source": "Federal Register – IRS",
+          "section": "tax-policy",
+          "author": "Treasury Department, Internal Revenue Service",
+          "published": "2026-11-17T05:00:00+00:00",
+          "summary": "Publication of the tier 2 tax rates for calendar year 2027 as required by section 3241(d) of the Internal Revenue Code. Tier 2 taxes on railroad employees, employers, and employee representatives are one source of funding for benefits under the Railroad Retirement Act.",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 43
+        },
+        {
+          "id": "626f6c2ee85c",
+          "title": "Agency Information Collection Activities; Comment Request on Form 5307-Application for Determination for Adopters of Modified Nonstandardized Pre-Approved Plans",
+          "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23382/agency-information-collection-activities-comment-request-on-form-5307-application-for-determination",
+          "source": "Federal Register – IRS",
+          "section": "tax-policy",
+          "author": "Treasury Department, Internal Revenue Service",
+          "published": "2026-11-17T05:00:00+00:00",
+          "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "04dd25bd4d89",
+          "title": "Indicator deep dive: Reporting of tax avoidance schemes",
+          "url": "https://taxjustice.net/2026/11/05/indicator-deep-dive-reporting-of-tax-avoidance-schemes/",
+          "source": "Tax Justice Network",
+          "section": "tax-policy",
+          "author": "Bob Michel",
+          "published": "2026-11-05T00:03:00+00:00",
+          "summary": "Today, the Tax Justice Network updated its Corporate Tax Haven Index with new data for two indicators.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "88d90ca20eed",
+          "title": "The ‘wealth exodus’ was manufactured by the press. The press complaints body IPSO must investigate or step aside.",
+          "url": "https://taxjustice.net/2026/10/19/the-wealth-exodus-was-manufactured-by-the-press-the-uks-biggest-press-complaints-body-must-investigate-or-step-aside/",
+          "source": "Tax Justice Network",
+          "section": "tax-policy",
+          "author": "Tax Justice Network",
+          "published": "2026-10-19T21:35:35+00:00",
+          "summary": "TL;DR Since 2024 about 30 news articles a day have been published around the world about an exodus of millionaires and billionaires fleeing taxes. ……………………….. The UK, we’re told, has had the worst of it thanks to the Labour government’s tax policies.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 42
+        },
+        {
+          "id": "c09a0111deab",
+          "title": "Washington Can Start Delivering on Affordability by Rejecting Trump’s Tariffs",
+          "url": "https://taxfoundation.org/oped/congress-trump-tariffs-affordability-inflation/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Daniel Bunn",
+          "published": null,
+          "summary": "This new Congress will need to address the existing policies hurting affordability, prepare for Social Security insolvency in 2032, and build a regulatory environment that allows American dynamism to flourish.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "efd2e999bc22",
+          "title": "IRS Filing Data Show Higher Refunds and More Itemizers Following OBBBA",
+          "url": "https://taxfoundation.org/blog/irs-filing-data-obbba-tax-refunds-more-itemizers/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Erica York, Andrew Lautz",
+          "published": null,
+          "summary": "New IRS data for tax year 2025 shows how tax refunds and taxes owed at filing time changed under the new tax breaks enacted as part of the One Big Beautiful Bill Act (OBBBA).",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        }
+      ]
+    },
+    {
+      "id": "product-analysis",
+      "title": "Product Management & Business Analysis",
+      "kicker": "The Craft",
+      "articles": [
+        {
+          "id": "fff8e55e0243",
+          "title": "The Sharing Gap - All Things Product Podcast with Teresa Torres & Petra Wille",
+          "url": "https://www.producttalk.org/the-sharing-gap-all-things-product-podcast-with-teresa-torres-petra-wille/",
+          "source": "Product Talk",
+          "section": "product-analysis",
+          "author": "Teresa Torres",
+          "published": "2026-11-17T14:00:00+00:00",
+          "summary": "Listen to this episode on: Spotify | Apple Podcasts Why has everyone stopped sharing their real product work — and what do we lose when the field goes quiet?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 29
+        },
+        {
+          "id": "75bc32c51914",
+          "title": "Ch. 11: Measuring Impact",
+          "url": "https://www.producttalk.org/ch-11-measuring-impact/",
+          "source": "Product Talk",
+          "section": "product-analysis",
+          "author": "Teresa Torres",
+          "published": "2026-11-16T14:00:00+00:00",
+          "summary": "Continuous Discovery Habits turns five this year. And to celebrate we are reading the book together.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "b9e63452c6bd",
+          "title": "Analysis Debt: The Cost of a Question Nobody Tracks",
+          "url": "https://batimes.com/articles/analysis-debt-the-cost-of-a-question-nobody-tracks/",
+          "source": "BA Times",
+          "section": "product-analysis",
+          "author": "Michael Roy",
+          "published": "2026-11-09T14:38:54+00:00",
+          "summary": "Analysis Debt: The Cost of a Question Nobody Tracks By Michael Roy Every delivery organization can tell you how fast work moved last quarter. Far fewer can say how much of that work was checked before it started moving.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 39
+        },
+        {
+          "id": "21f59dea13c6",
+          "title": "AI and the Future of the Product Role",
+          "url": "https://www.svpg.com/ai-and-the-future-of-the-product-role/",
+          "source": "Silicon Valley Product Group",
+          "section": "product-analysis",
+          "author": "Marty Cagan",
+          "published": "2026-11-06T01:02:22+00:00",
+          "summary": "NOTE: This is a narrative form of a keynote for the 2026 Product Leader Summit. Overview Most people in the industry realize that the job definition and responsibilities of the people in the product role can vary widely across companies.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 40
+        },
+        {
+          "id": "265e6c45204a",
+          "title": "Experimentation, AI and the Product Model",
+          "url": "https://www.svpg.com/experimentation-ai-and-the-product-model/",
+          "source": "Silicon Valley Product Group",
+          "section": "product-analysis",
+          "author": "Marty Cagan",
+          "published": "2026-10-21T15:53:41+00:00",
+          "summary": "NOTE: This is a narrative form of a keynote for the Circus Austin Experimentation Conference. While experimentation can be found in various parts of a company, most people think of either product or marketing.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "30b7e2079ec1",
+          "title": "Product Ethics in the Age of AI",
+          "url": "https://www.romanpichler.com/blog/product-ethics-in-the-age-of-ai/",
+          "source": "Roman Pichler",
+          "section": "product-analysis",
+          "author": "Roman Pichler",
+          "published": "2026-10-05T09:39:41+00:00",
+          "summary": "AI is changing not only what product teams can build, but also what they need to take responsibility for.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "87cda737ce55",
+          "title": "Connecting Product Outcomes to Business Strategy",
+          "url": "https://www.romanpichler.com/blog/connecting-product-outcomes-and-business-strategy/",
+          "source": "Roman Pichler",
+          "section": "product-analysis",
+          "author": "Roman Pichler",
+          "published": "2026-09-15T09:41:42+00:00",
+          "summary": "Every product has to create real value for a group of people and the business, at least in theory. But in practice, that’s not always the case.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "95ac88e87dd6",
+          "title": "The Irreplaceable BA: How to Stay Essential in an AI-Augmented World",
+          "url": "https://batimes.com/articles/the-irreplaceable-ba-how-to-stay-essential-in-an-ai-augmented-world/",
+          "source": "BA Times",
+          "section": "product-analysis",
+          "author": "Mohanaraman Namasivayam",
+          "published": "2026-07-29T19:43:39+00:00",
+          "summary": "Four frameworks for deciding what AI takes, what you keep, and where to grow Mohanaraman Namasivayam Vice President | Senior Business Analyst, Investment Management Technology | IIBA Member The Inflection Point Is Now The research is blunt.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
+        }
+      ]
+    },
+    {
+      "id": "business-trends",
+      "title": "Emerging Business Trends & New Vocabulary",
+      "kicker": "Ideas & Idioms",
+      "articles": [
+        {
+          "id": "83a48772429a",
+          "title": "Nvidia promises that revenue will keep soaring — for now",
+          "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Julie Bort",
+          "published": "2026-11-18T00:16:50+00:00",
+          "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "d3a2efc31677",
+          "title": "Stripe backer Atomico calls for Europe to own its success stories",
+          "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Anna Heim",
+          "published": "2026-11-18T00:01:00+00:00",
+          "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "ca73aba529d8",
+          "title": "Europe plans to catch the next computer chip wave",
+          "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-18T00:00:24+00:00",
+          "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "28509d8a3a74",
+          "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Tim Fernholz",
+          "published": "2026-11-17T23:37:48+00:00",
+          "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "daa9959cb12c",
+          "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Dara Kerr",
+          "published": "2026-11-17T23:32:16+00:00",
+          "summary": "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spy Nvidia “does not intend to reinstate Jensen as CEO”, the chairman of the company’s board said Tuesday.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "a29240342356",
+          "title": "Nvidia’s first earnings call without Jensen Huang had one message: It’s business as usual",
+          "url": "https://www.fastcompany.com/91644237/nvidia-q3-earnings-first-without-jensen-huang",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Mark Sullivan",
+          "published": "2026-11-17T23:26:48+00:00",
+          "summary": "Nvidia on Tuesday held its first earnings call in its 33-year history without cofounder Jensen Huang, who resigned five days ago after a scandal involving an extramarital affair with a suspected Chinese spy.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 33
+        },
+        {
+          "id": "5a5ecd78527d",
+          "title": "A new report says free childcare in NYC will pay for itself",
+          "url": "https://www.fastcompany.com/91644150/a-new-report-says-free-childcare-in-nyc-will-pay-for-itself",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Pavithra Mohan",
+          "published": "2026-11-17T22:30:00+00:00",
+          "summary": "Since taking office, New York City mayor Zohran Mamdani has made it his mission to expand access to affordable childcare in the city, and for good reason. On average, NYC families spend $21,000 on childcare annually per child—the equivalent of about $10 billion every year.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "e48357026cb5",
+          "title": "Judge extends deadline for Trump’s deposition in $10bn BBC lawsuit",
+          "url": "https://www.theguardian.com/us-news/2026/nov/17/trump-bbc-deposition-delay",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Jeremy Barr in Washington",
+          "published": "2026-11-17T21:45:58+00:00",
+          "summary": "President, who had agreed to sit for deposition in October but backed out, must now appear by 22 January Donald Trump has been granted a temporary delay before he must give a witness statement in his $10bn defamation lawsuit against the BBC.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 42
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "site": "https://www.aljazeera.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BA Times",
+      "site": "https://www.batimes.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – Business",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – India",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – World",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Fast Company",
+      "site": "https://www.fastcompany.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Federal Register – IRS",
+      "site": "https://www.federalregister.gov",
+      "license": "US Government work (public domain)",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Global Voices",
+      "site": "https://globalvoices.org",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "full_text": true
+    },
+    {
+      "name": "NPR News",
+      "site": "https://feeds.npr.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Product Talk",
+      "site": "https://www.producttalk.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Roman Pichler",
+      "site": "https://www.romanpichler.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Silicon Valley Product Group",
+      "site": "https://www.svpg.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Tax Foundation",
+      "site": "https://taxfoundation.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Tax Justice Network",
+      "site": "https://taxjustice.net",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Taxscan (India)",
+      "site": "https://www.taxscan.in",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TechCrunch",
+      "site": "https://techcrunch.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TechCrunch – Fintech",
+      "site": "https://techcrunch.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Conversation",
+      "site": "https://theconversation.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Fintech Times",
+      "site": "https://thefintechtimes.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Business",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Editorials",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Opinion",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – World",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    }
+  ],
+  "errors": [
+    "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
+    "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
+    "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
+    "Finextra: 403 Client Error: Forbidden for url: https://www.finextra.com/rss/headlines.aspx",
+    "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
+    "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+    "Mind the Product: feed contained no entries",
+    "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
+    "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
+  ]
+}
