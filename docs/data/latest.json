@@ -2,15 +2,15 @@
   "edition": {
     "name": "The Morning Ledger",
     "tagline": "A quiet read for a busy morning",
-    "date": "2026-11-18",
-    "date_long": "Wednesday, 18 November 2026",
+    "date": "2026-11-19",
+    "date_long": "Thursday, 19 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-18T21:25+05:30",
+    "generated_at": "2026-11-19T06:11+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 49,
-    "reading_minutes": 13,
+    "total_articles": 46,
+    "reading_minutes": 11,
     "source_count": 24,
     "full_text_count": 1,
     "per_section": {
@@ -18,20 +18,28 @@
       "editorials-opinion": 8,
       "fintech-taxtech": 7,
       "tax-policy": 8,
-      "product-analysis": 8,
+      "product-analysis": 5,
       "business-trends": 8
     },
     "keywords": [
       {
-        "term": "people",
+        "term": "world",
         "count": 6
       },
       {
-        "term": "world",
+        "term": "company",
         "count": 5
       },
       {
-        "term": "found",
+        "term": "demand",
+        "count": 4
+      },
+      {
+        "term": "public",
+        "count": 4
+      },
+      {
+        "term": "annual",
         "count": 4
       },
       {
@@ -39,19 +47,7 @@
         "count": 4
       },
       {
-        "term": "need",
-        "count": 4
-      },
-      {
-        "term": "financial",
-        "count": 4
-      },
-      {
-        "term": "four",
-        "count": 4
-      },
-      {
-        "term": "company",
+        "term": "payments",
         "count": 4
       },
       {
@@ -59,15 +55,19 @@
         "count": 3
       },
       {
-        "term": "hakeem jeffries",
+        "term": "three",
+        "count": 3
+      },
+      {
+        "term": "young people",
         "count": 2
       },
       {
-        "term": "incoming chair",
+        "term": "artificial intelligence",
         "count": 2
       },
       {
-        "term": "donald trump",
+        "term": "sets aside",
         "count": 2
       }
     ],
@@ -103,28 +103,28 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "63,094.00",
-        "change_pct": -0.49,
+        "display": "63,043.00",
+        "change_pct": -2.61,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,765.22",
-        "change_pct": 0.48,
+        "display": "1,780.00",
+        "change_pct": -2.09,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Amortization",
-    "definition": "The practice of spreading an intangible asset's cost over a period of time.",
+    "term": "EBITDA",
+    "definition": "Earnings Before Interest, Taxes, Depreciation, and Amortization—a measure of a company's overall financial performance.",
     "source": "The Morning Ledger glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 18",
-    "definition": "edit · refresh · view Word of the day for November 18 voyager n (also figurative) A person or thing that voyages or travels; a traveller.",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261118000000/en",
+    "word": "Word of the day for November 19",
+    "definition": "edit · refresh · view Word of the day for November 19 moustache-twirling adj (idiomatic, often humorous, informal) Villainous, wicked.",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261119000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -136,116 +136,130 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "15fdb93f14c9",
-          "title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
-          "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
+          "id": "6b7e5f7794d9",
+          "title": "11 states, Union Territories are ‘fully literate’; Madhya Pradesh leads in adult learners",
+          "url": "https://indianexpress.com/article/india/madhya-pradesh-leads-in-adult-learners-adult-literacy-10968996/",
+          "source": "The Indian Express – India",
           "section": "national-international",
-          "author": "",
-          "published": "2026-11-18T15:39:57+00:00",
-          "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
+          "author": "Gayathri Mani",
+          "published": "2026-11-19T00:11:14+00:00",
+          "summary": "",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 21
+          "words": 0
         },
         {
-          "id": "77109af97eba",
-          "title": "Hakeem Jeffries nominated to be US Speaker of the House",
-          "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-18T15:38:02+00:00",
-          "summary": "Democrats in the US House of Representatives have officially nominated him, setting him on the path to become the first black lawmaker to lead the chamber.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
-        },
-        {
-          "id": "1a4065eef2ca",
-          "title": "Hakeem Jeffries becomes first Black nominee for US House speaker",
-          "url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
+          "id": "c69230f31116",
+          "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
           "source": "Al Jazeera",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-18T15:37:52+00:00",
-          "summary": "The New York congressman was nominated after Democrats gained control of Congress in the midterm elections.",
+          "published": "2026-11-19T00:01:02+00:00",
+          "summary": "Saudi-led coalition has said it destroyed a missile platform in Saada, Yemen as Iran claims three ships hit mines.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 16
+          "words": 19
         },
         {
-          "id": "e54ccd81a143",
-          "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-          "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+          "id": "a2f203509836",
+          "title": "In Moldova, teens are learning about democracy and elections through an app",
+          "url": "https://globalvoices.org/2026/11/19/in-moldova-teens-are-learning-about-democracy-and-elections-through-an-app/",
+          "source": "Global Voices",
+          "section": "national-international",
+          "author": "Daria Dergacheva",
+          "published": "2026-11-19T00:00:14+00:00",
+          "summary": "VotEDU started off as a civic-education project to help young people understand democracy before they vote for the first time.",
+          "full_html": "<p><em>The app gives short, interactive lessons using quizzes, flashcards, and other easily accessible formats in three languages</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/19/in-moldova-teens-are-learning-about-democracy-and-elections-through-an-app/\">Global Voices</a></p><p>Screenshot of views of <a href=\"https://apps.apple.com/us/app/votedu/id6811434208\">VotEDU</a> on the App Store. Fair use.</p>\n<p><i>This interview is part of a series of spotlights on the work of some of the grantees of the</i><a href=\"https://ddidigitalspark.org/news/\"> <i>Digital Spark</i></a><i> granting scheme, as part of the Regional Support Mechanism EECA project, implemented by the</i><a href=\"https://metamorphosis.org.mk/en/\"> <i>Metamorphosis Foundation</i></a><i> and</i><a href=\"https://www.techsoup.org/?srsltid=AfmBOoqgPtm0Yk6HG-hTECkCqfPFl9-HyRjojpYFAhrHKdM_Z419qEaW\"> <i>TechSoup</i></a><i>, in partnership with</i><a href=\"https://www.civicus.org/\"> <i>CIVICUS</i></a><i> and under the</i><a href=\"https://digitaldemocracyinitiative.net/\"> <i>Digital Democracy Initiative (DDI)</i></a><i> that covers the Global South. It is being published on Global Voices as part of a content-sharing agreement.</i> </p>\n<p><a href=\"https://en.wikipedia.org/wiki/Moldova\">Moldova</a> is a relatively small post-Soviet state with a <a href=\"https://en.wikipedia.org/wiki/Moldova\">population</a> of three million people. A<a href=\"https://en.wikipedia.org/wiki/Moldova\"> landlocked country</a>, it has a long border with <a href=\"https://globalvoices.org/special/russia-invades-ukraine/\">war-torn Ukraine</a> and Romania; with the latter, it shares the same <a href=\"https://en.wikipedia.org/wiki/Moldova\">official language</a>. The territory that is now Moldova was once part of the Russian <a href=\"https://en.wikipedia.org/wiki/Russian_Empire\">Empire</a>, and later the Soviet Union, and Russia has been <a href=\"https://en.wikipedia.org/wiki/Russian_Empire\">meddling</a> in its affairs.</p>\n<p>Moldova has a large Russian-speaking <a href=\"https://en.wikipedia.org/wiki/Russians_in_Moldova\">population</a> and a problematic unrecognized territory: <a href=\"https://en.wikipedia.org/wiki/Transnistria\">Transnistria</a>, which is basically <a href=\"https://www.freiheit.org/romania-and-republic-moldova/transnistria-thorn-moldovas-side\">controlled</a> by Russia. It also has European aspirations and was officially named a <a href=\"https://www.consilium.europa.eu/en/policies/moldova/\">candidate</a> to join the European Union in 2022, after Russia invaded neighbouring Ukraine. </p>\n<p>The country’s most recent parliamentary elections were held in September 2025, and despite the <a href=\"https://www.lowyinstitute.org/the-interpreter/how-russia-tried-manipulate-moldova-s-election-what-it-reveals\">record influx </a>of Russian disinformation and <a href=\"https://www.lowyinstitute.org/the-interpreter/how-russia-tried-manipulate-moldova-s-election-what-it-reveals\">other meddling</a>, elections were recognized as fair and democratic by the Organization for Security and Co-operation in Europe<a href=\"https://www.osce.org/odihr/elections/moldova\"> (OCSE) observers</a>. The pro-European<a href=\"https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity\"> Party of Action and Solidarity</a> (PAS) won the elections with a small majority. </p>\n<p>The initiative supported by<a href=\"https://metamorphosis.org.mk/en/call-for-grants-digital-spark/\"> Digital Spark</a> is an app called <a href=\"https://apps.apple.com/us/app/votedu/id6811434208\">VotEDU</a>, which answers basic questions about the democratic institution of elections for high school students in Moldova. It does so through short, interactive lessons using quizzes, flashcards, and other easily accessible formats in three languages: Romanian, Russian, and English, and is the subject of this Spotlight story. </p>\n<p>Global Voices interviewed the app’s developer, <a href=\"https://www.linkedin.com/in/vlad-garbuz-sdu/\">Vlad Garbuz</a>, about the impact of Digital Spark and his initiative. </p>\n<p><b>Global Voices (GV): Please tell us about your organization and why you chose to get involved with the Digital Spark project.</b></p>\n<blockquote><p><b>Vlad Garbuz (VG)</b>: I started<a href=\"https://apps.apple.com/us/app/votedu/id6811434208\"> VotEDU</a>, an independent civic-education project in Moldova, to help young people understand democracy before they vote for the first time. The idea began at the VOTech hackathon in Moldova. I joined Digital Spark because I wanted to turn it into a tool that students could use in everyday life and teachers could bring into class. The project helped me build the app and begin testing it with the young people it is meant for.</p></blockquote>\n<p><b>GV</b>:<b> What issue or challenge in your community prompted you to undertake this project?</b></p>\n<blockquote><p><b>VG</b>: Young people meet politics every day through their feeds, long before they enter a polling station. In Moldova, many young people encounter misleading claims online. Yet many have very few easy ways of asking questions about elections and getting the answers they can understand.</p>\n<p>That made me wonder how civic education could reach young people in the spaces where they already spend their time. VotEDU was the answer. It puts short lessons, simple explanations, and activities on their phones, so they can learn at their own pace.</p></blockquote>\n<p><b>GV</b>: <b>What are the key changes or activities that you implemented during your participation in the project?</b></p>\n<blockquote><p><b>VG</b>: During Digital Spark, VotEDU developed into a civic-education app with nine units, 28 short lessons, quizzes, interactive activities, and a glossary of 136 civic terms. The content is available in Romanian, Russian, and English. All of the lessons have been reviewed for accuracy and political neutrality. Student privacy guided the app’s design. A short guide was also prepared for teachers.</p>\n<p>VotEDU was represented at Moldova Digital Summit 2026, where several educators expressed interest in trying it in schools. The app is now being piloted with high school students in Moldova through its web version. It is also available on the App Store, with the Google Play version coming soon.</p></blockquote>\n<p><b>GV: How did your participation in the project impact your beneficiaries and the community you serve? Please provide examples.</b></p>\n<blockquote><p><b>VG: </b>Teacher feedback has highlighted the need for digital tools alongside Moldova’s electoral education textbook. VotEDU brings these topics into a format students can explore on their phones.</p>\n<p>High school students in the pilot program are using the app and sharing feedback. The feedback tells us how easy the information was to access, as well as appreciation of the app’s design, quizzes, and illustrations. Together with teachers’ suggestions, this feedback is helping improve the content in the app and making it a better user experience.</p></blockquote>\n<p><b>GV: How has your own knowledge, awareness, and experience with digital democracy and civic space changed?</b></p>\n<blockquote><p><b>VG</b>: I have learned that the design of a civic tool is part of its message. If an app is hard to understand, available in only one language, or careless with privacy, it may leave out the very people it hopes to reach.</p>\n<p>Building VotEDU has made me more careful about how I explain civic topics. Each lesson needs to be accurate and fair, while still being simple enough to use on a phone. I now think more about whether young people feel comfortable asking questions and forming their own views, not just whether the information is online.</p></blockquote>\n<p><b>GV: What are the most valuable lessons and experiences you are taking away from this project?</b></p>\n<blockquote><p><b>VG: </b>The lesson I will carry forward is to start earlier. Young people should have a chance to understand democracy before an election campaign is asking for their attention.</p>\n<p>I have also learned that a good idea needs to be tested with the people it is meant to help. Building VotEDU was only one part of the work. Now students are using it and telling us what they think. Their experience will help us see what works, what is still unclear to students, and what needs to change.</p></blockquote>\n<p><b>GV: What comes next? How will you apply the learning and digital capacity you have built?</b></p>\n<blockquote><p><b>VG: </b>I will continue the pilot program and use feedback from students and teachers to improve VotEDU. I plan to bring it to more schools, including rural schools, and use short questions before and after the lessons to see what students learn.</p>\n<p>In October 2026, I also demonstrated VotEDU at <a href=\"https://megaphone.techsoupeurope.org/agenda/\">MEGAPHONE &amp; e-Society in Skopje</a>. I showed how digital tools can make civic education more useful and engaging for young people, and inspire others to try similar ideas. VotEDU is a project that can be adapted for different countries and topics. Making the project public and accessible is one of my objectives to ensure anyone can easily build something that will bring benefits to their local community.</p></blockquote>\n<strong>Written by <a href=\"https://globalvoices.org/author/daria-dergacheva/\">Daria Dergacheva</a></strong>",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "words": 1121
+        },
+        {
+          "id": "56673e8fb67a",
+          "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "John Ruwitch",
+          "published": "2026-11-18T23:54:56+00:00",
+          "summary": "The five-year-old artificial intelligence powerhouse priced its initial public offering at $83 a share, shrugging off growing concern about a possible AI bubble and volatility in tech stocks.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "c6d87bb33ae7",
+          "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-18T23:44:27+00:00",
+          "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "1431aa957fde",
+          "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
+          "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-18T23:28:03+00:00",
+          "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "94287023c763",
+          "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
           "source": "The Guardian – World",
           "section": "national-international",
-          "author": "Tom Ambrose (now); Taz Ali and Kate Lamb (earlier)",
-          "published": "2026-11-18T15:10:26+00:00",
-          "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
+          "author": "Associated Press",
+          "published": "2026-11-18T22:31:41+00:00",
+          "summary": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising from the 2021 assassination of the Haitian president Jovenel Moïse.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 42
         },
         {
-          "id": "038553fd8d9f",
-          "title": "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
-          "url": "https://www.npr.org/2026/11/18/g-s1-154147/robert-garcia-house-democrats-investigations-trump-administration",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "Barbara Sprunt",
-          "published": "2026-11-18T15:01:32+00:00",
-          "summary": "Among the recipients of letters from Robert Garcia, incoming chair of the House Oversight Committee, are Donald Trump Jr. and Eric Trump, Jared Kushner and White House Chief of Staff Stephen Miller.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 32
-        },
-        {
-          "id": "df8d86c3af54",
-          "title": "The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe",
-          "url": "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "Gabrielle Emanuel",
-          "published": "2026-11-18T13:03:38+00:00",
-          "summary": "After dismantling the United States Agency for International Development, the Trump administration is restarting foreign aid. In Zambia and Zimbabwe, there are different approaches but similar worries.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 27
-        },
-        {
-          "id": "c79194cafec6",
-          "title": "‘Who will respond?’: Jailed Hong Kong pro-democracy activist Joshua Wong fears being forgotten amid 10-year sentence",
-          "url": "https://globalvoices.org/2026/11/18/who-will-respond-jailed-hong-kong-pro-democracy-activist-joshua-wong-fears-being-forgotten-amid-10-year-sentence/",
-          "source": "Global Voices",
-          "section": "national-international",
-          "author": "Hong Kong Free Press",
-          "published": "2026-11-18T11:48:15+00:00",
-          "summary": "The 30-year-old pro-democracy activist has spent almost six years behind bars and was set for release in January 2026, until authorities charged him with conspiring to foreign collusion last year.",
-          "full_html": "<p><em>The activist admits his mental state has been negatively affected by the 10-year sentence increase</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/18/who-will-respond-jailed-hong-kong-pro-democracy-activist-joshua-wong-fears-being-forgotten-amid-10-year-sentence/\">Global Voices</a></p><a href=\"https://hongkongfp.com/2026/11/16/joshua-wongs-prison-letters-reveal-inner-shift-as-hong-kong-activist-faces-another-decade-behind-bars/\"></a><p>Joshua Wong released from Lai Chi Kok Reception Centre on June 17, 2019. <a href=\"https://hongkongfp.com/2026/11/16/joshua-wongs-prison-letters-reveal-inner-shift-as-hong-kong-activist-faces-another-decade-behind-bars/\">HKFP&#x27;s File photo</a>.</p>\n<p><em>This article was originally <a href=\"https://hongkongfp.com/2026/11/16/joshua-wongs-prison-letters-reveal-inner-shift-as-hong-kong-activist-faces-another-decade-behind-bars/\">published</a> by Hong Kong Free Press on November 16, 2026. The following version is edited and republished on Global Voices under a content partnership agreement. It is also part of Global Voices’ November 2026 Spotlight series, “<a href=\"https://globalvoices.org/special/justice-as-infrastructure/\">Justice as infrastructure</a>.” You can support this coverage by donating <a href=\"https://globalvoices.org/2026/09/25/support-global-voices-spotlight-big-tech-and-authoritarianism/\">here</a>.</em></p>\n<p>In a letter from a Hong Kong prison earlier this year, jailed activist Joshua Wong expressed dread over the looming sentence in his foreign collusion case. “Fretting about whether it’s 2032 or 2037, my mental state is hardly all right,” he wrote in Chinese, weighing when he might regain his freedom.</p>\n<blockquote><p>The agony inevitably stems from this: What if it’s 2037? Well, it’s easy [for people] to sympathise in the moment, but it’s difficult to be consistent, and it will only get harder.</p></blockquote>\n<p>The 30-year-old pro-democracy activist has already spent almost six years behind bars over various offences and was set for release in January 2026, until authorities charged him last year with conspiring to collude with foreign forces — the second case against him under the Beijing-imposed <a href=\"https://globalvoices.org/2024/03/20/hong-kong-passes-controversial-new-security-law-broadly-defining-treason-and-insurrection/\">national security law</a>. His case is one of the most high-profile examples of changing judicial norms in Hong Kong.</p>\n<a href=\"https://hongkongfp.com/2026/11/16/joshua-wongs-prison-letters-reveal-inner-shift-as-hong-kong-activist-faces-another-decade-behind-bars/\"></a><p>A prison letter Joshua Wong wrote to friend and former fellow student activist Louis Lee in February 2026. This photo was taken on September 30, 2026. Photo by <a href=\"https://hongkongfp.com/2026/11/16/joshua-wongs-prison-letters-reveal-inner-shift-as-hong-kong-activist-faces-another-decade-behind-bars/\">Kyle Lam/HKFP</a>. Used with permission.</p>\n<p>On November 5, just two months before he was due to be released, a court sentenced him to 10 more years in prison for colluding with foreign forces. He is now expected to serve until late 2036, when he turns 40.</p>\n<p>Standing in the courtroom as his new sentence was announced, Wong shook his head slightly and made notes, but appeared calm. Judge William Tam ruled that Wong’s offence was one of a “grave nature” under the national security law, which carries a minimum penalty of 10 years in jail and up to life imprisonment.</p>\n<p>The judge knocked off three years from a 13-year starting sentence for Wong’s guilty plea.</p>\n<p>In prison correspondence shared with HKFP by two close friends ahead of Wong’s sentencing, the former poster child of Hong Kong’s democracy movement had at times reflected on the weight of facing an additional decade behind bars. He expressed anxiety over fading from the memory of his friends — and from society at large. In one letter, Wong wrote:</p>\n<blockquote>\n<p>I have no idea how much more I will lose in the passing of time. Responsibility is, in fact, response-ability. But who will respond? I can’t help but ponder and doubt.</p>\n</blockquote>\n<p>Once a pro-democracy activist dedicated first and foremost to Hong Kong’s political future, Wong began campaigning as a charismatic, eloquent student leader who dared to stand up to the authorities — even to Beijing. Hong Kong is an overseas territory of China, and has increasingly been pressured to conform to China’s political goals in recent years, despite agreements that Hong Kong would retain “<a href=\"https://www.basiclaw.gov.hk/en/basiclaw/chapter1.html\">a high degree of autonomy</a>” when handed over to China in 1997. A Netflix documentary about him is succinctly titled “Joshua: Teenager vs. Superpower.”</p>\n<p>Yet, after years behind bars, Wong has changed. The teenager who focused single-mindedly on Hong Kong’s democracy movement has become even more caring for those around him despite being separated by prison walls, according to his friends.</p>\n<p>Tiffany Chin, a former student activist who campaigned alongside Wong, said. The pair were once romantically involved and are now friends. She shared:</p>\n<blockquote>\n<p>For me, it doesn’t feel like we’re the only ones supporting him. In fact, he has been supporting people on the outside in his own way.</p>\n</blockquote>\n<p>And, with the political causes he once championed now firmly crushed, Wong has turned inward to reflect on himself. In another letter, he wrote:</p>\n<blockquote>\n<p>We had held such high aspirations for society from a young age, we should hold ourselves to the same standard. Only by refusing a life of mediocrity can we be worthy of the world we envisioned.</p>\n</blockquote>\n<h3><strong>From “robot” to </strong>caring friend</h3>\n<p>On a bright summer day in June 2025, while serving a sentence for subversion at Stanley Prison, Wong was arrested behind bars and brought to court the same day on a fresh charge of conspiracy to collude with foreign forces.</p>\n<p>The prosecution came without warning. That day, Chin and Louis Lee, another longtime friend of Wong’s, rushed to the court after hearing the news, but failed to see him in person.</p>\n<p>Authorities accused him of conspiring with <a href=\"https://globalvoices.org/2024/10/13/where-are-the-leaders-of-hong-kongs-2014-umbrella-movement-now/\">Nathan Law</a> — another high-profile, pro-democracy student activist — in 2020 to collude with foreign elements, citing Wong’s sharing of Law’s social media posts calling for international sanctions against Hong Kong as evidence.</p>\n<p>The unexpected new charge was devastating to Wong. That month, he confessed he was under a lot of pressure — a vulnerability he rarely showed in the past, Chin said.</p>\n<blockquote>\n<p>After so many prison terms and all the ups and downs over the last decade… he seldom openly showed vulnerability. So when he felt the need to say so bluntly that he was not OK, I truly believed he wasn’t.</p>\n</blockquote>\n<p>Having begun campaigning at the age of 14, Wong has been in and out of prison throughout his years of activism. He now has a total of eight criminal convictions, including three separate offences linked to unlawful assembly and two national security offences.</p>\n<a href=\"https://hongkongfp.com/2026/11/16/joshua-wongs-prison-letters-reveal-inner-shift-as-hong-kong-activist-faces-another-decade-behind-bars/\"></a><p>Joshua Wong is photographed inside the Lai Chi Kwok Reception Centre on March 4, 2021. Photo via <a href=\"https://hongkongfp.com/2026/11/16/joshua-wongs-prison-letters-reveal-inner-shift-as-hong-kong-activist-faces-another-decade-behind-bars/\">HKFP</a>. Used with permission.</p>\n<p>Born in 1996 to a Christian family – one year before Hong Kong was handed over to China from British rule – Wong rose to prominence in 2011 when he co-founded student protest group Scholarism amid a public outcry against a proposed patriotic education curriculum.</p>\n<p>The following year, Scholarism activists occupied the forecourt outside Hong Kong government headquarters and staged a hunger strike to protest what they described as a “brainwashing” curriculum. In a widely reported encounter, the teenager Wong twice refused to shake hands with then-city leader Leung Chun-ying, who visited the protest site alongside education officials.</p>\n<p>Hundreds of thousands of people rallied behind Wong and his fellow student activists, forcing the government to back down and shelve the proposal.</p>\n<p>But the teenage campaigner was also viewed as somewhat distant and domineering among the inner circle of Scholarism. Lee, who mainly handled protest logistics at that time, described his relationship with Wong as “almost like that of a boss and subordinate.”</p>\n<p>Chin, who joined Scholarism around 2013, similarly described Wong as a deeply rational figure who seldom expressed his emotions. “Ten years ago, everyone described him as someone without many feelings,” she said. “Like a robot.”</p>\n<p>Wong might even come across as “rude,” she added, noting that he rarely said thanks to others during that period.</p>\n<p>A large part of Wong’s youth coincided with a period of escalating social movements in Hong Kong. Just two years after the anti-patriotic education protests, the city saw the 79-day <a href=\"https://globalvoices.org/2025/01/18/ten-years-after-umbrella-protests-what-has-changed-for-hongkongers/\">Umbrella Movement</a> in 2014. Wong, then aged 17, took centre stage in mobilising public support for student protesters, who demanded democratic reform and universal suffrage.</p>\n<p>In a demonstration that sparked the Umbrella Movement, Wong and other student leaders led protesters into the forecourt of the government headquarters in an action dubbed “Reclaiming Civic Square,” seeking to escalate their campaign. That eventually resulted in Wong’s first criminal conviction.</p>\n<p>In 2016, Wong and fellow student leaders Alex Chow and Nathan Law were found guilty of unlawful assembly. Though initially spared prison, Wong later served around 69 days behind bars – his first jail term – following a government appeal in 2017. His penalty was ultimately quashed by the Court of Final Appeal in 2018.</p>\n<p>Scholarism disbanded in 2016. Wong and several former members, as well as young activists like Law, went on to establish Demosisto, a political party advocating for “democratic self-determination” in the city. Wong served as general secretary.</p>\n<p>Lee and Chin did not join the new party, and they grew estranged from Wong during that period.</p>\n<p>That year, Law was elected to the Legislative Council, making him the youngest lawmaker in Hong Kong history at the age of 23. He won over 50,000 votes, giving Demosisto a strong popular mandate. The prospect of youth democracy activism appeared bright at the time, but Law was eventually disqualified from his seat in 2017 following an oath-taking controversy.</p>\n<a href=\"https://hongkongfp.com/2026/11/16/joshua-wongs-prison-letters-reveal-inner-shift-as-hong-kong-activist-faces-another-decade-behind-bars\"></a><p>From left: Joshua Wong, Agnes Chow, and Nathan Law, photographed on March 10, 2018. Photo via <a href=\"https://hongkongfp.com/2026/11/16/joshua-wongs-prison-letters-reveal-inner-shift-as-hong-kong-activist-faces-another-decade-behind-bars/\">HKFP</a>. Used with permission.</p>\n<h3><strong>Reconnections</strong></h3>\n<p>It was only after Wong’s detention in late 2020 that Lee and Chin reconnected with him, beginning with an exchange of letters.</p>\n<p>In 2019, citywide protests and unrest triggered by a <a href=\"https://globalvoices.org/specialcoverage/2020-special-coverage/2019-special-coverage/the-people-of-hong-kong-vs-the-china-extradition-bill/\">controversial extradition bill</a> engulfed the city. Wong and Demosisto were heavily involved in the protests, with the activist frequently lobbying foreign governments to impose sanctions on Hong Kong officials and halt the export of crowd control equipment to the city’s police force.</p>\n<p>Then, in June 2020,<a href=\"https://www.cfr.org/backgrounders/hong-kong-freedoms-democracy-protests-china-crackdown\"> Beijing imposed the national security law</a>, effectively crushing political dissent in the city. Demosisto disbanded on the eve of the law’s enactment, while Nathan Law left Hong Kong in self-exile.</p>\n\n<strong>Written by <a href=\"https://globalvoices.org/author/hong-kong-free-press/\">Hong Kong Free Press</a></strong>",
-          "license": "CC BY 3.0",
-          "license_url": "https://creativecommons.org/licenses/by/3.0/",
-          "words": 1565
-        },
-        {
-          "id": "a9cefeb13011",
-          "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
-          "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+          "id": "ee7b14dff891",
+          "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+          "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
           "source": "The Guardian – World",
           "section": "national-international",
-          "author": "Patrick Wintour Diplomatic Editor",
-          "published": "2026-11-18T09:58:28+00:00",
-          "summary": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay, if the court rules…",
+          "author": "Tom Phillips Latin America correspondent",
+          "published": "2026-11-18T20:24:19+00:00",
+          "summary": "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year ago Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he…",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
+        },
+        {
+          "id": "bd5806ebe2b8",
+          "title": "William and Kate meet PM Modi as they wrap up India tour",
+          "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-18T20:07:08+00:00",
+          "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
         },
         {
           "id": "0d60ac4d9419",
@@ -260,20 +274,6 @@
           "license": "",
           "license_url": "",
           "words": 20
-        },
-        {
-          "id": "f6d6d71d4d55",
-          "title": "The AI start-ups fixing India's broken roads and messy land records",
-          "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – India",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-16T23:25:53+00:00",
-          "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 14
         }
       ]
     },
@@ -283,46 +283,88 @@
       "kicker": "Opinion",
       "articles": [
         {
-          "id": "0ff1e6e56f28",
-          "title": "In rare good news, wages have risen strongly. But Australian workers are still falling behind | Greg Jericho",
-          "url": "https://www.theguardian.com/business/grogonomics/2026/nov/19/real-wage-growth-australian-economy-workers-still-falling-behind",
+          "id": "ab19112d8500",
+          "title": "Australia has a reputation for being the most secretive democracy in the world. New laws could make it worse | Tom Sulston",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/19/australia-has-a-reputation-for-being-the-most-secretive-democracy-in-the-world-new-laws-could-make-it-worse",
           "source": "The Guardian – Opinion",
           "section": "editorials-opinion",
-          "author": "Greg Jericho",
-          "published": "2026-11-18T14:00:04+00:00",
-          "summary": "Despite the highest wage growth in years, we wait for signs of workers getting ahead of inflation – or of the supposed benefits of the AI boom Get our daily political email, free app or daily news podcast It’s rare of late to get good…",
+          "author": "Tom Sulston",
+          "published": "2026-11-18T22:00:09+00:00",
+          "summary": "A defence bill being rushed through parliament could expand the definition of ‘defence official’ and see AI datacentres deemed ‘defence security zones’ In 2019, the New York Times described Australia as “the world’s most secretive democracy”.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 45
+          "words": 36
         },
         {
-          "id": "59934b2034b5",
-          "title": "We made GTA 6, the world’s biggest video game – we should have working conditions to match | Nestor Uriarte",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/18/gta-6-grand-theft-auto-vi-rockstar-employees-union-recognition",
-          "source": "The Guardian – Opinion",
+          "id": "9d79332d9a58",
+          "title": "The Guardian view on the Trump, Xi and Putin meeting: it may be a first, but it’s not progress | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/18/the-guardian-view-on-the-trump-xi-and-putin-meeting-it-may-be-a-first-but-its-not-progress",
+          "source": "The Guardian – Editorials",
           "section": "editorials-opinion",
-          "author": "Nestor Uriarte",
-          "published": "2026-11-18T11:50:57+00:00",
-          "summary": "After the release of Grand Theft Auto VI this week, Rockstar employees like me can make history again. We need union recognition to safeguard our jobs When I first got the call offering me a job at Rockstar, I was thrilled.",
+          "author": "Editorial",
+          "published": "2026-11-18T18:35:14+00:00",
+          "summary": "A trilateral gathering is good news for China and Russia, but bad for the US – and its traditional allies “Historic” is a neutral descriptor, not a favourable one. Things can be unprecedented for good reason.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 41
+          "words": 36
         },
         {
-          "id": "cb99e6aef1e5",
-          "title": "After 49 years, Nasa’s Voyager 1 is one light-day away from us. Can we save this ‘pale blue dot’? |",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
-          "source": "The Guardian – Opinion",
+          "id": "6ec498750f73",
+          "title": "The Guardian view on ‘two-tier policing’: tackle the myth, don’t pander to it | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/18/the-guardian-view-on-two-tier-policing-tackle-the-myth-dont-pander-to-it",
+          "source": "The Guardian – Editorials",
           "section": "editorials-opinion",
-          "author": "Kim Heacox",
-          "published": "2026-11-18T11:00:56+00:00",
-          "summary": "Since the spacecraft’s 1977 launch, our wonderful and terrible species has done great damage to our planet.",
+          "author": "Editorial",
+          "published": "2026-11-18T18:34:59+00:00",
+          "summary": "Confidence in the system is being corroded by cynical campaigns and far-right propaganda – that is the challenge to be confronted There are many areas of policy where public opinion diverges from evidence. Voters overestimate rates of crime, for example.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 17
+          "words": 40
+        },
+        {
+          "id": "c1f556383596",
+          "title": "With renewable energy, bigger isn’t always better",
+          "url": "https://indianexpress.com/article/opinion/columns/with-renewable-energy-bigger-isnt-always-better-10968486/",
+          "source": "The Indian Express – Opinion",
+          "section": "editorials-opinion",
+          "author": "Rohit Chandra",
+          "published": "2026-11-18T13:01:29+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "792da3987dfe",
+          "title": "Beijing has three priorities at the Shenzhen summit – a China expert explains",
+          "url": "https://theconversation.com/beijing-has-three-priorities-at-the-shenzhen-summit-a-china-expert-explains-296734",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Tom Harper, Lecturer in International Relations, University of East London",
+          "published": "2026-11-18T11:39:19+00:00",
+          "summary": "The Apec summit offers a window into what China hopes to achieve on the international stage as well as the world it perceives itself in.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "266ea524f62c",
+          "title": "The AI bubble has lost its bubble-blower. But don’t grieve just yet",
+          "url": "https://indianexpress.com/article/opinion/columns/the-ai-bubble-jensen-huang-donald-trump-nvidiadont-grieve-just-yet-10968443/",
+          "source": "The Indian Express – Opinion",
+          "section": "editorials-opinion",
+          "author": "Bhaskar Chakravorti",
+          "published": "2026-11-18T11:32:01+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
         },
         {
           "id": "0dc4f489d775",
@@ -339,20 +381,6 @@
           "words": 21
         },
         {
-          "id": "01d6eb729a09",
-          "title": "Jensen Huang scandal illustrates why human nature is cybersecurity’s weakest link",
-          "url": "https://theconversation.com/jensen-huang-scandal-illustrates-why-human-nature-is-cybersecuritys-weakest-link-296763",
-          "source": "The Conversation",
-          "section": "editorials-opinion",
-          "author": "Vanessa Bohns, Braunstein Family Professor and Chair of Organizational Behavior, Cornell University",
-          "published": "2026-11-17T19:53:14+00:00",
-          "summary": "Voice, physical touch and face-to-face interactions make people more trusting, compliant and willing to share sensitive information.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
-        },
-        {
           "id": "2f9d630c2e79",
           "title": "The Guardian view on the Milburn report: a manifesto for youth participation | Editorial",
           "url": "https://www.theguardian.com/commentisfree/2026/nov/17/the-guardian-view-on-the-milburn-report-a-manifesto-for-youth-participation",
@@ -361,34 +389,6 @@
           "author": "Editorial",
           "published": "2026-11-17T19:08:54+00:00",
           "summary": "This is not a rerun of failed welfare cuts, but young people who rely on benefits cannot be expected to take promised opportunities on trust The gap between the state’s investment in young people compared with older generations has more than doubled in two decades.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "3e845fa3643e",
-          "title": "The Guardian view on climate and debt: a vicious cycle the world must break at Cop31 | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/17/the-guardian-view-on-climate-debt-a-vicious-cycle-the-world-must-break-at-cop31",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-17T19:08:05+00:00",
-          "summary": "Poor countries are paying creditors instead of preparing for climate disasters. The international financial system must stop deepening their vulnerability The catastrophe that struck Nepal’s Himalayas in August began with a collapsing glacier.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 33
-        },
-        {
-          "id": "ccefa2bd2e97",
-          "title": "The Guardian view on Europe and Burnham: a future that can only be viewed through a glass darkly | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/16/the-guardian-view-on-europe-and-burnham-a-future-that-can-only-be-viewed-through-a-glass-darkly",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-16T18:37:44+00:00",
-          "summary": "Predicting a final destination for reset negotiations between the EU and the UK is futile, given the wider challenges that Brussels is facing At the European Political Community summit in Dublin last week, Emmanuel Macron was pictured apparently waving a grinning Andy Burnham to a…",
           "full_html": null,
           "license": "",
           "license_url": "",
@@ -402,46 +402,46 @@
       "kicker": "Technology & Money",
       "articles": [
         {
-          "id": "f378d3d74885",
-          "title": "US bank outages caused by software bug at JPMorgan Chase",
-          "url": "https://www.finextra.com/newsarticle/48778/us-bank-outages-caused-by-software-bug-at-jpmorgan-chase?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "id": "99fecb097a42",
+          "title": "Singapore sets national AI missions for financial services",
+          "url": "https://www.finextra.com/newsarticle/48781/singapore-sets-national-ai-missions-for-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
           "source": "Finextra",
           "section": "fintech-taxtech",
           "author": "",
-          "published": "2026-11-18T15:02:00+00:00",
-          "summary": "The service outages that hit a number of US banks earlier this week were the result of a software bug at JPMorgan Chase.",
+          "published": "2026-11-19T00:01:00+00:00",
+          "summary": "Singapore has set itself three \"national AI missions\" for financial services, harnessing the technology to strengthen crime prevention, boost access to financing for businesses, and enabling agents to transact safely.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 23
+          "words": 30
         },
         {
-          "id": "0eae8ce22fda",
-          "title": "Visa expands Agentic Ready programme to acceptance ecosystem",
-          "url": "https://www.finextra.com/newsarticle/48777/visa-expands-agentic-ready-programme-to-acceptance-ecosystem?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "id": "646b9e340885",
+          "title": "World Bank partners Citi and Circle to test stablecoins for development payments",
+          "url": "https://www.finextra.com/newsarticle/48780/world-bank-partners-citi-and-circle-to-test-stablecoins-for-development-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
           "source": "Finextra",
           "section": "fintech-taxtech",
           "author": "",
-          "published": "2026-11-18T14:29:00+00:00",
-          "summary": "Visa has expanded its Agentic Ready programme to the merchant acceptance ecosystem, signing up big names including Fiserv, PayPal and Stripe.",
+          "published": "2026-11-18T16:07:00+00:00",
+          "summary": "The World Bank Group is working with Citi and USDC issuer Circle to explore how stablecoins could help modernise payments and free up resources for development work.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "7ccde11939c6",
+          "title": "New Zealand banks form fraud intelligence sharing network",
+          "url": "https://www.finextra.com/newsarticle/48779/new-zealand-banks-form-fraud-intelligence-sharing-network?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-18T15:29:00+00:00",
+          "summary": "New Zealand's top banks are backing a fraud and scams intelligence-sharing network using behavioural- and device-based technology from security vendor BioCatch.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 21
-        },
-        {
-          "id": "34e5b84265e0",
-          "title": "Hyundai Card validates agent-powered transaction model with Kinexys by JP Morgan",
-          "url": "https://www.finextra.com/pressarticle/111709/hyundai-card-validates-agent-powered-transaction-model-with-kinexys-by-jp-morgan?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-18T13:14:00+00:00",
-          "summary": "Hyundai Card, one of South Korea’s leading financial companies, has successfully demonstrated the potential for AI agents to autonomously and securely execute financial transactions through a collaboration with Kinexys by J.P. Morgan, the blockchain business unit of global financial institution J.P. Morgan.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 42
         },
         {
           "id": "0f6ef881ed65",
@@ -507,32 +507,32 @@
       "kicker": "The Tax Desk",
       "articles": [
         {
-          "id": "95b2cc5ac321",
-          "title": "GST Writ Petition Not Maintainable After Taxpayer Misses Sec.107 Appeal Deadline under Meghalaya GST Act, 2017; HC Grants Four Weeks to Appeal [Read Order]",
-          "url": "https://www.taxscan.in/gst/gst-writ-petition-not-maintainable-after-taxpayer-misses-sec107-appeal-deadline-under-meghalaya-gst-act-2017-hc-grants-four-weeks-to-appeal-read-order",
+          "id": "4fc834e32b9d",
+          "title": "Inconclusive Test Report Cannot Justify 10% Bank Guarantee for Distillate Marine Oil: CESTAT Sets Aside ₹95.53 Lakh Guarantee [Read Order]",
+          "url": "https://www.taxscan.in/excise-customs/inconclusive-test-report-cannot-justify-10-bank-guarantee-for-distillate-marine-oil-cestat-sets-aside-9553-lakh-guarantee-read-order",
           "source": "Taxscan (India)",
           "section": "tax-policy",
-          "author": "Ansha Dillu PK",
-          "published": "2026-11-18T15:45:00+00:00",
-          "summary": "The HC found no sufficient ground to bypass the statutory appeal mechanism under Section 107 of the MGST Act, but granted the taxpayer four weeks to challenge the assessment order and recovery notices.",
+          "author": "Solony Padhi",
+          "published": "2026-11-18T22:01:55+00:00",
+          "summary": "CESTAT Set Aside ₹95.53 Lakh Bank Guarantee as Inconclusive Test Reports Failed to Establish HFHSD Classification.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 33
+          "words": 16
         },
         {
-          "id": "b31d7e10e51e",
-          "title": "SC Upholds Delhi HC Order Quashing TDS Deduction Against Foreign Company and Directing Issuance of Nil-Tax Certificate u/s 197 of Income Tax Act [Read Order]",
-          "url": "https://www.taxscan.in/income-tax/sc-upholds-delhi-hc-order-quashing-tds-deduction-against-foreign-company-and-directing-issuance-of-nil-tax-certificate-us-197-of-income-tax-act-read-order",
+          "id": "f65727b43ae7",
+          "title": "CESTAT Sets Aside ₹1.25 Cr Service Tax Demand and ₹1.92 Cr Penalties on Composite Government Contracts [Read Order]",
+          "url": "https://www.taxscan.in/excise-customs/cestat-sets-aside-125-cr-service-tax-demand-and-192-cr-penalties-on-composite-government-contracts-read-order",
           "source": "Taxscan (India)",
           "section": "tax-policy",
-          "author": "Kalyani B. Nair",
-          "published": "2026-11-18T15:26:46+00:00",
-          "summary": "Quashing of 10% TDS upheld as PE or taxability of foreign company’s income in India were established",
+          "author": "Solony Padhi",
+          "published": "2026-11-18T16:26:17+00:00",
+          "summary": "CESTAT sets aside demands and penalties as sales-taxed goods were excluded and Government services were non-taxable, with no deliberate suppression established.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 17
+          "words": 21
         },
         {
           "id": "e1bb784ca3e8",
@@ -654,18 +654,18 @@
           "words": 25
         },
         {
-          "id": "b9e63452c6bd",
-          "title": "Analysis Debt: The Cost of a Question Nobody Tracks",
-          "url": "https://batimes.com/articles/analysis-debt-the-cost-of-a-question-nobody-tracks/",
-          "source": "BA Times",
+          "id": "fff8e55e0243",
+          "title": "The Sharing Gap - All Things Product Podcast with Teresa Torres & Petra Wille",
+          "url": "https://www.producttalk.org/the-sharing-gap-all-things-product-podcast-with-teresa-torres-petra-wille/",
+          "source": "Product Talk",
           "section": "product-analysis",
-          "author": "Michael Roy",
-          "published": "2026-11-09T14:38:54+00:00",
-          "summary": "Analysis Debt: The Cost of a Question Nobody Tracks By Michael Roy Every delivery organization can tell you how fast work moved last quarter. Far fewer can say how much of that work was checked before it started moving.",
+          "author": "Teresa Torres",
+          "published": "2026-11-17T14:00:00+00:00",
+          "summary": "Listen to this episode on: Spotify | Apple Podcasts Why has everyone stopped sharing their real product work — and what do we lose when the field goes quiet?",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 39
+          "words": 29
         },
         {
           "id": "21f59dea13c6",
@@ -694,48 +694,6 @@
           "license": "",
           "license_url": "",
           "words": 34
-        },
-        {
-          "id": "30b7e2079ec1",
-          "title": "Product Ethics in the Age of AI",
-          "url": "https://www.romanpichler.com/blog/product-ethics-in-the-age-of-ai/",
-          "source": "Roman Pichler",
-          "section": "product-analysis",
-          "author": "Roman Pichler",
-          "published": "2026-10-05T09:39:41+00:00",
-          "summary": "AI is changing not only what product teams can build, but also what they need to take responsibility for.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
-        },
-        {
-          "id": "87cda737ce55",
-          "title": "Connecting Product Outcomes to Business Strategy",
-          "url": "https://www.romanpichler.com/blog/connecting-product-outcomes-and-business-strategy/",
-          "source": "Roman Pichler",
-          "section": "product-analysis",
-          "author": "Roman Pichler",
-          "published": "2026-09-15T09:41:42+00:00",
-          "summary": "Every product has to create real value for a group of people and the business, at least in theory. But in practice, that’s not always the case.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 27
-        },
-        {
-          "id": "95ac88e87dd6",
-          "title": "The Irreplaceable BA: How to Stay Essential in an AI-Augmented World",
-          "url": "https://batimes.com/articles/the-irreplaceable-ba-how-to-stay-essential-in-an-ai-augmented-world/",
-          "source": "BA Times",
-          "section": "product-analysis",
-          "author": "Mohanaraman Namasivayam",
-          "published": "2026-07-29T19:43:39+00:00",
-          "summary": "Four frameworks for deciding what AI takes, what you keep, and where to grow Mohanaraman Namasivayam Vice President | Senior Business Analyst, Investment Management Technology | IIBA Member The Inflection Point Is Now The research is blunt.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 37
         }
       ]
     },
@@ -745,88 +703,102 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
-          "id": "e26f6759d0d7",
-          "title": "‘We need to act now’: Senator plans AI hearings after tests discover these alarming national security risks",
-          "url": "https://www.fastcompany.com/91644823/we-need-act-now-senator-plans-ai-hearings-after-tests-discover-alarming-national-security-risks",
-          "source": "Fast Company",
+          "id": "ede0be0f4a86",
+          "title": "Elon Musk says: ‘I’m not MAGA’",
+          "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+          "source": "TechCrunch",
           "section": "business-trends",
-          "author": "Associated Press",
-          "published": "2026-11-18T15:29:58+00:00",
-          "summary": "The incoming chair of the Senate Homeland Security Committee is preparing hearings on AI after government watchdogs found the four most-used platforms — ChatGPT, Claude, Gemini and Grok — all created proposals for a terrorist attack in the U.S. when prompted by investigators. Sen.",
+          "author": "Lucas Ropek",
+          "published": "2026-11-19T00:40:49+00:00",
+          "summary": "During his appearance Wednesday at the Dealbook Summit conference, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 44
+          "words": 39
         },
         {
-          "id": "9610a86cb801",
-          "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
-          "url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
-          "source": "TechCrunch",
+          "id": "2a19c93c43c3",
+          "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
           "section": "business-trends",
-          "author": "Zack Whittaker",
-          "published": "2026-11-18T14:55:13+00:00",
-          "summary": "Two British hackers face lengthy prison sentences for hacks that broke into the Grand Theft Auto gamemaker and for stealing millions in crypto.",
+          "author": "",
+          "published": "2026-11-19T00:00:59+00:00",
+          "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 29
+        },
+        {
+          "id": "87fd25ae87d1",
+          "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+          "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-18T23:47:46+00:00",
+          "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 23
         },
         {
-          "id": "15780e6fe2cb",
-          "title": "How a tiny Italian soccer team plans to beat the biggest clubs in Europe",
-          "url": "https://www.fastcompany.com/91641642/how-a-tiny-italian-soccer-team-plans-to-beat-the-biggest-clubs-in-europe",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "Jesus Diaz",
-          "published": "2026-11-18T14:45:16+00:00",
-          "summary": "Como 1907 is a tiny European soccer team. It plays in a town of 85,000 people on Lake Como in northern Italy, where some Hollywood royalty live for part of the year.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 32
-        },
-        {
-          "id": "b7ed276b63ab",
-          "title": "The seven Anthropic founders who are about to become multi-billionaires",
-          "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Business",
-          "section": "business-trends",
-          "author": "",
-          "published": "2026-11-18T13:55:14+00:00",
-          "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 22
-        },
-        {
-          "id": "79407dbc2a4b",
-          "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-          "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Business",
-          "section": "business-trends",
-          "author": "",
-          "published": "2026-11-18T13:17:06+00:00",
-          "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 24
-        },
-        {
-          "id": "5d3a453ab03d",
-          "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
-          "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+          "id": "44255eb49d7c",
+          "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+          "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
           "source": "TechCrunch",
           "section": "business-trends",
-          "author": "Julie Bort",
-          "published": "2026-11-18T13:00:00+00:00",
-          "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+          "author": "Lucas Ropek",
+          "published": "2026-11-18T23:45:00+00:00",
+          "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 34
+          "words": 26
+        },
+        {
+          "id": "dfb2a5299605",
+          "title": "ANT stock update: Anthropic share price, stock trading time, and more for Claude maker’s much-hyped IPO",
+          "url": "https://www.fastcompany.com/91644956/ant-stock-live-anthropic-trading-time-date-ipo-share-price",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Sam Becker",
+          "published": "2026-11-18T22:31:00+00:00",
+          "summary": "It’s almost here: Anthropic is expected to go public on Thursday, November 19, and its IPO share price has been set well above the company’s target range, a sign that demand for the stock is strong.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 36
+        },
+        {
+          "id": "a7313339e51b",
+          "title": "HBO Max is moving ahead with an Elon Musk documentary despite his $1B investment. Here’s why",
+          "url": "https://www.fastcompany.com/91645102/hbo-max-is-moving-ahead-with-an-elon-musk-documentary-despite-his-1-billion-investment-heres-why",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "María José Gutiérrez Chávez",
+          "published": "2026-11-18T21:00:00+00:00",
+          "summary": "Skydance CEO David Ellison says the company will honor the distribution deal to stream Alex Gibney’s Musk documentary, even after Elon Musk’s $1 billion investment in the company.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "0d2f6ca4dec2",
+          "title": "Democrats demand answers from Howard Lutnick about Nvidia and his family’s business",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Anna Betts",
+          "published": "2026-11-18T16:48:29+00:00",
+          "summary": "Democratic lawmakers ask if commerce secretary favored Nvidia to enrich his adult children and Cantor Fitzgerald The US commerce secretary, Howard Lutnick, faces mounting questions over his handling of the Nvidia affair as Democratic lawmakers demand answers over his family firm’s vast stake in the…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
         },
         {
           "id": "daa9959cb12c",
@@ -841,20 +813,6 @@
           "license": "",
           "license_url": "",
           "words": 34
-        },
-        {
-          "id": "e48357026cb5",
-          "title": "Judge extends deadline for Trump’s deposition in $10bn BBC lawsuit",
-          "url": "https://www.theguardian.com/us-news/2026/nov/17/trump-bbc-deposition-delay",
-          "source": "The Guardian – Business",
-          "section": "business-trends",
-          "author": "Jeremy Barr in Washington",
-          "published": "2026-11-17T21:45:58+00:00",
-          "summary": "President, who had agreed to sit for deposition in October but backed out, must now appear by 22 January Donald Trump has been granted a temporary delay before he must give a witness statement in his $10bn defamation lawsuit against the BBC.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 42
         }
       ]
     }
@@ -863,13 +821,6 @@
     {
       "name": "Al Jazeera",
       "site": "https://www.aljazeera.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "BA Times",
-      "site": "https://www.batimes.com",
       "license": "",
       "license_url": "",
       "full_text": false
@@ -933,13 +884,6 @@
     {
       "name": "Product Talk",
       "site": "https://www.producttalk.org",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "Roman Pichler",
-      "site": "https://www.romanpichler.com",
       "license": "",
       "license_url": "",
       "full_text": false
@@ -1027,16 +971,30 @@
       "license": "",
       "license_url": "",
       "full_text": false
+    },
+    {
+      "name": "The Indian Express – India",
+      "site": "https://indianexpress.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Indian Express – Opinion",
+      "site": "https://indianexpress.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
     }
   ],
   "errors": [
-    "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
     "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
-    "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
     "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
     "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
     "Mind the Product: feed contained no entries",
-    "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
+    "Roman Pichler: 415 Client Error: Unsupported Media Type for url: https://www.romanpichler.com/feed/",
+    "BA Times: 415 Client Error: Unsupported Media Type for url: https://www.batimes.com/feed/",
+    "World Economic Forum: 404 Client Error: Not Found for url: https://www.weforum.org/agenda/feed",
     "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
   ]
 }
