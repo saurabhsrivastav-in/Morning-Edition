@@ -5,12 +5,12 @@
     "date": "2026-11-19",
     "date_long": "Thursday, 19 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-19T06:11+05:30",
+    "generated_at": "2026-11-19T21:29+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 46,
-    "reading_minutes": 11,
+    "total_articles": 49,
+    "reading_minutes": 12,
     "source_count": 24,
     "full_text_count": 1,
     "per_section": {
@@ -18,56 +18,56 @@
       "editorials-opinion": 8,
       "fintech-taxtech": 7,
       "tax-policy": 8,
-      "product-analysis": 5,
+      "product-analysis": 8,
       "business-trends": 8
     },
     "keywords": [
+      {
+        "term": "people",
+        "count": 6
+      },
+      {
+        "term": "trump",
+        "count": 6
+      },
       {
         "term": "world",
         "count": 6
       },
       {
-        "term": "company",
+        "term": "public",
         "count": 5
       },
       {
-        "term": "demand",
+        "term": "anthropic",
+        "count": 5
+      },
+      {
+        "term": "business",
+        "count": 5
+      },
+      {
+        "term": "putin",
         "count": 4
       },
       {
-        "term": "public",
+        "term": "security",
         "count": 4
       },
       {
-        "term": "annual",
-        "count": 4
-      },
-      {
-        "term": "summit",
-        "count": 4
-      },
-      {
-        "term": "payments",
-        "count": 4
+        "term": "apec summit",
+        "count": 3
       },
       {
         "term": "guardian view",
         "count": 3
       },
       {
-        "term": "three",
-        "count": 3
-      },
-      {
-        "term": "young people",
+        "term": "peace declaration",
         "count": 2
       },
       {
-        "term": "artificial intelligence",
-        "count": 2
-      },
-      {
-        "term": "sets aside",
+        "term": "china russia",
         "count": 2
       }
     ],
@@ -75,43 +75,43 @@
       {
         "label": "USD/EUR",
         "group": "Currencies",
-        "display": "0.9117",
-        "change_pct": 0.19,
+        "display": "0.9097",
+        "change_pct": -0.22,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/GBP",
         "group": "Currencies",
-        "display": "0.7594",
-        "change_pct": 0.17,
+        "display": "0.7604",
+        "change_pct": 0.13,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/INR",
         "group": "Currencies",
-        "display": "93.44",
-        "change_pct": -0.04,
+        "display": "93.30",
+        "change_pct": -0.15,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/JPY",
         "group": "Currencies",
-        "display": "159.42",
-        "change_pct": 0.08,
+        "display": "159.97",
+        "change_pct": 0.35,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "63,043.00",
-        "change_pct": -2.61,
+        "display": "63,031.00",
+        "change_pct": -0.23,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,780.00",
-        "change_pct": -2.09,
+        "display": "1,780.61",
+        "change_pct": 0.73,
         "source": "CoinGecko"
       }
     ]
@@ -136,144 +136,144 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "6b7e5f7794d9",
-          "title": "11 states, Union Territories are ‘fully literate’; Madhya Pradesh leads in adult learners",
-          "url": "https://indianexpress.com/article/india/madhya-pradesh-leads-in-adult-learners-adult-literacy-10968996/",
-          "source": "The Indian Express – India",
-          "section": "national-international",
-          "author": "Gayathri Mani",
-          "published": "2026-11-19T00:11:14+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "c69230f31116",
-          "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
-          "source": "Al Jazeera",
+          "id": "2cddf338ba79",
+          "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+          "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-19T00:01:02+00:00",
-          "summary": "Saudi-led coalition has said it destroyed a missile platform in Saada, Yemen as Iran claims three ships hit mines.",
+          "published": "2026-11-19T15:52:26+00:00",
+          "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 19
         },
         {
-          "id": "a2f203509836",
-          "title": "In Moldova, teens are learning about democracy and elections through an app",
-          "url": "https://globalvoices.org/2026/11/19/in-moldova-teens-are-learning-about-democracy-and-elections-through-an-app/",
-          "source": "Global Voices",
-          "section": "national-international",
-          "author": "Daria Dergacheva",
-          "published": "2026-11-19T00:00:14+00:00",
-          "summary": "VotEDU started off as a civic-education project to help young people understand democracy before they vote for the first time.",
-          "full_html": "<p><em>The app gives short, interactive lessons using quizzes, flashcards, and other easily accessible formats in three languages</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/19/in-moldova-teens-are-learning-about-democracy-and-elections-through-an-app/\">Global Voices</a></p><p>Screenshot of views of <a href=\"https://apps.apple.com/us/app/votedu/id6811434208\">VotEDU</a> on the App Store. Fair use.</p>\n<p><i>This interview is part of a series of spotlights on the work of some of the grantees of the</i><a href=\"https://ddidigitalspark.org/news/\"> <i>Digital Spark</i></a><i> granting scheme, as part of the Regional Support Mechanism EECA project, implemented by the</i><a href=\"https://metamorphosis.org.mk/en/\"> <i>Metamorphosis Foundation</i></a><i> and</i><a href=\"https://www.techsoup.org/?srsltid=AfmBOoqgPtm0Yk6HG-hTECkCqfPFl9-HyRjojpYFAhrHKdM_Z419qEaW\"> <i>TechSoup</i></a><i>, in partnership with</i><a href=\"https://www.civicus.org/\"> <i>CIVICUS</i></a><i> and under the</i><a href=\"https://digitaldemocracyinitiative.net/\"> <i>Digital Democracy Initiative (DDI)</i></a><i> that covers the Global South. It is being published on Global Voices as part of a content-sharing agreement.</i> </p>\n<p><a href=\"https://en.wikipedia.org/wiki/Moldova\">Moldova</a> is a relatively small post-Soviet state with a <a href=\"https://en.wikipedia.org/wiki/Moldova\">population</a> of three million people. A<a href=\"https://en.wikipedia.org/wiki/Moldova\"> landlocked country</a>, it has a long border with <a href=\"https://globalvoices.org/special/russia-invades-ukraine/\">war-torn Ukraine</a> and Romania; with the latter, it shares the same <a href=\"https://en.wikipedia.org/wiki/Moldova\">official language</a>. The territory that is now Moldova was once part of the Russian <a href=\"https://en.wikipedia.org/wiki/Russian_Empire\">Empire</a>, and later the Soviet Union, and Russia has been <a href=\"https://en.wikipedia.org/wiki/Russian_Empire\">meddling</a> in its affairs.</p>\n<p>Moldova has a large Russian-speaking <a href=\"https://en.wikipedia.org/wiki/Russians_in_Moldova\">population</a> and a problematic unrecognized territory: <a href=\"https://en.wikipedia.org/wiki/Transnistria\">Transnistria</a>, which is basically <a href=\"https://www.freiheit.org/romania-and-republic-moldova/transnistria-thorn-moldovas-side\">controlled</a> by Russia. It also has European aspirations and was officially named a <a href=\"https://www.consilium.europa.eu/en/policies/moldova/\">candidate</a> to join the European Union in 2022, after Russia invaded neighbouring Ukraine. </p>\n<p>The country’s most recent parliamentary elections were held in September 2025, and despite the <a href=\"https://www.lowyinstitute.org/the-interpreter/how-russia-tried-manipulate-moldova-s-election-what-it-reveals\">record influx </a>of Russian disinformation and <a href=\"https://www.lowyinstitute.org/the-interpreter/how-russia-tried-manipulate-moldova-s-election-what-it-reveals\">other meddling</a>, elections were recognized as fair and democratic by the Organization for Security and Co-operation in Europe<a href=\"https://www.osce.org/odihr/elections/moldova\"> (OCSE) observers</a>. The pro-European<a href=\"https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity\"> Party of Action and Solidarity</a> (PAS) won the elections with a small majority. </p>\n<p>The initiative supported by<a href=\"https://metamorphosis.org.mk/en/call-for-grants-digital-spark/\"> Digital Spark</a> is an app called <a href=\"https://apps.apple.com/us/app/votedu/id6811434208\">VotEDU</a>, which answers basic questions about the democratic institution of elections for high school students in Moldova. It does so through short, interactive lessons using quizzes, flashcards, and other easily accessible formats in three languages: Romanian, Russian, and English, and is the subject of this Spotlight story. </p>\n<p>Global Voices interviewed the app’s developer, <a href=\"https://www.linkedin.com/in/vlad-garbuz-sdu/\">Vlad Garbuz</a>, about the impact of Digital Spark and his initiative. </p>\n<p><b>Global Voices (GV): Please tell us about your organization and why you chose to get involved with the Digital Spark project.</b></p>\n<blockquote><p><b>Vlad Garbuz (VG)</b>: I started<a href=\"https://apps.apple.com/us/app/votedu/id6811434208\"> VotEDU</a>, an independent civic-education project in Moldova, to help young people understand democracy before they vote for the first time. The idea began at the VOTech hackathon in Moldova. I joined Digital Spark because I wanted to turn it into a tool that students could use in everyday life and teachers could bring into class. The project helped me build the app and begin testing it with the young people it is meant for.</p></blockquote>\n<p><b>GV</b>:<b> What issue or challenge in your community prompted you to undertake this project?</b></p>\n<blockquote><p><b>VG</b>: Young people meet politics every day through their feeds, long before they enter a polling station. In Moldova, many young people encounter misleading claims online. Yet many have very few easy ways of asking questions about elections and getting the answers they can understand.</p>\n<p>That made me wonder how civic education could reach young people in the spaces where they already spend their time. VotEDU was the answer. It puts short lessons, simple explanations, and activities on their phones, so they can learn at their own pace.</p></blockquote>\n<p><b>GV</b>: <b>What are the key changes or activities that you implemented during your participation in the project?</b></p>\n<blockquote><p><b>VG</b>: During Digital Spark, VotEDU developed into a civic-education app with nine units, 28 short lessons, quizzes, interactive activities, and a glossary of 136 civic terms. The content is available in Romanian, Russian, and English. All of the lessons have been reviewed for accuracy and political neutrality. Student privacy guided the app’s design. A short guide was also prepared for teachers.</p>\n<p>VotEDU was represented at Moldova Digital Summit 2026, where several educators expressed interest in trying it in schools. The app is now being piloted with high school students in Moldova through its web version. It is also available on the App Store, with the Google Play version coming soon.</p></blockquote>\n<p><b>GV: How did your participation in the project impact your beneficiaries and the community you serve? Please provide examples.</b></p>\n<blockquote><p><b>VG: </b>Teacher feedback has highlighted the need for digital tools alongside Moldova’s electoral education textbook. VotEDU brings these topics into a format students can explore on their phones.</p>\n<p>High school students in the pilot program are using the app and sharing feedback. The feedback tells us how easy the information was to access, as well as appreciation of the app’s design, quizzes, and illustrations. Together with teachers’ suggestions, this feedback is helping improve the content in the app and making it a better user experience.</p></blockquote>\n<p><b>GV: How has your own knowledge, awareness, and experience with digital democracy and civic space changed?</b></p>\n<blockquote><p><b>VG</b>: I have learned that the design of a civic tool is part of its message. If an app is hard to understand, available in only one language, or careless with privacy, it may leave out the very people it hopes to reach.</p>\n<p>Building VotEDU has made me more careful about how I explain civic topics. Each lesson needs to be accurate and fair, while still being simple enough to use on a phone. I now think more about whether young people feel comfortable asking questions and forming their own views, not just whether the information is online.</p></blockquote>\n<p><b>GV: What are the most valuable lessons and experiences you are taking away from this project?</b></p>\n<blockquote><p><b>VG: </b>The lesson I will carry forward is to start earlier. Young people should have a chance to understand democracy before an election campaign is asking for their attention.</p>\n<p>I have also learned that a good idea needs to be tested with the people it is meant to help. Building VotEDU was only one part of the work. Now students are using it and telling us what they think. Their experience will help us see what works, what is still unclear to students, and what needs to change.</p></blockquote>\n<p><b>GV: What comes next? How will you apply the learning and digital capacity you have built?</b></p>\n<blockquote><p><b>VG: </b>I will continue the pilot program and use feedback from students and teachers to improve VotEDU. I plan to bring it to more schools, including rural schools, and use short questions before and after the lessons to see what students learn.</p>\n<p>In October 2026, I also demonstrated VotEDU at <a href=\"https://megaphone.techsoupeurope.org/agenda/\">MEGAPHONE &amp; e-Society in Skopje</a>. I showed how digital tools can make civic education more useful and engaging for young people, and inspire others to try similar ideas. VotEDU is a project that can be adapted for different countries and topics. Making the project public and accessible is one of my objectives to ensure anyone can easily build something that will bring benefits to their local community.</p></blockquote>\n<strong>Written by <a href=\"https://globalvoices.org/author/daria-dergacheva/\">Daria Dergacheva</a></strong>",
-          "license": "CC BY 3.0",
-          "license_url": "https://creativecommons.org/licenses/by/3.0/",
-          "words": 1121
-        },
-        {
-          "id": "56673e8fb67a",
-          "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
-          "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "John Ruwitch",
-          "published": "2026-11-18T23:54:56+00:00",
-          "summary": "The five-year-old artificial intelligence powerhouse priced its initial public offering at $83 a share, shrugging off growing concern about a possible AI bubble and volatility in tech stocks.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 28
-        },
-        {
-          "id": "c6d87bb33ae7",
-          "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-18T23:44:27+00:00",
-          "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
-        },
-        {
-          "id": "1431aa957fde",
-          "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
-          "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-18T23:28:03+00:00",
-          "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
-        },
-        {
-          "id": "94287023c763",
-          "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
-          "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+          "id": "4dffa5bc2cfc",
+          "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+          "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
           "source": "The Guardian – World",
           "section": "national-international",
-          "author": "Associated Press",
-          "published": "2026-11-18T22:31:41+00:00",
-          "summary": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising from the 2021 assassination of the Haitian president Jovenel Moïse.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 42
-        },
-        {
-          "id": "ee7b14dff891",
-          "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
-          "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Tom Phillips Latin America correspondent",
-          "published": "2026-11-18T20:24:19+00:00",
-          "summary": "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year ago Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he…",
+          "author": "Rebecca Bailey",
+          "published": "2026-11-19T15:50:03+00:00",
+          "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’ Apec summit – latest updates China, Russia and the US have said they have agreed a peace statement after an unprecedented trilateral summit, but the declaration made…",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
         },
         {
-          "id": "bd5806ebe2b8",
-          "title": "William and Kate meet PM Modi as they wrap up India tour",
-          "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – India",
+          "id": "bfad6145e3fb",
+          "title": "‘New page in history?’ Xi, Trump and Putin summit was more of a footnote",
+          "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
+          "source": "The Guardian – World",
           "section": "national-international",
-          "author": "",
-          "published": "2026-11-18T20:07:08+00:00",
-          "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+          "author": "Patrick Wintour Diplomatic editor",
+          "published": "2026-11-19T15:35:01+00:00",
+          "summary": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agenda Apec summit – latest updates It is arguably true, given it was the first such meeting of the leaders of China, Russia and the US…",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 25
+          "words": 45
         },
         {
-          "id": "0d60ac4d9419",
-          "title": "Gujarat riots gang-rape survivor 'heartbroken' after bail for two convicts",
-          "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+          "id": "b7dfe4c137ba",
+          "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
+          "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-19T15:24:51+00:00",
+          "summary": "The UK premier is heading to Brussels for the second round of EU talks aimed at deepening post-Brexit cooperation.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "116411d1d3c7",
+          "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-19T15:23:34+00:00",
+          "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "aeff9386d011",
+          "title": "Top U.N. court rules Myanmar committed genocide against the Rohingya",
+          "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Lorcan Lovett",
+          "published": "2026-11-19T12:29:41+00:00",
+          "summary": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during the 2017 military operations in the northern Rakhine State.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "c84927df27bb",
+          "title": "World Toilet Day is a funny idea with a serious goal: A world awash in toilets",
+          "url": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Marc Silver",
+          "published": "2026-11-19T12:26:31+00:00",
+          "summary": "Yahoo for the loo! November 19 marks the 25th anniversary of World Toilet Day. The theme this year: \"Sanitation and Gender Equality: Safe Toilets, Equal Futures.\"",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "fc0b4dc161ad",
+          "title": "Indian driver wins $1.3m in life-changing lottery prize",
+          "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – India",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-17T09:27:44+00:00",
-          "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+          "published": "2026-11-19T11:38:09+00:00",
+          "summary": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 20
+        },
+        {
+          "id": "b0631e0ce5fd",
+          "title": "Family stories keep alive Georgia’s democratic past and the memory of Soviet repression",
+          "url": "https://globalvoices.org/2026/11/19/sharing-family-histories-about-a-region-in-georgias-democratic-past-and-soviet-repression/",
+          "source": "Global Voices",
+          "section": "national-international",
+          "author": "Daria Dergacheva",
+          "published": "2026-11-19T08:00:05+00:00",
+          "summary": "“Family stories can open up broader conversations about democracy, human rights, repression, and civic responsibility”",
+          "full_html": "<p><em>In the Guria region, an organization is helping people recover a history the Soviets tried to erase</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/19/sharing-family-histories-about-a-region-in-georgias-democratic-past-and-soviet-repression/\">Global Voices</a></p><p>Resort in the Guria region of Georgia. <a href=\"https://commons.wikimedia.org/wiki/File:Guria,_Region_in_Georgia.jpg\">Photo</a> by Tinari.totoro on <a href=\"https://commons.wikimedia.org/wiki/Main_Page\">Wikimedia Commons</a> (<a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>).</p>\n<p><i>This interview is part of a series of spotlights on the work of some of the grantees of the</i><a href=\"https://ddidigitalspark.org/news/\"> <i>Digital Spark</i></a><i> granting scheme, as part of the Regional Support Mechanism EECA project, implemented by the</i><a href=\"https://metamorphosis.org.mk/en/\"> <i>Metamorphosis Foundation</i></a><i> and</i><a href=\"https://www.techsoup.org/?srsltid=AfmBOoqgPtm0Yk6HG-hTECkCqfPFl9-HyRjojpYFAhrHKdM_Z419qEaW\"> <i>TechSoup</i></a><i>, in partnership with</i><a href=\"https://www.civicus.org/\"> <i>CIVICUS</i></a><i> and under the</i><a href=\"https://digitaldemocracyinitiative.net/\"> <i>Digital Democracy Initiative (DDI)</i></a><i> that covers the Global South. It is being published on Global Voices as part of a content-sharing agreement.</i> </p>\n<p>Guria is a <a href=\"https://en.wikipedia.org/wiki/Guria\">region in Georgia</a>, situated in the southwestern part of the country. It has a coastline on the <a href=\"https://en.wikipedia.org/wiki/Black_Sea\">Black Sea</a> to the west, which is about 22 kilometers (13 miles) long, and the region is bordered by the <a href=\"https://en.wikipedia.org/wiki/Samegrelo-Zemo_Svaneti\">Samegrelo-Zemo Svaneti</a> region to the north, <a href=\"https://en.wikipedia.org/wiki/Imereti\">Imereti</a> to the east, and the <a href=\"https://en.wikipedia.org/wiki/Adjara\">Autonomous Republic of Adjara</a> to the south. It has a rich history and a historical tradition of democracy. </p>\n<p>Today, in the region, independent media access is <a href=\"https://caucasusbarometer.org/en/irex2024/WEBGURN/?utm_source\">limited</a> and digital literacy remains low. However, Guria has a civic tradition that most of its own residents do not know about in detail. </p>\n<p>In 1904, locals organized protests against imperial (Russian, at the time) institutions, formed institutions of self-governance, and proclaimed <a href=\"https://en.wikipedia.org/wiki/Gurian_Republic\">the Gurian Republic</a>, an early experiment in participatory democracy.  </p>\n<p>The republic was <a href=\"http://google.com/url?q=https://en.wikipedia.org/wiki/Gurian_Republic&amp;sa=D&amp;source=docs&amp;ust=1795022801034750&amp;usg=AOvVaw1t2EVjafv7ufh3sNpqdmkE\">violently suppressed</a> first by the <a href=\"https://en.wikipedia.org/wiki/Russian_Empire\">Russian tsarist empire</a>, and later all the memories of it were fragmented further by decades of deliberate erasure under <a href=\"https://en.wikipedia.org/wiki/Soviet_invasion_of_Georgia\">Soviet occupation</a> of Georgia (1921–1991) and by repressions. </p>\n<p>This is exactly what the Digital Spark Spotlight project in Georgia focused on: history and memory in the Guria region. </p>\n<p>Global Voices interviewed <a href=\"https://womenpower.ge/en/her-story/lika-megreladzes-tea-way-to-success/\">Lika Mergaladze</a>, head of the organization <a href=\"https://www.segeorgia.org/en/news/komli-2\">Komli Initiative for Civic Engagement</a>, about their project: what they have done and what they learned through it. </p>\n<p><b>Global Voices (GV): Please tell us about yo</b><b>ur organization and why you chose to get involved with the Digital Spark project? </b></p>\n<blockquote><p><b>Lika Mergaladze</b><b> (LM)</b>: Our organization, Komli Initiative for Civic Engagement, works to preserve local history, strengthen civic engagement, and promote sustainable development in the Guria region of Georgia. We use exhibitions, workshops, digital storytelling, and collaborative activities to connect communities with their history and encourage active participation in civic life.</p>\n<p>We chose to get involved in the Digital Spark project because we saw an opportunity to combine local history with modern digital technologies. We wanted to help community members document and share their family stories, develop digital skills, and better understand the connection between the past and present. We believe that preserving historical memory and encouraging critical thinking are essential for building an informed and active community.</p></blockquote>\n<p><b>GV: What issue/challenge in your community prompted you to undertake this project? </b></p>\n<blockquote><p><b>LM</b>: One of the main challenges in Guria is that many important historical stories have been forgotten or remain untold. These stories were purposely erased during the Soviet Union. Many families who were the victims of a series of repressions in the 1920s and 30s learned to remain silent about their past in the 50s after World War II. As a result, younger generations often know very little about their ancestors and the region’s democratic traditions, including the <a href=\"https://en.wikipedia.org/wiki/Gurian_Republic\">Gurian Republic</a> of 1904.</p>\n<p>Another challenge is limited access to independent media and low levels of digital literacy in local communities. The dominance of social media and television as information sources makes media literacy and critical thinking particularly important.</p>\n<p>We undertook this project to address these challenges by helping local people preserve their history, recognize misinformation and propaganda, and use digital tools to share their stories with a wider audience.</p></blockquote>\n<p><b>GV: What are the key changes/activities that your organization implemented during your participation in the project? </b></p>\n<blockquote><p><b>LM</b>: Through the project ‘From Understanding the Past to the Digital Future,’ implemented from April to October 2026, we organized several activities across the three municipalities of Guria: <a href=\"https://en.wikipedia.org/wiki/Ozurgeti\">Ozurgeti,</a> <a href=\"https://en.wikipedia.org/wiki/Chokhatauri\">Chokhatauri</a>, and <a href=\"https://en.wikipedia.org/wiki/Lanchkhuti\">Lanchkhuti</a>. Our main activities included a public discussion. On June 24, we organized ‘What Drove Gurians Crazy? Propaganda Now and Then,’ exploring Guria’s democratic history, Soviet occupation, propaganda, and contemporary challenges. We also did digital storytelling workshops, an AI and Digital Creation workshop and<a href=\"https://guriismoambe.com/pt/archives/145400\"> a theatrical performance:</a> on August 12, we presented “My Days and My Father’s Diaries,” dedicated to Meri Chanukvadze and her father,<a href=\"https://ddidigitalspark.org/for-the-first-time-locals-from-the-guria-region-of-georgia-are-telling-their-family-stories-online/\"> Amberki Chanukvadze</a>, whose life reflected the impact of Soviet repression. These activities helped strengthen participants’ digital skills, encourage historical research, and create opportunities for community members to share their stories online.</p></blockquote>\n<p><b>GV: How did your participation in the project impact your organization’s beneficiaries and the community that you serve? Please provide examples.</b></p>\n<blockquote><p><b>LM</b>: The project generated strong interest across all three municipalities, reaching nearly 50 community members, with particularly strong participation from women and young people. Locals participated in the digital storytelling workshop, including 12 women. These activities gave participants practical opportunities to develop their digital skills and explore new ways of communicating important ideas. Another meaningful example was the theatrical performance dedicated to Meri and her father. More than 35 people attended and participated in a discussion afterwards. The performance encouraged people to reflect on the experiences of families affected by Soviet repression and the importance of preserving historical memory.</p>\n<p>The project also laid the foundation for a cross-municipal network of young people, activists, and aspiring digital storytellers. This network can help community members continue documenting local history, sharing civic information, and engaging in public discussions beyond the project itself.</p></blockquote>\n<p><b>GV: How has your own knowledge, awareness, and experience with digital democracy and civic space changed, thanks to your participation in the project?</b></p>\n<blockquote><p><b>LM</b>: Our participation in the project strengthened our understanding of how digital technologies can support civic engagement and democratic participation. We gained greater awareness of the importance of digital storytelling, media literacy, and critical thinking in helping communities understand their history and respond to contemporary challenges. We also explored how AI-assisted content creation can provide new opportunities for preserving local stories and making them accessible to wider audiences. The project reinforced our belief that digital tools are not simply communication technologies; they can also help people participate in public life, challenge misinformation, and contribute to community development. Most importantly, we recognized that connecting historical memory with modern digital tools can help create a more informed, active, and engaged society.</p></blockquote>\n<p><b>GV: What are the most valuable lessons and experiences you are taking away from this project?</b></p>\n<blockquote><p><b>LM</b>: One of the most valuable lessons was that many people are interested in learning about their history when they are given a welcoming space to ask questions and share experiences. Family stories can open up broader conversations about democracy, human rights, repression, and civic responsibility.</p>\n<p>We also learned that practical workshops and collaborative activities are effective ways to introduce digital tools to community members. The strong participation of women and young people demonstrated the potential for inclusive, community-based learning.</p>\n<p>Another important lesson was the value of combining traditional storytelling with digital technologies. Personal stories, family diaries, public discussions, and theatrical performances can make historical events more relatable and meaningful.</p></blockquote>\n<p><b>GV: What comes next? How will you apply the learning and digital capacity you have built in your future work and within your community?</b></p>\n<blockquote><p><b>LM</b>: We plan to build on the experience and connections developed through the project by continuing to document, digitize, and share historical and civic stories from Guria.</p>\n<p>We aim to encourage more community members, especially young people and women, to use digital storytelling and online content creation to preserve family histories and discuss local issues. We also intend to apply the knowledge gained from the workshops to future educational activities, community discussions, and collaborative initiatives.</p>\n<p>An important priority will be to strengthen the network of local journalists, activists, and digital storytellers across Ozurgeti, Chokhatauri, and Lanchkhuti. By supporting collaboration and knowledge-sharing, we hope to ensure that these activities continue beyond the project period.</p></blockquote>\n<strong>Written by <a href=\"https://globalvoices.org/author/daria-dergacheva/\">Daria Dergacheva</a></strong>",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "words": 1327
+        },
+        {
+          "id": "1e0689dfba5b",
+          "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+          "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-19T00:38:52+00:00",
+          "summary": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
         }
       ]
     },
@@ -283,18 +283,60 @@
       "kicker": "Opinion",
       "articles": [
         {
-          "id": "ab19112d8500",
-          "title": "Australia has a reputation for being the most secretive democracy in the world. New laws could make it worse | Tom Sulston",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/19/australia-has-a-reputation-for-being-the-most-secretive-democracy-in-the-world-new-laws-could-make-it-worse",
+          "id": "ae6bf2ecebab",
+          "title": "Cringe comedy makes my skin crawl but I will watch You Can See Everything – for the culture | Rebecca Shaw",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/20/watch-you-can-see-everything-for-the-culture-cringe-comedy-film",
           "source": "The Guardian – Opinion",
           "section": "editorials-opinion",
-          "author": "Tom Sulston",
-          "published": "2026-11-18T22:00:09+00:00",
-          "summary": "A defence bill being rushed through parliament could expand the definition of ‘defence official’ and see AI datacentres deemed ‘defence security zones’ In 2019, the New York Times described Australia as “the world’s most secretive democracy”.",
+          "author": "Rebecca Shaw",
+          "published": "2026-11-19T14:00:52+00:00",
+          "summary": "I love that Nathan Fielder exists, and I understand the scope of what he is doing.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "5d6684640159",
+          "title": "After a blue wave, Trump will dig in his heels. We must be more vigilant than ever | Steve Cohen and Michael Shank",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/19/trump-blue-wave-new-congress",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Steve Cohen and Michael Shank",
+          "published": "2026-11-19T14:00:51+00:00",
+          "summary": "Anti-democratic behaviors won’t disappear overnight.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 5
+        },
+        {
+          "id": "32b5bb21e367",
+          "title": "In an authoritarian economy, Jensen Huang may be too big to fail | Robert Reich",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/19/jensen-huang-authoritarian-economy",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Robert Reich",
+          "published": "2026-11-19T13:00:49+00:00",
+          "summary": "A handful of men control the US economy. They have leveraged themselves to be – or seem – indispensable Jensen Huang has said he would return to Nvidia as its CEO if its board requests it.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 36
+        },
+        {
+          "id": "e5d8c3d4efd9",
+          "title": "Fossil fuel lobbyists are trying to derail climate action once again at COP31. Can they be stopped?",
+          "url": "https://theconversation.com/fossil-fuel-lobbyists-are-trying-to-derail-climate-action-once-again-at-cop31-can-they-be-stopped-294668",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "William Kakenmaster, Postdoctoral Research Fellow in Regulation and Global Governance, Australian National University",
+          "published": "2026-11-19T03:55:07+00:00",
+          "summary": "The whole point of this summit is to address climate change. Why are fossil fuel cheerleaders still allowed in the door?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
         },
         {
           "id": "9d79332d9a58",
@@ -325,20 +367,6 @@
           "words": 40
         },
         {
-          "id": "c1f556383596",
-          "title": "With renewable energy, bigger isn’t always better",
-          "url": "https://indianexpress.com/article/opinion/columns/with-renewable-energy-bigger-isnt-always-better-10968486/",
-          "source": "The Indian Express – Opinion",
-          "section": "editorials-opinion",
-          "author": "Rohit Chandra",
-          "published": "2026-11-18T13:01:29+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
           "id": "792da3987dfe",
           "title": "Beijing has three priorities at the Shenzhen summit – a China expert explains",
           "url": "https://theconversation.com/beijing-has-three-priorities-at-the-shenzhen-summit-a-china-expert-explains-296734",
@@ -351,34 +379,6 @@
           "license": "",
           "license_url": "",
           "words": 25
-        },
-        {
-          "id": "266ea524f62c",
-          "title": "The AI bubble has lost its bubble-blower. But don’t grieve just yet",
-          "url": "https://indianexpress.com/article/opinion/columns/the-ai-bubble-jensen-huang-donald-trump-nvidiadont-grieve-just-yet-10968443/",
-          "source": "The Indian Express – Opinion",
-          "section": "editorials-opinion",
-          "author": "Bhaskar Chakravorti",
-          "published": "2026-11-18T11:32:01+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "0dc4f489d775",
-          "title": "Xi-Trump-Putin summit: when great powers want to call all the shots, what does it mean for everyone else?",
-          "url": "https://theconversation.com/xi-trump-putin-summit-when-great-powers-want-to-call-all-the-shots-what-does-it-mean-for-everyone-else-296811",
-          "source": "The Conversation",
-          "section": "editorials-opinion",
-          "author": "Alexander Korolev, Associate Professor in Politics and International Relations, UNSW",
-          "published": "2026-11-18T03:25:58+00:00",
-          "summary": "In such a world, power determines not only outcomes, but who gets invited into the room when outcomes are being discussed.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
         },
         {
           "id": "2f9d630c2e79",
@@ -402,88 +402,88 @@
       "kicker": "Technology & Money",
       "articles": [
         {
-          "id": "99fecb097a42",
-          "title": "Singapore sets national AI missions for financial services",
-          "url": "https://www.finextra.com/newsarticle/48781/singapore-sets-national-ai-missions-for-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "id": "20f8f47c5b7d",
+          "title": "100,000+ UK retail investors score Anthropic shares",
+          "url": "https://www.finextra.com/newsarticle/48785/100000-uk-retail-investors-score-anthropic-shares?utm_medium=rssfinextra&utm_source=finextrafeed",
           "source": "Finextra",
           "section": "fintech-taxtech",
           "author": "",
-          "published": "2026-11-19T00:01:00+00:00",
-          "summary": "Singapore has set itself three \"national AI missions\" for financial services, harnessing the technology to strengthen crime prevention, boost access to financing for businesses, and enabling agents to transact safely.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 30
-        },
-        {
-          "id": "646b9e340885",
-          "title": "World Bank partners Citi and Circle to test stablecoins for development payments",
-          "url": "https://www.finextra.com/newsarticle/48780/world-bank-partners-citi-and-circle-to-test-stablecoins-for-development-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-18T16:07:00+00:00",
-          "summary": "The World Bank Group is working with Citi and USDC issuer Circle to explore how stablecoins could help modernise payments and free up resources for development work.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 27
-        },
-        {
-          "id": "7ccde11939c6",
-          "title": "New Zealand banks form fraud intelligence sharing network",
-          "url": "https://www.finextra.com/newsarticle/48779/new-zealand-banks-form-fraud-intelligence-sharing-network?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-18T15:29:00+00:00",
-          "summary": "New Zealand's top banks are backing a fraud and scams intelligence-sharing network using behavioural- and device-based technology from security vendor BioCatch.",
+          "published": "2026-11-19T15:27:00+00:00",
+          "summary": "Around 110,000 UK retailers bought shares in Anthropic's record initial public offering, which saw the AI giant raise over $81 billion.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 21
         },
         {
-          "id": "0f6ef881ed65",
-          "title": "Ziina Launches Split Bill to Simplify Shared Group Payments",
-          "url": "https://thefintechtimes.com/ziina-launches-split-bill-to-simplify-shared-group-payments/",
-          "source": "The Fintech Times",
+          "id": "07ebec9396b5",
+          "title": "With attacks on the rise, UK regulators clarify cyber expectations",
+          "url": "https://www.finextra.com/newsarticle/48783/with-attacks-on-the-rise-uk-regulators-clarify-cyber-expectations?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
           "section": "fintech-taxtech",
-          "author": "The Fintech Times",
-          "published": "2026-11-18T13:00:28+00:00",
-          "summary": "UAE fintech Ziina launches Split Bill, letting users divide group expenses, automate payment reminders, and track settlements as annual volume tops $2 billion.",
+          "author": "",
+          "published": "2026-11-19T14:48:00+00:00",
+          "summary": "The UK's financial regulators have moved to \"clarify\" their expectations of how firms should manage cyber risks as the threat the sector faces grow in the era of AI and quantum computing.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 23
+          "words": 32
         },
         {
-          "id": "a5bb818a80fc",
-          "title": "From wallet to full-stack fintech: Murtaza Ali on JazzCash’s path to 2030",
-          "url": "https://thefintechtimes.com/from-wallet-to-full-stack-fintech-murtaza-ali-jazzcash/",
+          "id": "2a8dd056796b",
+          "title": "BMO reaches quantum utility",
+          "url": "https://www.finextra.com/newsarticle/48782/bmo-reaches-quantum-utility?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-19T14:27:00+00:00",
+          "summary": "Canadian bank BMO has claimed a quantum computing breakthrough, demonstrating how it could help AI models identify the information that matters most within increasingly complex datasets.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "0ebf2d333774",
+          "title": "What Indian lenders Will Ask Their Fintech Partners Under DPDP",
+          "url": "https://thefintechtimes.com/what-indian-lenders-will-ask-their-fintech-partners-under-dpdp/",
           "source": "The Fintech Times",
           "section": "fintech-taxtech",
           "author": "Rowen Brooks",
-          "published": "2026-11-18T03:30:10+00:00",
-          "summary": "Murtaza Ali, CEO of JazzCash, on 64 million users, lending, insurance and government payments in Pakistan, and the road to 2030. The Fintech Times SFF 2026 cover story.",
+          "published": "2026-11-19T14:00:31+00:00",
+          "summary": "Singahi's Rahul Verma argues that India's DPDP Act leaves lenders answerable for their partners, and sets out the questions fintechs should expect to face.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 28
+          "words": 24
         },
         {
-          "id": "dbde12451ce2",
-          "title": "Insights2040 day two: regulators mark their own quantum homework",
-          "url": "https://thefintechtimes.com/insights2040-day-two-regulators-mark-their-own-quantum-homework/",
+          "id": "b6d6b4872097",
+          "title": "After Money20/20 Middle East, The Question Is What Follows Access",
+          "url": "https://thefintechtimes.com/after-money20-20-middle-east-the-question-is-what-follows-access/",
           "source": "The Fintech Times",
           "section": "fintech-taxtech",
-          "author": "Mark Walker",
-          "published": "2026-11-18T02:00:16+00:00",
-          "summary": "global toolkit showing most financial regulators are at an early stage on quantum, a payments industry report saying nobody yet owns the problem, and four questions GFTN is carrying into the Singapore Fintech Festival.",
+          "author": "Rowen Brooks",
+          "published": "2026-11-19T12:00:42+00:00",
+          "summary": "Vennre's Ziad Mabsout argues that giving people more ways to invest was only the first step, and that wealth platforms must now show them the whole portfolio.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 34
+          "words": 27
+        },
+        {
+          "id": "8b36562fe9cc",
+          "title": "Superintelligence may still be years away. AI agents inside bank accounts aren’t.",
+          "url": "https://thefintechtimes.com/superintelligence-may-still-be-years-away-ai-agents-inside-bank-accounts-arent/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "Lissele Pratt",
+          "published": "2026-11-19T10:00:14+00:00",
+          "summary": "AI agents are emerging as a cybersecurity risk for financial institutions, with their ability to exploit vulnerabilities and access bank accounts highlighting the need for stronger controls over autonomous payments.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
         },
         {
           "id": "d9a047affb02",
@@ -507,32 +507,46 @@
       "kicker": "The Tax Desk",
       "articles": [
         {
-          "id": "4fc834e32b9d",
-          "title": "Inconclusive Test Report Cannot Justify 10% Bank Guarantee for Distillate Marine Oil: CESTAT Sets Aside ₹95.53 Lakh Guarantee [Read Order]",
-          "url": "https://www.taxscan.in/excise-customs/inconclusive-test-report-cannot-justify-10-bank-guarantee-for-distillate-marine-oil-cestat-sets-aside-9553-lakh-guarantee-read-order",
+          "id": "c735e184a493",
+          "title": "ITAT Remands Appeals Dismissed Ex Parte, Holds Assessee's Grounds Must First Be Adjudicated on Merits [Read Order]",
+          "url": "https://www.taxscan.in/income-tax/itat-remands-appeals-dismissed-ex-parte-holds-assessees-grounds-must-first-be-adjudicated-on-merits-read-order",
           "source": "Taxscan (India)",
           "section": "tax-policy",
-          "author": "Solony Padhi",
-          "published": "2026-11-18T22:01:55+00:00",
-          "summary": "CESTAT Set Aside ₹95.53 Lakh Bank Guarantee as Inconclusive Test Reports Failed to Establish HFHSD Classification.",
+          "author": "Ansha Dillu PK",
+          "published": "2026-11-19T14:06:43+00:00",
+          "summary": "The Raipur ITAT has restored two ex parte appeals to the CIT(A)/NFAC, holding that the assessee must be given a final opportunity to present its case and that the grounds of appeal must be adjudicated on merits in accordance with the Income Tax Act.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 16
+          "words": 44
         },
         {
-          "id": "f65727b43ae7",
-          "title": "CESTAT Sets Aside ₹1.25 Cr Service Tax Demand and ₹1.92 Cr Penalties on Composite Government Contracts [Read Order]",
-          "url": "https://www.taxscan.in/excise-customs/cestat-sets-aside-125-cr-service-tax-demand-and-192-cr-penalties-on-composite-government-contracts-read-order",
+          "id": "ffb905c5e256",
+          "title": "ITAT Upholds Taxability of Oilfield Services u/s 44BB, Upholds Deletion of 1.49 Cr Income Tax Addition on Baker Hughes’ Offshore Sales [Read Order]",
+          "url": "https://www.taxscan.in/income-tax/itat-upholds-taxability-of-oilfield-services-us-44bb-upholds-deletion-of-149-cr-income-tax-addition-on-baker-hughes-offshore-sales-read-order",
           "source": "Taxscan (India)",
           "section": "tax-policy",
-          "author": "Solony Padhi",
-          "published": "2026-11-18T16:26:17+00:00",
-          "summary": "CESTAT sets aside demands and penalties as sales-taxed goods were excluded and Government services were non-taxable, with no deliberate suppression established.",
+          "author": "Kalyani B. Nair",
+          "published": "2026-11-19T13:45:00+00:00",
+          "summary": "Income tax addition on offshore supplies liable to be deleted in absence of Indian PE or business connection",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 21
+          "words": 18
+        },
+        {
+          "id": "847f176d3475",
+          "title": "Agency Information Collection Activities; Comment Request on Application for Security Summit Membership",
+          "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23610/agency-information-collection-activities-comment-request-on-application-for-security-summit",
+          "source": "Federal Register – IRS",
+          "section": "tax-policy",
+          "author": "Treasury Department, Internal Revenue Service",
+          "published": "2026-11-19T05:00:00+00:00",
+          "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 23
         },
         {
           "id": "e1bb784ca3e8",
@@ -547,20 +561,6 @@
           "license": "US Government work (public domain)",
           "license_url": "",
           "words": 30
-        },
-        {
-          "id": "c053acd67729",
-          "title": "Automatic Enrollment Requirements Under Section 414A",
-          "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23530/automatic-enrollment-requirements-under-section-414a",
-          "source": "Federal Register – IRS",
-          "section": "tax-policy",
-          "author": "Treasury Department, Internal Revenue Service",
-          "published": "2026-11-18T05:00:00+00:00",
-          "summary": "This document sets forth final regulations that provide guidance with respect to the automatic enrollment requirements that apply to certain retirement plans.",
-          "full_html": null,
-          "license": "US Government work (public domain)",
-          "license_url": "",
-          "words": 22
         },
         {
           "id": "04dd25bd4d89",
@@ -654,18 +654,18 @@
           "words": 25
         },
         {
-          "id": "fff8e55e0243",
-          "title": "The Sharing Gap - All Things Product Podcast with Teresa Torres & Petra Wille",
-          "url": "https://www.producttalk.org/the-sharing-gap-all-things-product-podcast-with-teresa-torres-petra-wille/",
-          "source": "Product Talk",
+          "id": "b9e63452c6bd",
+          "title": "Analysis Debt: The Cost of a Question Nobody Tracks",
+          "url": "https://batimes.com/articles/analysis-debt-the-cost-of-a-question-nobody-tracks/",
+          "source": "BA Times",
           "section": "product-analysis",
-          "author": "Teresa Torres",
-          "published": "2026-11-17T14:00:00+00:00",
-          "summary": "Listen to this episode on: Spotify | Apple Podcasts Why has everyone stopped sharing their real product work — and what do we lose when the field goes quiet?",
+          "author": "Michael Roy",
+          "published": "2026-11-09T14:38:54+00:00",
+          "summary": "Analysis Debt: The Cost of a Question Nobody Tracks By Michael Roy Every delivery organization can tell you how fast work moved last quarter. Far fewer can say how much of that work was checked before it started moving.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 29
+          "words": 39
         },
         {
           "id": "21f59dea13c6",
@@ -694,6 +694,48 @@
           "license": "",
           "license_url": "",
           "words": 34
+        },
+        {
+          "id": "30b7e2079ec1",
+          "title": "Product Ethics in the Age of AI",
+          "url": "https://www.romanpichler.com/blog/product-ethics-in-the-age-of-ai/",
+          "source": "Roman Pichler",
+          "section": "product-analysis",
+          "author": "Roman Pichler",
+          "published": "2026-10-05T09:39:41+00:00",
+          "summary": "AI is changing not only what product teams can build, but also what they need to take responsibility for.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "87cda737ce55",
+          "title": "Connecting Product Outcomes to Business Strategy",
+          "url": "https://www.romanpichler.com/blog/connecting-product-outcomes-and-business-strategy/",
+          "source": "Roman Pichler",
+          "section": "product-analysis",
+          "author": "Roman Pichler",
+          "published": "2026-09-15T09:41:42+00:00",
+          "summary": "Every product has to create real value for a group of people and the business, at least in theory. But in practice, that’s not always the case.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "95ac88e87dd6",
+          "title": "The Irreplaceable BA: How to Stay Essential in an AI-Augmented World",
+          "url": "https://batimes.com/articles/the-irreplaceable-ba-how-to-stay-essential-in-an-ai-augmented-world/",
+          "source": "BA Times",
+          "section": "product-analysis",
+          "author": "Mohanaraman Namasivayam",
+          "published": "2026-07-29T19:43:39+00:00",
+          "summary": "Four frameworks for deciding what AI takes, what you keep, and where to grow Mohanaraman Namasivayam Vice President | Senior Business Analyst, Investment Management Technology | IIBA Member The Inflection Point Is Now The research is blunt.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
         }
       ]
     },
@@ -703,116 +745,116 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
-          "id": "ede0be0f4a86",
-          "title": "Elon Musk says: ‘I’m not MAGA’",
-          "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Lucas Ropek",
-          "published": "2026-11-19T00:40:49+00:00",
-          "summary": "During his appearance Wednesday at the Dealbook Summit conference, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 39
-        },
-        {
-          "id": "2a19c93c43c3",
-          "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-          "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+          "id": "c6d87bb33ae7",
+          "title": "Anthropic raises $81bn in record-breaking stock market debut",
+          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Business",
           "section": "business-trends",
           "author": "",
-          "published": "2026-11-19T00:00:59+00:00",
-          "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+          "published": "2026-11-19T15:58:58+00:00",
+          "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 29
+          "words": 17
         },
         {
-          "id": "87fd25ae87d1",
-          "title": "Why has Waymo pulled all its driverless cars from US freeways?",
-          "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Business",
-          "section": "business-trends",
-          "author": "",
-          "published": "2026-11-18T23:47:46+00:00",
-          "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 23
-        },
-        {
-          "id": "44255eb49d7c",
-          "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-          "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Lucas Ropek",
-          "published": "2026-11-18T23:45:00+00:00",
-          "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
-        },
-        {
-          "id": "dfb2a5299605",
-          "title": "ANT stock update: Anthropic share price, stock trading time, and more for Claude maker’s much-hyped IPO",
-          "url": "https://www.fastcompany.com/91644956/ant-stock-live-anthropic-trading-time-date-ipo-share-price",
+          "id": "70acd48d94bd",
+          "title": "How T-Mobile plans to stay ahead in the age of AI",
+          "url": "https://www.fastcompany.com/91645741/how-t-mobile-plans-to-stay-ahead-in-the-age-of-ai",
           "source": "Fast Company",
           "section": "business-trends",
-          "author": "Sam Becker",
-          "published": "2026-11-18T22:31:00+00:00",
-          "summary": "It’s almost here: Anthropic is expected to go public on Thursday, November 19, and its IPO share price has been set well above the company’s target range, a sign that demand for the stock is strong.",
+          "author": "kat-caulderwood",
+          "published": "2026-11-19T15:43:02+00:00",
+          "summary": "In conversation with Stephanie Mehta, T-Mobile CEO Srini Gopalan discusses how employee engagement, AI, and a customer-first mindset are shaping their future.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 36
+          "words": 22
         },
         {
-          "id": "a7313339e51b",
-          "title": "HBO Max is moving ahead with an Elon Musk documentary despite his $1B investment. Here’s why",
-          "url": "https://www.fastcompany.com/91645102/hbo-max-is-moving-ahead-with-an-elon-musk-documentary-despite-his-1-billion-investment-heres-why",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "María José Gutiérrez Chávez",
-          "published": "2026-11-18T21:00:00+00:00",
-          "summary": "Skydance CEO David Ellison says the company will honor the distribution deal to stream Alex Gibney’s Musk documentary, even after Elon Musk’s $1 billion investment in the company.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 28
-        },
-        {
-          "id": "0d2f6ca4dec2",
-          "title": "Democrats demand answers from Howard Lutnick about Nvidia and his family’s business",
-          "url": "https://www.theguardian.com/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald",
+          "id": "8ea62b1fb64a",
+          "title": "Anthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live",
+          "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
           "source": "The Guardian – Business",
           "section": "business-trends",
-          "author": "Anna Betts",
-          "published": "2026-11-18T16:48:29+00:00",
-          "summary": "Democratic lawmakers ask if commerce secretary favored Nvidia to enrich his adult children and Cantor Fitzgerald The US commerce secretary, Howard Lutnick, faces mounting questions over his handling of the Nvidia affair as Democratic lawmakers demand answers over his family firm’s vast stake in the…",
+          "author": "Graeme Wearden",
+          "published": "2026-11-19T15:41:30+00:00",
+          "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter Anthropic needs to grow into…",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
         },
         {
-          "id": "daa9959cb12c",
-          "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
-          "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
-          "source": "The Guardian – Business",
+          "id": "41a84fbefbc8",
+          "title": "U.K government forced to disclose secret Apple backdoor order",
+          "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+          "source": "TechCrunch",
           "section": "business-trends",
-          "author": "Dara Kerr",
-          "published": "2026-11-17T23:32:16+00:00",
-          "summary": "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spy Nvidia “does not intend to reinstate Jensen as CEO”, the chairman of the company’s board said Tuesday.",
+          "author": "Zack Whittaker",
+          "published": "2026-11-19T15:32:20+00:00",
+          "summary": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 34
+          "words": 17
+        },
+        {
+          "id": "cc7f3b2a0382",
+          "title": "What does the Anthropic IPO mean for your 401(k)?",
+          "url": "https://www.fastcompany.com/91644166/what-does-the-anthropic-ipo-mean-for-your-401k",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Adele Peters",
+          "published": "2026-11-19T15:26:40+00:00",
+          "summary": "You may have no interest in investing in AI companies, and you may even suspect that the AI boom is a bubble about to pop.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "50a5a499604d",
+          "title": "AI demand will push up interest rates around the world, IMF head warns",
+          "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Richard Partington and Kalyeena Makortoff",
+          "published": "2026-11-19T15:15:14+00:00",
+          "summary": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’ Business live – latest updates Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the International Monetary Fund…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "c990fb121000",
+          "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Rebecca Bellan",
+          "published": "2026-11-19T14:54:39+00:00",
+          "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 29
+        },
+        {
+          "id": "a837c0894ab9",
+          "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-19T13:35:52+00:00",
+          "summary": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
         }
       ]
     }
@@ -821,6 +863,13 @@
     {
       "name": "Al Jazeera",
       "site": "https://www.aljazeera.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BA Times",
+      "site": "https://www.batimes.com",
       "license": "",
       "license_url": "",
       "full_text": false
@@ -884,6 +933,13 @@
     {
       "name": "Product Talk",
       "site": "https://www.producttalk.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Roman Pichler",
+      "site": "https://www.romanpichler.com",
       "license": "",
       "license_url": "",
       "full_text": false
@@ -971,30 +1027,16 @@
       "license": "",
       "license_url": "",
       "full_text": false
-    },
-    {
-      "name": "The Indian Express – India",
-      "site": "https://indianexpress.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "The Indian Express – Opinion",
-      "site": "https://indianexpress.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
     }
   ],
   "errors": [
+    "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
     "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
+    "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
     "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
     "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
     "Mind the Product: feed contained no entries",
-    "Roman Pichler: 415 Client Error: Unsupported Media Type for url: https://www.romanpichler.com/feed/",
-    "BA Times: 415 Client Error: Unsupported Media Type for url: https://www.batimes.com/feed/",
-    "World Economic Forum: 404 Client Error: Not Found for url: https://www.weforum.org/agenda/feed",
+    "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
     "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
   ]
 }
