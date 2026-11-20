@@ -5,13 +5,13 @@
     "date": "2026-11-20",
     "date_long": "Friday, 20 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-20T06:21+05:30",
+    "generated_at": "2026-11-20T21:12+05:30",
     "is_sample": false
   },
   "dashboard": {
     "total_articles": 50,
-    "reading_minutes": 12,
-    "source_count": 26,
+    "reading_minutes": 13,
+    "source_count": 24,
     "full_text_count": 1,
     "per_section": {
       "national-international": 10,
@@ -23,15 +23,15 @@
     },
     "keywords": [
       {
-        "term": "summit",
-        "count": 6
+        "term": "bank",
+        "count": 5
       },
       {
-        "term": "world",
+        "term": "trump",
         "count": 4
       },
       {
-        "term": "need",
+        "term": "since",
         "count": 4
       },
       {
@@ -39,7 +39,11 @@
         "count": 4
       },
       {
-        "term": "public",
+        "term": "financial",
+        "count": 4
+      },
+      {
+        "term": "people",
         "count": 4
       },
       {
@@ -47,27 +51,23 @@
         "count": 4
       },
       {
-        "term": "anthropic",
-        "count": 4
-      },
-      {
-        "term": "leaders",
+        "term": "anthropic shares",
         "count": 3
       },
       {
-        "term": "federal judge",
+        "term": "guardian view",
+        "count": 3
+      },
+      {
+        "term": "hold",
+        "count": 3
+      },
+      {
+        "term": "military exercise",
         "count": 2
       },
       {
-        "term": "china russia",
-        "count": 2
-      },
-      {
-        "term": "donald trump",
-        "count": 2
-      },
-      {
-        "term": "young people",
+        "term": "tech outages",
         "count": 2
       }
     ],
@@ -75,43 +75,43 @@
       {
         "label": "USD/EUR",
         "group": "Currencies",
-        "display": "0.9097",
-        "change_pct": -0.22,
+        "display": "0.9099",
+        "change_pct": 0.02,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/GBP",
         "group": "Currencies",
-        "display": "0.7604",
-        "change_pct": 0.13,
+        "display": "0.7619",
+        "change_pct": 0.2,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/INR",
         "group": "Currencies",
-        "display": "93.30",
-        "change_pct": -0.15,
+        "display": "92.68",
+        "change_pct": -0.66,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/JPY",
         "group": "Currencies",
-        "display": "159.97",
-        "change_pct": 0.35,
+        "display": "158.64",
+        "change_pct": -0.83,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "61,991.00",
-        "change_pct": -1.79,
+        "display": "60,109.00",
+        "change_pct": -4.3,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,750.94",
-        "change_pct": -1.73,
+        "display": "1,671.27",
+        "change_pct": -5.68,
         "source": "CoinGecko"
       }
     ]
@@ -136,102 +136,130 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "42a972871329",
-          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-20T00:50:24+00:00",
-          "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 16
-        },
-        {
-          "id": "214aedaada17",
-          "title": "El Salvador’s Bukele expected to formalise bid for third presidential term",
-          "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss",
+          "id": "804f7cffd0cc",
+          "title": "Poland condemns Russian ‘provocation’ after airspace violations",
+          "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss",
           "source": "Al Jazeera",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-20T00:22:02+00:00",
-          "summary": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
+          "published": "2026-11-20T15:18:26+00:00",
+          "summary": "The incidents came as European troops were taking part in a Ukraine post-war military exercise.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "d110e28f6dfb",
+          "title": "Trump to hold press conference after meeting with Xi and Putin",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Franco Ordoñez",
+          "published": "2026-11-20T15:00:00+00:00",
+          "summary": "Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "fd2811614640",
+          "title": "Anthropic shares slump on second day of trading as stock markets reel from AI sell-off",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Lauren Almeida and Graeme Wearden",
+          "published": "2026-11-20T13:53:13+00:00",
+          "summary": "Asian markets record their worst week since 2020 as investors question huge sums being poured into AI build-out Business live – latest updates Anthropic’s shares have slumped at the start of a second day of trading, as its record-breaking IPO failed to stem a sell-off…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "acf404f6e9c1",
+          "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-20T13:52:04+00:00",
+          "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "77ce998683fd",
+          "title": "White House removes cyber-security chief after series of tech outages",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-20T13:28:32+00:00",
+          "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "8e544d08ae6a",
+          "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "The Associated Press",
+          "published": "2026-11-20T12:24:40+00:00",
+          "summary": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "b5e83f8af299",
+          "title": "‘Weak and dizzy’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "José Olivares",
+          "published": "2026-11-20T11:00:31+00:00",
+          "summary": "Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike The text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "f8bf266042a6",
+          "title": "Why Japan’s anti-hate measures fall short",
+          "url": "https://globalvoices.org/2026/11/20/why-japans-anti-hate-measures-fall-short/",
+          "source": "Global Voices",
+          "section": "national-international",
+          "author": "Jo Carter",
+          "published": "2026-11-20T00:00:00+00:00",
+          "summary": "The prevalence of online hate speech is to a large extent related to a lack of effective domestic legislation and human rights education.",
+          "full_html": "<p><em>Japan is yet to establish the Human Rights Protection Bill and a independent national human rights institution</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/20/why-japans-anti-hate-measures-fall-short/\">Global Voices</a></p><a href=\"https://www.youtube.com/watch?v=igaSLngREFI\"></a><p>Anti-immigration policy protest in Oct 2026. Screen capture from the <a href=\"https://www.youtube.com/watch?v=igaSLngREFI\">Japan Unfiltered</a> YouTube Channel. Fair Use</p>\n<p><em>This post is part of Global Voices’ November 2026 Spotlight series, “<a href=\"https://globalvoices.org/special/justice-as-infrastructure/\">Justice as infrastructure</a>.” In this Spotlight, Global Voices is partnering with The Hague Institute for Innovation of Law (<a href=\"https://hiil.org/\">HiiL</a>) to highlight the ways justice functions as critical infrastructure for any society. You can support this coverage by donating <a href=\"https://globalvoices.org/2026/10/28/support-global-voices-spotlight-justice-as-infrastructure/\">here</a>.</em></p>\n<p>A newborn Black baby delivered at a clinic in Tokyo’s Meguro Ward became the <a href=\"https://toyokeizai.net/articles/-/963417?display=b\">target</a> of a barrage of racist harassment online. </p>\n<p>The clinic published the baby’s photo with a congratulatory message on its social media account as part of its routine “babies born this month” photo series. A screenshot of the post spread widely on X, gaining more than 1.3 million views within a day. The post attracted many hateful comments loaded with anti-immigrant sentiment and racial discrimination against non-white and non-Japanese people. Some of the hateful comments received thousands of likes. </p>\n<p>All comments have since been removed from the post, and the clinic has disabled commenting on its Instagram.</p>\n<p>This incident sheds light on two issues within Japanese society. On one level, it reflects how racist hate speech still remains rampant in Japan. But more broadly, it exposes a missing layer of justice infrastructure:  Japan has no independent human rights commission empowered to handle discrimination complaints, no enforceable national hate speech law, and no effective way to force platforms to remove hate speech targeting entire groups.</p>\n<p>While some <a href=\"https://toyokeizai.net/articles/-/963417?page=2\">cultural critics</a> argue that the widespread racial discrimination in Japan stems from the younger generation’s inadequate interest in foreign cultures and development, <a href=\"https://eastasiaforum.org/2024/06/13/why-japan-is-failing-to-curb-hate-speech/\">others argue</a> that the prevalence of online hate speech is to a large extent related to a lack of effective domestic legislation and human rights education. </p>\n<p>Despite being a signatory to the International Convention on the Elimination of All Forms of Racial Discrimination (ICERD) since 1995, Japan <a href=\"https://www.moj.go.jp/hisho/kouhou/hisho08_00446.html\">has not passed</a> the Human Rights Protection Bill or established an independent national human rights institution to investigate human rights violations and penalize perpetrators. While there have been numerous attempts to pass such a bill, it was tabled multiple times in the 2000s and early 2010s. Critics say the efforts failed because the public <a href=\"https://www.sangiin.go.jp/japanese/joho1/kousei/seigan/156/yousi/yo1562949.htm\">feared</a> it could violate the freedom of speech protected by the Constitution.</p>\n<h3>Toothless anti-discrimination national laws</h3>\n<p>Thus, instead of passing a comprehensive set of laws, it addresses discrimination and human rights through issue-specific laws, such as the Act on the Promotion of Human Rights Education and Human Rights Awareness-Raising (2000), the Act for Eliminating Discrimination Against Persons with Disabilities (2013), the Act on the Promotion of Efforts to Eliminate Unfair Discriminatory Speech and Behavior against Persons with Countries of Origin other than Japan (2016), the Act on the Promotion of the Elimination of <a href=\"https://en.wikipedia.org/wiki/Burakumin\">Buraku</a> Discrimination (2016), as well as the Act on the Promotion of Public Understanding of the Diversity of Sexual Orientation and Gender Identity (2023), which aim to raise public awareness about human rights and providing government support rather than criminalizing hate speech and discrimination. </p>\n<p>For example, while the Hate Speech Elimination Act was enacted to curb xenophobic street rallies that terrify ethnic minorities residing in Japan, such as the series of <a href=\"https://www.cambridge.org/core/books/abs/hate-speech-in-japan/kyoto-korean-elementary-school-case/A9B12BC75096C35C405DB3F5A9792AFC\">protests against Kyoto Korean Elementary School</a> between December 2009 and March 2010, it does not declare hate speech illegal, nor penalize offenders with fines or jail sentences.</p>\n<p>Moreover, the law only protects foreigners with a legal status, but excludes undocumented migrants, asylum seekers, and Indigenous peoples, including the Ainu and <a href=\"https://globalvoices.org/2026/08/10/in-japan-ryukyuan-indigenous-claim-hindered-by-u-s-military-bases-in-okinawa/\">Ryūkyūans</a>. The law’s legal scope is at odds with the <a href=\"https://www.right-to-education.org/sites/right-to-education.org/files/resource-attachments/CERD_GC_30_2004_EN.pdf\">United Nations’ recommendations</a>, which state that a signatory of the ICERD must “ensure legislative guarantees against racial discrimination apply to non-citizens regardless of their immigration status, and that the implementation of legislation does not have a discriminatory effect on non-citizens.” Legal experts have <a href=\"https://www.japaneselawtranslation.go.jp/ja/laws/view/4081\">criticized</a> the restrictive clause of the law for, as Shuji Oda, president of the Dai-Ichi Tokyo Bar Association, says, “giving rise to a false reverse implication that hate speech directed at individuals without legal residency status is permissible.”</p>\n\n<p>The toothless anti-discrimination laws only manage to contain explicit discriminatory actions against disabled people, <a href=\"https://en.wikipedia.org/wiki/Burakumin\">Burakumin</a> (feudal outcasts), LGBTQ+ people, and foreigners with legal status; they have not eliminated hate speech. Meanwhile, street rallies against immigrant and imported labor have surged amid stagnant local wages, inflation, and rising living costs. Though these protests are usually small in scale, they attract a large number of social media comments, with plenty of discriminatory remarks and hate speech against foreigners.</p>\n<p>Additionally, none of the aforementioned laws has a mechanism to force internet platforms to remove harmful content; this results in the spread of xenophobia, homophobia, hatred against social minorities, and a racist online culture.</p>\n<h3><strong>Kawasaki model</strong></h3>\n<p>As Japanese national politics has stalled the enactment of the Human Rights Protection Bill, some local governments have started building the legal framework from the bottom up to address local unrest targeting ethnic minorities.</p>\n<p>Kawasaki City, which is home to a large Zainichi Korean population in Kanagawa Prefecture, was the first municipality in Japan to introduce punitive local laws to curb protests that “<a href=\"https://www.city.kawasaki.jp/templates/faq/250/0000126653.html\">injure the human dignity of others</a>,” as described by the city’s Justice Department.</p>\n<p>Since the national Act on the Promotion of Human Rights Education and Awareness was passed in 2000, the city enacted its own Children’s Rights Ordinance in 2000 and Human Rights Ombudsperson Ordinance in 2001, which paved the way for the establishment of a local independent Human Rights Ombudsperson system for receiving and investigating complaints on bullying, abuse, and discrimination.</p>\n<p>Following a surge of demonstrations calling for the exclusion of people of foreign origin around 2013, the city <a href=\"https://www.city.kawasaki.jp/templates/faq/250/0000126653.html\">enacted</a> the Ordinance for the Creation of a City that Respects Human Rights and is Free from Discrimination in December 2019<em>, </em>which prohibits discrimination based on race, nationality, ethnic origin, gender, sexual orientation, and disability. The ordinance also bans using loudspeakers, placards, or flyers that induce hatred against people originating from outside Japan and their descendants. Under the Ordinance, repeat offenders would have their identities publicly disclosed, and they could be fined up to JPY 500,000 (approximately USD 3,130). The city would also keep a record of hate groups and ban them from using public facilities, such as sports venues and parks.</p>\n<p>Furthermore, the ordinance established an expert panel empowered to review hate speech and instruct online platforms to remove extreme content targeting a specific group of people and disclose the abusers’ identities.</p>\n<p>While the ordinance has managed to reduce discriminatory protests against Korean-Japanese communities within Kawasaki City, it is powerless when the protests take place in neighboring jurisdictions. Moreover, thus far the criminal penalty of the local ordinance just punishes abusers targeting people originating from outside of Japan; LGBTQ+, disabled, and indigenous communities have remained unprotected. It cannot penalize landlords or employers who discriminate and has limited power over online abuse, as internet companies are not legally bound by local laws.</p>\n<h3>Human rights education translated into moral education</h3>\n<p>Various <a href=\"https://www.mofa.go.jp/files/000406781.pdf\">UN bodies</a> have <a href=\"https://hrlibrary.umn.edu/country/japan2014.html\">repeatedly</a> <a href=\"https://documents.un.org/doc/undoc/gen/g22/588/99/pdf/g2258899.pdf\">criticized</a> Japan for failing to enact a comprehensive anti-discrimination law and establish an independent commission to investigate and prosecute abusers in line with the “<a href=\"https://www.ohchr.org/en/instruments-mechanisms/instruments/principles-relating-status-national-institutions-paris\">Paris Principle</a>,” the official international standards for national human rights institutions. Yet, to date, Japanese society still lacks the consensus and determination to pass the Human<strong> Rights Protection Bill. </strong></p>\n<p>While proponents of stalling the legislation cite potential violations of free speech, a deeper reason relates to local xenophobia and perceptions of human rights.</p>\n<p>The concept of human rights was introduced to Japan about 150 years ago, during the Japanese modernization period beginning in the late Edo and early Meiji era. However, when the Constitution of the Empire of Japan was promulgated in 1889, it defined citizens’ rights not as inherent human rights, but as “rights of subjects” granted by the Emperor. </p>\n<p>Only after World War II was the concept of universal human rights<a href=\"https://knowledge.uchicago.edu/records/x47q4-max96\"> re-introduced and localized</a> to criticize Japan’s wartime militarization of society and crimes against non-Japanese people. Yet,  human rights education in schools is often confused with conventional moral education, which emphasizes individual responsibility to family, society, and the country, and the need to maintain harmonious human relations through interpersonal politeness and consideration.</p>\n<p>However, the individual morality approach overlooks the structural causes of discrimination and fails to empower individuals as rights-holders to address the problem of systematic discrimination, as pointed out by a group of Japanese teachers from the Institute of Global Education and Culture  in a<a href=\"https://www.jtu-net.or.jp/wp/wp-content/themes/jtu/doc/henceforth.pdf\"> proposal </a>to better integrate moral and human rights education in 2014:</p>\n<blockquote><p>日本では人権教育・啓発の場で「おもいやり」「やさしさ」などが強調される一方で、権利そのものを学習することは低調である。[…]</p>\n<p>[…]具体的な「権利」という側面も、また「社会的に」問題を解決しようという側面も極めて弱い。「思いやり」を強調する抽象的・心情主義的教育は、私的な人間関係の中での問題解決ばかりを強調し、権利を具体的に考え実現しようとする力をむしろ弱めているといえる。</p></blockquote>\n<blockquote><p>In Japan, human rights education and awareness-raising campaigns have kept emphasising concepts like ‘consideration for others’ (<em>omoi-yari</em>) and ‘kindness’ while downplaying education on rights. […]</p>\n<p>It’s extremely weak in addressing different aspects of individual rights and the social resolution of rights-related problems. The emphasis on ‘understanding’ is both abstract and sentimental; as such, education relies solely on problem-solving within private interpersonal relationships and will hence weaken the ability to think concretely about rights and exercising one’s rights.</p></blockquote>\n<p>Earlier this year, Human Rights Watch <a href=\"https://www.business-humanrights.org/en/latest-news/japan-human-rights-watch-urges-pm-to-legislate-anti-discrimination-law-and-create-independent-national-human-rights-body/\">urged</a> the newly elected prime minister Sanae Takaichi to legislate a comprehensive anti-discrimination law and create an independent national human rights body to address the rise of xenophobic sentiments against immigrants. Although the right-leaning government has no intention of resurrecting the Human Rights Protection Bill, a <a href=\"https://news.yahoo.co.jp/articles/b3442c2dec20ceccc9ed841439b56358799cb523\">civic coalition</a> has formed to advocate for an independent National Human Rights Institution with investigative and corrective powers to address discrimination and human rights abuses by 2028.</p>\n<strong>Written by <a href=\"https://globalvoices.org/author/jo-carter/\">Jo Carter</a></strong>",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "words": 1600
+        },
+        {
+          "id": "bac251cd51b8",
+          "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
+          "url": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-19T23:29:00+00:00",
+          "summary": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 17
-        },
-        {
-          "id": "eca3e57c2438",
-          "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-20T00:13:21+00:00",
-          "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
-        },
-        {
-          "id": "7ebb3f04a142",
-          "title": "FIR attributes killing of SPOs in J&K to ‘unknown terrorists’, using ‘illegal firearms’",
-          "url": "https://indianexpress.com/article/india/jammu-and-kashmir-spo-killings-kishtwar-fir-unknown-terrorists-10970529/",
-          "source": "The Indian Express – India",
-          "section": "national-international",
-          "author": "Arun Sharma",
-          "published": "2026-11-19T23:50:57+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "b8547a4c9cf2",
-          "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
-          "url": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "Rachel Treisman",
-          "published": "2026-11-19T19:46:27+00:00",
-          "summary": "A federal judge has twice delayed construction of Trump's arch. Another is keeping East Potomac Park open. The proposed golf course redesign got mixed feedback from a federal arts panel on Thursday.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 32
-        },
-        {
-          "id": "4dffa5bc2cfc",
-          "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
-          "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Rebecca Bailey in Shenzhen",
-          "published": "2026-11-19T17:13:23+00:00",
-          "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’ China, Russia and the US say they have agreed a peace statement after an unprecedented trilateral summit, but the declaration made no mention of the wars in…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "38e3030e7f0c",
-          "title": "Trump accused of falling asleep during Xi Jinping speech at Apec summit in China",
-          "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Ariana Baio",
-          "published": "2026-11-19T17:12:11+00:00",
-          "summary": "US president appeared to doze off while Chinese leader made speech, but White House insisted he was awake Donald Trump was, again, accused of falling asleep during a televised event, this time during the speech of the Chinese president, Xi Jinping, at the Asia-Pacific Economic…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
         },
         {
           "id": "fc0b4dc161ad",
@@ -246,34 +274,6 @@
           "license": "",
           "license_url": "",
           "words": 20
-        },
-        {
-          "id": "b0631e0ce5fd",
-          "title": "Family stories keep alive Georgia’s democratic past and the memory of Soviet repression",
-          "url": "https://globalvoices.org/2026/11/19/sharing-family-histories-about-a-region-in-georgias-democratic-past-and-soviet-repression/",
-          "source": "Global Voices",
-          "section": "national-international",
-          "author": "Daria Dergacheva",
-          "published": "2026-11-19T08:00:05+00:00",
-          "summary": "“Family stories can open up broader conversations about democracy, human rights, repression, and civic responsibility”",
-          "full_html": "<p><em>In the Guria region, an organization is helping people recover a history the Soviets tried to erase</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/19/sharing-family-histories-about-a-region-in-georgias-democratic-past-and-soviet-repression/\">Global Voices</a></p><p>Resort in the Guria region of Georgia. <a href=\"https://commons.wikimedia.org/wiki/File:Guria,_Region_in_Georgia.jpg\">Photo</a> by Tinari.totoro on <a href=\"https://commons.wikimedia.org/wiki/Main_Page\">Wikimedia Commons</a> (<a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>).</p>\n<p><i>This interview is part of a series of spotlights on the work of some of the grantees of the</i><a href=\"https://ddidigitalspark.org/news/\"> <i>Digital Spark</i></a><i> granting scheme, as part of the Regional Support Mechanism EECA project, implemented by the</i><a href=\"https://metamorphosis.org.mk/en/\"> <i>Metamorphosis Foundation</i></a><i> and</i><a href=\"https://www.techsoup.org/?srsltid=AfmBOoqgPtm0Yk6HG-hTECkCqfPFl9-HyRjojpYFAhrHKdM_Z419qEaW\"> <i>TechSoup</i></a><i>, in partnership with</i><a href=\"https://www.civicus.org/\"> <i>CIVICUS</i></a><i> and under the</i><a href=\"https://digitaldemocracyinitiative.net/\"> <i>Digital Democracy Initiative (DDI)</i></a><i> that covers the Global South. It is being published on Global Voices as part of a content-sharing agreement.</i> </p>\n<p>Guria is a <a href=\"https://en.wikipedia.org/wiki/Guria\">region in Georgia</a>, situated in the southwestern part of the country. It has a coastline on the <a href=\"https://en.wikipedia.org/wiki/Black_Sea\">Black Sea</a> to the west, which is about 22 kilometers (13 miles) long, and the region is bordered by the <a href=\"https://en.wikipedia.org/wiki/Samegrelo-Zemo_Svaneti\">Samegrelo-Zemo Svaneti</a> region to the north, <a href=\"https://en.wikipedia.org/wiki/Imereti\">Imereti</a> to the east, and the <a href=\"https://en.wikipedia.org/wiki/Adjara\">Autonomous Republic of Adjara</a> to the south. It has a rich history and a historical tradition of democracy. </p>\n<p>Today, in the region, independent media access is <a href=\"https://caucasusbarometer.org/en/irex2024/WEBGURN/?utm_source\">limited</a> and digital literacy remains low. However, Guria has a civic tradition that most of its own residents do not know about in detail. </p>\n<p>In 1904, locals organized protests against imperial (Russian, at the time) institutions, formed institutions of self-governance, and proclaimed <a href=\"https://en.wikipedia.org/wiki/Gurian_Republic\">the Gurian Republic</a>, an early experiment in participatory democracy.  </p>\n<p>The republic was <a href=\"http://google.com/url?q=https://en.wikipedia.org/wiki/Gurian_Republic&amp;sa=D&amp;source=docs&amp;ust=1795022801034750&amp;usg=AOvVaw1t2EVjafv7ufh3sNpqdmkE\">violently suppressed</a> first by the <a href=\"https://en.wikipedia.org/wiki/Russian_Empire\">Russian tsarist empire</a>, and later all the memories of it were fragmented further by decades of deliberate erasure under <a href=\"https://en.wikipedia.org/wiki/Soviet_invasion_of_Georgia\">Soviet occupation</a> of Georgia (1921–1991) and by repressions. </p>\n<p>This is exactly what the Digital Spark Spotlight project in Georgia focused on: history and memory in the Guria region. </p>\n<p>Global Voices interviewed <a href=\"https://womenpower.ge/en/her-story/lika-megreladzes-tea-way-to-success/\">Lika Mergaladze</a>, head of the organization <a href=\"https://www.segeorgia.org/en/news/komli-2\">Komli Initiative for Civic Engagement</a>, about their project: what they have done and what they learned through it. </p>\n<p><b>Global Voices (GV): Please tell us about yo</b><b>ur organization and why you chose to get involved with the Digital Spark project? </b></p>\n<blockquote><p><b>Lika Mergaladze</b><b> (LM)</b>: Our organization, Komli Initiative for Civic Engagement, works to preserve local history, strengthen civic engagement, and promote sustainable development in the Guria region of Georgia. We use exhibitions, workshops, digital storytelling, and collaborative activities to connect communities with their history and encourage active participation in civic life.</p>\n<p>We chose to get involved in the Digital Spark project because we saw an opportunity to combine local history with modern digital technologies. We wanted to help community members document and share their family stories, develop digital skills, and better understand the connection between the past and present. We believe that preserving historical memory and encouraging critical thinking are essential for building an informed and active community.</p></blockquote>\n<p><b>GV: What issue/challenge in your community prompted you to undertake this project? </b></p>\n<blockquote><p><b>LM</b>: One of the main challenges in Guria is that many important historical stories have been forgotten or remain untold. These stories were purposely erased during the Soviet Union. Many families who were the victims of a series of repressions in the 1920s and 30s learned to remain silent about their past in the 50s after World War II. As a result, younger generations often know very little about their ancestors and the region’s democratic traditions, including the <a href=\"https://en.wikipedia.org/wiki/Gurian_Republic\">Gurian Republic</a> of 1904.</p>\n<p>Another challenge is limited access to independent media and low levels of digital literacy in local communities. The dominance of social media and television as information sources makes media literacy and critical thinking particularly important.</p>\n<p>We undertook this project to address these challenges by helping local people preserve their history, recognize misinformation and propaganda, and use digital tools to share their stories with a wider audience.</p></blockquote>\n<p><b>GV: What are the key changes/activities that your organization implemented during your participation in the project? </b></p>\n<blockquote><p><b>LM</b>: Through the project ‘From Understanding the Past to the Digital Future,’ implemented from April to October 2026, we organized several activities across the three municipalities of Guria: <a href=\"https://en.wikipedia.org/wiki/Ozurgeti\">Ozurgeti,</a> <a href=\"https://en.wikipedia.org/wiki/Chokhatauri\">Chokhatauri</a>, and <a href=\"https://en.wikipedia.org/wiki/Lanchkhuti\">Lanchkhuti</a>. Our main activities included a public discussion. On June 24, we organized ‘What Drove Gurians Crazy? Propaganda Now and Then,’ exploring Guria’s democratic history, Soviet occupation, propaganda, and contemporary challenges. We also did digital storytelling workshops, an AI and Digital Creation workshop and<a href=\"https://guriismoambe.com/pt/archives/145400\"> a theatrical performance:</a> on August 12, we presented “My Days and My Father’s Diaries,” dedicated to Meri Chanukvadze and her father,<a href=\"https://ddidigitalspark.org/for-the-first-time-locals-from-the-guria-region-of-georgia-are-telling-their-family-stories-online/\"> Amberki Chanukvadze</a>, whose life reflected the impact of Soviet repression. These activities helped strengthen participants’ digital skills, encourage historical research, and create opportunities for community members to share their stories online.</p></blockquote>\n<p><b>GV: How did your participation in the project impact your organization’s beneficiaries and the community that you serve? Please provide examples.</b></p>\n<blockquote><p><b>LM</b>: The project generated strong interest across all three municipalities, reaching nearly 50 community members, with particularly strong participation from women and young people. Locals participated in the digital storytelling workshop, including 12 women. These activities gave participants practical opportunities to develop their digital skills and explore new ways of communicating important ideas. Another meaningful example was the theatrical performance dedicated to Meri and her father. More than 35 people attended and participated in a discussion afterwards. The performance encouraged people to reflect on the experiences of families affected by Soviet repression and the importance of preserving historical memory.</p>\n<p>The project also laid the foundation for a cross-municipal network of young people, activists, and aspiring digital storytellers. This network can help community members continue documenting local history, sharing civic information, and engaging in public discussions beyond the project itself.</p></blockquote>\n<p><b>GV: How has your own knowledge, awareness, and experience with digital democracy and civic space changed, thanks to your participation in the project?</b></p>\n<blockquote><p><b>LM</b>: Our participation in the project strengthened our understanding of how digital technologies can support civic engagement and democratic participation. We gained greater awareness of the importance of digital storytelling, media literacy, and critical thinking in helping communities understand their history and respond to contemporary challenges. We also explored how AI-assisted content creation can provide new opportunities for preserving local stories and making them accessible to wider audiences. The project reinforced our belief that digital tools are not simply communication technologies; they can also help people participate in public life, challenge misinformation, and contribute to community development. Most importantly, we recognized that connecting historical memory with modern digital tools can help create a more informed, active, and engaged society.</p></blockquote>\n<p><b>GV: What are the most valuable lessons and experiences you are taking away from this project?</b></p>\n<blockquote><p><b>LM</b>: One of the most valuable lessons was that many people are interested in learning about their history when they are given a welcoming space to ask questions and share experiences. Family stories can open up broader conversations about democracy, human rights, repression, and civic responsibility.</p>\n<p>We also learned that practical workshops and collaborative activities are effective ways to introduce digital tools to community members. The strong participation of women and young people demonstrated the potential for inclusive, community-based learning.</p>\n<p>Another important lesson was the value of combining traditional storytelling with digital technologies. Personal stories, family diaries, public discussions, and theatrical performances can make historical events more relatable and meaningful.</p></blockquote>\n<p><b>GV: What comes next? How will you apply the learning and digital capacity you have built in your future work and within your community?</b></p>\n<blockquote><p><b>LM</b>: We plan to build on the experience and connections developed through the project by continuing to document, digitize, and share historical and civic stories from Guria.</p>\n<p>We aim to encourage more community members, especially young people and women, to use digital storytelling and online content creation to preserve family histories and discuss local issues. We also intend to apply the knowledge gained from the workshops to future educational activities, community discussions, and collaborative initiatives.</p>\n<p>An important priority will be to strengthen the network of local journalists, activists, and digital storytellers across Ozurgeti, Chokhatauri, and Lanchkhuti. By supporting collaboration and knowledge-sharing, we hope to ensure that these activities continue beyond the project period.</p></blockquote>\n<strong>Written by <a href=\"https://globalvoices.org/author/daria-dergacheva/\">Daria Dergacheva</a></strong>",
-          "license": "CC BY 3.0",
-          "license_url": "https://creativecommons.org/licenses/by/3.0/",
-          "words": 1327
-        },
-        {
-          "id": "1e0689dfba5b",
-          "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
-          "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – India",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-19T00:38:52+00:00",
-          "summary": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
         }
       ]
     },
@@ -283,60 +283,74 @@
       "kicker": "Opinion",
       "articles": [
         {
-          "id": "9ef5721270a2",
-          "title": "Beyond Earth, from Voyager 1, a lesson in humility",
-          "url": "https://indianexpress.com/article/opinion/editorials/nasa-voyager-1-one-light-day-from-earth-10970480/",
-          "source": "The Indian Express – Opinion",
-          "section": "editorials-opinion",
-          "author": "",
-          "published": "2026-11-20T00:40:24+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "b11a70395f23",
-          "title": "At Shenzhen, G3 — US, Russia, China — claim common ground. And strike no grand bargain",
-          "url": "https://indianexpress.com/article/opinion/editorials/donald-trump-vladimir-putin-xi-jinping-us-china-russia-trilateral-meeting-shenzhen-summit-10970493/",
-          "source": "The Indian Express – Opinion",
-          "section": "editorials-opinion",
-          "author": "",
-          "published": "2026-11-20T00:30:01+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "540bcf5f777b",
-          "title": "Xi-Putin-Trump summit was heavy on symbolism, light on substance – and not exactly a Yalta II",
-          "url": "https://theconversation.com/xi-putin-trump-summit-was-heavy-on-symbolism-light-on-substance-and-not-exactly-a-yalta-ii-297087",
-          "source": "The Conversation",
-          "section": "editorials-opinion",
-          "author": "Rana Mitter, Professor of U.S.-Asia Relations, Harvard Kennedy School",
-          "published": "2026-11-19T18:43:22+00:00",
-          "summary": "At an eagerly anticipated summit, the leaders of China, Russia and US discussed nuclear weapons – but not much else.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
-        },
-        {
-          "id": "72c726323c0b",
-          "title": "It’s unfashionable to say it, but class still matters – and young people know that | Polly Toynbee",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/19/class-young-people-nepotism-workplace-social-inequality",
+          "id": "745982f2dd95",
+          "title": "If Democrats want to win, blue-collar populists are the key | Dustin Guastella and Jared Abbott",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/20/democrats-blue-collar-populists",
           "source": "The Guardian – Opinion",
           "section": "editorials-opinion",
-          "author": "Polly Toynbee",
-          "published": "2026-11-19T18:36:23+00:00",
-          "summary": "From inheritance to nepotism in the workplace, social inequality is now a daily experience for many young people This should come as no great surprise: young people are more keenly aware of the significance of social class than those who came before them.",
+          "author": "Dustin Guastella and Jared Abbott",
+          "published": "2026-11-20T15:00:33+00:00",
+          "summary": "Our analysis shows that ‘Bernie-Dog’ candidates are the most underrated success stories in US politics Democrats had a huge night on 3 November.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 43
+          "words": 23
+        },
+        {
+          "id": "b7bd388b6cee",
+          "title": "I’m an Australian-Palestinian doctor who was turned away at the West Bank border. The stigma of being born in Gaza stands in the way of peace",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/21/im-an-australian-palestinian-doctor-who-was-turned-away-at-the-west-bank-border-the-stigma-of-being-born-in-gaza-stands-in-the-way-of-peace-ntwnfb",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Munther Emad",
+          "published": "2026-11-20T14:00:32+00:00",
+          "summary": "After two attempts at two separate border crossings, I was denied entry, despite an approved visa and an official invitation from my health diplomacy charity This month I set out to return to Palestine, where I was born and studied, as part of a health…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "3be0be484878",
+          "title": "Trump inspired a blue revolution. Can Democrats meet the moment? | Dana R Fisher",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/20/trump-blue-revolution-democrats",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Dana R Fisher",
+          "published": "2026-11-20T13:00:30+00:00",
+          "summary": "Political participation – in meetings, boycotts and demonstrations – has increased since Trump took office. It’s time for change Over the past two years, Americans have watched as the Trump administration enacted Project 2025 and the US has descended into a state of lawless authoritarianism.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "b7f674ad7efc",
+          "title": "Was Anthropic’s record US$81 billion listing a vote of confidence in AI – and what’s next?",
+          "url": "https://theconversation.com/was-anthropics-record-us-81-billion-listing-a-vote-of-confidence-in-ai-and-whats-next-297151",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Angel Zhong, Professor of Finance, RMIT University",
+          "published": "2026-11-20T04:53:50+00:00",
+          "summary": "Now that Anthropic has become a publicly listed company, the AI industry will come under even more intense scrutiny.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "1be00ca2647b",
+          "title": "The most iconic sports film of all time taught us winning isn’t everything: 50 years of Rocky",
+          "url": "https://theconversation.com/the-most-iconic-sports-film-of-all-time-taught-us-winning-isnt-everything-50-years-of-rocky-276876",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Lisa J. Hackett, Senior Lecturer, Cultural History, University of New England",
+          "published": "2026-11-19T19:05:54+00:00",
+          "summary": "Rocky’s underdog story is in many ways also Sylvester Stallone’s story.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 11
         },
         {
           "id": "6fd884c8708e",
@@ -367,32 +381,18 @@
           "words": 12
         },
         {
-          "id": "c9454e5a9635",
-          "title": "Myanmar genocide ruling is a watershed moment in international justice – with huge ramifications for other cases",
-          "url": "https://theconversation.com/myanmar-genocide-ruling-is-a-watershed-moment-in-international-justice-with-huge-ramifications-for-other-cases-296987",
-          "source": "The Conversation",
+          "id": "9d79332d9a58",
+          "title": "The Guardian view on the Trump, Xi and Putin meeting: it may be a first, but it’s not progress | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/18/the-guardian-view-on-the-trump-xi-and-putin-meeting-it-may-be-a-first-but-its-not-progress",
+          "source": "The Guardian – Editorials",
           "section": "editorials-opinion",
-          "author": "Max Pensky, Co-Director, Institute for Genocide and Mass Atrocity Prevention, Binghamton University, State University of New York",
-          "published": "2026-11-19T17:06:27+00:00",
-          "summary": "The International Court of Justice’s historic finding against the leaders who directed attacks against the Rohingya may affect other cases, including against Israel.",
+          "author": "Editorial",
+          "published": "2026-11-18T18:35:14+00:00",
+          "summary": "A trilateral gathering is good news for China and Russia, but bad for the US – and its traditional allies “Historic” is a neutral descriptor, not a favourable one. Things can be unprecedented for good reason.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 23
-        },
-        {
-          "id": "a5c70a620bfc",
-          "title": "The moral panic over Neets needs to stop. The problem is bad jobs, not young people | Aditya Chakrabortty",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/19/alan-milburn-jobs-neets-crisis-young-people-zero-hours",
-          "source": "The Guardian – Opinion",
-          "section": "editorials-opinion",
-          "author": "Aditya Chakrabortty",
-          "published": "2026-11-19T16:27:08+00:00",
-          "summary": "Milburn’s review doesn’t ask what kind of work young people will be going into: zero hours, minimum wage, mind-numbing. Do we have the guts to solve that? One big number has been repeated over and over this week: 1 million.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 40
+          "words": 36
         }
       ]
     },
@@ -402,6 +402,76 @@
       "kicker": "Technology & Money",
       "articles": [
         {
+          "id": "048769c8a5c0",
+          "title": "Worldline shares plummet on FT report on cash advances",
+          "url": "https://www.finextra.com/newsarticle/48791/worldline-shares-plummet-on-ft-report-on-cash-advances?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-20T14:39:00+00:00",
+          "summary": "Shares in Worldline fell by as much as 20% on Friday after the Financial Times reported that the French firm delayed payments to suppliers and asked customers for cash advances ahead of its financial results in the years leading up to a 2023 profit warning.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "44f4c10c9f66",
+          "title": "UK SME lender OakNorth secures US banking licence",
+          "url": "https://www.finextra.com/newsarticle/48790/uk-sme-lender-oaknorth-secures-us-banking-licence?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-20T14:07:00+00:00",
+          "summary": "OakNorth, the UK digital bank for SMEs, has secured a US national banking charter, paving the way for it to expand beyond lending in the country.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "ac4f62f8a2d2",
+          "title": "Banks, Crypto and PayPal Make Their Case at Singapore FinTech Festival",
+          "url": "https://thefintechtimes.com/banks-crypto-and-paypal-make-their-case-at-singapore-fintech-festival/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "Georgia Hanias",
+          "published": "2026-11-20T09:15:27+00:00",
+          "summary": "A $6.3 billion crypto heist, PayPal’s reinvention and AI moving our money. Georgia Hanias reports on a lively day at Singapore FinTech Festival.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "d8315fc01cff",
+          "title": "Japan’s on-chain finance pitch to Asia: slow, aligned, serious",
+          "url": "https://thefintechtimes.com/japans-on-chain-finance-pitch-to-asia-slow-aligned-serious/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "Mark Walker",
+          "published": "2026-11-20T04:12:29+00:00",
+          "summary": "Japan's regulator, central bank and biggest banks told one story on tokenised money in Singapore. I was in the room. Here is what I made of the pitch.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "daa18ae4b4cd",
+          "title": "SFF day two: the money is ready, the agents are not",
+          "url": "https://thefintechtimes.com/sff-day-two-the-money-is-ready-the-agents-are-not/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "Mark Walker",
+          "published": "2026-11-20T02:00:22+00:00",
+          "summary": "the Monetary Authority of Singapore showed how far tokenisation has come, with S$100 million of its own bills issued and settled on a digital ledger, and how far agentic AI has to go",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 33
+        },
+        {
           "id": "ee40001d2b04",
           "title": "FCA opens AI Spotlight Observatory",
           "url": "https://www.finextra.com/newsarticle/48787/fca-opens-ai-spotlight-observatory?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -410,76 +480,6 @@
           "author": "",
           "published": "2026-11-20T00:01:00+00:00",
           "summary": "The UK's Financial Conduct Authority has launched a platform bringing together real-world examples of AI adoption across financial services as it seeks to help firms identify emerging trends and opportunities.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 30
-        },
-        {
-          "id": "06e50227eb69",
-          "title": "JPMorgan, Visa and Mastercard say hackers leaked customer emails",
-          "url": "https://www.finextra.com/newsarticle/48789/jpmorgan-visa-and-mastercard-say-hackers-leaked-customer-emails?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-19T20:17:00+00:00",
-          "summary": "JPMorgan Chase, Visa and Mastercard have confirmed that some customer data, including emails, were exposed in cyberattacks on third-party vendors.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
-        },
-        {
-          "id": "3fc437dbea8e",
-          "title": "UK pensions dashboard set for summer 2027 launch",
-          "url": "https://www.finextra.com/newsarticle/48788/uk-pensions-dashboard-set-for-summer-2027-launch?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-19T18:41:00+00:00",
-          "summary": "The UK's first pensions dashboard is slated to finally launch next summer, providing millions of Brits with access to their information in one single, online location.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
-        },
-        {
-          "id": "0ebf2d333774",
-          "title": "What Indian lenders Will Ask Their Fintech Partners Under DPDP",
-          "url": "https://thefintechtimes.com/what-indian-lenders-will-ask-their-fintech-partners-under-dpdp/",
-          "source": "The Fintech Times",
-          "section": "fintech-taxtech",
-          "author": "Rowen Brooks",
-          "published": "2026-11-19T14:00:31+00:00",
-          "summary": "Singahi's Rahul Verma argues that India's DPDP Act leaves lenders answerable for their partners, and sets out the questions fintechs should expect to face.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 24
-        },
-        {
-          "id": "b6d6b4872097",
-          "title": "After Money20/20 Middle East, The Question Is What Follows Access",
-          "url": "https://thefintechtimes.com/after-money20-20-middle-east-the-question-is-what-follows-access/",
-          "source": "The Fintech Times",
-          "section": "fintech-taxtech",
-          "author": "Rowen Brooks",
-          "published": "2026-11-19T12:00:42+00:00",
-          "summary": "Vennre's Ziad Mabsout argues that giving people more ways to invest was only the first step, and that wealth platforms must now show them the whole portfolio.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 27
-        },
-        {
-          "id": "8b36562fe9cc",
-          "title": "Superintelligence may still be years away. AI agents inside bank accounts aren’t.",
-          "url": "https://thefintechtimes.com/superintelligence-may-still-be-years-away-ai-agents-inside-bank-accounts-arent/",
-          "source": "The Fintech Times",
-          "section": "fintech-taxtech",
-          "author": "Lissele Pratt",
-          "published": "2026-11-19T10:00:14+00:00",
-          "summary": "AI agents are emerging as a cybersecurity risk for financial institutions, with their ability to exploit vulnerabilities and access bank accounts highlighting the need for stronger controls over autonomous payments.",
           "full_html": null,
           "license": "",
           "license_url": "",
@@ -521,32 +521,46 @@
       "kicker": "The Tax Desk",
       "articles": [
         {
-          "id": "c735e184a493",
-          "title": "ITAT Remands Appeals Dismissed Ex Parte, Holds Assessee's Grounds Must First Be Adjudicated on Merits [Read Order]",
-          "url": "https://www.taxscan.in/income-tax/itat-remands-appeals-dismissed-ex-parte-holds-assessees-grounds-must-first-be-adjudicated-on-merits-read-order",
+          "id": "6560122b739e",
+          "title": "CESTAT Holds Commitment Charges Collected by Punjab National Bank on Undisbursed Loans Liable to Service Tax [Read Order]",
+          "url": "https://www.taxscan.in/excise-customs/cestat-holds-commitment-charges-collected-by-punjab-national-bank-on-undisbursed-loans-liable-to-service-tax-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Solony Padhi",
+          "published": "2026-11-20T15:30:00+00:00",
+          "summary": "CESTAT Holds Commitment Charges Taxable as Service Consideration for Keeping Sanctioned Loan Funds Available.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        },
+        {
+          "id": "0c1184d7af5f",
+          "title": "GST Order Served Through Portal Constitutes Valid Service, Belated Writ Cannot Bypass Appeal Limitation: Telangana HC",
+          "url": "https://www.taxscan.in/gst/gst-order-served-through-portal-constitutes-valid-service-belated-writ-cannot-bypass-appeal-limitation-telangana-hc",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Kavi Priya",
+          "published": "2026-11-20T15:11:57+00:00",
+          "summary": "Uploading a GST order on the common portal constitutes valid service under Section 169(1)(d) of the CGST Act and an expired statutory appeal period cannot ordinarily be bypassed through a writ petition.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "3df2e174bece",
+          "title": "Art Booked as Furniture and Fixtures of Dubai Firm Can’t Be Taxed as Deemed Dividend: ITAT deletes Addition in Triburg Group Search Case [Read Order]",
+          "url": "https://www.taxscan.in/income-tax/art-booked-as-furniture-and-fixtures-of-dubai-firm-cant-be-taxed-as-deemed-dividend-itat-deletes-addition-in-triburg-group-search-case-read-order",
           "source": "Taxscan (India)",
           "section": "tax-policy",
           "author": "Ansha Dillu PK",
-          "published": "2026-11-19T14:06:43+00:00",
-          "summary": "The Raipur ITAT has restored two ex parte appeals to the CIT(A)/NFAC, holding that the assessee must be given a final opportunity to present its case and that the grounds of appeal must be adjudicated on merits in accordance with the Income Tax Act.",
+          "published": "2026-11-20T14:17:08+00:00",
+          "summary": "The dispute arose from art purchases made through a foreign company, with the AO treating the expenditure as a shareholder benefit despite the assets being reflected in the company’s books.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 44
-        },
-        {
-          "id": "ffb905c5e256",
-          "title": "ITAT Upholds Taxability of Oilfield Services u/s 44BB, Upholds Deletion of 1.49 Cr Income Tax Addition on Baker Hughes’ Offshore Sales [Read Order]",
-          "url": "https://www.taxscan.in/income-tax/itat-upholds-taxability-of-oilfield-services-us-44bb-upholds-deletion-of-149-cr-income-tax-addition-on-baker-hughes-offshore-sales-read-order",
-          "source": "Taxscan (India)",
-          "section": "tax-policy",
-          "author": "Kalyani B. Nair",
-          "published": "2026-11-19T13:45:00+00:00",
-          "summary": "Income tax addition on offshore supplies liable to be deleted in absence of Indian PE or business connection",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 18
+          "words": 30
         },
         {
           "id": "847f176d3475",
@@ -561,20 +575,6 @@
           "license": "US Government work (public domain)",
           "license_url": "",
           "words": 23
-        },
-        {
-          "id": "e1bb784ca3e8",
-          "title": "Racial Nondiscrimination in Private Schools; Hearing",
-          "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23533/racial-nondiscrimination-in-private-schools-hearing",
-          "source": "Federal Register – IRS",
-          "section": "tax-policy",
-          "author": "Treasury Department, Internal Revenue Service",
-          "published": "2026-11-18T05:00:00+00:00",
-          "summary": "This document provides a notice of an additional date for the public hearing on the notice of proposed rulemaking (REG-119986-25) published in the Federal Register on Friday, September 4, 2026.",
-          "full_html": null,
-          "license": "US Government work (public domain)",
-          "license_url": "",
-          "words": 30
         },
         {
           "id": "04dd25bd4d89",
@@ -759,116 +759,116 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
-          "id": "f1dd0bea0b97",
-          "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-          "source": "TechCrunch",
+          "id": "18b598518360",
+          "title": "Anthropic shares slide as AI sell-off hits global markets - as it happened",
+          "url": "https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news",
+          "source": "The Guardian – Business",
           "section": "business-trends",
-          "author": "Julie Bort",
-          "published": "2026-11-20T00:43:50+00:00",
-          "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+          "author": "Lauren Almeida",
+          "published": "2026-11-20T15:25:09+00:00",
+          "summary": "Rolling coverage of the latest economic and financial news California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 20
+          "words": 32
         },
         {
-          "id": "300c7c788356",
-          "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-          "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+          "id": "7abcb9e67aa8",
+          "title": "Anthropic shares fall a day after blockbuster opening",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-20T15:16:52+00:00",
+          "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 13
+        },
+        {
+          "id": "e2d9a1ff1053",
+          "title": "‘Worst COP ever’? Climate talks in Turkey are near the finish line and activists are in an uproar",
+          "url": "https://www.fastcompany.com/91646433/worst-cop-ever-climate-talks-turkey-near-finish-line-activists-uproar",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Associated Press",
+          "published": "2026-11-20T14:55:15+00:00",
+          "summary": "This year’s U.N. climate talks are wrapping up in Turkey, with negotiators fighting over how to address global warming and experts warning that only slashing fossil fuels can avert its most catastrophic effects.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 33
+        },
+        {
+          "id": "47da7514e352",
+          "title": "How Thanksgiving travelers are feeling about holiday air travel after widespread tech outages",
+          "url": "https://www.fastcompany.com/91646438/how-thanksgiving-travelers-are-feeling-about-holiday-air-travel-after-widespread-tech-outages",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Associated Press",
+          "published": "2026-11-20T14:12:05+00:00",
+          "summary": "At this point, it’s practically as much of a Thanksgiving tradition as turkey and stuffing — crowded airports, long lines, jam-packed flights, the ever-present worry about delays and cancellations and extra expenses.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "7d8981ef5476",
+          "title": "Six AI-powered gadgets that could make your home office smarter",
+          "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Lauren Forristal",
+          "published": "2026-11-20T14:00:00+00:00",
+          "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 13
+        },
+        {
+          "id": "7f996f41bb20",
+          "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+          "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
           "source": "TechCrunch",
           "section": "business-trends",
           "author": "Connie Loizos",
-          "published": "2026-11-20T00:26:03+00:00",
-          "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open-source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+          "published": "2026-11-20T13:25:00+00:00",
+          "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 31
+          "words": 17
         },
         {
-          "id": "8e3d04f61529",
-          "title": "Airbnb's divisive new house rules come into force",
-          "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+          "id": "819d3babef6f",
+          "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
+          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Business",
           "section": "business-trends",
           "author": "",
-          "published": "2026-11-20T00:12:28+00:00",
-          "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+          "published": "2026-11-20T13:08:30+00:00",
+          "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 21
+          "words": 17
         },
         {
-          "id": "9dbb17faab1d",
-          "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
-          "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Business",
-          "section": "business-trends",
-          "author": "",
-          "published": "2026-11-20T00:08:37+00:00",
-          "summary": "What is acceptable to eat at your desk, without annoying your colleagues?",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 12
-        },
-        {
-          "id": "fea67cf9c7ef",
-          "title": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
-          "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
+          "id": "849d571e5e17",
+          "title": "What impact has Brexit had on the UK and EU economies?",
+          "url": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
           "source": "The Guardian – Business",
           "section": "business-trends",
-          "author": "Johana Bhuiyan",
-          "published": "2026-11-19T22:09:18+00:00",
-          "summary": "AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97 Anthropic closed its first day of trading on the US stock market about 17% higher than its initial public offering price.",
+          "author": "Richard Partington Senior economics correspondent",
+          "published": "2026-11-20T07:00:26+00:00",
+          "summary": "As talks are held in Brussels over closer relations, we examine the economic context and the challenges ahead UK-EU summit live: latest news updates The UK and EU will hold the second summit since Brexit on Friday against a volatile economic backdrop.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 43
-        },
-        {
-          "id": "02041166afdc",
-          "title": "How to manage a post-IPO workforce that just became fabulously wealthy",
-          "url": "https://www.fastcompany.com/91645727/how-to-manage-a-post-ipo-workforce-that-just-became-fabulously-wealthy",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "Peter Saalfield",
-          "published": "2026-11-19T21:30:00+00:00",
-          "summary": "Anthropic’s $1.5 trillion initial public offering instantly turned thousands of its roughly 5,300 employees into multimillionaires.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 16
-        },
-        {
-          "id": "c4d69f83f612",
-          "title": "College may cost much less than you think, according to this calculator tool from the University of Pennsylvania",
-          "url": "https://www.fastcompany.com/91643161/college-4-year-costs-less-than-you-think-says-calculator-tool-from-university-of-pennsylvania",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "Jude Cramer",
-          "published": "2026-11-19T21:00:00+00:00",
-          "summary": "A quick Google search for the yearly cost of attending the University of Pennsylvania returns a flat figure: $99,082. But that remarkably high number doesn’t tell the full story.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 29
-        },
-        {
-          "id": "8889f174524e",
-          "title": "US ⁠judge allows Trump’s $15bn lawsuit against New York Times to proceed",
-          "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-lawsuit-new-york-times",
-          "source": "The Guardian – Business",
-          "section": "business-trends",
-          "author": "Edward Helmore and agency",
-          "published": "2026-11-19T19:27:51+00:00",
-          "summary": "Trump alleges defamation by three Times reporters and Penguin Random House in campaign against news outlets A federal ⁠judge in Florida on Thursday said Donald Trump’s $15bn defamation lawsuit against the New York Times and book publisher Penguin Random House may proceed, a victory ⁠for…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
+          "words": 42
         }
       ]
     }
@@ -1041,28 +1041,16 @@
       "license": "",
       "license_url": "",
       "full_text": false
-    },
-    {
-      "name": "The Indian Express – India",
-      "site": "https://indianexpress.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "The Indian Express – Opinion",
-      "site": "https://indianexpress.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
     }
   ],
   "errors": [
+    "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
     "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
+    "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
     "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
     "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
     "Mind the Product: feed contained no entries",
-    "World Economic Forum: 404 Client Error: Not Found for url: https://www.weforum.org/agenda/feed",
-    "Stooq indices: HTTPSConnectionPool(host='stooq.com', port=443): Max retries exceeded with url: /q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv (Caused by ConnectTimeoutError(<HTTPSConnection(host='stooq.com', port=443) at 0x7aad6104d400>, 'Connection to stooq.com timed out. (connect timeout=20)'))"
+    "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
+    "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
   ]
 }
