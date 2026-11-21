@@ -2,15 +2,15 @@
   "edition": {
     "name": "The Morning Ledger",
     "tagline": "A quiet read for a busy morning",
-    "date": "2026-11-20",
-    "date_long": "Friday, 20 November 2026",
+    "date": "2026-11-21",
+    "date_long": "Saturday, 21 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-20T21:12+05:30",
+    "generated_at": "2026-11-21T05:38+05:30",
     "is_sample": false
   },
   "dashboard": {
     "total_articles": 50,
-    "reading_minutes": 13,
+    "reading_minutes": 14,
     "source_count": 24,
     "full_text_count": 1,
     "per_section": {
@@ -23,23 +23,23 @@
     },
     "keywords": [
       {
-        "term": "bank",
+        "term": "build",
         "count": 5
       },
       {
-        "term": "trump",
+        "term": "world",
+        "count": 5
+      },
+      {
+        "term": "anthropic",
         "count": 4
       },
       {
-        "term": "since",
+        "term": "bank",
         "count": 4
       },
       {
-        "term": "share",
-        "count": 4
-      },
-      {
-        "term": "financial",
+        "term": "come",
         "count": 4
       },
       {
@@ -47,27 +47,27 @@
         "count": 4
       },
       {
-        "term": "product",
+        "term": "every",
         "count": 4
       },
       {
-        "term": "anthropic shares",
-        "count": 3
+        "term": "product",
+        "count": 4
       },
       {
         "term": "guardian view",
         "count": 3
       },
       {
-        "term": "hold",
-        "count": 3
-      },
-      {
-        "term": "military exercise",
+        "term": "riemann hypothesis",
         "count": 2
       },
       {
-        "term": "tech outages",
+        "term": "press conference",
+        "count": 2
+      },
+      {
+        "term": "europe burnham",
         "count": 2
       }
     ],
@@ -103,22 +103,22 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "60,109.00",
-        "change_pct": -4.3,
+        "display": "58,824.00",
+        "change_pct": -5.03,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,671.27",
-        "change_pct": -5.68,
+        "display": "1,621.10",
+        "change_pct": -7.73,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Liquidity",
-    "definition": "The ease with which an asset, security, or commodity can be converted into ready cash without affecting its market price.",
+    "term": "Arbitrage",
+    "definition": "The simultaneous purchase and sale of an asset in different markets to profit from a difference in the price.",
     "source": "The Morning Ledger glossary"
   },
   "dictionary_word": {
@@ -136,144 +136,144 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "804f7cffd0cc",
-          "title": "Poland condemns Russian ‘provocation’ after airspace violations",
-          "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss",
+          "id": "fabe8f110b31",
+          "title": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
+          "url": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
           "source": "Al Jazeera",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-20T15:18:26+00:00",
-          "summary": "The incidents came as European troops were taking part in a Ukraine post-war military exercise.",
+          "published": "2026-11-20T23:36:36+00:00",
+          "summary": "Police say two children among dead as search continues for more victims.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 15
+          "words": 12
         },
         {
-          "id": "d110e28f6dfb",
-          "title": "Trump to hold press conference after meeting with Xi and Putin",
-          "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+          "id": "431bce6b89d2",
+          "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-20T23:28:17+00:00",
+          "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "97715f31a473",
+          "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-20T23:08:57+00:00",
+          "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "7abcb9e67aa8",
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-20T22:42:47+00:00",
+          "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "d143a578a81d",
+          "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+          "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
           "source": "NPR News",
           "section": "national-international",
-          "author": "Franco Ordoñez",
-          "published": "2026-11-20T15:00:00+00:00",
-          "summary": "Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips.",
+          "author": "The Associated Press",
+          "published": "2026-11-20T22:11:29+00:00",
+          "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 23
+          "words": 36
         },
         {
-          "id": "fd2811614640",
-          "title": "Anthropic shares slump on second day of trading as stock markets reel from AI sell-off",
-          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "id": "8e3ceec613f9",
+          "title": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
           "source": "The Guardian – World",
           "section": "national-international",
-          "author": "Lauren Almeida and Graeme Wearden",
-          "published": "2026-11-20T13:53:13+00:00",
-          "summary": "Asian markets record their worst week since 2020 as investors question huge sums being poured into AI build-out Business live – latest updates Anthropic’s shares have slumped at the start of a second day of trading, as its record-breaking IPO failed to stem a sell-off…",
+          "author": "Ben Doherty",
+          "published": "2026-11-20T21:47:41+00:00",
+          "summary": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he…",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
         },
         {
-          "id": "acf404f6e9c1",
-          "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-20T13:52:04+00:00",
-          "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
-        },
-        {
-          "id": "77ce998683fd",
-          "title": "White House removes cyber-security chief after series of tech outages",
-          "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-20T13:28:32+00:00",
-          "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
-        },
-        {
-          "id": "8e544d08ae6a",
-          "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
-          "url": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
+          "id": "2b46772c5167",
+          "title": "The latest from Trump's press conference",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
           "source": "NPR News",
           "section": "national-international",
-          "author": "The Associated Press",
-          "published": "2026-11-20T12:24:40+00:00",
-          "summary": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
+          "author": "Franco Ordoñez",
+          "published": "2026-11-20T21:38:21+00:00",
+          "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "fd2811614640",
+          "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Lauren Almeida and Graeme Wearden",
+          "published": "2026-11-20T21:38:17+00:00",
+          "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 33
+        },
+        {
+          "id": "0c5c416688d4",
+          "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+          "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-20T19:27:49+00:00",
+          "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 18
         },
         {
-          "id": "b5e83f8af299",
-          "title": "‘Weak and dizzy’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack",
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "José Olivares",
-          "published": "2026-11-20T11:00:31+00:00",
-          "summary": "Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike The text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "f8bf266042a6",
-          "title": "Why Japan’s anti-hate measures fall short",
-          "url": "https://globalvoices.org/2026/11/20/why-japans-anti-hate-measures-fall-short/",
+          "id": "92f4567ffadd",
+          "title": "The ongoing efforts to get ecocide recognized at the International Criminal Court",
+          "url": "https://globalvoices.org/2026/11/20/the-ongoing-efforts-to-get-ecocide-recognized-at-the-international-criminal-court/",
           "source": "Global Voices",
           "section": "national-international",
-          "author": "Jo Carter",
-          "published": "2026-11-20T00:00:00+00:00",
-          "summary": "The prevalence of online hate speech is to a large extent related to a lack of effective domestic legislation and human rights education.",
-          "full_html": "<p><em>Japan is yet to establish the Human Rights Protection Bill and a independent national human rights institution</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/20/why-japans-anti-hate-measures-fall-short/\">Global Voices</a></p><a href=\"https://www.youtube.com/watch?v=igaSLngREFI\"></a><p>Anti-immigration policy protest in Oct 2026. Screen capture from the <a href=\"https://www.youtube.com/watch?v=igaSLngREFI\">Japan Unfiltered</a> YouTube Channel. Fair Use</p>\n<p><em>This post is part of Global Voices’ November 2026 Spotlight series, “<a href=\"https://globalvoices.org/special/justice-as-infrastructure/\">Justice as infrastructure</a>.” In this Spotlight, Global Voices is partnering with The Hague Institute for Innovation of Law (<a href=\"https://hiil.org/\">HiiL</a>) to highlight the ways justice functions as critical infrastructure for any society. You can support this coverage by donating <a href=\"https://globalvoices.org/2026/10/28/support-global-voices-spotlight-justice-as-infrastructure/\">here</a>.</em></p>\n<p>A newborn Black baby delivered at a clinic in Tokyo’s Meguro Ward became the <a href=\"https://toyokeizai.net/articles/-/963417?display=b\">target</a> of a barrage of racist harassment online. </p>\n<p>The clinic published the baby’s photo with a congratulatory message on its social media account as part of its routine “babies born this month” photo series. A screenshot of the post spread widely on X, gaining more than 1.3 million views within a day. The post attracted many hateful comments loaded with anti-immigrant sentiment and racial discrimination against non-white and non-Japanese people. Some of the hateful comments received thousands of likes. </p>\n<p>All comments have since been removed from the post, and the clinic has disabled commenting on its Instagram.</p>\n<p>This incident sheds light on two issues within Japanese society. On one level, it reflects how racist hate speech still remains rampant in Japan. But more broadly, it exposes a missing layer of justice infrastructure:  Japan has no independent human rights commission empowered to handle discrimination complaints, no enforceable national hate speech law, and no effective way to force platforms to remove hate speech targeting entire groups.</p>\n<p>While some <a href=\"https://toyokeizai.net/articles/-/963417?page=2\">cultural critics</a> argue that the widespread racial discrimination in Japan stems from the younger generation’s inadequate interest in foreign cultures and development, <a href=\"https://eastasiaforum.org/2024/06/13/why-japan-is-failing-to-curb-hate-speech/\">others argue</a> that the prevalence of online hate speech is to a large extent related to a lack of effective domestic legislation and human rights education. </p>\n<p>Despite being a signatory to the International Convention on the Elimination of All Forms of Racial Discrimination (ICERD) since 1995, Japan <a href=\"https://www.moj.go.jp/hisho/kouhou/hisho08_00446.html\">has not passed</a> the Human Rights Protection Bill or established an independent national human rights institution to investigate human rights violations and penalize perpetrators. While there have been numerous attempts to pass such a bill, it was tabled multiple times in the 2000s and early 2010s. Critics say the efforts failed because the public <a href=\"https://www.sangiin.go.jp/japanese/joho1/kousei/seigan/156/yousi/yo1562949.htm\">feared</a> it could violate the freedom of speech protected by the Constitution.</p>\n<h3>Toothless anti-discrimination national laws</h3>\n<p>Thus, instead of passing a comprehensive set of laws, it addresses discrimination and human rights through issue-specific laws, such as the Act on the Promotion of Human Rights Education and Human Rights Awareness-Raising (2000), the Act for Eliminating Discrimination Against Persons with Disabilities (2013), the Act on the Promotion of Efforts to Eliminate Unfair Discriminatory Speech and Behavior against Persons with Countries of Origin other than Japan (2016), the Act on the Promotion of the Elimination of <a href=\"https://en.wikipedia.org/wiki/Burakumin\">Buraku</a> Discrimination (2016), as well as the Act on the Promotion of Public Understanding of the Diversity of Sexual Orientation and Gender Identity (2023), which aim to raise public awareness about human rights and providing government support rather than criminalizing hate speech and discrimination. </p>\n<p>For example, while the Hate Speech Elimination Act was enacted to curb xenophobic street rallies that terrify ethnic minorities residing in Japan, such as the series of <a href=\"https://www.cambridge.org/core/books/abs/hate-speech-in-japan/kyoto-korean-elementary-school-case/A9B12BC75096C35C405DB3F5A9792AFC\">protests against Kyoto Korean Elementary School</a> between December 2009 and March 2010, it does not declare hate speech illegal, nor penalize offenders with fines or jail sentences.</p>\n<p>Moreover, the law only protects foreigners with a legal status, but excludes undocumented migrants, asylum seekers, and Indigenous peoples, including the Ainu and <a href=\"https://globalvoices.org/2026/08/10/in-japan-ryukyuan-indigenous-claim-hindered-by-u-s-military-bases-in-okinawa/\">Ryūkyūans</a>. The law’s legal scope is at odds with the <a href=\"https://www.right-to-education.org/sites/right-to-education.org/files/resource-attachments/CERD_GC_30_2004_EN.pdf\">United Nations’ recommendations</a>, which state that a signatory of the ICERD must “ensure legislative guarantees against racial discrimination apply to non-citizens regardless of their immigration status, and that the implementation of legislation does not have a discriminatory effect on non-citizens.” Legal experts have <a href=\"https://www.japaneselawtranslation.go.jp/ja/laws/view/4081\">criticized</a> the restrictive clause of the law for, as Shuji Oda, president of the Dai-Ichi Tokyo Bar Association, says, “giving rise to a false reverse implication that hate speech directed at individuals without legal residency status is permissible.”</p>\n\n<p>The toothless anti-discrimination laws only manage to contain explicit discriminatory actions against disabled people, <a href=\"https://en.wikipedia.org/wiki/Burakumin\">Burakumin</a> (feudal outcasts), LGBTQ+ people, and foreigners with legal status; they have not eliminated hate speech. Meanwhile, street rallies against immigrant and imported labor have surged amid stagnant local wages, inflation, and rising living costs. Though these protests are usually small in scale, they attract a large number of social media comments, with plenty of discriminatory remarks and hate speech against foreigners.</p>\n<p>Additionally, none of the aforementioned laws has a mechanism to force internet platforms to remove harmful content; this results in the spread of xenophobia, homophobia, hatred against social minorities, and a racist online culture.</p>\n<h3><strong>Kawasaki model</strong></h3>\n<p>As Japanese national politics has stalled the enactment of the Human Rights Protection Bill, some local governments have started building the legal framework from the bottom up to address local unrest targeting ethnic minorities.</p>\n<p>Kawasaki City, which is home to a large Zainichi Korean population in Kanagawa Prefecture, was the first municipality in Japan to introduce punitive local laws to curb protests that “<a href=\"https://www.city.kawasaki.jp/templates/faq/250/0000126653.html\">injure the human dignity of others</a>,” as described by the city’s Justice Department.</p>\n<p>Since the national Act on the Promotion of Human Rights Education and Awareness was passed in 2000, the city enacted its own Children’s Rights Ordinance in 2000 and Human Rights Ombudsperson Ordinance in 2001, which paved the way for the establishment of a local independent Human Rights Ombudsperson system for receiving and investigating complaints on bullying, abuse, and discrimination.</p>\n<p>Following a surge of demonstrations calling for the exclusion of people of foreign origin around 2013, the city <a href=\"https://www.city.kawasaki.jp/templates/faq/250/0000126653.html\">enacted</a> the Ordinance for the Creation of a City that Respects Human Rights and is Free from Discrimination in December 2019<em>, </em>which prohibits discrimination based on race, nationality, ethnic origin, gender, sexual orientation, and disability. The ordinance also bans using loudspeakers, placards, or flyers that induce hatred against people originating from outside Japan and their descendants. Under the Ordinance, repeat offenders would have their identities publicly disclosed, and they could be fined up to JPY 500,000 (approximately USD 3,130). The city would also keep a record of hate groups and ban them from using public facilities, such as sports venues and parks.</p>\n<p>Furthermore, the ordinance established an expert panel empowered to review hate speech and instruct online platforms to remove extreme content targeting a specific group of people and disclose the abusers’ identities.</p>\n<p>While the ordinance has managed to reduce discriminatory protests against Korean-Japanese communities within Kawasaki City, it is powerless when the protests take place in neighboring jurisdictions. Moreover, thus far the criminal penalty of the local ordinance just punishes abusers targeting people originating from outside of Japan; LGBTQ+, disabled, and indigenous communities have remained unprotected. It cannot penalize landlords or employers who discriminate and has limited power over online abuse, as internet companies are not legally bound by local laws.</p>\n<h3>Human rights education translated into moral education</h3>\n<p>Various <a href=\"https://www.mofa.go.jp/files/000406781.pdf\">UN bodies</a> have <a href=\"https://hrlibrary.umn.edu/country/japan2014.html\">repeatedly</a> <a href=\"https://documents.un.org/doc/undoc/gen/g22/588/99/pdf/g2258899.pdf\">criticized</a> Japan for failing to enact a comprehensive anti-discrimination law and establish an independent commission to investigate and prosecute abusers in line with the “<a href=\"https://www.ohchr.org/en/instruments-mechanisms/instruments/principles-relating-status-national-institutions-paris\">Paris Principle</a>,” the official international standards for national human rights institutions. Yet, to date, Japanese society still lacks the consensus and determination to pass the Human<strong> Rights Protection Bill. </strong></p>\n<p>While proponents of stalling the legislation cite potential violations of free speech, a deeper reason relates to local xenophobia and perceptions of human rights.</p>\n<p>The concept of human rights was introduced to Japan about 150 years ago, during the Japanese modernization period beginning in the late Edo and early Meiji era. However, when the Constitution of the Empire of Japan was promulgated in 1889, it defined citizens’ rights not as inherent human rights, but as “rights of subjects” granted by the Emperor. </p>\n<p>Only after World War II was the concept of universal human rights<a href=\"https://knowledge.uchicago.edu/records/x47q4-max96\"> re-introduced and localized</a> to criticize Japan’s wartime militarization of society and crimes against non-Japanese people. Yet,  human rights education in schools is often confused with conventional moral education, which emphasizes individual responsibility to family, society, and the country, and the need to maintain harmonious human relations through interpersonal politeness and consideration.</p>\n<p>However, the individual morality approach overlooks the structural causes of discrimination and fails to empower individuals as rights-holders to address the problem of systematic discrimination, as pointed out by a group of Japanese teachers from the Institute of Global Education and Culture  in a<a href=\"https://www.jtu-net.or.jp/wp/wp-content/themes/jtu/doc/henceforth.pdf\"> proposal </a>to better integrate moral and human rights education in 2014:</p>\n<blockquote><p>日本では人権教育・啓発の場で「おもいやり」「やさしさ」などが強調される一方で、権利そのものを学習することは低調である。[…]</p>\n<p>[…]具体的な「権利」という側面も、また「社会的に」問題を解決しようという側面も極めて弱い。「思いやり」を強調する抽象的・心情主義的教育は、私的な人間関係の中での問題解決ばかりを強調し、権利を具体的に考え実現しようとする力をむしろ弱めているといえる。</p></blockquote>\n<blockquote><p>In Japan, human rights education and awareness-raising campaigns have kept emphasising concepts like ‘consideration for others’ (<em>omoi-yari</em>) and ‘kindness’ while downplaying education on rights. […]</p>\n<p>It’s extremely weak in addressing different aspects of individual rights and the social resolution of rights-related problems. The emphasis on ‘understanding’ is both abstract and sentimental; as such, education relies solely on problem-solving within private interpersonal relationships and will hence weaken the ability to think concretely about rights and exercising one’s rights.</p></blockquote>\n<p>Earlier this year, Human Rights Watch <a href=\"https://www.business-humanrights.org/en/latest-news/japan-human-rights-watch-urges-pm-to-legislate-anti-discrimination-law-and-create-independent-national-human-rights-body/\">urged</a> the newly elected prime minister Sanae Takaichi to legislate a comprehensive anti-discrimination law and create an independent national human rights body to address the rise of xenophobic sentiments against immigrants. Although the right-leaning government has no intention of resurrecting the Human Rights Protection Bill, a <a href=\"https://news.yahoo.co.jp/articles/b3442c2dec20ceccc9ed841439b56358799cb523\">civic coalition</a> has formed to advocate for an independent National Human Rights Institution with investigative and corrective powers to address discrimination and human rights abuses by 2028.</p>\n<strong>Written by <a href=\"https://globalvoices.org/author/jo-carter/\">Jo Carter</a></strong>",
+          "author": "Sydney Allen",
+          "published": "2026-11-20T18:05:05+00:00",
+          "summary": "For the nations that started this, the stakes are not abstract. They are asking the world to build infrastructure to prosecute and prevent harm that is already happening to them.",
+          "full_html": "<p><em>Activists want to establish legal infrastructure to protect the environment and punish those responsible for defiling it</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/20/the-ongoing-efforts-to-get-ecocide-recognized-at-the-international-criminal-court/\">Global Voices</a></p><p>An aerial view of the 2010 Deepwater Horizon oil spill in the Gulf of Mexico, the largest marine oil spill in history. Under the proposed ICC amendment, oil company executives could be held accountable in such cases. Image via <a href=\"https://commons.wikimedia.org/wiki/File:Deepwater_Horizon_Oil_Spill_-_Gulf_of_Mexico.jpg\">Wikimedia Commons</a>. <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>.</p>\n<p><em>This post is part of Global Voices’ November 2026 Spotlight series, “<a href=\"https://globalvoices.org/special/justice-as-infrastructure/\">Justice as infrastructure</a>.” In this Spotlight, Global Voices is partnering with The Hague Institute for Innovation of Law (<a href=\"https://hiil.org/\">HiiL</a>) to highlight the ways justice functions as critical infrastructure for any society. You can support this coverage by donating <a href=\"https://globalvoices.org/2026/10/28/support-global-voices-spotlight-justice-as-infrastructure/\">here</a>.</em></p>\n<p>In September 2024, Vanuatu, Fiji, and Samoa filed an amendment request at <a href=\"https://globalvoices.org/2024/10/07/pacific-island-nations-want-ecocide-to-be-an-international-crime/\">the International Criminal Court (ICC)</a> to get “ecocide” recognized as a crime under international law. The ICC currently recognizes four criminal categories: genocide, crimes against humanity, war crimes, and the crime of aggression. </p>\n<p>Over two years later, the amendment is still formally pending; but that does not mean environmental activists are waiting around — in fact, many are working both in the public eye and behind the scenes to establish legal infrastructure to protect the environment, combat the climate crisis, and punish those responsible for defiling the planet. </p>\n\n<h4>Read more: <a href=\"https://globalvoices.org/2024/10/07/pacific-island-nations-want-ecocide-to-be-an-international-crime/\">Pacific island nations want ecocide to be an international crime</a></h4>\n\n<p>According to an independent expert panel convened by the <a href=\"https://www.stopecocide.earth/legal-definition\">Stop Ecocide Foundation</a>, ecocide is legally defined as “unlawful or wanton acts committed with knowledge that there is a substantial likelihood of severe and either widespread or long-term damage to the environment being caused by those acts.”</p>\n<p>For the countries that backed the proposal, the climate crisis is not an abstract threat; it is a real and present danger with active consequences for their people. </p>\n<p>In 2021, Simon Kofe, Tuvalu’s Minister for Justice, Communication and Foreign Affairs, gave a <a href=\"https://www.youtube.com/watch?v=jBBsv0QyscE\">presentation at the international COP26</a> conference on climate change while standing in knee-deep water to demonstrate how rising sea levels threaten low-lying island nations. Tuvaluan officials are also exploring ways to become the first “<a href=\"https://globalvoices.org/2026/05/27/tuvalu-aims-to-become-a-digital-nation-amid-rising-sea-levels/\">digital nation</a>” as a backup plan in case rising sea levels submerge all livable land in the archipelago. In Fiji alone, <a href=\"https://fijisun.com.fj/news/environment/six-fiji-communities-relocated-two-more-facing-climate-move\">six villages have already been relocated</a> because of climate change, with others in progress and dozens more under assessment. As Vanuatu’s Special Envoy for Climate Change and Environment, <a href=\"https://www.stopecocide.earth/2024/mass-destruction-of-nature-reaches-international-criminal-court-icc-as-pacific-island-states-propose-recognition-of-ecocide-as-international-crime\">Ralph Regenvanu</a>, says, climate damage is “devastating our island economy, submerging our territory, and threatening livelihoods.” </p>\n<p>Shortly after the amendment was submitted, it was also backed by the Democratic Republic of Congo (DRC), which is experiencing increasingly deadly flooding as well as air quality issues related to <a href=\"https://globalvoices.org/2026/08/29/the-devastating-impact-of-copper-and-cobalt-mining-pollution-in-lualaba-drc/\">exploitative mining operations</a>. </p>\n<p>Tuvulu’s Foreign Minister delivers an address to COP26, while standing in knee-deep water to illustrate how rising sea levels threaten Pacific nations. Image from Simon Kofe’s <a href=\"https://www.facebook.com/photo.php?fbid=1229904645072295&amp;set=pb.100041583126044.-2207520000&amp;type=3\">Facebook</a>. Fair use.</p>\n<p>It is not a coincidence that those who are pushing hardest for these legal mechanisms are those most affected by the climate crisis. These nations did little to cause the crisis, while major superpowers like the <a href=\"https://www.carbonbrief.org/analysis-worlds-biggest-historic-polluter-the-us-is-pulling-out-of-un-climate-treaty\">U.S.</a>, <a href=\"https://www.carbonbrief.org/analysis-chinas-emissions-have-now-caused-more-global-warming-than-eu\">China</a>, and Europe, as well as the <a href=\"https://insideclimatenews.org/news/21012026/half-of-fossil-fuel-carbon-emissions-in-2024-came-from-32-companies/\">corporations</a> that bolster them, have made billions by exploiting and polluting the environment unchecked. </p>\n<p>Meanwhile, those who suffer from the consequences of our eroding climate have limited legal recourse against the corporations and states most responsible. This juxtaposition is where the argument to make ecocide an international crime comes in.</p>\n<p>Vanuatu was the<a href=\"https://ecojurisprudence.org/initiatives/proposed-amendment-to-the-rome-statute/\"> first state to call</a> for ecocide to be added to the ICC in 2019. In announcing the proposal, <a href=\"https://www.ibanet.org/ecocide-rome-statute\">Regenvanu said</a>:</p>\n<p>“We are taking bold and necessary action to address these challenges and encourage other vulnerable states to take note of our newly tabled proposal to bring ecocide to the ICC. Legal recognition of severe and widespread environmental harm holds significant potential to ensure justice and, crucially, to deter further destruction.”</p>\n<p>A protest poster against ecocide shaming oil giants at a climate protest in Maryland in 2017. Photo from <a href=\"https://commons.wikimedia.org/wiki/File:Climate_March_1341_(33984054180).jpg\">Wikimedia Commons</a>. <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>.</p>\n<h3><b>Why reform the ICC?</b></h3>\n<p>The International Criminal Court was formally established in 2002 to prosecute individuals for grave international crimes (not to be confused with the International Court of Justice, which settles legal disputes between countries).</p>\n<p>Environmental crimes are particularly tricky, as traditional legal accountability measures tend to rely on specific individuals or property that have been harmed in order to pursue legal action. In cases where polluters are contributing to a broader destructive pattern, the legal standing becomes murky. This theory has been tested numerous times as individuals have sought to <a href=\"https://www.theguardian.com/environment/2021/jun/30/climate-crimes-oil-and-gas-environment\">sue fossil fuel companies in civil court</a> for their destructive practices and malfeasance, with most cases largely unsuccessful.</p>\n<p>Supporters say that if the proposed amendment were successful, it would give ICC prosecutors the power to hold<a href=\"https://earthgovernance.org/blog/pacific-island-states-propose-that-ecocide-be-adopted-as-a-crime-under-the-international-court-of-justice/\"> individuals</a>, such as the executives of large polluting companies or heads of state, responsible in cases like massive oil spills or the deforestation of essential rainforests.</p>\n<p>As an <a href=\"https://globalwitness.org/en/campaigns/land-and-environmental-defenders/why-ecocide-should-be-an-international-crime/\">editorial in The Global Witness</a> notes:</p>\n<blockquote><p>While there have been a series of recent valiant attempts to sue fossil fuel corporations in civil court for covering up evidence that their activities were causing global warming, the defendants have largely been able to get away scot-free. … Criminalizing ecocide would fill this legal gap, and allow individuals (and companies in some jurisdictions) to be prosecuted for engaging in acts with knowledge that they are substantially likely to damage the environment, without the need to show harm to any individual person.</p></blockquote>\n<p>To add a crime to the Rome Statute, a proposal must win a two-thirds majority vote within the court’s Assembly of States Parties. Even then, an amendment to the statute’s crimes provisions would bind only the states that accept it, and the court could not prosecute nationals or territory of states that do not.</p>\n<p>The Rome Statute has 123 signatory parties — a number that does not include China, India, or the U.S., the world’s three largest contributors to greenhouse gas emissions. The U.S., in particular, under current President Donald Trump’s administration, has backed away from climate commitments in recent years, including withdrawing from the <a href=\"https://www.carbonbrief.org/analysis-worlds-biggest-historic-polluter-the-us-is-pulling-out-of-un-climate-treaty\">UN’s 2015 Paris Climate Agreement</a>. It has also become increasingly hostile toward the court itself, as the Trump administration <a href=\"https://en.wikipedia.org/wiki/Executive_Order_14203\">imposed sanctions</a> on individual ICC prosecutors and judges beginning in early 2025. Then, in a September 2026 address to the UN General Assembly, Trump urged all member states to withdraw from the treaty altogether, and, weeks later, in October 2026, he imposed <a href=\"https://www.icc-cpi.int/news/icc-strongly-rejects-us-sanctions-against-institution\">sweeping sanctions on the court itself</a>.</p>\n<p>With the biggest emitters outside the court, and Washington working to undermine it, advocates are looking beyond The Hague and ICC reform. As <a href=\"https://www.ibanet.org/ecocide-rome-statute\">legal watchdogs argue</a>, the end goal is not merely to get the ICC to recognize ecocide — though that would be an excellent first step — rather, if the ICC were to establish a framework for prosecuting international environmental crimes, through an amendment or merely by adapting its existing policies, this could push ratifying states to update their domestic penal codes and adopt policies to protect and preserve their own ecosystems, and also prosecute those who violate them. </p>\n<h3><b>Existing provisions within the Rome Statute</b></h3>\n<p>The International Criminal Court (ICC) at The Hague. Photo via <a href=\"https://commons.wikimedia.org/wiki/File:The_International_Criminal_Court_(ICC)_at_The_Hague_(53877987960).jpg\">Wikimedia Commons</a>. <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>.</p>\n<p>Even though the proposal has thus far not been adopted by the ICC, the court has not stood still.</p>\n<p>In December 2025, ICC prosecutors<a href=\"https://www.icc-cpi.int/news/icc-office-prosecutor-launches-policy-addressing-environmental-damage-through-rome-statute\"> published a policy paper</a> on prosecuting environmental damage through the pre-existing mechanisms already laid out in the Rome Statute — the international treaty which established the ICC. </p>\n<p>The Rome Statute mentions the environment exactly one time. Article 8(2)(b)(iv) makes it a war crime to launch an attack knowing it will cause “<a href=\"https://www.eli.org/vibrant-environment-blog/prosecuting-crimes-related-environment-development-international-criminal\">widespread, long-term and severe</a>” damage to the environment. Traditionally, this article has applied only during armed conflict, and previous attempts to prosecute environmental destruction at the court have been unsuccessful.</p>\n<p>Vanuatu’s ambassador to the UN, Odo Tevi, has<a href=\"https://pina.com.fj/2024/07/31/vanuatu-pushes-icc-to-recognise-ecocide-as-international-crime/\"> argued</a> that the reckless destruction of nature “can and does take place at any time, not just during conflict.”</p>\n<p>The December 2025 policy, launched at the Assembly of States Parties, was co-hosted by Costa Rica, France, Germany, Panama, and the Marshall Islands. It explains how environmental destruction can be investigated and prosecuted within the four existing crime categories, for example, when pollution or the seizure of natural resources is used to commit a crime against humanity.</p>\n<p>Analysts at the Conflict and Environment Observatory note that this policy paper<a href=\"https://ceobs.org/has-the-icc-just-advanced-accountability-for-wartime-environmental-damage/\"> does not address the ecocide proposal</a> and that<a href=\"https://ceobs.org/has-the-icc-just-advanced-accountability-for-wartime-environmental-damage/\"> ambiguity in the war crime standard</a> remains. Others point to<a href=\"https://opiniojuris.org/2026/01/09/from-policy-to-practice-operationalising-environmental-justice/\"> limited resources</a> at the prosecutor’s office.</p>\n<p>In September 2026, ICC representatives said they had “<a href=\"https://www.icc-cpi.int/node/240906\">moved into the implementation stage</a>” to establish clearer parameters for prosecuting environmental crimes under the Rome Statute. In its statement, the office said it had received numerous communications about alleged crimes with an environmental dimension and was building a network of environmental law enforcement authorities, relevant organizations, expert groups, and civil society organizations to investigate.</p>\n<p>But some jurisdictions are not waiting. As<a href=\"https://www.academia.edu/179384657/Ecocide_as_the_Fifth_Crime_The_Rome_Statute_and_the_Boundaries_of_International_Criminal_Law\"> one recent study notes</a>, “the substance of ecocide criminalization has advanced everywhere except through the amendment: an EU directive whose gravest offense is officially ‘comparable to “ecocide,”’ a Council of Europe convention, national codes in Belgium, France and Ukraine, and a completed OTP [ICC’s Office of the Prosecutor] policy that prosecutes environmental damage through the existing four crimes.” </p>\n<p>Counts vary depending on how many states currently employ domestic laws against ecocide. <a href=\"https://www.stopecocide.earth/where-its-happening\">Stop Ecocide International</a> says twelve countries, including <a href=\"https://ecojurisprudence.org/initiatives/belgium-ecocide-law-in-penal-code/\">Belgium</a>, France, and Ukraine, have adopted ecocide or equivalent offenses into domestic law. Mauritius became the most recent in April 2026, and legislation is progressing in countries including Brazil, Peru, Argentina, Mexico, Italy, and the Netherlands. As noted in the aforementioned study, the EU’s revised Environmental Crime Directive also covers conduct “<a href=\"https://ecojurisprudence.org/initiatives/european-parliament-proposal-to-include-ecocide-in-the-directive-on-protection-of-the-environment-through-criminal-law/\">comparable to ecocide</a>,” and member states had to transpose it by May 2026.</p>\n<h3><b>What comes next</b></h3>\n<p>The next stage is procedural rather than dramatic: Whether states give the proposal a formal path forward at the Assembly of States Parties’ 25th session in The Hague, from November 30 to December 7, 2026. A vote would signal whether the Rome Statute can grow beyond the atrocities it was written for. A stall would leave the prosecutor’s policy and national laws as the main tools available. </p>\n<p>The decision comes at a crucial time for the ICC, as some international stakeholders begin to question the legitimacy, power, and effectiveness of international ruling bodies.</p>\n<p>For the nations that started this, the stakes are not abstract. They are asking the world to build infrastructure to prosecute and prevent harm that is already happening to them. Until that infrastructure is implemented, the burden of harm will continue to fall on those least responsible for causing this crisis.</p>\n<strong>Written by <a href=\"https://globalvoices.org/author/sydney-allen/\">Sydney Allen</a></strong>",
           "license": "CC BY 3.0",
           "license_url": "https://creativecommons.org/licenses/by/3.0/",
-          "words": 1600
-        },
-        {
-          "id": "bac251cd51b8",
-          "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
-          "url": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – India",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-19T23:29:00+00:00",
-          "summary": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
-        },
-        {
-          "id": "fc0b4dc161ad",
-          "title": "Indian driver wins $1.3m in life-changing lottery prize",
-          "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – India",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-19T11:38:09+00:00",
-          "summary": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
+          "words": 1795
         }
       ]
     },
@@ -282,6 +282,48 @@
       "title": "Editorials & Opinion",
       "kicker": "Opinion",
       "articles": [
+        {
+          "id": "e98fbe9c2820",
+          "title": "The Guardian view on Britain and Europe: Burnham’s reset cannot be the final destination | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/20/the-guardian-view-on-britain-and-europe-burnhams-reset-cannot-be-the-final-destination",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-20T18:13:24+00:00",
+          "summary": "It’s welcome news that Labour has reopened doors that the Conservatives slammed shut. But the fundamental dilemma over European integration remains Andy Burnham on Friday announced a long-awaited deal to ease some of Brexit’s barriers.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 35
+        },
+        {
+          "id": "006d7f4af154",
+          "title": "The Guardian view on Jan van Eyck’s portraits: what it means to be human | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/20/the-guardian-view-on-jan-van-eycks-portraits-what-it-means-to-be-human",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-20T18:12:47+00:00",
+          "summary": "A tiny scar, bloodshot eyes and sagging jowls – it is the intimate details of these 15th-century masterpieces that make them so relatable today The word “human” may have been crowned the Cambridge dictionary’s word of 2026, but its meaning is nowhere more manifest than…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "b13fd850f989",
+          "title": "After Russell Brand, and now another horrific rape verdict, shame really does have to change sides | Jonathan Freedland",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/20/russell-brand-rape-verdict-shame-men-women",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Jonathan Freedland",
+          "published": "2026-11-20T17:52:43+00:00",
+          "summary": "From predatory male celebrities to ordinary men who connive to abuse women, there is no doubt where the problem lies – and the solution too The only thing they have in common is that they are men.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
+        },
         {
           "id": "745982f2dd95",
           "title": "If Democrats want to win, blue-collar populists are the key | Dustin Guastella and Jared Abbott",
@@ -297,6 +339,20 @@
           "words": 23
         },
         {
+          "id": "165fadc595ac",
+          "title": "Burnham in Brussels: why party politics still defines the UK’s relationship with Europe",
+          "url": "https://theconversation.com/burnham-in-brussels-why-party-politics-still-defines-the-uks-relationship-with-europe-297081",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Martin Steven, Senior Lecturer, School of Global Affairs, Lancaster University",
+          "published": "2026-11-20T14:26:34+00:00",
+          "summary": "The talks were part of a UK-EU ‘reset’.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 8
+        },
+        {
           "id": "b7bd388b6cee",
           "title": "I’m an Australian-Palestinian doctor who was turned away at the West Bank border. The stigma of being born in Gaza stands in the way of peace",
           "url": "https://www.theguardian.com/commentisfree/2026/nov/21/im-an-australian-palestinian-doctor-who-was-turned-away-at-the-west-bank-border-the-stigma-of-being-born-in-gaza-stands-in-the-way-of-peace-ntwnfb",
@@ -305,20 +361,6 @@
           "author": "Munther Emad",
           "published": "2026-11-20T14:00:32+00:00",
           "summary": "After two attempts at two separate border crossings, I was denied entry, despite an approved visa and an official invitation from my health diplomacy charity This month I set out to return to Palestine, where I was born and studied, as part of a health…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "3be0be484878",
-          "title": "Trump inspired a blue revolution. Can Democrats meet the moment? | Dana R Fisher",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/20/trump-blue-revolution-democrats",
-          "source": "The Guardian – Opinion",
-          "section": "editorials-opinion",
-          "author": "Dana R Fisher",
-          "published": "2026-11-20T13:00:30+00:00",
-          "summary": "Political participation – in meetings, boycotts and demonstrations – has increased since Trump took office. It’s time for change Over the past two years, Americans have watched as the Trump administration enacted Project 2025 and the US has descended into a state of lawless authoritarianism.",
           "full_html": null,
           "license": "",
           "license_url": "",
@@ -339,20 +381,6 @@
           "words": 19
         },
         {
-          "id": "1be00ca2647b",
-          "title": "The most iconic sports film of all time taught us winning isn’t everything: 50 years of Rocky",
-          "url": "https://theconversation.com/the-most-iconic-sports-film-of-all-time-taught-us-winning-isnt-everything-50-years-of-rocky-276876",
-          "source": "The Conversation",
-          "section": "editorials-opinion",
-          "author": "Lisa J. Hackett, Senior Lecturer, Cultural History, University of New England",
-          "published": "2026-11-19T19:05:54+00:00",
-          "summary": "Rocky’s underdog story is in many ways also Sylvester Stallone’s story.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 11
-        },
-        {
           "id": "6fd884c8708e",
           "title": "The Guardian view on the international court of justice: the ruling against Myanmar should be only the start for the Rohingya | Editorial",
           "url": "https://www.theguardian.com/commentisfree/2026/nov/19/the-guardian-view-on-the-international-court-of-justice-the-ruling-against-myanmar-should-be-only-the-start-for-the-rohingya",
@@ -365,34 +393,6 @@
           "license": "",
           "license_url": "",
           "words": 41
-        },
-        {
-          "id": "ba6f6e143d49",
-          "title": "The Guardian view on Grand Theft Auto VI: a game that makes players think twice | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/19/the-guardian-view-on-grand-theft-auto-vi-a-game-that-makes-players-think-twice",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-19T18:25:09+00:00",
-          "summary": "For almost 30 years, Grand Theft Auto has revelled in America’s vices.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 12
-        },
-        {
-          "id": "9d79332d9a58",
-          "title": "The Guardian view on the Trump, Xi and Putin meeting: it may be a first, but it’s not progress | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/18/the-guardian-view-on-the-trump-xi-and-putin-meeting-it-may-be-a-first-but-its-not-progress",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-18T18:35:14+00:00",
-          "summary": "A trilateral gathering is good news for China and Russia, but bad for the US – and its traditional allies “Historic” is a neutral descriptor, not a favourable one. Things can be unprecedented for good reason.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 36
         }
       ]
     },
@@ -401,6 +401,48 @@
       "title": "FinTech & Tax Technology",
       "kicker": "Technology & Money",
       "articles": [
+        {
+          "id": "0411811eb3d6",
+          "title": "GITEX Expands to Latin America with 2027 São Paulo Launch",
+          "url": "https://thefintechtimes.com/gitex-expands-to-latin-america-with-2027-sao-paulo-launch/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-20T19:00:58+00:00",
+          "summary": "GITEX LATAM will launch in São Paulo in March 2027, connecting global technology companies, investors and startups to accelerate digital transformation and strengthen UAE–Latin America partnerships.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "2b568cb0e636",
+          "title": "Geordie Shore star sentenced for promoting high-risk investments on social media",
+          "url": "https://www.finextra.com/newsarticle/48793/geordie-shore-star-sentenced-for-promoting-high-risk-investments-on-social-media?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-20T16:08:00+00:00",
+          "summary": "A UK reality TV star and a 'finfluencer' have been sentenced and fined for illegally promoting an unauthorised foreign exchange trading scheme on social media.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "04770730f834",
+          "title": "CBI, Bancomat and Nexi to build Italian digital euro infrastructure",
+          "url": "https://www.finextra.com/newsarticle/48792/cbi-bancomat-and-nexi--to-build-italian-digital-euro-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-20T15:31:00+00:00",
+          "summary": "CBI, Bancomat and Nexi have teamed up to build the Italian infrastructure needed to support the arrival of a digital euro.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
         {
           "id": "048769c8a5c0",
           "title": "Worldline shares plummet on FT report on cash advances",
@@ -414,20 +456,6 @@
           "license": "",
           "license_url": "",
           "words": 45
-        },
-        {
-          "id": "44f4c10c9f66",
-          "title": "UK SME lender OakNorth secures US banking licence",
-          "url": "https://www.finextra.com/newsarticle/48790/uk-sme-lender-oaknorth-secures-us-banking-licence?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-20T14:07:00+00:00",
-          "summary": "OakNorth, the UK digital bank for SMEs, has secured a US national banking charter, paving the way for it to expand beyond lending in the country.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
         },
         {
           "id": "ac4f62f8a2d2",
@@ -456,34 +484,6 @@
           "license": "",
           "license_url": "",
           "words": 28
-        },
-        {
-          "id": "daa18ae4b4cd",
-          "title": "SFF day two: the money is ready, the agents are not",
-          "url": "https://thefintechtimes.com/sff-day-two-the-money-is-ready-the-agents-are-not/",
-          "source": "The Fintech Times",
-          "section": "fintech-taxtech",
-          "author": "Mark Walker",
-          "published": "2026-11-20T02:00:22+00:00",
-          "summary": "the Monetary Authority of Singapore showed how far tokenisation has come, with S$100 million of its own bills issued and settled on a digital ledger, and how far agentic AI has to go",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 33
-        },
-        {
-          "id": "ee40001d2b04",
-          "title": "FCA opens AI Spotlight Observatory",
-          "url": "https://www.finextra.com/newsarticle/48787/fca-opens-ai-spotlight-observatory?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-20T00:01:00+00:00",
-          "summary": "The UK's Financial Conduct Authority has launched a platform bringing together real-world examples of AI adoption across financial services as it seeks to help firms identify emerging trends and opportunities.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 30
         },
         {
           "id": "d9a047affb02",
@@ -521,6 +521,20 @@
       "kicker": "The Tax Desk",
       "articles": [
         {
+          "id": "69eedcefcf0b",
+          "title": "Cash Payments to Unskilled Labourers Not Barred by Law: ITAT allows entire Container Cleaning Expenses as Business Expense [Read Order]",
+          "url": "https://www.taxscan.in/income-tax/cash-payments-to-unskilled-labourers-not-barred-by-law-itat-allows-entire-container-cleaning-expenses-as-business-expense-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Navasree A.M",
+          "published": "2026-11-20T16:36:26+00:00",
+          "summary": "The claim of container cleaning and washing charges expenses were allowed entirely stating that the assessee proved its beyond doubt.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
           "id": "6560122b739e",
           "title": "CESTAT Holds Commitment Charges Collected by Punjab National Bank on Undisbursed Loans Liable to Service Tax [Read Order]",
           "url": "https://www.taxscan.in/excise-customs/cestat-holds-commitment-charges-collected-by-punjab-national-bank-on-undisbursed-loans-liable-to-service-tax-read-order",
@@ -547,20 +561,6 @@
           "license": "",
           "license_url": "",
           "words": 32
-        },
-        {
-          "id": "3df2e174bece",
-          "title": "Art Booked as Furniture and Fixtures of Dubai Firm Can’t Be Taxed as Deemed Dividend: ITAT deletes Addition in Triburg Group Search Case [Read Order]",
-          "url": "https://www.taxscan.in/income-tax/art-booked-as-furniture-and-fixtures-of-dubai-firm-cant-be-taxed-as-deemed-dividend-itat-deletes-addition-in-triburg-group-search-case-read-order",
-          "source": "Taxscan (India)",
-          "section": "tax-policy",
-          "author": "Ansha Dillu PK",
-          "published": "2026-11-20T14:17:08+00:00",
-          "summary": "The dispute arose from art purchases made through a foreign company, with the AO treating the expenditure as a shareholder benefit despite the assets being reflected in the company’s books.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 30
         },
         {
           "id": "847f176d3475",
@@ -759,116 +759,116 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
-          "id": "18b598518360",
-          "title": "Anthropic shares slide as AI sell-off hits global markets - as it happened",
-          "url": "https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news",
-          "source": "The Guardian – Business",
-          "section": "business-trends",
-          "author": "Lauren Almeida",
-          "published": "2026-11-20T15:25:09+00:00",
-          "summary": "Rolling coverage of the latest economic and financial news California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 32
-        },
-        {
-          "id": "7abcb9e67aa8",
-          "title": "Anthropic shares fall a day after blockbuster opening",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Business",
-          "section": "business-trends",
-          "author": "",
-          "published": "2026-11-20T15:16:52+00:00",
-          "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 13
-        },
-        {
-          "id": "e2d9a1ff1053",
-          "title": "‘Worst COP ever’? Climate talks in Turkey are near the finish line and activists are in an uproar",
-          "url": "https://www.fastcompany.com/91646433/worst-cop-ever-climate-talks-turkey-near-finish-line-activists-uproar",
+          "id": "507e806085bb",
+          "title": "‘The Hunger Games’ are back: Haymitch Abernathy can teach the C-Suite about reluctant leadership",
+          "url": "https://www.fastcompany.com/91646867/leadership-lessons-hunger-games-haymitch-abernathy-c-suite",
           "source": "Fast Company",
           "section": "business-trends",
-          "author": "Associated Press",
-          "published": "2026-11-20T14:55:15+00:00",
-          "summary": "This year’s U.N. climate talks are wrapping up in Turkey, with negotiators fighting over how to address global warming and experts warning that only slashing fossil fuels can avert its most catastrophic effects.",
+          "author": "Shannon Cudd",
+          "published": "2026-11-20T23:01:00+00:00",
+          "summary": "Around the office today, you might hear: “May the odds be ever in your favor.” After the tumultuous technical failures of the past week, the phrase might come off as alarming, but it’s actually a Hunger Games reference.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 33
-        },
-        {
-          "id": "47da7514e352",
-          "title": "How Thanksgiving travelers are feeling about holiday air travel after widespread tech outages",
-          "url": "https://www.fastcompany.com/91646438/how-thanksgiving-travelers-are-feeling-about-holiday-air-travel-after-widespread-tech-outages",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "Associated Press",
-          "published": "2026-11-20T14:12:05+00:00",
-          "summary": "At this point, it’s practically as much of a Thanksgiving tradition as turkey and stuffing — crowded airports, long lines, jam-packed flights, the ever-present worry about delays and cancellations and extra expenses.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 32
-        },
-        {
-          "id": "7d8981ef5476",
-          "title": "Six AI-powered gadgets that could make your home office smarter",
-          "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Lauren Forristal",
-          "published": "2026-11-20T14:00:00+00:00",
-          "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 13
-        },
-        {
-          "id": "7f996f41bb20",
-          "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
-          "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Connie Loizos",
-          "published": "2026-11-20T13:25:00+00:00",
-          "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
+          "words": 38
         },
         {
           "id": "819d3babef6f",
-          "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
+          "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
           "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Business",
           "section": "business-trends",
           "author": "",
-          "published": "2026-11-20T13:08:30+00:00",
-          "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+          "published": "2026-11-20T22:53:24+00:00",
+          "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 17
+          "words": 14
         },
         {
-          "id": "849d571e5e17",
-          "title": "What impact has Brexit had on the UK and EU economies?",
-          "url": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
-          "source": "The Guardian – Business",
+          "id": "2a5e0759ced0",
+          "title": "AI adoption could disproportionately harm Black and Latino workers",
+          "url": "https://www.fastcompany.com/91646749/ai-adoption-could-disproportionately-harm-black-and-latino-workers",
+          "source": "Fast Company",
           "section": "business-trends",
-          "author": "Richard Partington Senior economics correspondent",
-          "published": "2026-11-20T07:00:26+00:00",
-          "summary": "As talks are held in Brussels over closer relations, we examine the economic context and the challenges ahead UK-EU summit live: latest news updates The UK and EU will hold the second summit since Brexit on Friday against a volatile economic backdrop.",
+          "author": "Pavithra Mohan",
+          "published": "2026-11-20T22:30:00+00:00",
+          "summary": "It has become increasingly clear that the AI revolution is not just poised to upend white-collar jobs, despite what public discourse might suggest.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 42
+          "words": 23
+        },
+        {
+          "id": "48c0833defc0",
+          "title": "The poster for the Sam Altman movie looks like AI slop. It’s actually brilliant marketing",
+          "url": "https://www.fastcompany.com/91646772/artificial-movie-poster-sam-altman-ai-slop-made-by-humans",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "María José Gutiérrez Chávez",
+          "published": "2026-11-20T21:54:00+00:00",
+          "summary": "The official movie poster for Artificial, Luca Guadagnino’s upcoming film about OpenAI, looks like AI slop, only it was drawn by human hands. Anyone who has come across AI-generated images knows they often carry telltale mistakes.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 36
+        },
+        {
+          "id": "6787a271fdfe",
+          "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Dominic-Madori Davis",
+          "published": "2026-11-20T20:58:29+00:00",
+          "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "340614cb1d45",
+          "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Tim De Chant",
+          "published": "2026-11-20T19:53:41+00:00",
+          "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "d6bff5841b5a",
+          "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Tim Fernholz",
+          "published": "2026-11-20T19:32:08+00:00",
+          "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "b05464920f2e",
+          "title": "What exactly is in the deal between the UK and the EU?",
+          "url": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Jennifer Rankin and Alexandra Topping",
+          "published": "2026-11-20T18:19:53+00:00",
+          "summary": "The two sides have come to agreements on food and drink, emissions trading and the youth exchange scheme Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10 After months of on-off negotiations, leaks and late nights, the EU and UK…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
         }
       ]
     }

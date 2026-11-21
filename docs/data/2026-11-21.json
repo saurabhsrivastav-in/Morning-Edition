@@ -1,0 +1,1056 @@
+{
+  "edition": {
+    "name": "The Morning Ledger",
+    "tagline": "A quiet read for a busy morning",
+    "date": "2026-11-21",
+    "date_long": "Saturday, 21 November 2026",
+    "timezone": "Asia/Kolkata",
+    "generated_at": "2026-11-21T05:38+05:30",
+    "is_sample": false
+  },
+  "dashboard": {
+    "total_articles": 50,
+    "reading_minutes": 14,
+    "source_count": 24,
+    "full_text_count": 1,
+    "per_section": {
+      "national-international": 10,
+      "editorials-opinion": 8,
+      "fintech-taxtech": 8,
+      "tax-policy": 8,
+      "product-analysis": 8,
+      "business-trends": 8
+    },
+    "keywords": [
+      {
+        "term": "build",
+        "count": 5
+      },
+      {
+        "term": "world",
+        "count": 5
+      },
+      {
+        "term": "anthropic",
+        "count": 4
+      },
+      {
+        "term": "bank",
+        "count": 4
+      },
+      {
+        "term": "come",
+        "count": 4
+      },
+      {
+        "term": "people",
+        "count": 4
+      },
+      {
+        "term": "every",
+        "count": 4
+      },
+      {
+        "term": "product",
+        "count": 4
+      },
+      {
+        "term": "guardian view",
+        "count": 3
+      },
+      {
+        "term": "riemann hypothesis",
+        "count": 2
+      },
+      {
+        "term": "press conference",
+        "count": 2
+      },
+      {
+        "term": "europe burnham",
+        "count": 2
+      }
+    ],
+    "markets": [
+      {
+        "label": "USD/EUR",
+        "group": "Currencies",
+        "display": "0.9099",
+        "change_pct": 0.02,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/GBP",
+        "group": "Currencies",
+        "display": "0.7619",
+        "change_pct": 0.2,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/INR",
+        "group": "Currencies",
+        "display": "92.68",
+        "change_pct": -0.66,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/JPY",
+        "group": "Currencies",
+        "display": "158.64",
+        "change_pct": -0.83,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "Bitcoin (USD)",
+        "group": "Crypto",
+        "display": "58,824.00",
+        "change_pct": -5.03,
+        "source": "CoinGecko"
+      },
+      {
+        "label": "Ethereum (USD)",
+        "group": "Crypto",
+        "display": "1,621.10",
+        "change_pct": -7.73,
+        "source": "CoinGecko"
+      }
+    ]
+  },
+  "word_of_the_day": {
+    "term": "Arbitrage",
+    "definition": "The simultaneous purchase and sale of an asset in different markets to profit from a difference in the price.",
+    "source": "The Morning Ledger glossary"
+  },
+  "dictionary_word": {
+    "word": "Word of the day for November 20",
+    "definition": "edit · refresh · view Word of the day for November 20 adiaphoron n (chiefly in the plural, also attributive) A matter which is neither inherently good nor bad; an indifferent matter. (philosophy) A matter which is morally neutral. (theology…",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261120000000/en",
+    "source": "Wiktionary",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "sections": [
+    {
+      "id": "national-international",
+      "title": "National & International News",
+      "kicker": "The World Today",
+      "articles": [
+        {
+          "id": "fabe8f110b31",
+          "title": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
+          "url": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-20T23:36:36+00:00",
+          "summary": "Police say two children among dead as search continues for more victims.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 12
+        },
+        {
+          "id": "431bce6b89d2",
+          "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-20T23:28:17+00:00",
+          "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "97715f31a473",
+          "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-20T23:08:57+00:00",
+          "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "7abcb9e67aa8",
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-20T22:42:47+00:00",
+          "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "d143a578a81d",
+          "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+          "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "The Associated Press",
+          "published": "2026-11-20T22:11:29+00:00",
+          "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 36
+        },
+        {
+          "id": "8e3ceec613f9",
+          "title": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Ben Doherty",
+          "published": "2026-11-20T21:47:41+00:00",
+          "summary": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "2b46772c5167",
+          "title": "The latest from Trump's press conference",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Franco Ordoñez",
+          "published": "2026-11-20T21:38:21+00:00",
+          "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "fd2811614640",
+          "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Lauren Almeida and Graeme Wearden",
+          "published": "2026-11-20T21:38:17+00:00",
+          "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 33
+        },
+        {
+          "id": "0c5c416688d4",
+          "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+          "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-20T19:27:49+00:00",
+          "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "92f4567ffadd",
+          "title": "The ongoing efforts to get ecocide recognized at the International Criminal Court",
+          "url": "https://globalvoices.org/2026/11/20/the-ongoing-efforts-to-get-ecocide-recognized-at-the-international-criminal-court/",
+          "source": "Global Voices",
+          "section": "national-international",
+          "author": "Sydney Allen",
+          "published": "2026-11-20T18:05:05+00:00",
+          "summary": "For the nations that started this, the stakes are not abstract. They are asking the world to build infrastructure to prosecute and prevent harm that is already happening to them.",
+          "full_html": "<p><em>Activists want to establish legal infrastructure to protect the environment and punish those responsible for defiling it</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/20/the-ongoing-efforts-to-get-ecocide-recognized-at-the-international-criminal-court/\">Global Voices</a></p><p>An aerial view of the 2010 Deepwater Horizon oil spill in the Gulf of Mexico, the largest marine oil spill in history. Under the proposed ICC amendment, oil company executives could be held accountable in such cases. Image via <a href=\"https://commons.wikimedia.org/wiki/File:Deepwater_Horizon_Oil_Spill_-_Gulf_of_Mexico.jpg\">Wikimedia Commons</a>. <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>.</p>\n<p><em>This post is part of Global Voices’ November 2026 Spotlight series, “<a href=\"https://globalvoices.org/special/justice-as-infrastructure/\">Justice as infrastructure</a>.” In this Spotlight, Global Voices is partnering with The Hague Institute for Innovation of Law (<a href=\"https://hiil.org/\">HiiL</a>) to highlight the ways justice functions as critical infrastructure for any society. You can support this coverage by donating <a href=\"https://globalvoices.org/2026/10/28/support-global-voices-spotlight-justice-as-infrastructure/\">here</a>.</em></p>\n<p>In September 2024, Vanuatu, Fiji, and Samoa filed an amendment request at <a href=\"https://globalvoices.org/2024/10/07/pacific-island-nations-want-ecocide-to-be-an-international-crime/\">the International Criminal Court (ICC)</a> to get “ecocide” recognized as a crime under international law. The ICC currently recognizes four criminal categories: genocide, crimes against humanity, war crimes, and the crime of aggression. </p>\n<p>Over two years later, the amendment is still formally pending; but that does not mean environmental activists are waiting around — in fact, many are working both in the public eye and behind the scenes to establish legal infrastructure to protect the environment, combat the climate crisis, and punish those responsible for defiling the planet. </p>\n\n<h4>Read more: <a href=\"https://globalvoices.org/2024/10/07/pacific-island-nations-want-ecocide-to-be-an-international-crime/\">Pacific island nations want ecocide to be an international crime</a></h4>\n\n<p>According to an independent expert panel convened by the <a href=\"https://www.stopecocide.earth/legal-definition\">Stop Ecocide Foundation</a>, ecocide is legally defined as “unlawful or wanton acts committed with knowledge that there is a substantial likelihood of severe and either widespread or long-term damage to the environment being caused by those acts.”</p>\n<p>For the countries that backed the proposal, the climate crisis is not an abstract threat; it is a real and present danger with active consequences for their people. </p>\n<p>In 2021, Simon Kofe, Tuvalu’s Minister for Justice, Communication and Foreign Affairs, gave a <a href=\"https://www.youtube.com/watch?v=jBBsv0QyscE\">presentation at the international COP26</a> conference on climate change while standing in knee-deep water to demonstrate how rising sea levels threaten low-lying island nations. Tuvaluan officials are also exploring ways to become the first “<a href=\"https://globalvoices.org/2026/05/27/tuvalu-aims-to-become-a-digital-nation-amid-rising-sea-levels/\">digital nation</a>” as a backup plan in case rising sea levels submerge all livable land in the archipelago. In Fiji alone, <a href=\"https://fijisun.com.fj/news/environment/six-fiji-communities-relocated-two-more-facing-climate-move\">six villages have already been relocated</a> because of climate change, with others in progress and dozens more under assessment. As Vanuatu’s Special Envoy for Climate Change and Environment, <a href=\"https://www.stopecocide.earth/2024/mass-destruction-of-nature-reaches-international-criminal-court-icc-as-pacific-island-states-propose-recognition-of-ecocide-as-international-crime\">Ralph Regenvanu</a>, says, climate damage is “devastating our island economy, submerging our territory, and threatening livelihoods.” </p>\n<p>Shortly after the amendment was submitted, it was also backed by the Democratic Republic of Congo (DRC), which is experiencing increasingly deadly flooding as well as air quality issues related to <a href=\"https://globalvoices.org/2026/08/29/the-devastating-impact-of-copper-and-cobalt-mining-pollution-in-lualaba-drc/\">exploitative mining operations</a>. </p>\n<p>Tuvulu’s Foreign Minister delivers an address to COP26, while standing in knee-deep water to illustrate how rising sea levels threaten Pacific nations. Image from Simon Kofe’s <a href=\"https://www.facebook.com/photo.php?fbid=1229904645072295&amp;set=pb.100041583126044.-2207520000&amp;type=3\">Facebook</a>. Fair use.</p>\n<p>It is not a coincidence that those who are pushing hardest for these legal mechanisms are those most affected by the climate crisis. These nations did little to cause the crisis, while major superpowers like the <a href=\"https://www.carbonbrief.org/analysis-worlds-biggest-historic-polluter-the-us-is-pulling-out-of-un-climate-treaty\">U.S.</a>, <a href=\"https://www.carbonbrief.org/analysis-chinas-emissions-have-now-caused-more-global-warming-than-eu\">China</a>, and Europe, as well as the <a href=\"https://insideclimatenews.org/news/21012026/half-of-fossil-fuel-carbon-emissions-in-2024-came-from-32-companies/\">corporations</a> that bolster them, have made billions by exploiting and polluting the environment unchecked. </p>\n<p>Meanwhile, those who suffer from the consequences of our eroding climate have limited legal recourse against the corporations and states most responsible. This juxtaposition is where the argument to make ecocide an international crime comes in.</p>\n<p>Vanuatu was the<a href=\"https://ecojurisprudence.org/initiatives/proposed-amendment-to-the-rome-statute/\"> first state to call</a> for ecocide to be added to the ICC in 2019. In announcing the proposal, <a href=\"https://www.ibanet.org/ecocide-rome-statute\">Regenvanu said</a>:</p>\n<p>“We are taking bold and necessary action to address these challenges and encourage other vulnerable states to take note of our newly tabled proposal to bring ecocide to the ICC. Legal recognition of severe and widespread environmental harm holds significant potential to ensure justice and, crucially, to deter further destruction.”</p>\n<p>A protest poster against ecocide shaming oil giants at a climate protest in Maryland in 2017. Photo from <a href=\"https://commons.wikimedia.org/wiki/File:Climate_March_1341_(33984054180).jpg\">Wikimedia Commons</a>. <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>.</p>\n<h3><b>Why reform the ICC?</b></h3>\n<p>The International Criminal Court was formally established in 2002 to prosecute individuals for grave international crimes (not to be confused with the International Court of Justice, which settles legal disputes between countries).</p>\n<p>Environmental crimes are particularly tricky, as traditional legal accountability measures tend to rely on specific individuals or property that have been harmed in order to pursue legal action. In cases where polluters are contributing to a broader destructive pattern, the legal standing becomes murky. This theory has been tested numerous times as individuals have sought to <a href=\"https://www.theguardian.com/environment/2021/jun/30/climate-crimes-oil-and-gas-environment\">sue fossil fuel companies in civil court</a> for their destructive practices and malfeasance, with most cases largely unsuccessful.</p>\n<p>Supporters say that if the proposed amendment were successful, it would give ICC prosecutors the power to hold<a href=\"https://earthgovernance.org/blog/pacific-island-states-propose-that-ecocide-be-adopted-as-a-crime-under-the-international-court-of-justice/\"> individuals</a>, such as the executives of large polluting companies or heads of state, responsible in cases like massive oil spills or the deforestation of essential rainforests.</p>\n<p>As an <a href=\"https://globalwitness.org/en/campaigns/land-and-environmental-defenders/why-ecocide-should-be-an-international-crime/\">editorial in The Global Witness</a> notes:</p>\n<blockquote><p>While there have been a series of recent valiant attempts to sue fossil fuel corporations in civil court for covering up evidence that their activities were causing global warming, the defendants have largely been able to get away scot-free. … Criminalizing ecocide would fill this legal gap, and allow individuals (and companies in some jurisdictions) to be prosecuted for engaging in acts with knowledge that they are substantially likely to damage the environment, without the need to show harm to any individual person.</p></blockquote>\n<p>To add a crime to the Rome Statute, a proposal must win a two-thirds majority vote within the court’s Assembly of States Parties. Even then, an amendment to the statute’s crimes provisions would bind only the states that accept it, and the court could not prosecute nationals or territory of states that do not.</p>\n<p>The Rome Statute has 123 signatory parties — a number that does not include China, India, or the U.S., the world’s three largest contributors to greenhouse gas emissions. The U.S., in particular, under current President Donald Trump’s administration, has backed away from climate commitments in recent years, including withdrawing from the <a href=\"https://www.carbonbrief.org/analysis-worlds-biggest-historic-polluter-the-us-is-pulling-out-of-un-climate-treaty\">UN’s 2015 Paris Climate Agreement</a>. It has also become increasingly hostile toward the court itself, as the Trump administration <a href=\"https://en.wikipedia.org/wiki/Executive_Order_14203\">imposed sanctions</a> on individual ICC prosecutors and judges beginning in early 2025. Then, in a September 2026 address to the UN General Assembly, Trump urged all member states to withdraw from the treaty altogether, and, weeks later, in October 2026, he imposed <a href=\"https://www.icc-cpi.int/news/icc-strongly-rejects-us-sanctions-against-institution\">sweeping sanctions on the court itself</a>.</p>\n<p>With the biggest emitters outside the court, and Washington working to undermine it, advocates are looking beyond The Hague and ICC reform. As <a href=\"https://www.ibanet.org/ecocide-rome-statute\">legal watchdogs argue</a>, the end goal is not merely to get the ICC to recognize ecocide — though that would be an excellent first step — rather, if the ICC were to establish a framework for prosecuting international environmental crimes, through an amendment or merely by adapting its existing policies, this could push ratifying states to update their domestic penal codes and adopt policies to protect and preserve their own ecosystems, and also prosecute those who violate them. </p>\n<h3><b>Existing provisions within the Rome Statute</b></h3>\n<p>The International Criminal Court (ICC) at The Hague. Photo via <a href=\"https://commons.wikimedia.org/wiki/File:The_International_Criminal_Court_(ICC)_at_The_Hague_(53877987960).jpg\">Wikimedia Commons</a>. <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>.</p>\n<p>Even though the proposal has thus far not been adopted by the ICC, the court has not stood still.</p>\n<p>In December 2025, ICC prosecutors<a href=\"https://www.icc-cpi.int/news/icc-office-prosecutor-launches-policy-addressing-environmental-damage-through-rome-statute\"> published a policy paper</a> on prosecuting environmental damage through the pre-existing mechanisms already laid out in the Rome Statute — the international treaty which established the ICC. </p>\n<p>The Rome Statute mentions the environment exactly one time. Article 8(2)(b)(iv) makes it a war crime to launch an attack knowing it will cause “<a href=\"https://www.eli.org/vibrant-environment-blog/prosecuting-crimes-related-environment-development-international-criminal\">widespread, long-term and severe</a>” damage to the environment. Traditionally, this article has applied only during armed conflict, and previous attempts to prosecute environmental destruction at the court have been unsuccessful.</p>\n<p>Vanuatu’s ambassador to the UN, Odo Tevi, has<a href=\"https://pina.com.fj/2024/07/31/vanuatu-pushes-icc-to-recognise-ecocide-as-international-crime/\"> argued</a> that the reckless destruction of nature “can and does take place at any time, not just during conflict.”</p>\n<p>The December 2025 policy, launched at the Assembly of States Parties, was co-hosted by Costa Rica, France, Germany, Panama, and the Marshall Islands. It explains how environmental destruction can be investigated and prosecuted within the four existing crime categories, for example, when pollution or the seizure of natural resources is used to commit a crime against humanity.</p>\n<p>Analysts at the Conflict and Environment Observatory note that this policy paper<a href=\"https://ceobs.org/has-the-icc-just-advanced-accountability-for-wartime-environmental-damage/\"> does not address the ecocide proposal</a> and that<a href=\"https://ceobs.org/has-the-icc-just-advanced-accountability-for-wartime-environmental-damage/\"> ambiguity in the war crime standard</a> remains. Others point to<a href=\"https://opiniojuris.org/2026/01/09/from-policy-to-practice-operationalising-environmental-justice/\"> limited resources</a> at the prosecutor’s office.</p>\n<p>In September 2026, ICC representatives said they had “<a href=\"https://www.icc-cpi.int/node/240906\">moved into the implementation stage</a>” to establish clearer parameters for prosecuting environmental crimes under the Rome Statute. In its statement, the office said it had received numerous communications about alleged crimes with an environmental dimension and was building a network of environmental law enforcement authorities, relevant organizations, expert groups, and civil society organizations to investigate.</p>\n<p>But some jurisdictions are not waiting. As<a href=\"https://www.academia.edu/179384657/Ecocide_as_the_Fifth_Crime_The_Rome_Statute_and_the_Boundaries_of_International_Criminal_Law\"> one recent study notes</a>, “the substance of ecocide criminalization has advanced everywhere except through the amendment: an EU directive whose gravest offense is officially ‘comparable to “ecocide,”’ a Council of Europe convention, national codes in Belgium, France and Ukraine, and a completed OTP [ICC’s Office of the Prosecutor] policy that prosecutes environmental damage through the existing four crimes.” </p>\n<p>Counts vary depending on how many states currently employ domestic laws against ecocide. <a href=\"https://www.stopecocide.earth/where-its-happening\">Stop Ecocide International</a> says twelve countries, including <a href=\"https://ecojurisprudence.org/initiatives/belgium-ecocide-law-in-penal-code/\">Belgium</a>, France, and Ukraine, have adopted ecocide or equivalent offenses into domestic law. Mauritius became the most recent in April 2026, and legislation is progressing in countries including Brazil, Peru, Argentina, Mexico, Italy, and the Netherlands. As noted in the aforementioned study, the EU’s revised Environmental Crime Directive also covers conduct “<a href=\"https://ecojurisprudence.org/initiatives/european-parliament-proposal-to-include-ecocide-in-the-directive-on-protection-of-the-environment-through-criminal-law/\">comparable to ecocide</a>,” and member states had to transpose it by May 2026.</p>\n<h3><b>What comes next</b></h3>\n<p>The next stage is procedural rather than dramatic: Whether states give the proposal a formal path forward at the Assembly of States Parties’ 25th session in The Hague, from November 30 to December 7, 2026. A vote would signal whether the Rome Statute can grow beyond the atrocities it was written for. A stall would leave the prosecutor’s policy and national laws as the main tools available. </p>\n<p>The decision comes at a crucial time for the ICC, as some international stakeholders begin to question the legitimacy, power, and effectiveness of international ruling bodies.</p>\n<p>For the nations that started this, the stakes are not abstract. They are asking the world to build infrastructure to prosecute and prevent harm that is already happening to them. Until that infrastructure is implemented, the burden of harm will continue to fall on those least responsible for causing this crisis.</p>\n<strong>Written by <a href=\"https://globalvoices.org/author/sydney-allen/\">Sydney Allen</a></strong>",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "words": 1795
+        }
+      ]
+    },
+    {
+      "id": "editorials-opinion",
+      "title": "Editorials & Opinion",
+      "kicker": "Opinion",
+      "articles": [
+        {
+          "id": "e98fbe9c2820",
+          "title": "The Guardian view on Britain and Europe: Burnham’s reset cannot be the final destination | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/20/the-guardian-view-on-britain-and-europe-burnhams-reset-cannot-be-the-final-destination",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-20T18:13:24+00:00",
+          "summary": "It’s welcome news that Labour has reopened doors that the Conservatives slammed shut. But the fundamental dilemma over European integration remains Andy Burnham on Friday announced a long-awaited deal to ease some of Brexit’s barriers.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 35
+        },
+        {
+          "id": "006d7f4af154",
+          "title": "The Guardian view on Jan van Eyck’s portraits: what it means to be human | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/20/the-guardian-view-on-jan-van-eycks-portraits-what-it-means-to-be-human",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-20T18:12:47+00:00",
+          "summary": "A tiny scar, bloodshot eyes and sagging jowls – it is the intimate details of these 15th-century masterpieces that make them so relatable today The word “human” may have been crowned the Cambridge dictionary’s word of 2026, but its meaning is nowhere more manifest than…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "b13fd850f989",
+          "title": "After Russell Brand, and now another horrific rape verdict, shame really does have to change sides | Jonathan Freedland",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/20/russell-brand-rape-verdict-shame-men-women",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Jonathan Freedland",
+          "published": "2026-11-20T17:52:43+00:00",
+          "summary": "From predatory male celebrities to ordinary men who connive to abuse women, there is no doubt where the problem lies – and the solution too The only thing they have in common is that they are men.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
+        },
+        {
+          "id": "745982f2dd95",
+          "title": "If Democrats want to win, blue-collar populists are the key | Dustin Guastella and Jared Abbott",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/20/democrats-blue-collar-populists",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Dustin Guastella and Jared Abbott",
+          "published": "2026-11-20T15:00:33+00:00",
+          "summary": "Our analysis shows that ‘Bernie-Dog’ candidates are the most underrated success stories in US politics Democrats had a huge night on 3 November.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "165fadc595ac",
+          "title": "Burnham in Brussels: why party politics still defines the UK’s relationship with Europe",
+          "url": "https://theconversation.com/burnham-in-brussels-why-party-politics-still-defines-the-uks-relationship-with-europe-297081",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Martin Steven, Senior Lecturer, School of Global Affairs, Lancaster University",
+          "published": "2026-11-20T14:26:34+00:00",
+          "summary": "The talks were part of a UK-EU ‘reset’.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 8
+        },
+        {
+          "id": "b7bd388b6cee",
+          "title": "I’m an Australian-Palestinian doctor who was turned away at the West Bank border. The stigma of being born in Gaza stands in the way of peace",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/21/im-an-australian-palestinian-doctor-who-was-turned-away-at-the-west-bank-border-the-stigma-of-being-born-in-gaza-stands-in-the-way-of-peace-ntwnfb",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Munther Emad",
+          "published": "2026-11-20T14:00:32+00:00",
+          "summary": "After two attempts at two separate border crossings, I was denied entry, despite an approved visa and an official invitation from my health diplomacy charity This month I set out to return to Palestine, where I was born and studied, as part of a health…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "b7f674ad7efc",
+          "title": "Was Anthropic’s record US$81 billion listing a vote of confidence in AI – and what’s next?",
+          "url": "https://theconversation.com/was-anthropics-record-us-81-billion-listing-a-vote-of-confidence-in-ai-and-whats-next-297151",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Angel Zhong, Professor of Finance, RMIT University",
+          "published": "2026-11-20T04:53:50+00:00",
+          "summary": "Now that Anthropic has become a publicly listed company, the AI industry will come under even more intense scrutiny.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "6fd884c8708e",
+          "title": "The Guardian view on the international court of justice: the ruling against Myanmar should be only the start for the Rohingya | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/19/the-guardian-view-on-the-international-court-of-justice-the-ruling-against-myanmar-should-be-only-the-start-for-the-rohingya",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-19T18:30:09+00:00",
+          "summary": "A landmark finding of genocide marked a good day for international law. But both the court and the Rohingya minority now need sustained support The finding of the world’s highest court that Myanmar committed genocide is a landmark in international law.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 41
+        }
+      ]
+    },
+    {
+      "id": "fintech-taxtech",
+      "title": "FinTech & Tax Technology",
+      "kicker": "Technology & Money",
+      "articles": [
+        {
+          "id": "0411811eb3d6",
+          "title": "GITEX Expands to Latin America with 2027 São Paulo Launch",
+          "url": "https://thefintechtimes.com/gitex-expands-to-latin-america-with-2027-sao-paulo-launch/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-20T19:00:58+00:00",
+          "summary": "GITEX LATAM will launch in São Paulo in March 2027, connecting global technology companies, investors and startups to accelerate digital transformation and strengthen UAE–Latin America partnerships.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "2b568cb0e636",
+          "title": "Geordie Shore star sentenced for promoting high-risk investments on social media",
+          "url": "https://www.finextra.com/newsarticle/48793/geordie-shore-star-sentenced-for-promoting-high-risk-investments-on-social-media?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-20T16:08:00+00:00",
+          "summary": "A UK reality TV star and a 'finfluencer' have been sentenced and fined for illegally promoting an unauthorised foreign exchange trading scheme on social media.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "04770730f834",
+          "title": "CBI, Bancomat and Nexi to build Italian digital euro infrastructure",
+          "url": "https://www.finextra.com/newsarticle/48792/cbi-bancomat-and-nexi--to-build-italian-digital-euro-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-20T15:31:00+00:00",
+          "summary": "CBI, Bancomat and Nexi have teamed up to build the Italian infrastructure needed to support the arrival of a digital euro.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "048769c8a5c0",
+          "title": "Worldline shares plummet on FT report on cash advances",
+          "url": "https://www.finextra.com/newsarticle/48791/worldline-shares-plummet-on-ft-report-on-cash-advances?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-20T14:39:00+00:00",
+          "summary": "Shares in Worldline fell by as much as 20% on Friday after the Financial Times reported that the French firm delayed payments to suppliers and asked customers for cash advances ahead of its financial results in the years leading up to a 2023 profit warning.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "ac4f62f8a2d2",
+          "title": "Banks, Crypto and PayPal Make Their Case at Singapore FinTech Festival",
+          "url": "https://thefintechtimes.com/banks-crypto-and-paypal-make-their-case-at-singapore-fintech-festival/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "Georgia Hanias",
+          "published": "2026-11-20T09:15:27+00:00",
+          "summary": "A $6.3 billion crypto heist, PayPal’s reinvention and AI moving our money. Georgia Hanias reports on a lively day at Singapore FinTech Festival.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "d8315fc01cff",
+          "title": "Japan’s on-chain finance pitch to Asia: slow, aligned, serious",
+          "url": "https://thefintechtimes.com/japans-on-chain-finance-pitch-to-asia-slow-aligned-serious/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "Mark Walker",
+          "published": "2026-11-20T04:12:29+00:00",
+          "summary": "Japan's regulator, central bank and biggest banks told one story on tokenised money in Singapore. I was in the room. Here is what I made of the pitch.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "d9a047affb02",
+          "title": "Model ML raises $250M to automate investment banking grunt work",
+          "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+          "source": "TechCrunch – Fintech",
+          "section": "fintech-taxtech",
+          "author": "Marina Temkin",
+          "published": "2026-11-17T19:32:11+00:00",
+          "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "1f380d299553",
+          "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+          "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+          "source": "TechCrunch – Fintech",
+          "section": "fintech-taxtech",
+          "author": "Jagmeet Singh",
+          "published": "2026-11-04T14:10:10+00:00",
+          "summary": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        }
+      ]
+    },
+    {
+      "id": "tax-policy",
+      "title": "Tax News & Policy Updates",
+      "kicker": "The Tax Desk",
+      "articles": [
+        {
+          "id": "69eedcefcf0b",
+          "title": "Cash Payments to Unskilled Labourers Not Barred by Law: ITAT allows entire Container Cleaning Expenses as Business Expense [Read Order]",
+          "url": "https://www.taxscan.in/income-tax/cash-payments-to-unskilled-labourers-not-barred-by-law-itat-allows-entire-container-cleaning-expenses-as-business-expense-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Navasree A.M",
+          "published": "2026-11-20T16:36:26+00:00",
+          "summary": "The claim of container cleaning and washing charges expenses were allowed entirely stating that the assessee proved its beyond doubt.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "6560122b739e",
+          "title": "CESTAT Holds Commitment Charges Collected by Punjab National Bank on Undisbursed Loans Liable to Service Tax [Read Order]",
+          "url": "https://www.taxscan.in/excise-customs/cestat-holds-commitment-charges-collected-by-punjab-national-bank-on-undisbursed-loans-liable-to-service-tax-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Solony Padhi",
+          "published": "2026-11-20T15:30:00+00:00",
+          "summary": "CESTAT Holds Commitment Charges Taxable as Service Consideration for Keeping Sanctioned Loan Funds Available.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        },
+        {
+          "id": "0c1184d7af5f",
+          "title": "GST Order Served Through Portal Constitutes Valid Service, Belated Writ Cannot Bypass Appeal Limitation: Telangana HC",
+          "url": "https://www.taxscan.in/gst/gst-order-served-through-portal-constitutes-valid-service-belated-writ-cannot-bypass-appeal-limitation-telangana-hc",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Kavi Priya",
+          "published": "2026-11-20T15:11:57+00:00",
+          "summary": "Uploading a GST order on the common portal constitutes valid service under Section 169(1)(d) of the CGST Act and an expired statutory appeal period cannot ordinarily be bypassed through a writ petition.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "847f176d3475",
+          "title": "Agency Information Collection Activities; Comment Request on Application for Security Summit Membership",
+          "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23610/agency-information-collection-activities-comment-request-on-application-for-security-summit",
+          "source": "Federal Register – IRS",
+          "section": "tax-policy",
+          "author": "Treasury Department, Internal Revenue Service",
+          "published": "2026-11-19T05:00:00+00:00",
+          "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "04dd25bd4d89",
+          "title": "Indicator deep dive: Reporting of tax avoidance schemes",
+          "url": "https://taxjustice.net/2026/11/05/indicator-deep-dive-reporting-of-tax-avoidance-schemes/",
+          "source": "Tax Justice Network",
+          "section": "tax-policy",
+          "author": "Bob Michel",
+          "published": "2026-11-05T00:03:00+00:00",
+          "summary": "Today, the Tax Justice Network updated its Corporate Tax Haven Index with new data for two indicators.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "88d90ca20eed",
+          "title": "The ‘wealth exodus’ was manufactured by the press. The press complaints body IPSO must investigate or step aside.",
+          "url": "https://taxjustice.net/2026/10/19/the-wealth-exodus-was-manufactured-by-the-press-the-uks-biggest-press-complaints-body-must-investigate-or-step-aside/",
+          "source": "Tax Justice Network",
+          "section": "tax-policy",
+          "author": "Tax Justice Network",
+          "published": "2026-10-19T21:35:35+00:00",
+          "summary": "TL;DR Since 2024 about 30 news articles a day have been published around the world about an exodus of millionaires and billionaires fleeing taxes. ……………………….. The UK, we’re told, has had the worst of it thanks to the Labour government’s tax policies.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 42
+        },
+        {
+          "id": "ae5c5ad500c5",
+          "title": "Spain’s 2026 Election: Diverging Tax Agendas and the Push for Full Expensing",
+          "url": "https://taxfoundation.org/blog/spain-election-tax-proposals-reform/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Cristina Enache",
+          "published": null,
+          "summary": "Spain’s 2026 election presents a clear divide in economic policy, with the Socialist Workers' Party favoring higher taxes on capital and businesses, while the People’s Party and Vox advocate tax cuts to encourage investment, stimulate economic growth, and improve competitiveness.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 40
+        },
+        {
+          "id": "c09a0111deab",
+          "title": "Washington Can Start Delivering on Affordability by Rejecting Trump’s Tariffs",
+          "url": "https://taxfoundation.org/oped/congress-trump-tariffs-affordability-inflation/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Daniel Bunn",
+          "published": null,
+          "summary": "This new Congress will need to address the existing policies hurting affordability, prepare for Social Security insolvency in 2032, and build a regulatory environment that allows American dynamism to flourish.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        }
+      ]
+    },
+    {
+      "id": "product-analysis",
+      "title": "Product Management & Business Analysis",
+      "kicker": "The Craft",
+      "articles": [
+        {
+          "id": "26bc06dd76b7",
+          "title": "Grab My Personal Annual Review Claude Code Plugin",
+          "url": "https://www.producttalk.org/personal-annual-review-claude-code-plugin/",
+          "source": "Product Talk",
+          "section": "product-analysis",
+          "author": "Teresa Torres",
+          "published": "2026-11-18T14:05:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "9c56dd42c1ee",
+          "title": "My Personal Annual Review Process (Now a Claude Code Plugin)",
+          "url": "https://www.producttalk.org/personal-annual-review/",
+          "source": "Product Talk",
+          "section": "product-analysis",
+          "author": "Teresa Torres",
+          "published": "2026-11-18T14:00:00+00:00",
+          "summary": "Every December, I reflect on my year and plan the next. I share 4 exercises in my personal annual review, plus a Claude Code plugin.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "b9e63452c6bd",
+          "title": "Analysis Debt: The Cost of a Question Nobody Tracks",
+          "url": "https://batimes.com/articles/analysis-debt-the-cost-of-a-question-nobody-tracks/",
+          "source": "BA Times",
+          "section": "product-analysis",
+          "author": "Michael Roy",
+          "published": "2026-11-09T14:38:54+00:00",
+          "summary": "Analysis Debt: The Cost of a Question Nobody Tracks By Michael Roy Every delivery organization can tell you how fast work moved last quarter. Far fewer can say how much of that work was checked before it started moving.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 39
+        },
+        {
+          "id": "21f59dea13c6",
+          "title": "AI and the Future of the Product Role",
+          "url": "https://www.svpg.com/ai-and-the-future-of-the-product-role/",
+          "source": "Silicon Valley Product Group",
+          "section": "product-analysis",
+          "author": "Marty Cagan",
+          "published": "2026-11-06T01:02:22+00:00",
+          "summary": "NOTE: This is a narrative form of a keynote for the 2026 Product Leader Summit. Overview Most people in the industry realize that the job definition and responsibilities of the people in the product role can vary widely across companies.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 40
+        },
+        {
+          "id": "265e6c45204a",
+          "title": "Experimentation, AI and the Product Model",
+          "url": "https://www.svpg.com/experimentation-ai-and-the-product-model/",
+          "source": "Silicon Valley Product Group",
+          "section": "product-analysis",
+          "author": "Marty Cagan",
+          "published": "2026-10-21T15:53:41+00:00",
+          "summary": "NOTE: This is a narrative form of a keynote for the Circus Austin Experimentation Conference. While experimentation can be found in various parts of a company, most people think of either product or marketing.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "30b7e2079ec1",
+          "title": "Product Ethics in the Age of AI",
+          "url": "https://www.romanpichler.com/blog/product-ethics-in-the-age-of-ai/",
+          "source": "Roman Pichler",
+          "section": "product-analysis",
+          "author": "Roman Pichler",
+          "published": "2026-10-05T09:39:41+00:00",
+          "summary": "AI is changing not only what product teams can build, but also what they need to take responsibility for.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "87cda737ce55",
+          "title": "Connecting Product Outcomes to Business Strategy",
+          "url": "https://www.romanpichler.com/blog/connecting-product-outcomes-and-business-strategy/",
+          "source": "Roman Pichler",
+          "section": "product-analysis",
+          "author": "Roman Pichler",
+          "published": "2026-09-15T09:41:42+00:00",
+          "summary": "Every product has to create real value for a group of people and the business, at least in theory. But in practice, that’s not always the case.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "95ac88e87dd6",
+          "title": "The Irreplaceable BA: How to Stay Essential in an AI-Augmented World",
+          "url": "https://batimes.com/articles/the-irreplaceable-ba-how-to-stay-essential-in-an-ai-augmented-world/",
+          "source": "BA Times",
+          "section": "product-analysis",
+          "author": "Mohanaraman Namasivayam",
+          "published": "2026-07-29T19:43:39+00:00",
+          "summary": "Four frameworks for deciding what AI takes, what you keep, and where to grow Mohanaraman Namasivayam Vice President | Senior Business Analyst, Investment Management Technology | IIBA Member The Inflection Point Is Now The research is blunt.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
+        }
+      ]
+    },
+    {
+      "id": "business-trends",
+      "title": "Emerging Business Trends & New Vocabulary",
+      "kicker": "Ideas & Idioms",
+      "articles": [
+        {
+          "id": "507e806085bb",
+          "title": "‘The Hunger Games’ are back: Haymitch Abernathy can teach the C-Suite about reluctant leadership",
+          "url": "https://www.fastcompany.com/91646867/leadership-lessons-hunger-games-haymitch-abernathy-c-suite",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Shannon Cudd",
+          "published": "2026-11-20T23:01:00+00:00",
+          "summary": "Around the office today, you might hear: “May the odds be ever in your favor.” After the tumultuous technical failures of the past week, the phrase might come off as alarming, but it’s actually a Hunger Games reference.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 38
+        },
+        {
+          "id": "819d3babef6f",
+          "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-20T22:53:24+00:00",
+          "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        },
+        {
+          "id": "2a5e0759ced0",
+          "title": "AI adoption could disproportionately harm Black and Latino workers",
+          "url": "https://www.fastcompany.com/91646749/ai-adoption-could-disproportionately-harm-black-and-latino-workers",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Pavithra Mohan",
+          "published": "2026-11-20T22:30:00+00:00",
+          "summary": "It has become increasingly clear that the AI revolution is not just poised to upend white-collar jobs, despite what public discourse might suggest.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "48c0833defc0",
+          "title": "The poster for the Sam Altman movie looks like AI slop. It’s actually brilliant marketing",
+          "url": "https://www.fastcompany.com/91646772/artificial-movie-poster-sam-altman-ai-slop-made-by-humans",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "María José Gutiérrez Chávez",
+          "published": "2026-11-20T21:54:00+00:00",
+          "summary": "The official movie poster for Artificial, Luca Guadagnino’s upcoming film about OpenAI, looks like AI slop, only it was drawn by human hands. Anyone who has come across AI-generated images knows they often carry telltale mistakes.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 36
+        },
+        {
+          "id": "6787a271fdfe",
+          "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Dominic-Madori Davis",
+          "published": "2026-11-20T20:58:29+00:00",
+          "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "340614cb1d45",
+          "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Tim De Chant",
+          "published": "2026-11-20T19:53:41+00:00",
+          "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "d6bff5841b5a",
+          "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Tim Fernholz",
+          "published": "2026-11-20T19:32:08+00:00",
+          "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "b05464920f2e",
+          "title": "What exactly is in the deal between the UK and the EU?",
+          "url": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Jennifer Rankin and Alexandra Topping",
+          "published": "2026-11-20T18:19:53+00:00",
+          "summary": "The two sides have come to agreements on food and drink, emissions trading and the youth exchange scheme Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10 After months of on-off negotiations, leaks and late nights, the EU and UK…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "site": "https://www.aljazeera.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BA Times",
+      "site": "https://www.batimes.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – Business",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – India",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – World",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Fast Company",
+      "site": "https://www.fastcompany.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Federal Register – IRS",
+      "site": "https://www.federalregister.gov",
+      "license": "US Government work (public domain)",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Finextra",
+      "site": "https://www.finextra.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Global Voices",
+      "site": "https://globalvoices.org",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "full_text": true
+    },
+    {
+      "name": "NPR News",
+      "site": "https://feeds.npr.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Product Talk",
+      "site": "https://www.producttalk.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Roman Pichler",
+      "site": "https://www.romanpichler.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Silicon Valley Product Group",
+      "site": "https://www.svpg.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Tax Foundation",
+      "site": "https://taxfoundation.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Tax Justice Network",
+      "site": "https://taxjustice.net",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Taxscan (India)",
+      "site": "https://www.taxscan.in",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TechCrunch",
+      "site": "https://techcrunch.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TechCrunch – Fintech",
+      "site": "https://techcrunch.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Conversation",
+      "site": "https://theconversation.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Fintech Times",
+      "site": "https://thefintechtimes.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Business",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Editorials",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Opinion",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – World",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    }
+  ],
+  "errors": [
+    "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
+    "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
+    "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
+    "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
+    "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+    "Mind the Product: feed contained no entries",
+    "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
+    "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
+  ]
+}
