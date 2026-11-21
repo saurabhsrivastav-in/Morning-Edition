@@ -2,16 +2,16 @@
   "edition": {
     "name": "The Morning Ledger",
     "tagline": "A quiet read for a busy morning",
-    "date": "2026-11-21",
-    "date_long": "Saturday, 21 November 2026",
+    "date": "2026-11-22",
+    "date_long": "Sunday, 22 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-21T20:23+05:30",
+    "generated_at": "2026-11-22T05:03+05:30",
     "is_sample": false
   },
   "dashboard": {
     "total_articles": 50,
-    "reading_minutes": 13,
-    "source_count": 24,
+    "reading_minutes": 12,
+    "source_count": 26,
     "full_text_count": 1,
     "per_section": {
       "national-international": 10,
@@ -24,7 +24,11 @@
     "keywords": [
       {
         "term": "people",
-        "count": 7
+        "count": 6
+      },
+      {
+        "term": "company",
+        "count": 5
       },
       {
         "term": "every",
@@ -35,15 +39,7 @@
         "count": 5
       },
       {
-        "term": "company",
-        "count": 4
-      },
-      {
-        "term": "world",
-        "count": 4
-      },
-      {
-        "term": "investment",
+        "term": "friday",
         "count": 4
       },
       {
@@ -51,23 +47,27 @@
         "count": 4
       },
       {
-        "term": "guardian view",
+        "term": "investment",
+        "count": 4
+      },
+      {
+        "term": "fight",
         "count": 3
       },
       {
-        "term": "work",
-        "count": 3
+        "term": "fausto isidro",
+        "count": 2
       },
       {
-        "term": "means human",
+        "term": "mexican drug",
+        "count": 2
+      },
+      {
+        "term": "meza flores",
         "count": 2
       },
       {
         "term": "europe burnham",
-        "count": 2
-      },
-      {
-        "term": "personal annual",
         "count": 2
       }
     ],
@@ -103,27 +103,27 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "60,253.00",
-        "change_pct": -1.91,
+        "display": "60,164.00",
+        "change_pct": 2.13,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,685.87",
-        "change_pct": -2.43,
+        "display": "1,680.86",
+        "change_pct": 3.93,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Arbitrage",
-    "definition": "The simultaneous purchase and sale of an asset in different markets to profit from a difference in the price.",
+    "term": "Hedging",
+    "definition": "An investment position intended to offset potential losses or gains that may be incurred by a companion investment.",
     "source": "The Morning Ledger glossary"
   },
   "dictionary_word": {
     "word": "Word of the day for November 21",
-    "definition": "edit · refresh · view Word of the day for November 21 culch n (southern England, US (especially New England)) (uncountable) Debris, rubbish, trash. (agriculture, uncountable) Crushed oyster shells, rocks, and other sea detritus that together form an oyster bed…",
+    "definition": "edit · refresh · view Word of the day for November 21 culch n (southern England, US (especially New England)) (uncountable) Debris, rubbish, trash. (agriculture) Crushed oyster shells, rocks, and other sea detritus that together form an oyster bed, where…",
     "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261121000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
@@ -136,60 +136,102 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "da7d58d380d5",
-          "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
-          "url": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
-          "source": "Al Jazeera",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-21T14:35:52+00:00",
-          "summary": "Rodrigo Muniz set Fulham on the way but Elliot Anderson volley earns Manchester City a valuable Premier League point.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
-        },
-        {
-          "id": "d615c59e615c",
-          "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "Imogen Foulkes",
-          "published": "2026-11-21T14:18:17+00:00",
-          "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
-        },
-        {
-          "id": "f328baf8aab5",
-          "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "The Associated Press",
-          "published": "2026-11-21T13:58:33+00:00",
-          "summary": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
-        },
-        {
-          "id": "88af422b0866",
-          "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+          "id": "48f549e40ad0",
+          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – World",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-21T13:17:38+00:00",
-          "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+          "published": "2026-11-21T23:31:17+00:00",
+          "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 15
+          "words": 21
+        },
+        {
+          "id": "e14c511a4468",
+          "title": "Iran faces a ‘silent economic war’, says Iranian president",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-21T23:18:14+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "735650ba9496",
+          "title": "India, China commanders meet again to try and calm Arunachal frontier",
+          "url": "https://indianexpress.com/article/india/india-china-commanders-meet-again-to-try-and-calm-arunachal-frontier-10973140/",
+          "source": "The Indian Express – India",
+          "section": "national-international",
+          "author": "Amrita Nayak Dutta",
+          "published": "2026-11-21T23:00:50+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "460719117a50",
+          "title": "Trump orders federal contractors to check with White House before responding to Congress",
+          "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "The Associated Press",
+          "published": "2026-11-21T22:40:36+00:00",
+          "summary": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "040c95d5f039",
+          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-21T22:19:43+00:00",
+          "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "778ae6c51daa",
+          "title": "Growing up displaced in Cameroon after ten years of conflict",
+          "url": "https://globalvoices.org/2026/11/21/growing-up-displaced-in-cameroon-after-ten-years-of-conflict/",
+          "source": "Global Voices",
+          "section": "national-international",
+          "author": "Cynthia Ebot Takang",
+          "published": "2026-11-21T18:02:14+00:00",
+          "summary": "In Buea, children displaced by Cameroon’s armed Anglophone conflict are balancing school with market trading to help their families survive, while years of displacement have interrupted their education, relationships, aspirations.",
+          "full_html": "<p><em>Over 223,700 children have dropped out of school in Cameroon’s Northwest and Southwest regions, while 2,463 schools are non-operational</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/21/growing-up-displaced-in-cameroon-after-ten-years-of-conflict/\">Global Voices</a></p><p>A general view of Buea&#x27;s OIC Market in the Southwest Region of Cameroon, where displaced families sell goods to support their livelihoods. Photo by Cynthia Ebot Takang. Used with permission.</p>\n<p>For children displaced by <a href=\"https://warwatch.ch/situations/non-international-armed-conflicts-in-cameroon/\">Cameroon’s ongoing armed Anglophone conflict</a>, reaching safety has not ended the struggle. In Buea, the capital of Cameroon’s Southwest region, some children are balancing school with market trading to help their families survive.</p>\n<p>“At least here in Buea, there are no gunshots, and we do not have to hide in the bush,” says 11-year-old Lorane in an interview with Global Voices, describing the relative safety his family found after fleeing their home in<a href=\"https://documents1.worldbank.org/curated/en/795921624338364910/pdf/The-Socio-Political-Crisis-in-the-Northwest-and-Southwest-Regions-of-Cameroon-Assessing-the-Economic-and-Social-Impacts.pdf\"> Cameroon’s conflict-affected Southwest Region.</a></p>\n<p>The move brought the children to a calmer environment where they could resume schooling and live with less fear of armed violence. But leaving their communities also meant losing homes, familiar surroundings, friendships and, for some, years of education. In Buea, the struggle to rebuild family livelihoods has introduced another responsibility to their lives: helping their parents earn a living.</p>\n<h3>A safer place, but a childhood reshaped by displacement</h3>\n<p>The<a href=\"https://commonslibrary.parliament.uk/research-briefings/cbp-8331/\"> Anglophone crisis in Cameroon</a> began in 2016, when teachers and lawyers began protesting over the perceived marginalization of English-language education and common-law systems, which they say favored French. This escalated into wider demonstrations and a government crackdown. In 2017, the situation deteriorated into armed conflict between government forces and separatist groups seeking independence for the two English-speaking regions as a state commonly referred to as <a href=\"https://en.wikipedia.org/wiki/Ambazonia\">Ambazonia</a>. The <a href=\"https://www.unhcr.org/where-we-work/countries/cameroon\">United Nations High Commissioner for Refugees (UNHCR) estimates</a> that between 2.1 and 2.2 million people have been displaced due to the violence and insecurity.</p>\n<p>At<a href=\"https://share.google/cjWenwuIqIWWD1cKO\"> Buea’s OIC Market</a>, children from displaced families sell bleach, puff-puff, plantains, ginger, garlic, and oranges, particularly during weekends and before school. Some travel from neighboring communities to help their parents sell goods, while others work around family-owned stalls.</p>\n<p>For 14-year-old Joy, this means traveling from<a href=\"https://fr.wikipedia.org/wiki/Mutengene\"> Mutengene</a> to Buea on weekends to sell sachets of bleach. Her mother buys the bleach in bulk and repackages it into smaller sachets, which Joy sells for CFA 100 (about USD 0.17) each. She says daily sales can reach CFA 10,000–15,000 (about USD 16.81–25.21), helping support the household and her siblings.</p>\n<p>Joy has been working since her family fled their village when she was in Class Five. “They were shooting guns in my village, so my mum had to bring us here so we could continue school,” she says. She has since become used to the routine, which allows her to contribute to the family while continuing her education.</p>\n<p>For 14-year-old Sidoine, displacement meant losing four years of schooling. Her family fled Ekona after their house was burned while they were away at the farm. She remembers hiding in the bushes when they heard attacks were coming, unsure what would happen next. Her family eventually left their hometown,<a href=\"https://fr.wikipedia.org/wiki/Ekona_Mbenge\"> Ekona</a>, for Buea, joining thousands of others who have had to rebuild their lives away from their roots. A well-wisher eventually helped her enroll in school in Buea.</p>\n<p>Although the family sometimes visits their farm to collect food, it has not been possible to return permanently. Sidoine misses her former home and friends.</p>\n<h3>Rebuilding a family livelihood</h3>\n<p>For younger children, displacement has also changed family routines. Twelve-year-old Michelle sells plantains while waiting for his mother to return from church. His 11-year-old cousin, Lorane, sometimes accompanies him. The two help their parents attract customers, particularly on weekends.</p>\n<p>They also miss people they left behind in Ekona, including their grandmother, who died during a raid as a result of the crisis.</p>\n<p>Susan Achuagoh, a mother of five whose house was burned during the conflict, has had to rebuild her livelihood as an orange seller in Buea. She gives her children small quantities of oranges to sell while she remains at her stall. This helps supplement their family income.</p>\n<p>“I sell oranges; I give them small things to walk around with while I stay at the stall,” she shared in an interview with Global Voices. “If they do not help like that, it will not go at all.”</p>\n<p>Her children’s education was interrupted for more than three years during the conflict. Another mother, Mami Blessing, says her children’s schooling was also disrupted and that they now help her at the market as the family struggles to make ends meet.</p>\n<h3>The cost of conflict</h3>\n<p>Godiva Ndang epse Limene, Education and Partnerships Officer at<a href=\"https://street-child.org/explore/cameroon/\"> Street Child UK-Cameroon</a>, says the prolonged crisis in the Northwest and Southwest has increasingly become a crisis of childhood, affecting education, protection, and development.</p>\n<p>Children exposed to armed violence, displacement, and repeated insecurity may experience anxiety, difficulty concentrating, and social withdrawal. Taking on economic responsibilities can add to these pressures. Ndang says work that takes up time needed for learning, rest, and play can affect children’s cognitive, emotional, social, and physical development.</p>\n<p>She stresses that helping in a family business is not automatically child labor. The distinction depends on the child’s age, the nature and duration of the activity, the risks involved, and whether it interferes with education, health, rest, or development.</p>\n<p>The right to education is only one of the rights affected. Children also have a right to rest, leisure, and play, as well as protection from economic exploitation. For those uprooted from their communities, maintaining friendships, participating in cultural life, and developing a sense of belonging are also important parts of growing up.</p>\n<h3>Learning spaces offer a route back to education</h3>\n<p>The scale of the disruption remains significant.<a href=\"https://www.unicef.org/cameroon/stories/back-learning-how-cared-opening-doors-education-out-school-children\"> Figures from the Regional Delegations of Basic Education cited by UNICEF in September 2026</a> show that 223,749 children were completely out of school in the Northwest and Southwest, while 2,463 schools were non-operational. Of these, 2,005 were in the Northwest and 458 in the Southwest.</p>\n<p>To educate children in conflict-affected communities, local partners including<a href=\"https://teenalive.org/teenalive-2024-annual-report/\"> TeenAlive</a>, the<a href=\"https://www.ffiedu.org/\"> Foundation for Inclusive Education (FIED)</a>,<a href=\"https://shumas.org/programs/education-in-emergency\"> Strategic Humanitarian Services (SHUMAS)</a>, and the<a href=\"https://ameffoundation.org/education-child-protection/\"> Authentique Memorial Empowerment Foundation (AMEF)</a> support Mobile Neighborhood Learning Corners and Satellite Learning Corners. These are established in accessible locations such as village chiefs’ homes, churches, schools, and community verandas.</p>\n<p>The program has supported close to 100 learning corners across the two regions. Other education interventions include help with school enrollment, uniforms, and learning materials, as well as Teaching at the Right Level, a tutoring program.</p>\n<p><a href=\"https://street-child.org/explore/cameroon/\">Street Child</a> also combines education with other forms of support. Its girls’ resilience and empowerment work provides displaced adolescent girls with life skills, literacy, and vocational training, alongside start-up kits and mental health assistance. Its<a href=\"https://street-child.org/explore/cameroon/\"> Play for Peace initiative</a>, supported by the FIFA Foundation, uses sports to promote peace, health, and education in conflict-affected communities.</p>\n<p>Ndang says children also need psychosocial support, safe learning environments, and opportunities to play and interact with their peers. She adds that helping caregivers rebuild their livelihoods matters because reducing economic pressure on families can lessen the burden on children.</p>\n<h3>Ambition despite displacement</h3>\n<p>Despite interruptions to their education and the responsibilities they have taken on, the children interviewed for this story continue to speak about their goals and ambitions.</p>\n<p>Eliot, 14, who helps his mother sell oranges on weekends, wants to become an engineer. Sidoine hopes to study law, although she worries about the years she lost in school. Vickians, 12, who fled Lebialem and now studies computer science, wants to become a computer engineer.</p>\n<p>On weekends, Vickians sells miondo, a cassava-based delicacy, with her parents. Her family continues to make sacrifices to keep her in school, and she remains determined to pursue her education.</p>\n<p>At the start of the 2026–2027 academic year, Southwest Governor Bernard Okalia Bilai said the authorities wanted children across the region to have equal access to education and learning facilities, despite differences in school attendance between urban and rural communities. His remarks, reported in this<a href=\"https://fr.journalducameroun.com/cameroun-le-taux-de-frequentation-des-etablissements-scolaires-augmente-de-12-dans-le-sud-ouest/\"> September 2026 interview on the reopening of schools</a>, underline the challenge facing the region: ensuring that displacement and insecurity do not determine whether children can access education.</p>\n<i>Reporting note: The names used for the children in this story are pseudonyms to protect their identities. No photographs of the children have been published. Consent was obtained from parents before the interviews were conducted.</i>\n<strong>Written by <a href=\"https://globalvoices.org/author/cynthia-ebot-takang/\">Cynthia Ebot Takang</a></strong>",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "words": 1384
+        },
+        {
+          "id": "11a79bbce9a7",
+          "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+          "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Donna Ferguson",
+          "published": "2026-11-21T17:46:55+00:00",
+          "summary": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
         },
         {
           "id": "b537fedc25b3",
@@ -204,48 +246,6 @@
           "license": "",
           "license_url": "",
           "words": 37
-        },
-        {
-          "id": "55c3376cce85",
-          "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-21T10:26:36+00:00",
-          "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 18
-        },
-        {
-          "id": "398adce4c4a5",
-          "title": "China commits to low-carbon electrification and help for others to improve",
-          "url": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Fiona Harvey in Antalya",
-          "published": "2026-11-21T09:47:57+00:00",
-          "summary": "Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035 Cop31 live – latest updates China is pushing for rapid electrification of its economy using low-carbon energy and will help other countries do the same, a…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "75bf8e23bc8a",
-          "title": "Reclaiming Indigenous culinary histories in Nepal",
-          "url": "https://globalvoices.org/2026/11/21/rereclaiming-indigenous-culinary-histories-in-nepal/",
-          "source": "Global Voices",
-          "section": "national-international",
-          "author": "Sanjib Chaudhary",
-          "published": "2026-11-21T06:12:59+00:00",
-          "summary": "Sanjib Chaudhary of Global Voices caught up with Binti Gurung, a food historian and founder of Natural Roots Foundation, to talk about her work on the food heritage of Nepal.",
-          "full_html": "<p><em>The dominant Nepali food narrative overlooks the diverse regional histories and culinary traditions of Indigenous communities</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/21/rereclaiming-indigenous-culinary-histories-in-nepal/\">Global Voices</a></p><p><em>Timu khole</em>, wild mushroom soup. Photo by Binti Gurung. Used with permission.</p>\n<p>Food enriches our soul. It makes us who we are. However, the emergence of cosmopolitanism and global and local food politics has sidelined Indigenous food, not to mention the traditions and rituals associated with them.</p>\n<p>“Over the last decades, ever since the country was opened up to the outside world in the 1950s, in search of a national food identity, the staple <a href=\"https://en.wikipedia.org/wiki/Dal_bhat\"><em>daal bhaat</em></a>, a nutrient-dense combination of lentils and rice accompanied by vegetables, has been elevated to Nepal’s national dish,” writes Binti Gurung, a food historian and founder of <a href=\"https://www.instagram.com/naturalroots.foodarchives/\">Natural Roots Foundation</a>, an organization dedicated to documenting, preserving, and promoting Indigenous Himalayan food heritage, traditional recipes, and local knowledge in Nepal. “The national food narrative that is being set completely obscures the varied regional histories and food practices of the Indigenous peoples.”</p>\n<p>The <a href=\"https://nepalfoodarchives.com/\">Foundation</a>, established in 2017, promotes the many varieties of food that have become neglected in Nepal, especially the plants and herbs that can be foraged in the forests and mountains.</p>\n<p>Working with <a href=\"https://en.wikipedia.org/wiki/Aama_Samuha\">Aama Samuha</a>, a collective of women’s groups set up to maintain cultural traditions and support communal activities in Nepali villages, she has been documenting and archiving the food knowledge primarily held by Indigenous women in Nepal.</p>\n<p><a href=\"https://vajrabookshop.com/product/the-lekhali-cookbook-indigenous-food-heritage-from-the-highlands-of-nepal/\">The Lekhali Cookbook</a>, authored by Gurung, draws its name from <em>lekh</em>, the high ridges in Nepal, and highlights the rich food tradition shared by women’s groups from Nepal’s Mustang, Manang, Lamjung, and Gorkha districts.</p>\n<p>Sanjib Chaudhary of Global Voices caught up with <a href=\"https://www.instagram.com/binti.tamu/\">Binti Gurung</a> to talk about her work on food heritage. The interview has been edited for length and clarity.</p>\n<p><strong>Sanjib Chaudhary (SC): Can you introduce yourself and tell us a bit about your work?</strong></p>\n<p><strong>Binti Gurung (BG):</strong> Before talking about the food heritage of Nepal, it’s necessary to mention that knowing the broader political and historical context of the country is important because a lot of what my work looks into connects with understanding of the past.</p>\n<p>The pivotal moment can be attributed to the 1950s, when the absolutist regime <a href=\"https://en.wikipedia.org/wiki/Kingdom_of_Nepal\">came to an end</a>. As a country, Nepal had remained closed off to the outside world for so long that very little was understood about Nepali society, particularly its food practices.</p>\n<p>Within this environment of reaching out to the past events that happened in this land, uncovering the stories of the people, and mainly breaking down and deconstructing the idea of “Nepali-ness,” lies the understanding of our food heritage.</p>\n<p>I myself come from what used to be called a <a href=\"https://www.facebook.com/reel/7758411434288659\">Gurung</a> country until the 1970s. I know something about our collective history as <a href=\"https://en.wikipedia.org/wiki/Gurung_people\">Gurung people</a>, and that my great-grandfather on the maternal side was a <em>mukhiya</em>, a tribal chief somewhere in that Gurung country. There are no written documents about our lineage, apart from the knowledge that remains in the tongue. I take pride in that, but it also means some knowledge has not been transmitted.</p>\n<p>My paternal grandfather was the first person to be educated because of his connection to British India, after which he did a lot in his village, which included donating some of his personal land to the village school. Whereas I am the first in my family to go to university, learn English (like the rest of my generation), and read history.</p>\n<p><strong>SC: Food sovereignty is a burning issue for Indigenous peoples. Can you give us an overview of what challenges Indigenous communities in Nepal are facing with regard to food sovereignty?</strong></p>\n<p><strong>BG:</strong> Even though the <a href=\"https://en.wikipedia.org/wiki/Constitution_of_Nepal\">constitution of 2015</a> has given recognition to the right to food, how does it translate to the many Indigenous groups accessing their food? Are the Indigenous peoples who have been living by the rivers and the forests able to access the foods that they have learned to process, collect, and eat?</p>\n<p>For the communities that still live in or near the forest, how are their relationships affected when forests are turned into national parks? Do the Indigenous peoples who have been relying on these ancestral food practices have access? Can the state recognize and permit it?</p>\n<p>When we start to think this way, we go beyond the conversation about food sovereignty because then we have to talk about the land and the peoples who inhabit it, and their connection to it.</p>\n<p>The author in conversation with women&#x27;s group members. Photo via Binti Gurung. Used with permission.</p>\n<p><strong>SC: Nepal is a <a href=\"https://en.wikipedia.org/wiki/Ethnic_groups_in_Nepal\">multi-ethnic country</a>, and communities have their own food and agriculture systems. However, food politics is prevalent, with some communities claiming a particular dish as solely theirs. What’s your take on this?</strong></p>\n<p><strong>BG:</strong> I think it is impossible to claim any particular dish as solely belonging to only one community. After all, we live in a shared world. We are beings in constant interaction with the land. Like any living practice that is evolving, our food practices are also in motion; it is not a static, fixed thing.</p>\n<p>What may be helpful is to think about how a dish or food practice evolved. Or even to try to understand how it has evolved the way it has, including the factors of influence. Even though we think of Nepali communities having their own food systems, if we look underneath somewhere, we can find some similar practices.</p>\n<p>One example is the way food is harvested from the forest; this particular practice, whether in the high mountains, hills, or the Terai, remains similar. Of course, how this practice is treated by those not practicing is an entirely different thing.</p>\n<p><strong>SC: It’s high time we promote Indigenous food in a global space. Can you tell us about your recent book “The Lekhali Cookbook: Indigenous Food Heritage from the Highlands of Nepal” and the dishes you’d like to share with a wider audience?</strong></p>\n<p><strong>BG:</strong> This book has been in the making for a very long time. When I started doing this work in 2017, at some point it felt very urgent to understand the issues around it, and gradually it became important to start documenting in a written way because a lot had been unknown.</p>\n<p>The cover of The Lekhali Cookbook. Photo by Sanjib Chaudhary. Used with permission.</p>\n<p>There may be many factors why the conversation around food heritage has remained so obscure, but one that I attribute strongly to is our own political history that has shaped the Indigenous experiences.</p>\n<p>For many Indigenous communities, the problem has also been due to others writing about their history. Of course, there are some very rare scholars who have done a fine job, but in the case of our own history, there is now an immense effort to establish or re-establish our origin account. It’s very saddening to have to read about some of these accounts. And then there is also the process of verifying and fact-checking, and that takes a lot of time.</p>\n<p>The Lekhali Cookbook came into being due to a generous grant from the British Council. A lot of the work had been conducted prior to receiving the grant, but it allowed us to visit the villages in the central Himalayas and work with <em>aama samuha</em> [translated as “mothers’ groups,” acting as local women’s collectives] who are heavily involved in the food production process. Based on the consultation with the groups, we collected the recipes of the eight villages of Lamjung, Manang, Mustang, and Gorkha.</p>\n<p>In the book, we have some unique recipes that many people do not know, such as the foraged <em>panyu</em> (wild rhubarb), <em>kru</em> (yak sausage), yak curry with <em>satu,</em> or <em>farsi ko bhat</em> eaten with sattu up in the high Gorkha hills.</p>\n<p><strong>SC: What do you think the future of Indigenous food will look like in a decade&#x27;s time? What should Indigenous communities, in your opinion, do to preserve and promote their food heritage? </strong></p>\n<p><strong>BG:</strong> I think we have immense challenges ahead of us. Every year, these challenges seem to be only growing more and more. We only have to look at the <a href=\"https://globalvoices.org/2026/10/13/after-flood-disasters-nepal-needs-clear-numbers-on-aid-and-a-reconstruction-plan/\">recent disasters</a>; it’s quite terrifying for the people who are living in these landscapes.</p>\n<p>For several reasons, it’s crucial that we recognize that our situation is changing and that it is very fragile, and we have to be alert to this changing situation. So much has already changed, and within this framework we have to think of how we are going to adapt to our new circumstances, whether it is living in the city, establishing a relationship with urban life, learning to operate in a language that is not your mother tongue, learning technology, issues of sustainability, and so on.</p>\n<p>In the midst of this vast change from our previous ancestral way of life, how are we going to hold ourselves as people with a distinct way of living, language, and culture? Moreover, how are we going to maintain the values that have been passed down to us from our ancestors? How willing are we to work for our collective welfare to protect our cultural and food heritage in this sea of change? Because without addressing these questions or without internalizing them, we cannot have real progress.</p>\n<strong>Written by <a href=\"https://globalvoices.org/author/sanjib/\">Sanjib Chaudhary</a></strong>",
-          "license": "CC BY 3.0",
-          "license_url": "https://creativecommons.org/licenses/by/3.0/",
-          "words": 1540
         },
         {
           "id": "431bce6b89d2",
@@ -283,6 +283,20 @@
       "kicker": "Opinion",
       "articles": [
         {
+          "id": "faad3d069958",
+          "title": "Anthony Albanese talks a big game about sovereignty. But Australia remains in thrall to its ‘unreliable boyfriend’ | Julianne Schultz",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/22/anthony-albanese-talks-a-big-game-about-sovereignty-but-australia-remains-in-thrall-to-its-unreliable-boyfriend",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Julianne Schultz",
+          "published": "2026-11-21T19:00:06+00:00",
+          "summary": "We rely on US tech platforms to provide the digital infrastructure of daily life. What happens when they all go dark?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
           "id": "6306e1596a32",
           "title": "Fiona the hippo’s death was tragic. But blaming a ‘bad mom’ is absurd | Arwa Mahdawi",
           "url": "https://www.theguardian.com/commentisfree/2026/nov/21/fiona-the-hippo-death-bad-mom-scapegoat",
@@ -297,32 +311,32 @@
           "words": 44
         },
         {
-          "id": "e278e8151829",
-          "title": "I’m a priest. Silicon Valley’s search for the ‘soul’ of AI is deeply troubling | Rev Kevin Deal",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search",
-          "source": "The Guardian – Opinion",
+          "id": "d7de529658c8",
+          "title": "Nvidia scandal shows why men get second chances and women get the glass cliff",
+          "url": "https://indianexpress.com/article/opinion/columns/jensen-huang-nvidia-scandal-shows-men-get-second-chances-women-10972443/",
+          "source": "The Indian Express – Opinion",
           "section": "editorials-opinion",
-          "author": "Rev Kevin Deal",
-          "published": "2026-11-21T12:00:58+00:00",
-          "summary": "Humans experience beauty and sit with mysteries. Unlike AI, we do not exist merely for utility Last month, religious leaders from across San Francisco gathered behind closed doors to discuss what it means to be human in the age of artificial intelligence.",
+          "author": "",
+          "published": "2026-11-21T10:10:13+00:00",
+          "summary": "",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 42
+          "words": 0
         },
         {
-          "id": "56c9f419cca7",
-          "title": "Did you come down with GTA flu? I won’t judge – I may even join you in Vice City | Imogen West-Knights",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/21/gta-6-flu-vice-city-gamers-sick-day",
-          "source": "The Guardian – Opinion",
+          "id": "f30482c60abb",
+          "title": "Atmanirbhar Bharat can’t be built by underpaying workers",
+          "url": "https://indianexpress.com/article/opinion/columns/atmanirbhar-bharat-underpaying-workers-pm-modi-speech-ficci-10972381/",
+          "source": "The Indian Express – Opinion",
           "section": "editorials-opinion",
-          "author": "Imogen West-Knights",
-          "published": "2026-11-21T08:00:52+00:00",
-          "summary": "Millions are throwing sickies and no wonder.",
+          "author": "",
+          "published": "2026-11-21T06:00:37+00:00",
+          "summary": "",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 7
+          "words": 0
         },
         {
           "id": "e98fbe9c2820",
@@ -379,20 +393,6 @@
           "license": "",
           "license_url": "",
           "words": 19
-        },
-        {
-          "id": "6fd884c8708e",
-          "title": "The Guardian view on the international court of justice: the ruling against Myanmar should be only the start for the Rohingya | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/19/the-guardian-view-on-the-international-court-of-justice-the-ruling-against-myanmar-should-be-only-the-start-for-the-rohingya",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-19T18:30:09+00:00",
-          "summary": "A landmark finding of genocide marked a good day for international law. But both the court and the Rohingya minority now need sustained support The finding of the world’s highest court that Myanmar committed genocide is a landmark in international law.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 41
         }
       ]
     },
@@ -759,6 +759,34 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
+          "id": "8d54d4add32f",
+          "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Anthony Ha",
+          "published": "2026-11-21T21:37:10+00:00",
+          "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "127326b87b53",
+          "title": "A tale of two Nvidias",
+          "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Anthony Ha",
+          "published": "2026-11-21T21:07:42+00:00",
+          "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
           "id": "1befeb3fd696",
           "title": "To win the AI search wars, stop chasing the answers and start shaping the questions",
           "url": "https://www.fastcompany.com/91637473/to-win-the-ai-search-wars-stop-chasing-the-answers-and-start-shaping-the-questions-ai-search-geo",
@@ -801,20 +829,6 @@
           "words": 43
         },
         {
-          "id": "f1c7ef38a91f",
-          "title": "Startup sues Apple in India over tap-to-share contacts feature",
-          "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Jagmeet Singh",
-          "published": "2026-11-21T04:00:00+00:00",
-          "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
-        },
-        {
           "id": "96a7f9767d2d",
           "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
           "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
@@ -855,20 +869,6 @@
           "license": "",
           "license_url": "",
           "words": 19
-        },
-        {
-          "id": "6787a271fdfe",
-          "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Dominic-Madori Davis",
-          "published": "2026-11-20T20:58:29+00:00",
-          "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
         }
       ]
     }
@@ -1041,16 +1041,28 @@
       "license": "",
       "license_url": "",
       "full_text": false
+    },
+    {
+      "name": "The Indian Express – India",
+      "site": "https://indianexpress.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Indian Express – Opinion",
+      "site": "https://indianexpress.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
     }
   ],
   "errors": [
-    "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
     "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
-    "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
     "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
     "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
     "Mind the Product: feed contained no entries",
-    "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
+    "World Economic Forum: 404 Client Error: Not Found for url: https://www.weforum.org/agenda/feed",
     "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
   ]
 }
