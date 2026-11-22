@@ -5,18 +5,18 @@
     "date": "2026-11-22",
     "date_long": "Sunday, 22 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-22T05:03+05:30",
+    "generated_at": "2026-11-22T20:19+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 50,
+    "total_articles": 48,
     "reading_minutes": 12,
-    "source_count": 26,
+    "source_count": 24,
     "full_text_count": 1,
     "per_section": {
       "national-international": 10,
-      "editorials-opinion": 8,
-      "fintech-taxtech": 8,
+      "editorials-opinion": 7,
+      "fintech-taxtech": 7,
       "tax-policy": 8,
       "product-analysis": 8,
       "business-trends": 8
@@ -24,22 +24,18 @@
     "keywords": [
       {
         "term": "people",
-        "count": 6
+        "count": 11
       },
       {
         "term": "company",
-        "count": 5
+        "count": 8
+      },
+      {
+        "term": "financial",
+        "count": 4
       },
       {
         "term": "every",
-        "count": 5
-      },
-      {
-        "term": "product",
-        "count": 5
-      },
-      {
-        "term": "friday",
         "count": 4
       },
       {
@@ -51,23 +47,27 @@
         "count": 4
       },
       {
-        "term": "fight",
+        "term": "product",
+        "count": 4
+      },
+      {
+        "term": "least",
         "count": 3
       },
       {
-        "term": "fausto isidro",
-        "count": 2
-      },
-      {
-        "term": "mexican drug",
-        "count": 2
-      },
-      {
-        "term": "meza flores",
+        "term": "guardian view",
         "count": 2
       },
       {
         "term": "europe burnham",
+        "count": 2
+      },
+      {
+        "term": "claude code",
+        "count": 2
+      },
+      {
+        "term": "annual review",
         "count": 2
       }
     ],
@@ -103,15 +103,15 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "60,164.00",
-        "change_pct": 2.13,
+        "display": "60,805.00",
+        "change_pct": 0.92,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,680.86",
-        "change_pct": 3.93,
+        "display": "1,709.64",
+        "change_pct": 1.45,
         "source": "CoinGecko"
       }
     ]
@@ -122,9 +122,9 @@
     "source": "The Morning Ledger glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 21",
-    "definition": "edit · refresh · view Word of the day for November 21 culch n (southern England, US (especially New England)) (uncountable) Debris, rubbish, trash. (agriculture) Crushed oyster shells, rocks, and other sea detritus that together form an oyster bed, where…",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261121000000/en",
+    "word": "Word of the day for November 22",
+    "definition": "edit · refresh · view Word of the day for November 22 plinky-plonky adj (chiefly music, informal) Especially of a musical instrument such as a piano: making sharp, tinny sounds; plinky.",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261122000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -136,116 +136,116 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "48f549e40ad0",
-          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-21T23:31:17+00:00",
-          "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
-        },
-        {
-          "id": "e14c511a4468",
-          "title": "Iran faces a ‘silent economic war’, says Iranian president",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+          "id": "6ddaf267abfd",
+          "title": "Uncovering a Criminal Network on the Early Internet | True Crime Reports",
+          "url": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss",
           "source": "Al Jazeera",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-21T23:18:14+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "735650ba9496",
-          "title": "India, China commanders meet again to try and calm Arunachal frontier",
-          "url": "https://indianexpress.com/article/india/india-china-commanders-meet-again-to-try-and-calm-arunachal-frontier-10973140/",
-          "source": "The Indian Express – India",
-          "section": "national-international",
-          "author": "Amrita Nayak Dutta",
-          "published": "2026-11-21T23:00:50+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "460719117a50",
-          "title": "Trump orders federal contractors to check with White House before responding to Congress",
-          "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "The Associated Press",
-          "published": "2026-11-21T22:40:36+00:00",
-          "summary": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 25
-        },
-        {
-          "id": "040c95d5f039",
-          "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-21T22:19:43+00:00",
-          "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+          "published": "2026-11-22T14:08:28+00:00",
+          "summary": "A global manhunt for one of the internet's earliest paedophile rings. How did police finally bring it down?",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 18
         },
         {
-          "id": "778ae6c51daa",
-          "title": "Growing up displaced in Cameroon after ten years of conflict",
-          "url": "https://globalvoices.org/2026/11/21/growing-up-displaced-in-cameroon-after-ten-years-of-conflict/",
-          "source": "Global Voices",
+          "id": "87321b68fdef",
+          "title": "Three killed and dozens missing after fire at Indonesian factory",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
           "section": "national-international",
-          "author": "Cynthia Ebot Takang",
-          "published": "2026-11-21T18:02:14+00:00",
-          "summary": "In Buea, children displaced by Cameroon’s armed Anglophone conflict are balancing school with market trading to help their families survive, while years of displacement have interrupted their education, relationships, aspirations.",
-          "full_html": "<p><em>Over 223,700 children have dropped out of school in Cameroon’s Northwest and Southwest regions, while 2,463 schools are non-operational</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/21/growing-up-displaced-in-cameroon-after-ten-years-of-conflict/\">Global Voices</a></p><p>A general view of Buea&#x27;s OIC Market in the Southwest Region of Cameroon, where displaced families sell goods to support their livelihoods. Photo by Cynthia Ebot Takang. Used with permission.</p>\n<p>For children displaced by <a href=\"https://warwatch.ch/situations/non-international-armed-conflicts-in-cameroon/\">Cameroon’s ongoing armed Anglophone conflict</a>, reaching safety has not ended the struggle. In Buea, the capital of Cameroon’s Southwest region, some children are balancing school with market trading to help their families survive.</p>\n<p>“At least here in Buea, there are no gunshots, and we do not have to hide in the bush,” says 11-year-old Lorane in an interview with Global Voices, describing the relative safety his family found after fleeing their home in<a href=\"https://documents1.worldbank.org/curated/en/795921624338364910/pdf/The-Socio-Political-Crisis-in-the-Northwest-and-Southwest-Regions-of-Cameroon-Assessing-the-Economic-and-Social-Impacts.pdf\"> Cameroon’s conflict-affected Southwest Region.</a></p>\n<p>The move brought the children to a calmer environment where they could resume schooling and live with less fear of armed violence. But leaving their communities also meant losing homes, familiar surroundings, friendships and, for some, years of education. In Buea, the struggle to rebuild family livelihoods has introduced another responsibility to their lives: helping their parents earn a living.</p>\n<h3>A safer place, but a childhood reshaped by displacement</h3>\n<p>The<a href=\"https://commonslibrary.parliament.uk/research-briefings/cbp-8331/\"> Anglophone crisis in Cameroon</a> began in 2016, when teachers and lawyers began protesting over the perceived marginalization of English-language education and common-law systems, which they say favored French. This escalated into wider demonstrations and a government crackdown. In 2017, the situation deteriorated into armed conflict between government forces and separatist groups seeking independence for the two English-speaking regions as a state commonly referred to as <a href=\"https://en.wikipedia.org/wiki/Ambazonia\">Ambazonia</a>. The <a href=\"https://www.unhcr.org/where-we-work/countries/cameroon\">United Nations High Commissioner for Refugees (UNHCR) estimates</a> that between 2.1 and 2.2 million people have been displaced due to the violence and insecurity.</p>\n<p>At<a href=\"https://share.google/cjWenwuIqIWWD1cKO\"> Buea’s OIC Market</a>, children from displaced families sell bleach, puff-puff, plantains, ginger, garlic, and oranges, particularly during weekends and before school. Some travel from neighboring communities to help their parents sell goods, while others work around family-owned stalls.</p>\n<p>For 14-year-old Joy, this means traveling from<a href=\"https://fr.wikipedia.org/wiki/Mutengene\"> Mutengene</a> to Buea on weekends to sell sachets of bleach. Her mother buys the bleach in bulk and repackages it into smaller sachets, which Joy sells for CFA 100 (about USD 0.17) each. She says daily sales can reach CFA 10,000–15,000 (about USD 16.81–25.21), helping support the household and her siblings.</p>\n<p>Joy has been working since her family fled their village when she was in Class Five. “They were shooting guns in my village, so my mum had to bring us here so we could continue school,” she says. She has since become used to the routine, which allows her to contribute to the family while continuing her education.</p>\n<p>For 14-year-old Sidoine, displacement meant losing four years of schooling. Her family fled Ekona after their house was burned while they were away at the farm. She remembers hiding in the bushes when they heard attacks were coming, unsure what would happen next. Her family eventually left their hometown,<a href=\"https://fr.wikipedia.org/wiki/Ekona_Mbenge\"> Ekona</a>, for Buea, joining thousands of others who have had to rebuild their lives away from their roots. A well-wisher eventually helped her enroll in school in Buea.</p>\n<p>Although the family sometimes visits their farm to collect food, it has not been possible to return permanently. Sidoine misses her former home and friends.</p>\n<h3>Rebuilding a family livelihood</h3>\n<p>For younger children, displacement has also changed family routines. Twelve-year-old Michelle sells plantains while waiting for his mother to return from church. His 11-year-old cousin, Lorane, sometimes accompanies him. The two help their parents attract customers, particularly on weekends.</p>\n<p>They also miss people they left behind in Ekona, including their grandmother, who died during a raid as a result of the crisis.</p>\n<p>Susan Achuagoh, a mother of five whose house was burned during the conflict, has had to rebuild her livelihood as an orange seller in Buea. She gives her children small quantities of oranges to sell while she remains at her stall. This helps supplement their family income.</p>\n<p>“I sell oranges; I give them small things to walk around with while I stay at the stall,” she shared in an interview with Global Voices. “If they do not help like that, it will not go at all.”</p>\n<p>Her children’s education was interrupted for more than three years during the conflict. Another mother, Mami Blessing, says her children’s schooling was also disrupted and that they now help her at the market as the family struggles to make ends meet.</p>\n<h3>The cost of conflict</h3>\n<p>Godiva Ndang epse Limene, Education and Partnerships Officer at<a href=\"https://street-child.org/explore/cameroon/\"> Street Child UK-Cameroon</a>, says the prolonged crisis in the Northwest and Southwest has increasingly become a crisis of childhood, affecting education, protection, and development.</p>\n<p>Children exposed to armed violence, displacement, and repeated insecurity may experience anxiety, difficulty concentrating, and social withdrawal. Taking on economic responsibilities can add to these pressures. Ndang says work that takes up time needed for learning, rest, and play can affect children’s cognitive, emotional, social, and physical development.</p>\n<p>She stresses that helping in a family business is not automatically child labor. The distinction depends on the child’s age, the nature and duration of the activity, the risks involved, and whether it interferes with education, health, rest, or development.</p>\n<p>The right to education is only one of the rights affected. Children also have a right to rest, leisure, and play, as well as protection from economic exploitation. For those uprooted from their communities, maintaining friendships, participating in cultural life, and developing a sense of belonging are also important parts of growing up.</p>\n<h3>Learning spaces offer a route back to education</h3>\n<p>The scale of the disruption remains significant.<a href=\"https://www.unicef.org/cameroon/stories/back-learning-how-cared-opening-doors-education-out-school-children\"> Figures from the Regional Delegations of Basic Education cited by UNICEF in September 2026</a> show that 223,749 children were completely out of school in the Northwest and Southwest, while 2,463 schools were non-operational. Of these, 2,005 were in the Northwest and 458 in the Southwest.</p>\n<p>To educate children in conflict-affected communities, local partners including<a href=\"https://teenalive.org/teenalive-2024-annual-report/\"> TeenAlive</a>, the<a href=\"https://www.ffiedu.org/\"> Foundation for Inclusive Education (FIED)</a>,<a href=\"https://shumas.org/programs/education-in-emergency\"> Strategic Humanitarian Services (SHUMAS)</a>, and the<a href=\"https://ameffoundation.org/education-child-protection/\"> Authentique Memorial Empowerment Foundation (AMEF)</a> support Mobile Neighborhood Learning Corners and Satellite Learning Corners. These are established in accessible locations such as village chiefs’ homes, churches, schools, and community verandas.</p>\n<p>The program has supported close to 100 learning corners across the two regions. Other education interventions include help with school enrollment, uniforms, and learning materials, as well as Teaching at the Right Level, a tutoring program.</p>\n<p><a href=\"https://street-child.org/explore/cameroon/\">Street Child</a> also combines education with other forms of support. Its girls’ resilience and empowerment work provides displaced adolescent girls with life skills, literacy, and vocational training, alongside start-up kits and mental health assistance. Its<a href=\"https://street-child.org/explore/cameroon/\"> Play for Peace initiative</a>, supported by the FIFA Foundation, uses sports to promote peace, health, and education in conflict-affected communities.</p>\n<p>Ndang says children also need psychosocial support, safe learning environments, and opportunities to play and interact with their peers. She adds that helping caregivers rebuild their livelihoods matters because reducing economic pressure on families can lessen the burden on children.</p>\n<h3>Ambition despite displacement</h3>\n<p>Despite interruptions to their education and the responsibilities they have taken on, the children interviewed for this story continue to speak about their goals and ambitions.</p>\n<p>Eliot, 14, who helps his mother sell oranges on weekends, wants to become an engineer. Sidoine hopes to study law, although she worries about the years she lost in school. Vickians, 12, who fled Lebialem and now studies computer science, wants to become a computer engineer.</p>\n<p>On weekends, Vickians sells miondo, a cassava-based delicacy, with her parents. Her family continues to make sacrifices to keep her in school, and she remains determined to pursue her education.</p>\n<p>At the start of the 2026–2027 academic year, Southwest Governor Bernard Okalia Bilai said the authorities wanted children across the region to have equal access to education and learning facilities, despite differences in school attendance between urban and rural communities. His remarks, reported in this<a href=\"https://fr.journalducameroun.com/cameroun-le-taux-de-frequentation-des-etablissements-scolaires-augmente-de-12-dans-le-sud-ouest/\"> September 2026 interview on the reopening of schools</a>, underline the challenge facing the region: ensuring that displacement and insecurity do not determine whether children can access education.</p>\n<i>Reporting note: The names used for the children in this story are pseudonyms to protect their identities. No photographs of the children have been published. Consent was obtained from parents before the interviews were conducted.</i>\n<strong>Written by <a href=\"https://globalvoices.org/author/cynthia-ebot-takang/\">Cynthia Ebot Takang</a></strong>",
-          "license": "CC BY 3.0",
-          "license_url": "https://creativecommons.org/licenses/by/3.0/",
-          "words": 1384
+          "author": "",
+          "published": "2026-11-22T14:05:20+00:00",
+          "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
         },
         {
-          "id": "11a79bbce9a7",
-          "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-          "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+          "id": "7b306ae35bb3",
+          "title": "It's Medicare open enrollment time. Here's what you need to know",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Jackie Fortiér",
+          "published": "2026-11-22T13:11:04+00:00",
+          "summary": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "f908da6e29c9",
+          "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
+          "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
           "source": "The Guardian – World",
           "section": "national-international",
-          "author": "Donna Ferguson",
-          "published": "2026-11-21T17:46:55+00:00",
-          "summary": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night.",
+          "author": "Angelique Chrisafis and agencies",
+          "published": "2026-11-22T12:12:08+00:00",
+          "summary": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university entrance exams last week.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 40
+        },
+        {
+          "id": "86c4e817690b",
+          "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-22T11:25:14+00:00",
+          "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "95ca2a46556a",
+          "title": "NPR's Senior Podcast Challenge: Early entries we love",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Janet W. Lee",
+          "published": "2026-11-22T10:00:00+00:00",
+          "summary": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition. There's still time to enter!",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "a0dc0301adf1",
+          "title": "Bank of England directors illegally profited from post-abolition enslavement in Cuba",
+          "url": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Chris Osuh Community affairs correspondent",
+          "published": "2026-11-22T08:00:22+00:00",
+          "summary": "New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people • Slave-trade wealth was embedded in Britain’s financial system, research finds British businesses run by long-serving directors of the Bank of England profited from “brutal” enslavement…",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
         },
         {
-          "id": "b537fedc25b3",
-          "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
-          "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
-          "source": "The Guardian – World",
+          "id": "c713f75b5707",
+          "title": "Breaking the silence: Pratishta’s journey from childhood abuse to advocacy",
+          "url": "https://globalvoices.org/2026/11/22/breaking-the-silence-pratishtas-journey-from-childhood-abuse-to-advocacy/",
+          "source": "Global Voices",
           "section": "national-international",
-          "author": "Etienne Côté-Paluck in Port-au-Prince and Tom Phillips in Rio de Janeiro",
-          "published": "2026-11-21T11:00:57+00:00",
-          "summary": "Foreign combatants in Port-au-Prince welcomed by many after years of gang control but some fear offensive could exacerbate volatile situation A bullet-peppered mural of the Haitian striker Emmanuel Sanon covers the facade of Port-au-Prince’s main football ground.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 37
+          "author": "Susmita Aryal",
+          "published": "2026-11-22T06:10:07+00:00",
+          "summary": "Across South Asia, including Nepal, survivors of rape and child sexual abuse face not only violence but also victim-blaming social norms that perpetuate stigma, silence and impunity.",
+          "full_html": "<p><em>In South Asia, survivors of sexual and physical abuse are often met with judgment and stigma</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/22/breaking-the-silence-pratishtas-journey-from-childhood-abuse-to-advocacy/\">Global Voices</a></p><a href=\"https://globalvoices.org/wp-content/uploads/2026/11/Gautam_upscale.webp\"></a><p>Photo via Pratistha Gautam. Used with permission.</p>\n<p><em>Editorial note: This article contains mention of gender-based violence, sexual assault, violence against children, and child sexual abuse, which may be triggering for some readers.</em></p>\n<p>November 25 to December 10, 2026, marks the UN’s <a href=\"https://www.unwomen.org/en/get-involved/16-days-of-activism\">16 Days of Activism against Gender-Based Violence</a>. However, even as gender-based violence gets more recognition globally, survivors are still struggling to access social or legal justice. South Asia is no exception to this. Global Voices sat down with one survivor of childhood abuse who uses her experience to fuel her advocacy work today.</p>\n<p>South Asia is home to nearly <a href=\"https://newsroom.co.nz/2026/10/30/wake-up-nz-south-asia-is-quarter-of-the-worlds-population-and-its-not-just-india/\">one quarter</a> of the world’s population, woven with a diverse, culture-driven fabric where women are often celebrated as goddesses. However, this veneration doesn’t necessarily mean South Asian women are safe or free from abuse.</p>\n<p>In Nepal, there are far too many examples of crimes against women and girls. For instance, <a href=\"https://english.nepalnews.com/s/explainers/seven-years-of-silence-the-unfinished-story-of-nirmala-pantas-search-for-justice/\">Nirmala Panta</a>, 13, was found dead in a sugarcane field — a case which has remained unsolved since 2018. <a href=\"https://www.myrepublica.nagariknetwork.com/news/accused-of-rape-and-murder-of-bhatta-confess-to-the-crime\">Bhagirathi Bhatta</a>, 17, was choked to death when returning home from school in 2021, and <a href=\"https://risingnepaldaily.com/news/77258\">Inisha BK</a>, 16, was found unconscious in the Janagaran Community Forest in Surkhet in early 2026. A similar yet shocking case is that of a 3-year-old Garima, who was <a href=\"https://www.cbsnews.com/news/nepal-rape-murder-3-year-old-girl-protesters-demand-death-penalty/\">found dead</a> inside an abandoned house in Jeetpur in southern Nepal. While these tragic rape and murder cases leave deep scars in Nepal’s national psyche, even more cases go <a href=\"https://nepalitimes.com/no-nation-for-women\">unheard</a> and unreported.</p>\n<p>Sparking a nationwide outrage, such cases force the country to confront a collective shame. They raise questions around human morality, diminishing trust and affection in society, and breakdowns in the legal justice system. In the face of these atrocities, women took to the streets, demanding justice and accountability. But their calls fell on deaf ears.</p>\n<h3>Pratistha Gautam’s story</h3>\n<p>“I was 11 years old when I was sexually abused by my close maternal uncle for four days,” said Pratishtha Gautam in an online interview with Global Voices in November 2026. Opening up about this incident was a real challenge for her, yet she was committed to sharing her story.</p>\n<p>Her childhood was by no means easy. She moved regularly as a child, and at seven years old, she was sent to her maternal uncle’s house for a year because her parents had to move away to address her younger brother’s health issues.</p>\n<p>It was in this house that a monster took away her innocence.</p>\n<p>After four days of abuse, she escaped on the fifth day with the help of her neighbors. Finally getting a chance to flee from her abuser, she “rushed to my room, quickly happened to lock the door by chance, thankfully, and began to scream out to my neighbors.” She had witnessed men mistreating women in her neighborhood growing up and feels lucky that her cries weren’t met with indifference.</p>\n<p>She felt neglected growing up and believed her parents loved her younger brother more. This left her with a sense of detachment from her family. The abuse only compounded her challenges. As she says, “It was not easy at all.”</p>\n<p>The experience has left her with scars: “I have been awakened with nightmares since that incident, making my sleep extremely difficult.” She also suffers from panic attacks when she sees material about sexual abuse. She describes feeling like her heart is swollen and being torn apart. When triggered, she often freezes up and dissociates.</p>\n<p>According to research from the <a href=\"https://publications.aap.org/pediatricsinreview/article-abstract/38/3/105/73198/Child-Sexual-Abuse?redirectedFrom=fulltext?autologincheck=redirected&amp;__cf_chl_rt_tk=3GVXWLy3caxio2j8YyBk.x3Ux0WY3gxNOn5kHjmffGY-1795059644-1.0.1.1-_JKwGQRx85HmKWZZ5qp6Z8t944trLVx3TCuehztq5zc\">American Academy of Pediatrics journal</a>, child sexual abuse can be incredibly detrimental to a person’s long-term mental well-being. Child abuse survivors are more likely to suffer from anxiety disorders, depression, eating disorders and disturbances, sleep disruption and insomnia, and dissociation, as well as adverse physical health conditions and attachment issues, <a href=\"https://www.csacentre.org.uk/research-resources/key-messages/impacts-of-child-sexual-abuse/\">according to the Center of Expertise on Child Sexual Abuse</a>. </p>\n<p>This highlights the immense scale of pain that many children experience when they are victims of sexual abuse. Not everyone is able to speak out about such abuses. This is particularly true in South Asia, where there is a social stigma around abuse, due to entrenched ideas around “purity.”</p>\n<p>She resents suggestions that it is women’s responsibility to not “tempt” men or draw attention to themselves. “Why should we be the ones to cover ourselves up?” she asks. She refuses to hide and stay silent while her abuser “is living free somewhere.” She refuses to remain invisible.</p>\n<p>Even as many countries make strides in gender equality, gender-based violence continues to be a major issue. In a <a href=\"https://www.who.int/news-room/fact-sheets/detail/violence-against-women\">2023 report</a>, the World Health Organization (WHO) estimates that nearly one in three (31.6 percent) of women worldwide have been subjected to either physical and/or sexual violence in their lifetime — roughly 840 million women and girls.</p>\n<p>At the root of gender-based violence lies a belief in male superiority. Not all men would openly endorse this belief, yet many see themselves as protectors of the women in their lives: their sisters, mothers, girlfriends, and wives. But this notion of protection is deeply flawed, especially when it comes at the cost of women’s freedom, mobility, access to opportunities, dreams, and agency.</p>\n<p>Gautam recognizes this notion in her own upbringing. She had dreams of her own and was ready to chase them, but her family had a different plan for her. They wanted “to get me married off,” she said. She kept her independence through stubbornness and determination.</p>\n<h3>A trauma that persists</h3>\n<p>Today, Gautam lives in Adelaide in South Australia. She suffers from complex <a href=\"https://www.psychiatry.org/patients-families/ptsd/what-is-ptsd/\">PTSD (post-traumatic stress disorder)</a> and works as a mental health clinician helping other survivors of abuse. She reflected, in a heavy tone, on being a thousand miles away from home but safe and independent.</p>\n<a href=\"https://globalvoices.org/wp-content/uploads/2026/11/Gautam-2_upscale.webp\"></a><p>Image via Pratistha Gautam. Used with permission.</p>\n<p>PTSD and insomnia aren’t the only consequences of her abuse. While she was once married, she struggled to cope with her trauma, and it negatively impacted her relationship, eventually leading to divorce.</p>\n<p>As part of her treatment, Gautam has met regularly with psychotherapists over the years. Eventually, even that wasn’t enough. She put everything on hold for a year and gave herself time and space to focus on her mental health. She believes she would have difficulty living a normal life and still struggles with relationships. “I hate men. I used to hate them and still have trust issues,” she said.</p>\n<p>Even as she struggles to process her own trauma, she also works to help others recover from abuse and offers pro bono psychological counseling. Being part of the solution has in some ways helped her heal. Her passion as a mental health clinician goes beyond her own individual experiences to the collective — a reminder to be empathetic as humans first.</p>\n<p>While she primarily works in Australia, she is also committed to helping women back in her home country of Nepal. She has collaborated with <a href=\"https://rakshanepal.org/\">Rakshya Nepal</a>, an organization in Nepal that protects women and girls from sexual exploitation and trafficking.</p>\n<p>Reflecting back on the choices she made, she said, “I cannot imagine if I could afford this luxury of mental space if I were not in Australia.”</p>\n<p>This is also a testament to how South Asia treats survivors of sexual and physical abuse — even if they gather the courage to speak the truth, too often they are met with judgment and scorn. Part of this is due to limited regard for mental health, but it’s also about entrenched gender roles and strong societal expectations. There is a popular saying in Nepal reflecting these persistent gender dynamics: “<em>timi ta chori manche ho ni</em>” and “<em>chora manche vayera gari halchan ni</em>,” which roughly translates to “you are a girl, and boys will be boys.”</p>\n<strong>Written by <a href=\"https://globalvoices.org/author/susmitaaryal/\">Susmita Aryal</a></strong>",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "words": 1305
         },
         {
           "id": "431bce6b89d2",
@@ -283,60 +283,46 @@
       "kicker": "Opinion",
       "articles": [
         {
-          "id": "faad3d069958",
-          "title": "Anthony Albanese talks a big game about sovereignty. But Australia remains in thrall to its ‘unreliable boyfriend’ | Julianne Schultz",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/22/anthony-albanese-talks-a-big-game-about-sovereignty-but-australia-remains-in-thrall-to-its-unreliable-boyfriend",
+          "id": "3f48a541c5a1",
+          "title": "The cost-of-living crisis was harming Claudia’s mental wellbeing. Together we worked out strategies to help her cope | Bianca Denny",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/23/cost-of-living-crisis-financial-stress-mental-health-coping-strategies",
           "source": "The Guardian – Opinion",
           "section": "editorials-opinion",
-          "author": "Julianne Schultz",
-          "published": "2026-11-21T19:00:06+00:00",
-          "summary": "We rely on US tech platforms to provide the digital infrastructure of daily life. What happens when they all go dark?",
+          "author": "Bianca Denny",
+          "published": "2026-11-22T14:00:29+00:00",
+          "summary": "In trying to save for a house deposit, she had sacrificed activities that brought her joy.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 21
+          "words": 16
         },
         {
-          "id": "6306e1596a32",
-          "title": "Fiona the hippo’s death was tragic. But blaming a ‘bad mom’ is absurd | Arwa Mahdawi",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/21/fiona-the-hippo-death-bad-mom-scapegoat",
+          "id": "2a2deb051850",
+          "title": "As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming",
           "source": "The Guardian – Opinion",
           "section": "editorials-opinion",
-          "author": "Arwa Mahdawi",
-          "published": "2026-11-21T13:00:01+00:00",
-          "summary": "The beloved animal died after ingesting a hat. Some are seeking a scapegoat – and we’ve heard this story before “Do they know the identity of the mother of the boy with the hat Fiona swallowed??” asks one Facebook post with thousands of likes.",
+          "author": "Dave Schilling",
+          "published": "2026-11-22T12:00:29+00:00",
+          "summary": "All these tech outages are a reminder we’re at the mercy of powers beyond our comprehension. At least in GTA we have control This week marked the release of the highly anticipated video game Grand Theft Auto VI.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 44
+          "words": 38
         },
         {
-          "id": "d7de529658c8",
-          "title": "Nvidia scandal shows why men get second chances and women get the glass cliff",
-          "url": "https://indianexpress.com/article/opinion/columns/jensen-huang-nvidia-scandal-shows-men-get-second-chances-women-10972443/",
-          "source": "The Indian Express – Opinion",
+          "id": "4c0021c18a94",
+          "title": "Why I won’t leave mathematics, despite AI solving centuries-old problems | Ken Ono",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems",
+          "source": "The Guardian – Opinion",
           "section": "editorials-opinion",
-          "author": "",
-          "published": "2026-11-21T10:10:13+00:00",
-          "summary": "",
+          "author": "Ken Ono",
+          "published": "2026-11-22T11:00:26+00:00",
+          "summary": "I believe human judgment remains essential Last year, I nearly quit mathematics. On 20 November, Levent Alpöge announced that, working with Claude, he had proved the Riemann hypothesis, a 167-year-old problem about the distribution of prime numbers.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 0
-        },
-        {
-          "id": "f30482c60abb",
-          "title": "Atmanirbhar Bharat can’t be built by underpaying workers",
-          "url": "https://indianexpress.com/article/opinion/columns/atmanirbhar-bharat-underpaying-workers-pm-modi-speech-ficci-10972381/",
-          "source": "The Indian Express – Opinion",
-          "section": "editorials-opinion",
-          "author": "",
-          "published": "2026-11-21T06:00:37+00:00",
-          "summary": "",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 0
+          "words": 37
         },
         {
           "id": "e98fbe9c2820",
@@ -402,6 +388,34 @@
       "kicker": "Technology & Money",
       "articles": [
         {
+          "id": "5b17895a5dbc",
+          "title": "OCI Shareholders Approve Orascom Construction Combination at EGM",
+          "url": "https://thefintechtimes.com/oci-shareholders-approve-orascom-construction-combination-at-egm/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-22T10:00:58+00:00",
+          "summary": "OCI N.V. shareholders have backed all resolutions for the Orascom Construction merger, with delisting from Euronext Amsterdam set for 27 November 2026.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
+          "id": "1059c577796e",
+          "title": "Why the banks with most to gain from tokenisation move last",
+          "url": "https://thefintechtimes.com/why-the-banks-with-most-to-gain-from-tokenisation-move-last/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "Mark Walker",
+          "published": "2026-11-22T02:00:55+00:00",
+          "summary": "Tokenised money should suit the biggest financial centres best, yet they are the slowest to adopt it. Tim Way of Fireblocks told me why, and what changes it.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
           "id": "acb2927e84e5",
           "title": "British Business Bank Commits £2m to Cambridge Capital Group via Haatch",
           "url": "https://thefintechtimes.com/british-business-bank-commits-2m-to-cambridge-capital-group-via-haatch/",
@@ -414,34 +428,6 @@
           "license": "",
           "license_url": "",
           "words": 20
-        },
-        {
-          "id": "d91db17e39e9",
-          "title": "LemFi Adds Credit, Savings and eSIMs in Biggest Product Push",
-          "url": "https://thefintechtimes.com/lemfi-adds-credit-savings-and-esims-in-biggest-product-push/",
-          "source": "The Fintech Times",
-          "section": "fintech-taxtech",
-          "author": "The Fintech Times",
-          "published": "2026-11-21T10:00:51+00:00",
-          "summary": "The London remittance firm is expanding into UK credit and savings, backed by its 2025 acquisition of FCA-regulated Pillar, as it targets 304 million",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 24
-        },
-        {
-          "id": "0411811eb3d6",
-          "title": "GITEX Expands to Latin America with 2027 São Paulo Launch",
-          "url": "https://thefintechtimes.com/gitex-expands-to-latin-america-with-2027-sao-paulo-launch/",
-          "source": "The Fintech Times",
-          "section": "fintech-taxtech",
-          "author": "The Fintech Times",
-          "published": "2026-11-20T19:00:58+00:00",
-          "summary": "GITEX LATAM will launch in São Paulo in March 2027, connecting global technology companies, investors and startups to accelerate digital transformation and strengthen UAE–Latin America partnerships.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
         },
         {
           "id": "2b568cb0e636",
@@ -470,20 +456,6 @@
           "license": "",
           "license_url": "",
           "words": 21
-        },
-        {
-          "id": "048769c8a5c0",
-          "title": "Worldline shares plummet on FT report on cash advances",
-          "url": "https://www.finextra.com/newsarticle/48791/worldline-shares-plummet-on-ft-report-on-cash-advances?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-20T14:39:00+00:00",
-          "summary": "Shares in Worldline fell by as much as 20% on Friday after the Financial Times reported that the French firm delayed payments to suppliers and asked customers for cash advances ahead of its financial results in the years leading up to a 2023 profit warning.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
         },
         {
           "id": "d9a047affb02",
@@ -759,6 +731,62 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
+          "id": "f443b6dc67ee",
+          "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-22T13:50:21+00:00",
+          "summary": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "c6e35d49b0be",
+          "title": "Why the NFL is making players disguise their Caddix cleats",
+          "url": "https://www.fastcompany.com/91646518/why-the-nfl-is-making-players-disguise-their-caddix-cleats",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Paul Mueller",
+          "published": "2026-11-22T11:00:00+00:00",
+          "summary": "For a young footwear company trying to break into professional sports, getting Joe Burrow, Caleb Williams, and Cooper Kupp to wear your cleats on any given Sunday would seem like a marketing coup. For Caddix, it’s a marketing conundrum.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 39
+        },
+        {
+          "id": "b4428b5870f4",
+          "title": "CrowdStrike CEO: Companies are choosing between getting hacked and shutting down",
+          "url": "https://www.fastcompany.com/91646863/crowdstrike-ceo-companies-are-choosing-between-getting-hacked-and-shutting-down",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Robert Safian",
+          "published": "2026-11-22T10:11:00+00:00",
+          "summary": "Microsoft systems down. Air traffic systems down. Problems at Chase, United, and Apple. After a week of outages across big systems, the AI conspiracy theories are in full swing.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 29
+        },
+        {
+          "id": "2aaec3b9a9e8",
+          "title": "MP criticises Guernsey and Jersey company ownership register plans",
+          "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-22T07:22:05+00:00",
+          "summary": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 13
+        },
+        {
           "id": "8d54d4add32f",
           "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
           "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
@@ -787,20 +815,6 @@
           "words": 24
         },
         {
-          "id": "1befeb3fd696",
-          "title": "To win the AI search wars, stop chasing the answers and start shaping the questions",
-          "url": "https://www.fastcompany.com/91637473/to-win-the-ai-search-wars-stop-chasing-the-answers-and-start-shaping-the-questions-ai-search-geo",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "Matt Boffey",
-          "published": "2026-11-21T13:36:00+00:00",
-          "summary": "AI is changing how people choose between brands. And it’s moving from answering people’s questions to taking action on their behalf. Personal agents like Meta’s Muse take their cues from things like your email inbox and run with what they find.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 41
-        },
-        {
           "id": "8e797836f2dc",
           "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
           "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
@@ -815,20 +829,6 @@
           "words": 23
         },
         {
-          "id": "1a4ecade2d99",
-          "title": "11 career decisions high performers regret making too late",
-          "url": "https://www.fastcompany.com/91642546/11-career-decisions-high-performers-regret-making-too-late-leadership-career-advice",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "Featured",
-          "published": "2026-11-21T12:39:00+00:00",
-          "summary": "Some career decisions become costly only after too much time has passed. The following insights, from experts in the field, reveal which moves high performers often wish they had made sooner, from protecting their health to asking for help and building stronger networks.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 43
-        },
-        {
           "id": "96a7f9767d2d",
           "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
           "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
@@ -841,34 +841,6 @@
           "license": "",
           "license_url": "",
           "words": 45
-        },
-        {
-          "id": "819d3babef6f",
-          "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Business",
-          "section": "business-trends",
-          "author": "",
-          "published": "2026-11-20T22:53:24+00:00",
-          "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 14
-        },
-        {
-          "id": "7abcb9e67aa8",
-          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Business",
-          "section": "business-trends",
-          "author": "",
-          "published": "2026-11-20T22:42:47+00:00",
-          "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
         }
       ]
     }
@@ -1041,28 +1013,16 @@
       "license": "",
       "license_url": "",
       "full_text": false
-    },
-    {
-      "name": "The Indian Express – India",
-      "site": "https://indianexpress.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "The Indian Express – Opinion",
-      "site": "https://indianexpress.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
     }
   ],
   "errors": [
+    "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
     "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
+    "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
     "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
     "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
     "Mind the Product: feed contained no entries",
-    "World Economic Forum: 404 Client Error: Not Found for url: https://www.weforum.org/agenda/feed",
+    "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
     "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
   ]
 }
