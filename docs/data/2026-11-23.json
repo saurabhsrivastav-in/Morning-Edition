@@ -1,0 +1,1028 @@
+{
+  "edition": {
+    "name": "The Morning Ledger",
+    "tagline": "A quiet read for a busy morning",
+    "date": "2026-11-23",
+    "date_long": "Monday, 23 November 2026",
+    "timezone": "Asia/Kolkata",
+    "generated_at": "2026-11-23T05:15+05:30",
+    "is_sample": false
+  },
+  "dashboard": {
+    "total_articles": 48,
+    "reading_minutes": 12,
+    "source_count": 24,
+    "full_text_count": 1,
+    "per_section": {
+      "national-international": 10,
+      "editorials-opinion": 7,
+      "fintech-taxtech": 7,
+      "tax-policy": 8,
+      "product-analysis": 8,
+      "business-trends": 8
+    },
+    "keywords": [
+      {
+        "term": "people",
+        "count": 7
+      },
+      {
+        "term": "world",
+        "count": 5
+      },
+      {
+        "term": "company",
+        "count": 4
+      },
+      {
+        "term": "every",
+        "count": 4
+      },
+      {
+        "term": "investment",
+        "count": 4
+      },
+      {
+        "term": "product",
+        "count": 4
+      },
+      {
+        "term": "trump",
+        "count": 3
+      },
+      {
+        "term": "leader",
+        "count": 3
+      },
+      {
+        "term": "climate talks",
+        "count": 2
+      },
+      {
+        "term": "guardian view",
+        "count": 2
+      },
+      {
+        "term": "take responsibility",
+        "count": 2
+      },
+      {
+        "term": "claude code",
+        "count": 2
+      }
+    ],
+    "markets": [
+      {
+        "label": "USD/EUR",
+        "group": "Currencies",
+        "display": "0.9099",
+        "change_pct": 0.02,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/GBP",
+        "group": "Currencies",
+        "display": "0.7619",
+        "change_pct": 0.2,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/INR",
+        "group": "Currencies",
+        "display": "92.68",
+        "change_pct": -0.66,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/JPY",
+        "group": "Currencies",
+        "display": "158.64",
+        "change_pct": -0.83,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "Bitcoin (USD)",
+        "group": "Crypto",
+        "display": "61,190.00",
+        "change_pct": 1.76,
+        "source": "CoinGecko"
+      },
+      {
+        "label": "Ethereum (USD)",
+        "group": "Crypto",
+        "display": "1,720.53",
+        "change_pct": 2.34,
+        "source": "CoinGecko"
+      }
+    ]
+  },
+  "word_of_the_day": {
+    "term": "Venture Capital",
+    "definition": "A form of private equity and a type of financing that investors provide to startup companies and small businesses that are believed to have long-term growth potential.",
+    "source": "The Morning Ledger glossary"
+  },
+  "dictionary_word": {
+    "word": "Word of the day for November 22",
+    "definition": "edit · refresh · view Word of the day for November 22 plinky-plonky adj (chiefly music, informal) Especially of a musical instrument such as a piano: making sharp, tinny sounds; plinky.",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261122000000/en",
+    "source": "Wiktionary",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "sections": [
+    {
+      "id": "national-international",
+      "title": "National & International News",
+      "kicker": "The World Today",
+      "articles": [
+        {
+          "id": "288e6af64e1e",
+          "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+          "url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-22T23:22:59+00:00",
+          "summary": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "3311ad328045",
+          "title": "What it's like at a climate conference as talks collapse",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Rachel Waldholz",
+          "published": "2026-11-22T22:40:23+00:00",
+          "summary": "After two weeks of negotiations, international climate talks fail to reach an agreement. NPR's Rachel Waldholz was in Turkey for the conference.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
+          "id": "6d726c5f1628",
+          "title": "Philly festival-goers say pickles are a real big dill",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Alaena Hunt",
+          "published": "2026-11-22T22:40:19+00:00",
+          "summary": "Influencer and pickle enthusiast Dan Pancoast gives a first hand account of the festivities at the \"The Big Dill\" festival in Philadelphia.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
+          "id": "d636ecf1b50c",
+          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+          "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-22T22:37:43+00:00",
+          "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "969b3e367a9a",
+          "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+          "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Dan Sabbagh in Kharkiv and Angelique Chrisafis",
+          "published": "2026-11-22T21:33:44+00:00",
+          "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "b0adccdaf9fa",
+          "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+          "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-22T21:22:40+00:00",
+          "summary": "The couple have been together for four years and were engaged in 2025.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 13
+        },
+        {
+          "id": "f908da6e29c9",
+          "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
+          "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Angelique Chrisafis and agencies",
+          "published": "2026-11-22T12:12:07+00:00",
+          "summary": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university entrance exams last week.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 40
+        },
+        {
+          "id": "c713f75b5707",
+          "title": "Breaking the silence: Pratishta’s journey from childhood abuse to advocacy",
+          "url": "https://globalvoices.org/2026/11/22/breaking-the-silence-pratishtas-journey-from-childhood-abuse-to-advocacy/",
+          "source": "Global Voices",
+          "section": "national-international",
+          "author": "Susmita Aryal",
+          "published": "2026-11-22T06:10:07+00:00",
+          "summary": "Across South Asia, including Nepal, survivors of rape and child sexual abuse face not only violence but also victim-blaming social norms that perpetuate stigma, silence and impunity.",
+          "full_html": "<p><em>In South Asia, survivors of sexual and physical abuse are often met with judgment and stigma</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/22/breaking-the-silence-pratishtas-journey-from-childhood-abuse-to-advocacy/\">Global Voices</a></p><a href=\"https://globalvoices.org/wp-content/uploads/2026/11/Gautam_upscale.webp\"></a><p>Photo via Pratistha Gautam. Used with permission.</p>\n<p><em>Editorial note: This article contains mention of gender-based violence, sexual assault, violence against children, and child sexual abuse, which may be triggering for some readers.</em></p>\n<p>November 25 to December 10, 2026, marks the UN’s <a href=\"https://www.unwomen.org/en/get-involved/16-days-of-activism\">16 Days of Activism against Gender-Based Violence</a>. However, even as gender-based violence gets more recognition globally, survivors are still struggling to access social or legal justice. South Asia is no exception to this. Global Voices sat down with one survivor of childhood abuse who uses her experience to fuel her advocacy work today.</p>\n<p>South Asia is home to nearly <a href=\"https://newsroom.co.nz/2026/10/30/wake-up-nz-south-asia-is-quarter-of-the-worlds-population-and-its-not-just-india/\">one quarter</a> of the world’s population, woven with a diverse, culture-driven fabric where women are often celebrated as goddesses. However, this veneration doesn’t necessarily mean South Asian women are safe or free from abuse.</p>\n<p>In Nepal, there are far too many examples of crimes against women and girls. For instance, <a href=\"https://english.nepalnews.com/s/explainers/seven-years-of-silence-the-unfinished-story-of-nirmala-pantas-search-for-justice/\">Nirmala Panta</a>, 13, was found dead in a sugarcane field — a case which has remained unsolved since 2018. <a href=\"https://www.myrepublica.nagariknetwork.com/news/accused-of-rape-and-murder-of-bhatta-confess-to-the-crime\">Bhagirathi Bhatta</a>, 17, was choked to death when returning home from school in 2021, and <a href=\"https://risingnepaldaily.com/news/77258\">Inisha BK</a>, 16, was found unconscious in the Janagaran Community Forest in Surkhet in early 2026. A similar yet shocking case is that of a 3-year-old Garima, who was <a href=\"https://www.cbsnews.com/news/nepal-rape-murder-3-year-old-girl-protesters-demand-death-penalty/\">found dead</a> inside an abandoned house in Jeetpur in southern Nepal. While these tragic rape and murder cases leave deep scars in Nepal’s national psyche, even more cases go <a href=\"https://nepalitimes.com/no-nation-for-women\">unheard</a> and unreported.</p>\n<p>Sparking a nationwide outrage, such cases force the country to confront a collective shame. They raise questions around human morality, diminishing trust and affection in society, and breakdowns in the legal justice system. In the face of these atrocities, women took to the streets, demanding justice and accountability. But their calls fell on deaf ears.</p>\n<h3>Pratistha Gautam’s story</h3>\n<p>“I was 11 years old when I was sexually abused by my close maternal uncle for four days,” said Pratishtha Gautam in an online interview with Global Voices in November 2026. Opening up about this incident was a real challenge for her, yet she was committed to sharing her story.</p>\n<p>Her childhood was by no means easy. She moved regularly as a child, and at seven years old, she was sent to her maternal uncle’s house for a year because her parents had to move away to address her younger brother’s health issues.</p>\n<p>It was in this house that a monster took away her innocence.</p>\n<p>After four days of abuse, she escaped on the fifth day with the help of her neighbors. Finally getting a chance to flee from her abuser, she “rushed to my room, quickly happened to lock the door by chance, thankfully, and began to scream out to my neighbors.” She had witnessed men mistreating women in her neighborhood growing up and feels lucky that her cries weren’t met with indifference.</p>\n<p>She felt neglected growing up and believed her parents loved her younger brother more. This left her with a sense of detachment from her family. The abuse only compounded her challenges. As she says, “It was not easy at all.”</p>\n<p>The experience has left her with scars: “I have been awakened with nightmares since that incident, making my sleep extremely difficult.” She also suffers from panic attacks when she sees material about sexual abuse. She describes feeling like her heart is swollen and being torn apart. When triggered, she often freezes up and dissociates.</p>\n<p>According to research from the <a href=\"https://publications.aap.org/pediatricsinreview/article-abstract/38/3/105/73198/Child-Sexual-Abuse?redirectedFrom=fulltext?autologincheck=redirected&amp;__cf_chl_rt_tk=3GVXWLy3caxio2j8YyBk.x3Ux0WY3gxNOn5kHjmffGY-1795059644-1.0.1.1-_JKwGQRx85HmKWZZ5qp6Z8t944trLVx3TCuehztq5zc\">American Academy of Pediatrics journal</a>, child sexual abuse can be incredibly detrimental to a person’s long-term mental well-being. Child abuse survivors are more likely to suffer from anxiety disorders, depression, eating disorders and disturbances, sleep disruption and insomnia, and dissociation, as well as adverse physical health conditions and attachment issues, <a href=\"https://www.csacentre.org.uk/research-resources/key-messages/impacts-of-child-sexual-abuse/\">according to the Center of Expertise on Child Sexual Abuse</a>. </p>\n<p>This highlights the immense scale of pain that many children experience when they are victims of sexual abuse. Not everyone is able to speak out about such abuses. This is particularly true in South Asia, where there is a social stigma around abuse, due to entrenched ideas around “purity.”</p>\n<p>She resents suggestions that it is women’s responsibility to not “tempt” men or draw attention to themselves. “Why should we be the ones to cover ourselves up?” she asks. She refuses to hide and stay silent while her abuser “is living free somewhere.” She refuses to remain invisible.</p>\n<p>Even as many countries make strides in gender equality, gender-based violence continues to be a major issue. In a <a href=\"https://www.who.int/news-room/fact-sheets/detail/violence-against-women\">2023 report</a>, the World Health Organization (WHO) estimates that nearly one in three (31.6 percent) of women worldwide have been subjected to either physical and/or sexual violence in their lifetime — roughly 840 million women and girls.</p>\n<p>At the root of gender-based violence lies a belief in male superiority. Not all men would openly endorse this belief, yet many see themselves as protectors of the women in their lives: their sisters, mothers, girlfriends, and wives. But this notion of protection is deeply flawed, especially when it comes at the cost of women’s freedom, mobility, access to opportunities, dreams, and agency.</p>\n<p>Gautam recognizes this notion in her own upbringing. She had dreams of her own and was ready to chase them, but her family had a different plan for her. They wanted “to get me married off,” she said. She kept her independence through stubbornness and determination.</p>\n<h3>A trauma that persists</h3>\n<p>Today, Gautam lives in Adelaide in South Australia. She suffers from complex <a href=\"https://www.psychiatry.org/patients-families/ptsd/what-is-ptsd/\">PTSD (post-traumatic stress disorder)</a> and works as a mental health clinician helping other survivors of abuse. She reflected, in a heavy tone, on being a thousand miles away from home but safe and independent.</p>\n<a href=\"https://globalvoices.org/wp-content/uploads/2026/11/Gautam-2_upscale.webp\"></a><p>Image via Pratistha Gautam. Used with permission.</p>\n<p>PTSD and insomnia aren’t the only consequences of her abuse. While she was once married, she struggled to cope with her trauma, and it negatively impacted her relationship, eventually leading to divorce.</p>\n<p>As part of her treatment, Gautam has met regularly with psychotherapists over the years. Eventually, even that wasn’t enough. She put everything on hold for a year and gave herself time and space to focus on her mental health. She believes she would have difficulty living a normal life and still struggles with relationships. “I hate men. I used to hate them and still have trust issues,” she said.</p>\n<p>Even as she struggles to process her own trauma, she also works to help others recover from abuse and offers pro bono psychological counseling. Being part of the solution has in some ways helped her heal. Her passion as a mental health clinician goes beyond her own individual experiences to the collective — a reminder to be empathetic as humans first.</p>\n<p>While she primarily works in Australia, she is also committed to helping women back in her home country of Nepal. She has collaborated with <a href=\"https://rakshanepal.org/\">Rakshya Nepal</a>, an organization in Nepal that protects women and girls from sexual exploitation and trafficking.</p>\n<p>Reflecting back on the choices she made, she said, “I cannot imagine if I could afford this luxury of mental space if I were not in Australia.”</p>\n<p>This is also a testament to how South Asia treats survivors of sexual and physical abuse — even if they gather the courage to speak the truth, too often they are met with judgment and scorn. Part of this is due to limited regard for mental health, but it’s also about entrenched gender roles and strong societal expectations. There is a popular saying in Nepal reflecting these persistent gender dynamics: “<em>timi ta chori manche ho ni</em>” and “<em>chora manche vayera gari halchan ni</em>,” which roughly translates to “you are a girl, and boys will be boys.”</p>\n<strong>Written by <a href=\"https://globalvoices.org/author/susmitaaryal/\">Susmita Aryal</a></strong>",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "words": 1305
+        },
+        {
+          "id": "431bce6b89d2",
+          "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-20T23:28:17+00:00",
+          "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "0c5c416688d4",
+          "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+          "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-20T19:27:49+00:00",
+          "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        }
+      ]
+    },
+    {
+      "id": "editorials-opinion",
+      "title": "Editorials & Opinion",
+      "kicker": "Opinion",
+      "articles": [
+        {
+          "id": "79f3b2c6292d",
+          "title": "The good news out of Cop31? That most of the world’s governments said no to an agreement stripped of meaning | Bill Hare",
+          "url": "https://www.theguardian.com/environment/commentisfree/2026/nov/23/cop31-climate-summit-no-agreement",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Bill Hare",
+          "published": "2026-11-22T22:30:48+00:00",
+          "summary": "Co-chairing global climate talks is clearly not something to be repeated, certainly not by Australia, which is exporting climate pain The failure of Cop31 in Antalya was a line in the sand moment, a victory for multiculturalism as countries stood up to the big fossil…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "d7b05196df5c",
+          "title": "The Guardian view on Serbia’s new political era: a generational opportunity must not be wasted | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/22/the-guardian-view-on-serbias-new-political-era-a-generational-opportunity-must-not-be-wasted",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-22T17:30:32+00:00",
+          "summary": "Brussels must find ways to show concrete support for a new government that will genuinely share the EU’s democratic values Following the extraordinary election that swept Aleksandar Vučić’s autocratic government from power, Serbia’s new political era has begun.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 38
+        },
+        {
+          "id": "04901b2d5bb4",
+          "title": "The Guardian view on Ofsted: its damaged relationship with schools in England needs fixing | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/22/the-guardian-view-on-ofsted-its-damaged-relationship-with-schools-in-england-needs-fixing",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-22T17:25:32+00:00",
+          "summary": "The government, as well as the inspectorate, must take responsibility for reforms that have not worked out The inspection and rating of schools is, by definition, a fraught process. There are few things that parents care more about than the education of their children.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 44
+        },
+        {
+          "id": "3f48a541c5a1",
+          "title": "The cost-of-living crisis was harming Claudia’s mental wellbeing. Together we worked out strategies to help her cope | Bianca Denny",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/23/cost-of-living-crisis-financial-stress-mental-health-coping-strategies",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Bianca Denny",
+          "published": "2026-11-22T14:00:29+00:00",
+          "summary": "In trying to save for a house deposit, she had sacrificed activities that brought her joy.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "2a2deb051850",
+          "title": "As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Dave Schilling",
+          "published": "2026-11-22T12:00:29+00:00",
+          "summary": "All these tech outages are a reminder we’re at the mercy of powers beyond our comprehension. At least in GTA we have control This week marked the release of the highly anticipated video game Grand Theft Auto VI.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 38
+        },
+        {
+          "id": "165fadc595ac",
+          "title": "Burnham in Brussels: why party politics still defines the UK’s relationship with Europe",
+          "url": "https://theconversation.com/burnham-in-brussels-why-party-politics-still-defines-the-uks-relationship-with-europe-297081",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Martin Steven, Senior Lecturer, School of Global Affairs, Lancaster University",
+          "published": "2026-11-20T14:26:34+00:00",
+          "summary": "The talks were part of a UK-EU ‘reset’.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 8
+        },
+        {
+          "id": "b7f674ad7efc",
+          "title": "Was Anthropic’s record US$81 billion listing a vote of confidence in AI – and what’s next?",
+          "url": "https://theconversation.com/was-anthropics-record-us-81-billion-listing-a-vote-of-confidence-in-ai-and-whats-next-297151",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Angel Zhong, Professor of Finance, RMIT University",
+          "published": "2026-11-20T04:53:50+00:00",
+          "summary": "Now that Anthropic has become a publicly listed company, the AI industry will come under even more intense scrutiny.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        }
+      ]
+    },
+    {
+      "id": "fintech-taxtech",
+      "title": "FinTech & Tax Technology",
+      "kicker": "Technology & Money",
+      "articles": [
+        {
+          "id": "5b17895a5dbc",
+          "title": "OCI Shareholders Approve Orascom Construction Combination at EGM",
+          "url": "https://thefintechtimes.com/oci-shareholders-approve-orascom-construction-combination-at-egm/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-22T10:00:58+00:00",
+          "summary": "OCI N.V. shareholders have backed all resolutions for the Orascom Construction merger, with delisting from Euronext Amsterdam set for 27 November 2026.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
+          "id": "1059c577796e",
+          "title": "Why the banks with most to gain from tokenisation move last",
+          "url": "https://thefintechtimes.com/why-the-banks-with-most-to-gain-from-tokenisation-move-last/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "Mark Walker",
+          "published": "2026-11-22T02:00:55+00:00",
+          "summary": "Tokenised money should suit the biggest financial centres best, yet they are the slowest to adopt it. Tim Way of Fireblocks told me why, and what changes it.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "acb2927e84e5",
+          "title": "British Business Bank Commits £2m to Cambridge Capital Group via Haatch",
+          "url": "https://thefintechtimes.com/british-business-bank-commits-2m-to-cambridge-capital-group-via-haatch/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-21T14:00:34+00:00",
+          "summary": "The Regional Angels Programme will co-invest alongside CCG members in every qualifying deal, bringing Haatch's total investment partners to seven.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "2b568cb0e636",
+          "title": "Geordie Shore star sentenced for promoting high-risk investments on social media",
+          "url": "https://www.finextra.com/newsarticle/48793/geordie-shore-star-sentenced-for-promoting-high-risk-investments-on-social-media?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-20T16:08:00+00:00",
+          "summary": "A UK reality TV star and a 'finfluencer' have been sentenced and fined for illegally promoting an unauthorised foreign exchange trading scheme on social media.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "04770730f834",
+          "title": "CBI, Bancomat and Nexi to build Italian digital euro infrastructure",
+          "url": "https://www.finextra.com/newsarticle/48792/cbi-bancomat-and-nexi--to-build-italian-digital-euro-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-20T15:31:00+00:00",
+          "summary": "CBI, Bancomat and Nexi have teamed up to build the Italian infrastructure needed to support the arrival of a digital euro.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "d9a047affb02",
+          "title": "Model ML raises $250M to automate investment banking grunt work",
+          "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+          "source": "TechCrunch – Fintech",
+          "section": "fintech-taxtech",
+          "author": "Marina Temkin",
+          "published": "2026-11-17T19:32:11+00:00",
+          "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "1f380d299553",
+          "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+          "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+          "source": "TechCrunch – Fintech",
+          "section": "fintech-taxtech",
+          "author": "Jagmeet Singh",
+          "published": "2026-11-04T14:10:10+00:00",
+          "summary": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        }
+      ]
+    },
+    {
+      "id": "tax-policy",
+      "title": "Tax News & Policy Updates",
+      "kicker": "The Tax Desk",
+      "articles": [
+        {
+          "id": "e3bf11f8ab99",
+          "title": "Agency Information Collection Activities; Comment Request Relating to Late Filing of Certification or Notices",
+          "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23782/agency-information-collection-activities-comment-request-relating-to-late-filing-of-certification-or",
+          "source": "Federal Register – IRS",
+          "section": "tax-policy",
+          "author": "Treasury Department, Internal Revenue Service",
+          "published": "2026-11-23T05:00:00+00:00",
+          "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "bd7718b54e9a",
+          "title": "Quarterly Publication of Individuals Who Have Chosen To Expatriate; Correction",
+          "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23747/quarterly-publication-of-individuals-who-have-chosen-to-expatriate-correction",
+          "source": "Federal Register – IRS",
+          "section": "tax-policy",
+          "author": "Treasury Department, Internal Revenue Service",
+          "published": "2026-11-23T05:00:00+00:00",
+          "summary": "This document contains corrections to a publication of the Quarterly Publication Of Individuals Who Have Chosen To Expatriate in accordance with IRC Section 6039G of the Health Insurance Portability and Accountability Act (HIPAA) of 1996, as amended that was published in the Federal Register on…",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "97bd5123b1c0",
+          "title": "CBDT Instruction Applicable only to Permitted Limits: ITAT grants Partial Relief for Addition of Unexplained Jewellery in Gautam Khaitan Group Case [Read Order]",
+          "url": "https://www.taxscan.in/income-tax/cbdt-instruction-applicable-only-to-permitted-limits-itat-grants-partial-relief-for-addition-of-unexplained-jewellery-in-gautam-khaitan-group-case-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Ansha Dillu PK",
+          "published": "2026-11-21T14:44:43+00:00",
+          "summary": "The ITAT Delhi upheld the partial addition for unexplained jewellery after considering the assessee’s wealth tax return, jewellery purchases and inherited jewellery.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
+          "id": "e8c7a84fa6c3",
+          "title": "P&H HC Quashes Income Tax Assessment Order for Granting Reply Time on Non-Working Days [Read Order]",
+          "url": "https://www.taxscan.in/income-tax/ph-hc-quashes-income-tax-assessment-order-for-granting-reply-time-on-non-working-days-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Kalyani B. Nair",
+          "published": "2026-11-21T14:44:35+00:00",
+          "summary": "Reply time for SCN confined to holidays and weekends, renders assessment order invalid",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 13
+        },
+        {
+          "id": "04dd25bd4d89",
+          "title": "Indicator deep dive: Reporting of tax avoidance schemes",
+          "url": "https://taxjustice.net/2026/11/05/indicator-deep-dive-reporting-of-tax-avoidance-schemes/",
+          "source": "Tax Justice Network",
+          "section": "tax-policy",
+          "author": "Bob Michel",
+          "published": "2026-11-05T00:03:00+00:00",
+          "summary": "Today, the Tax Justice Network updated its Corporate Tax Haven Index with new data for two indicators.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "88d90ca20eed",
+          "title": "The ‘wealth exodus’ was manufactured by the press. The press complaints body IPSO must investigate or step aside.",
+          "url": "https://taxjustice.net/2026/10/19/the-wealth-exodus-was-manufactured-by-the-press-the-uks-biggest-press-complaints-body-must-investigate-or-step-aside/",
+          "source": "Tax Justice Network",
+          "section": "tax-policy",
+          "author": "Tax Justice Network",
+          "published": "2026-10-19T21:35:35+00:00",
+          "summary": "TL;DR Since 2024 about 30 news articles a day have been published around the world about an exodus of millionaires and billionaires fleeing taxes. ……………………….. The UK, we’re told, has had the worst of it thanks to the Labour government’s tax policies.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 42
+        },
+        {
+          "id": "ae5c5ad500c5",
+          "title": "Spain’s 2026 Election: Diverging Tax Agendas and the Push for Full Expensing",
+          "url": "https://taxfoundation.org/blog/spain-election-tax-proposals-reform/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Cristina Enache",
+          "published": null,
+          "summary": "Spain’s 2026 election presents a clear divide in economic policy, with the Socialist Workers' Party favoring higher taxes on capital and businesses, while the People’s Party and Vox advocate tax cuts to encourage investment, stimulate economic growth, and improve competitiveness.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 40
+        },
+        {
+          "id": "c09a0111deab",
+          "title": "Washington Can Start Delivering on Affordability by Rejecting Trump’s Tariffs",
+          "url": "https://taxfoundation.org/oped/congress-trump-tariffs-affordability-inflation/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Daniel Bunn",
+          "published": null,
+          "summary": "This new Congress will need to address the existing policies hurting affordability, prepare for Social Security insolvency in 2032, and build a regulatory environment that allows American dynamism to flourish.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        }
+      ]
+    },
+    {
+      "id": "product-analysis",
+      "title": "Product Management & Business Analysis",
+      "kicker": "The Craft",
+      "articles": [
+        {
+          "id": "26bc06dd76b7",
+          "title": "Grab My Personal Annual Review Claude Code Plugin",
+          "url": "https://www.producttalk.org/personal-annual-review-claude-code-plugin/",
+          "source": "Product Talk",
+          "section": "product-analysis",
+          "author": "Teresa Torres",
+          "published": "2026-11-18T14:05:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "9c56dd42c1ee",
+          "title": "My Personal Annual Review Process (Now a Claude Code Plugin)",
+          "url": "https://www.producttalk.org/personal-annual-review/",
+          "source": "Product Talk",
+          "section": "product-analysis",
+          "author": "Teresa Torres",
+          "published": "2026-11-18T14:00:00+00:00",
+          "summary": "Every December, I reflect on my year and plan the next. I share 4 exercises in my personal annual review, plus a Claude Code plugin.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "b9e63452c6bd",
+          "title": "Analysis Debt: The Cost of a Question Nobody Tracks",
+          "url": "https://batimes.com/articles/analysis-debt-the-cost-of-a-question-nobody-tracks/",
+          "source": "BA Times",
+          "section": "product-analysis",
+          "author": "Michael Roy",
+          "published": "2026-11-09T14:38:54+00:00",
+          "summary": "Analysis Debt: The Cost of a Question Nobody Tracks By Michael Roy Every delivery organization can tell you how fast work moved last quarter. Far fewer can say how much of that work was checked before it started moving.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 39
+        },
+        {
+          "id": "21f59dea13c6",
+          "title": "AI and the Future of the Product Role",
+          "url": "https://www.svpg.com/ai-and-the-future-of-the-product-role/",
+          "source": "Silicon Valley Product Group",
+          "section": "product-analysis",
+          "author": "Marty Cagan",
+          "published": "2026-11-06T01:02:22+00:00",
+          "summary": "NOTE: This is a narrative form of a keynote for the 2026 Product Leader Summit. Overview Most people in the industry realize that the job definition and responsibilities of the people in the product role can vary widely across companies.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 40
+        },
+        {
+          "id": "265e6c45204a",
+          "title": "Experimentation, AI and the Product Model",
+          "url": "https://www.svpg.com/experimentation-ai-and-the-product-model/",
+          "source": "Silicon Valley Product Group",
+          "section": "product-analysis",
+          "author": "Marty Cagan",
+          "published": "2026-10-21T15:53:41+00:00",
+          "summary": "NOTE: This is a narrative form of a keynote for the Circus Austin Experimentation Conference. While experimentation can be found in various parts of a company, most people think of either product or marketing.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "30b7e2079ec1",
+          "title": "Product Ethics in the Age of AI",
+          "url": "https://www.romanpichler.com/blog/product-ethics-in-the-age-of-ai/",
+          "source": "Roman Pichler",
+          "section": "product-analysis",
+          "author": "Roman Pichler",
+          "published": "2026-10-05T09:39:41+00:00",
+          "summary": "AI is changing not only what product teams can build, but also what they need to take responsibility for.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "87cda737ce55",
+          "title": "Connecting Product Outcomes to Business Strategy",
+          "url": "https://www.romanpichler.com/blog/connecting-product-outcomes-and-business-strategy/",
+          "source": "Roman Pichler",
+          "section": "product-analysis",
+          "author": "Roman Pichler",
+          "published": "2026-09-15T09:41:42+00:00",
+          "summary": "Every product has to create real value for a group of people and the business, at least in theory. But in practice, that’s not always the case.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "95ac88e87dd6",
+          "title": "The Irreplaceable BA: How to Stay Essential in an AI-Augmented World",
+          "url": "https://batimes.com/articles/the-irreplaceable-ba-how-to-stay-essential-in-an-ai-augmented-world/",
+          "source": "BA Times",
+          "section": "product-analysis",
+          "author": "Mohanaraman Namasivayam",
+          "published": "2026-07-29T19:43:39+00:00",
+          "summary": "Four frameworks for deciding what AI takes, what you keep, and where to grow Mohanaraman Namasivayam Vice President | Senior Business Analyst, Investment Management Technology | IIBA Member The Inflection Point Is Now The research is blunt.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
+        }
+      ]
+    },
+    {
+      "id": "business-trends",
+      "title": "Emerging Business Trends & New Vocabulary",
+      "kicker": "Ideas & Idioms",
+      "articles": [
+        {
+          "id": "9d561cc7e83a",
+          "title": "‘You Can See Everything’ has made more than $100M worldwide",
+          "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Anthony Ha",
+          "published": "2026-11-22T21:42:48+00:00",
+          "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 12
+        },
+        {
+          "id": "716c53fa8fce",
+          "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Anthony Ha",
+          "published": "2026-11-22T21:14:07+00:00",
+          "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "94c57bc0af47",
+          "title": "Wendy’s store closures hit close to 100 locations in franchisee downfall: See the latest list",
+          "url": "https://www.fastcompany.com/91633391/wendys-store-closures-update-list-of-locations-franchise-downfall",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Christopher Zara",
+          "published": "2026-11-22T20:06:00+00:00",
+          "summary": "The owner of a dwindling empire of Wendy’s restaurants on Friday disclosed its plans to close several more stores, bringing its total number of shuttered locations to almost 100.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 29
+        },
+        {
+          "id": "f443b6dc67ee",
+          "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-22T13:50:21+00:00",
+          "summary": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "6cfafb674561",
+          "title": "Conservative media weighs its future as cracks emerge in Trump’s movement",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Jeremy Barr in Washington",
+          "published": "2026-11-22T11:00:26+00:00",
+          "summary": "Two weeks after Democrats flipped Congress, conservative outlets are having conversations on whether to distance themselves from Trump or double down on Maga As a so-called “blue wave” crashed across the country on the night of 3 November, conservative hosts and commentators on Fox News…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "c6e35d49b0be",
+          "title": "Why the NFL is making players disguise their Caddix cleats",
+          "url": "https://www.fastcompany.com/91646518/why-the-nfl-is-making-players-disguise-their-caddix-cleats",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Paul Mueller",
+          "published": "2026-11-22T11:00:00+00:00",
+          "summary": "For a young footwear company trying to break into professional sports, getting Joe Burrow, Caleb Williams, and Cooper Kupp to wear your cleats on any given Sunday would seem like a marketing coup. For Caddix, it’s a marketing conundrum.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 39
+        },
+        {
+          "id": "2aaec3b9a9e8",
+          "title": "MP criticises Guernsey and Jersey company ownership register plans",
+          "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-22T07:22:05+00:00",
+          "summary": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 13
+        },
+        {
+          "id": "9eade0408225",
+          "title": "Hacks, AI and conspiracy theories: why are we having so many outages?",
+          "url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Dan Milmo, Gaya Gupta and Aisha Down",
+          "published": "2026-11-22T06:00:19+00:00",
+          "summary": "After chaos at airlines, banks and companies from Microsoft to Apple, people have become convinced the world’s systems are under attack Nicole Reindorf’s American Airlines flight was ready for takeoff in Phoenix when the pilot came on the intercom and announced what was to become…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "site": "https://www.aljazeera.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BA Times",
+      "site": "https://www.batimes.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – Business",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – India",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – World",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Fast Company",
+      "site": "https://www.fastcompany.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Federal Register – IRS",
+      "site": "https://www.federalregister.gov",
+      "license": "US Government work (public domain)",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Finextra",
+      "site": "https://www.finextra.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Global Voices",
+      "site": "https://globalvoices.org",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "full_text": true
+    },
+    {
+      "name": "NPR News",
+      "site": "https://feeds.npr.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Product Talk",
+      "site": "https://www.producttalk.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Roman Pichler",
+      "site": "https://www.romanpichler.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Silicon Valley Product Group",
+      "site": "https://www.svpg.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Tax Foundation",
+      "site": "https://taxfoundation.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Tax Justice Network",
+      "site": "https://taxjustice.net",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Taxscan (India)",
+      "site": "https://www.taxscan.in",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TechCrunch",
+      "site": "https://techcrunch.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TechCrunch – Fintech",
+      "site": "https://techcrunch.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Conversation",
+      "site": "https://theconversation.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Fintech Times",
+      "site": "https://thefintechtimes.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Business",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Editorials",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Opinion",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – World",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    }
+  ],
+  "errors": [
+    "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
+    "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
+    "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
+    "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
+    "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+    "Mind the Product: feed contained no entries",
+    "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
+    "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
+  ]
+}

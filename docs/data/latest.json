@@ -2,10 +2,10 @@
   "edition": {
     "name": "The Morning Ledger",
     "tagline": "A quiet read for a busy morning",
-    "date": "2026-11-22",
-    "date_long": "Sunday, 22 November 2026",
+    "date": "2026-11-23",
+    "date_long": "Monday, 23 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-22T20:19+05:30",
+    "generated_at": "2026-11-23T05:15+05:30",
     "is_sample": false
   },
   "dashboard": {
@@ -24,22 +24,18 @@
     "keywords": [
       {
         "term": "people",
-        "count": 11
+        "count": 7
+      },
+      {
+        "term": "world",
+        "count": 5
       },
       {
         "term": "company",
-        "count": 8
-      },
-      {
-        "term": "financial",
         "count": 4
       },
       {
         "term": "every",
-        "count": 4
-      },
-      {
-        "term": "business",
         "count": 4
       },
       {
@@ -51,23 +47,27 @@
         "count": 4
       },
       {
-        "term": "least",
+        "term": "trump",
         "count": 3
+      },
+      {
+        "term": "leader",
+        "count": 3
+      },
+      {
+        "term": "climate talks",
+        "count": 2
       },
       {
         "term": "guardian view",
         "count": 2
       },
       {
-        "term": "europe burnham",
+        "term": "take responsibility",
         "count": 2
       },
       {
         "term": "claude code",
-        "count": 2
-      },
-      {
-        "term": "annual review",
         "count": 2
       }
     ],
@@ -103,22 +103,22 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "60,805.00",
-        "change_pct": 0.92,
+        "display": "61,190.00",
+        "change_pct": 1.76,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,709.64",
-        "change_pct": 1.45,
+        "display": "1,720.53",
+        "change_pct": 2.34,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Hedging",
-    "definition": "An investment position intended to offset potential losses or gains that may be incurred by a companion investment.",
+    "term": "Venture Capital",
+    "definition": "A form of private equity and a type of financing that investors provide to startup companies and small businesses that are believed to have long-term growth potential.",
     "source": "The Morning Ledger glossary"
   },
   "dictionary_word": {
@@ -136,46 +136,88 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "6ddaf267abfd",
-          "title": "Uncovering a Criminal Network on the Early Internet | True Crime Reports",
-          "url": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss",
+          "id": "288e6af64e1e",
+          "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+          "url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
           "source": "Al Jazeera",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-22T14:08:28+00:00",
-          "summary": "A global manhunt for one of the internet's earliest paedophile rings. How did police finally bring it down?",
+          "published": "2026-11-22T23:22:59+00:00",
+          "summary": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 18
+          "words": 21
         },
         {
-          "id": "87321b68fdef",
-          "title": "Three killed and dozens missing after fire at Indonesian factory",
-          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+          "id": "3311ad328045",
+          "title": "What it's like at a climate conference as talks collapse",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Rachel Waldholz",
+          "published": "2026-11-22T22:40:23+00:00",
+          "summary": "After two weeks of negotiations, international climate talks fail to reach an agreement. NPR's Rachel Waldholz was in Turkey for the conference.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
+          "id": "6d726c5f1628",
+          "title": "Philly festival-goers say pickles are a real big dill",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Alaena Hunt",
+          "published": "2026-11-22T22:40:19+00:00",
+          "summary": "Influencer and pickle enthusiast Dan Pancoast gives a first hand account of the festivities at the \"The Big Dill\" festival in Philadelphia.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
+          "id": "d636ecf1b50c",
+          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+          "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – World",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-22T14:05:20+00:00",
-          "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+          "published": "2026-11-22T22:37:43+00:00",
+          "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 18
+          "words": 17
         },
         {
-          "id": "7b306ae35bb3",
-          "title": "It's Medicare open enrollment time. Here's what you need to know",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
-          "source": "NPR News",
+          "id": "969b3e367a9a",
+          "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+          "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+          "source": "The Guardian – World",
           "section": "national-international",
-          "author": "Jackie Fortiér",
-          "published": "2026-11-22T13:11:04+00:00",
-          "summary": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
+          "author": "Dan Sabbagh in Kharkiv and Angelique Chrisafis",
+          "published": "2026-11-22T21:33:44+00:00",
+          "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone…",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 34
+          "words": 45
+        },
+        {
+          "id": "b0adccdaf9fa",
+          "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+          "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-22T21:22:40+00:00",
+          "summary": "The couple have been together for four years and were engaged in 2025.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 13
         },
         {
           "id": "f908da6e29c9",
@@ -184,54 +226,12 @@
           "source": "The Guardian – World",
           "section": "national-international",
           "author": "Angelique Chrisafis and agencies",
-          "published": "2026-11-22T12:12:08+00:00",
+          "published": "2026-11-22T12:12:07+00:00",
           "summary": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university entrance exams last week.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 40
-        },
-        {
-          "id": "86c4e817690b",
-          "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-22T11:25:14+00:00",
-          "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 15
-        },
-        {
-          "id": "95ca2a46556a",
-          "title": "NPR's Senior Podcast Challenge: Early entries we love",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "Janet W. Lee",
-          "published": "2026-11-22T10:00:00+00:00",
-          "summary": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition. There's still time to enter!",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 34
-        },
-        {
-          "id": "a0dc0301adf1",
-          "title": "Bank of England directors illegally profited from post-abolition enslavement in Cuba",
-          "url": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Chris Osuh Community affairs correspondent",
-          "published": "2026-11-22T08:00:22+00:00",
-          "summary": "New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people • Slave-trade wealth was embedded in Britain’s financial system, research finds British businesses run by long-serving directors of the Bank of England profited from “brutal” enslavement…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
         },
         {
           "id": "c713f75b5707",
@@ -283,6 +283,48 @@
       "kicker": "Opinion",
       "articles": [
         {
+          "id": "79f3b2c6292d",
+          "title": "The good news out of Cop31? That most of the world’s governments said no to an agreement stripped of meaning | Bill Hare",
+          "url": "https://www.theguardian.com/environment/commentisfree/2026/nov/23/cop31-climate-summit-no-agreement",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Bill Hare",
+          "published": "2026-11-22T22:30:48+00:00",
+          "summary": "Co-chairing global climate talks is clearly not something to be repeated, certainly not by Australia, which is exporting climate pain The failure of Cop31 in Antalya was a line in the sand moment, a victory for multiculturalism as countries stood up to the big fossil…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "d7b05196df5c",
+          "title": "The Guardian view on Serbia’s new political era: a generational opportunity must not be wasted | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/22/the-guardian-view-on-serbias-new-political-era-a-generational-opportunity-must-not-be-wasted",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-22T17:30:32+00:00",
+          "summary": "Brussels must find ways to show concrete support for a new government that will genuinely share the EU’s democratic values Following the extraordinary election that swept Aleksandar Vučić’s autocratic government from power, Serbia’s new political era has begun.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 38
+        },
+        {
+          "id": "04901b2d5bb4",
+          "title": "The Guardian view on Ofsted: its damaged relationship with schools in England needs fixing | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/22/the-guardian-view-on-ofsted-its-damaged-relationship-with-schools-in-england-needs-fixing",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-22T17:25:32+00:00",
+          "summary": "The government, as well as the inspectorate, must take responsibility for reforms that have not worked out The inspection and rating of schools is, by definition, a fraught process. There are few things that parents care more about than the education of their children.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 44
+        },
+        {
           "id": "3f48a541c5a1",
           "title": "The cost-of-living crisis was harming Claudia’s mental wellbeing. Together we worked out strategies to help her cope | Bianca Denny",
           "url": "https://www.theguardian.com/commentisfree/2026/nov/23/cost-of-living-crisis-financial-stress-mental-health-coping-strategies",
@@ -309,48 +351,6 @@
           "license": "",
           "license_url": "",
           "words": 38
-        },
-        {
-          "id": "4c0021c18a94",
-          "title": "Why I won’t leave mathematics, despite AI solving centuries-old problems | Ken Ono",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems",
-          "source": "The Guardian – Opinion",
-          "section": "editorials-opinion",
-          "author": "Ken Ono",
-          "published": "2026-11-22T11:00:26+00:00",
-          "summary": "I believe human judgment remains essential Last year, I nearly quit mathematics. On 20 November, Levent Alpöge announced that, working with Claude, he had proved the Riemann hypothesis, a 167-year-old problem about the distribution of prime numbers.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 37
-        },
-        {
-          "id": "e98fbe9c2820",
-          "title": "The Guardian view on Britain and Europe: Burnham’s reset cannot be the final destination | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/20/the-guardian-view-on-britain-and-europe-burnhams-reset-cannot-be-the-final-destination",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-20T18:13:24+00:00",
-          "summary": "It’s welcome news that Labour has reopened doors that the Conservatives slammed shut. But the fundamental dilemma over European integration remains Andy Burnham on Friday announced a long-awaited deal to ease some of Brexit’s barriers.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 35
-        },
-        {
-          "id": "006d7f4af154",
-          "title": "The Guardian view on Jan van Eyck’s portraits: what it means to be human | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/20/the-guardian-view-on-jan-van-eycks-portraits-what-it-means-to-be-human",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-20T18:12:47+00:00",
-          "summary": "A tiny scar, bloodshot eyes and sagging jowls – it is the intimate details of these 15th-century masterpieces that make them so relatable today The word “human” may have been crowned the Cambridge dictionary’s word of 2026, but its meaning is nowhere more manifest than…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
         },
         {
           "id": "165fadc595ac",
@@ -731,6 +731,48 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
+          "id": "9d561cc7e83a",
+          "title": "‘You Can See Everything’ has made more than $100M worldwide",
+          "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Anthony Ha",
+          "published": "2026-11-22T21:42:48+00:00",
+          "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 12
+        },
+        {
+          "id": "716c53fa8fce",
+          "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Anthony Ha",
+          "published": "2026-11-22T21:14:07+00:00",
+          "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "94c57bc0af47",
+          "title": "Wendy’s store closures hit close to 100 locations in franchisee downfall: See the latest list",
+          "url": "https://www.fastcompany.com/91633391/wendys-store-closures-update-list-of-locations-franchise-downfall",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Christopher Zara",
+          "published": "2026-11-22T20:06:00+00:00",
+          "summary": "The owner of a dwindling empire of Wendy’s restaurants on Friday disclosed its plans to close several more stores, bringing its total number of shuttered locations to almost 100.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 29
+        },
+        {
           "id": "f443b6dc67ee",
           "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
           "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
@@ -743,6 +785,20 @@
           "license": "",
           "license_url": "",
           "words": 24
+        },
+        {
+          "id": "6cfafb674561",
+          "title": "Conservative media weighs its future as cracks emerge in Trump’s movement",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Jeremy Barr in Washington",
+          "published": "2026-11-22T11:00:26+00:00",
+          "summary": "Two weeks after Democrats flipped Congress, conservative outlets are having conversations on whether to distance themselves from Trump or double down on Maga As a so-called “blue wave” crashed across the country on the night of 3 November, conservative hosts and commentators on Fox News…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
         },
         {
           "id": "c6e35d49b0be",
@@ -759,20 +815,6 @@
           "words": 39
         },
         {
-          "id": "b4428b5870f4",
-          "title": "CrowdStrike CEO: Companies are choosing between getting hacked and shutting down",
-          "url": "https://www.fastcompany.com/91646863/crowdstrike-ceo-companies-are-choosing-between-getting-hacked-and-shutting-down",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "Robert Safian",
-          "published": "2026-11-22T10:11:00+00:00",
-          "summary": "Microsoft systems down. Air traffic systems down. Problems at Chase, United, and Apple. After a week of outages across big systems, the AI conspiracy theories are in full swing.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 29
-        },
-        {
           "id": "2aaec3b9a9e8",
           "title": "MP criticises Guernsey and Jersey company ownership register plans",
           "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
@@ -787,56 +829,14 @@
           "words": 13
         },
         {
-          "id": "8d54d4add32f",
-          "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Anthony Ha",
-          "published": "2026-11-21T21:37:10+00:00",
-          "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 15
-        },
-        {
-          "id": "127326b87b53",
-          "title": "A tale of two Nvidias",
-          "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Anthony Ha",
-          "published": "2026-11-21T21:07:42+00:00",
-          "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 24
-        },
-        {
-          "id": "8e797836f2dc",
-          "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
-          "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+          "id": "9eade0408225",
+          "title": "Hacks, AI and conspiracy theories: why are we having so many outages?",
+          "url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
           "source": "The Guardian – Business",
           "section": "business-trends",
-          "author": "Aisha Down Global technology reporter",
-          "published": "2026-11-21T13:00:01+00:00",
-          "summary": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 23
-        },
-        {
-          "id": "96a7f9767d2d",
-          "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
-          "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
-          "source": "The Guardian – Business",
-          "section": "business-trends",
-          "author": "Reuters",
-          "published": "2026-11-20T23:42:43+00:00",
-          "summary": "German company faced 65,000 claims from people who said they developed cancer after using weedkiller A Missouri judge on Friday approved Bayer’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup causes cancer, potentially resolving litigation that has weighed on the German company for close…",
+          "author": "Dan Milmo, Gaya Gupta and Aisha Down",
+          "published": "2026-11-22T06:00:19+00:00",
+          "summary": "After chaos at airlines, banks and companies from Microsoft to Apple, people have become convinced the world’s systems are under attack Nicole Reindorf’s American Airlines flight was ready for takeoff in Phoenix when the pilot came on the intercom and announced what was to become…",
           "full_html": null,
           "license": "",
           "license_url": "",
