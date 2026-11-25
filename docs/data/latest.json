@@ -2,10 +2,10 @@
   "edition": {
     "name": "The Morning Ledger",
     "tagline": "A quiet read for a busy morning",
-    "date": "2026-11-24",
-    "date_long": "Tuesday, 24 November 2026",
+    "date": "2026-11-25",
+    "date_long": "Wednesday, 25 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-24T23:40+05:30",
+    "generated_at": "2026-11-25T08:14+05:30",
     "is_sample": false
   },
   "dashboard": {
@@ -23,15 +23,23 @@
     },
     "keywords": [
       {
-        "term": "world",
+        "term": "nvidia",
+        "count": 7
+      },
+      {
+        "term": "jensen huang",
         "count": 6
       },
       {
-        "term": "nvidia",
+        "term": "world",
         "count": 5
       },
       {
-        "term": "turn",
+        "term": "president",
+        "count": 4
+      },
+      {
+        "term": "leader",
         "count": 4
       },
       {
@@ -39,35 +47,27 @@
         "count": 4
       },
       {
+        "term": "without",
+        "count": 4
+      },
+      {
         "term": "product",
         "count": 4
       },
       {
-        "term": "jensen huang",
-        "count": 3
-      },
-      {
-        "term": "leader",
-        "count": 3
-      },
-      {
-        "term": "market",
-        "count": 3
-      },
-      {
-        "term": "stock",
-        "count": 3
-      },
-      {
-        "term": "jensen huang's",
-        "count": 2
-      },
-      {
-        "term": "president trump",
-        "count": 2
-      },
-      {
         "term": "guardian view",
+        "count": 3
+      },
+      {
+        "term": "country",
+        "count": 3
+      },
+      {
+        "term": "andy burnham",
+        "count": 2
+      },
+      {
+        "term": "form keynote",
         "count": 2
       }
     ],
@@ -103,28 +103,28 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "60,057.00",
-        "change_pct": -2.41,
+        "display": "59,154.00",
+        "change_pct": -1.93,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,682.59",
-        "change_pct": -3.4,
+        "display": "1,655.46",
+        "change_pct": -2.05,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Amortization",
-    "definition": "The practice of spreading an intangible asset's cost over a period of time.",
+    "term": "EBITDA",
+    "definition": "Earnings Before Interest, Taxes, Depreciation, and Amortization—a measure of a company's overall financial performance.",
     "source": "The Morning Ledger glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 24",
-    "definition": "edit · refresh · view Word of the day for November 24 transfect v (transitive, biotechnology, genetics, microbiology, molecular biology) To introduce into (a eukaryotic cell) foreign material, especially a nucleic acid such as deoxyribonucleic acid (DNA) or ribonucleic acid…",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261124000000/en",
+    "word": "Word of the day for November 25",
+    "definition": "edit · refresh · view Word of the day for November 25 itinerant adj Habitually travelling from place to place. (law, chiefly historical) Of a judge or court: travelling from place to place to hear cases; travelling on circuit. (figurative)…",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261125000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -136,10 +136,122 @@
       "kicker": "The World Today",
       "articles": [
         {
+          "id": "61ab9a2065f5",
+          "title": "WHO chief urges end to US fuel blockade on Cuba",
+          "url": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-25T02:23:19+00:00",
+          "summary": "UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "b7d838463719",
+          "title": "China investigates politburo star in Xi Jinping’s latest purge",
+          "url": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Reuters",
+          "published": "2026-11-25T01:31:46+00:00",
+          "summary": "Chen Jining, regarded as a contender for higher office, becomes the fourth member of China’s elite politburo to be investigated since 2025 China has launched an investigation into Shanghai’s Communist party chief Chen Jining, a member of the country’s elite politburo, the state-run Xinhua news…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "ad056cd7373c",
+          "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-25T01:11:57+00:00",
+          "summary": "The verdict follows a months-long trial in New York.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 9
+        },
+        {
+          "id": "7f6a68b60497",
+          "title": "The rising cost of putting food on the table in India",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-25T01:02:13+00:00",
+          "summary": "India's food inflation is broadening, squeezing household budgets.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 8
+        },
+        {
+          "id": "ed632e0b8edc",
+          "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaving US",
+          "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Cris Seda Chabrier in New York",
+          "published": "2026-11-24T23:50:31+00:00",
+          "summary": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain Kilmar Ábrego García is leaving the United States of his own volition, his lawyers confirmed on Tuesday. Ábrego is leaving the US for…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "ca6bd074c97c",
+          "title": "US attorney general dodges questions about Nvidia investigation",
+          "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-24T21:19:42+00:00",
+          "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "b5cd0a714d58",
+          "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+          "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Anna King",
+          "published": "2026-11-24T21:09:29+00:00",
+          "summary": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "c88fba62507e",
+          "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Jenna McLaughlin",
+          "published": "2026-11-24T21:04:50+00:00",
+          "summary": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
           "id": "1f9b448a86c6",
           "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
           "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
+          "source": "BBC News – India",
           "section": "national-international",
           "author": "",
           "published": "2026-11-24T18:07:46+00:00",
@@ -148,118 +260,6 @@
           "license": "",
           "license_url": "",
           "words": 15
-        },
-        {
-          "id": "9594558be78f",
-          "title": "Should freedom of movement be a right or a privilege?",
-          "url": "https://www.aljazeera.com/video/doha-debates/2026/11/24/should-freedom-of-movement-be-a-right-or-a-privilege?traffic_source=rss",
-          "source": "Al Jazeera",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-24T17:45:00+00:00",
-          "summary": "Is freedom of movement a right or a privilege?",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 9
-        },
-        {
-          "id": "97c45c771c65",
-          "title": "Cameroon separatist leader pleads not guilty at war crimes trial in Norway",
-          "url": "https://www.aljazeera.com/news/2026/11/24/cameroon-separatist-leader-pleads-not-guilty-in-war-crimes-trial?traffic_source=rss",
-          "source": "Al Jazeera",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-24T17:39:18+00:00",
-          "summary": "Lucas Cho Ayaba is accused of remotely planning attacks that killed and injured dozens of civilians.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 16
-        },
-        {
-          "id": "ca6bd074c97c",
-          "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-          "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-24T17:04:20+00:00",
-          "summary": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
-        },
-        {
-          "id": "cf7c1eb3cd6e",
-          "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-          "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Pjotr Sauer, Michael Goodier, Harriet Agerholm and Philip McMahon",
-          "published": "2026-11-24T16:00:50+00:00",
-          "summary": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa When the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 41
-        },
-        {
-          "id": "9b4596eb5621",
-          "title": "Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls",
-          "url": "https://www.bbc.co.uk/sport/cricket/articles/c6y9709xx4qwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – India",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-24T14:52:50+00:00",
-          "summary": "India's 15-year-old sensation Vaibhav Sooryavanshi blazes 204 from 53 balls for India A, almost halving the record for the fastest double-century in List A cricket.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 25
-        },
-        {
-          "id": "7b9b3002934a",
-          "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
-          "url": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "Rob Schmitz",
-          "published": "2026-11-24T14:24:04+00:00",
-          "summary": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 32
-        },
-        {
-          "id": "83c9219e60cb",
-          "title": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
-          "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Robert Tait in Washington",
-          "published": "2026-11-24T14:00:48+00:00",
-          "summary": "Trump’s reaction to sensitive information that contradicts his worldview mirrors his conduct towards war with Iran Donald Trump’s unwillingness to heed warnings of suspected Chinese penetration of the tech giant Nvidia follows a pattern of the US president ignoring sensitive intelligence that contradicts his world…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "a64217797322",
-          "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
-          "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "Brittney Melton",
-          "published": "2026-11-24T12:12:25+00:00",
-          "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
         },
         {
           "id": "5f09178094f8",
@@ -283,18 +283,74 @@
       "kicker": "Opinion",
       "articles": [
         {
-          "id": "66bd3a085032",
-          "title": "Mariella Frostrup calls AJ Odudu ‘aggressive’ – and here we go again. We tire of this angry black woman trope | Natalie Morris",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/24/mariella-frostrup-aj-odudu-im-a-celebrity-aggressive-black-woman-trope",
+          "id": "0d558864a036",
+          "title": "I asked AI if it was OK to use AI to write an obituary. The answer surprised me | Anna Spargo-Ryan",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/25/jess-wilson-molly-meldrum-tribute-ai-ethics-obituary",
           "source": "The Guardian – Opinion",
           "section": "editorials-opinion",
-          "author": "Natalie Morris",
-          "published": "2026-11-24T17:26:48+00:00",
-          "summary": "Microaggressions pile up, and then they are triggering.",
+          "author": "Anna Spargo-Ryan",
+          "published": "2026-11-25T01:00:01+00:00",
+          "summary": "Victorian Liberal leader Jess Wilson’s tribute to Molly Meldrum contained heaps of the right words.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 8
+          "words": 15
+        },
+        {
+          "id": "362875b7948a",
+          "title": "Is Albo terminal? No – but the world is in chaos and he will need to find his way through wicked problems | Peter Lewis",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/25/anthony-albanese-approval-rating-poll-results",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Peter Lewis",
+          "published": "2026-11-24T23:22:51+00:00",
+          "summary": "Anthony Albanese is ending the final week of parliament at his lowest ebb – it’s a chance for him to rebuild public confidence in his leadership Guardian Essential poll: Albanese’s disapproval rating hits highest level as problems mount for Labor The prime minister, Anthony Albanese…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "36f46f9d7f48",
+          "title": "Men have used wealth and fame to get away with abuse. No longer | Andy Burnham",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/24/men-have-used-wealth-and-fame-to-get-away-with-abuse-no-longer",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Andy Burnham",
+          "published": "2026-11-24T22:30:58+00:00",
+          "summary": "The NDAs that enforce silence, the behaviour that exploits the age of consent.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 13
+        },
+        {
+          "id": "c21b90b4a3f9",
+          "title": "The Guardian view on disability benefits: Timms’s radical review is rooted in experience | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/24/the-guardian-view-on-disability-benefits-timmss-radical-review-is-rooted-in-experience",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-24T19:15:00+00:00",
+          "summary": "Ministers have taken on board their MPs’ message about cuts. Now anxious claimants need reassurance Four million people with disabilities or long‑term health conditions in the UK claim personal independence payment (Pip).",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "89b91f705e58",
+          "title": "The Guardian view on Andy Burnham and Wales: a devolution blindspot at No 10 | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/24/the-guardian-view-on-andy-burnham-and-wales-a-devolution-blindspot-at-no-10",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-24T19:13:49+00:00",
+          "summary": "The PM has summarily dismissed Welsh demands for further powers similar to those enjoyed in Scotland.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
         },
         {
           "id": "22995c289ab6",
@@ -325,48 +381,6 @@
           "words": 29
         },
         {
-          "id": "cd5dd334005a",
-          "title": "Jensen Huang’s return to Nvidia is elite impunity | Moira Donegan",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/24/jensen-huang-nvidia-return",
-          "source": "The Guardian – Opinion",
-          "section": "editorials-opinion",
-          "author": "Moira Donegan",
-          "published": "2026-11-24T16:39:00+00:00",
-          "summary": "After the CEO was reinstated after Trump’s pressure campaign, it is abundantly clear: there are different rules for rich people There are different rules for rich people.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 27
-        },
-        {
-          "id": "69f68dc33b0c",
-          "title": "The next fight for democracy is in the states | Stacey Abrams",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/19/democracy-fight-states",
-          "source": "The Guardian – Opinion",
-          "section": "editorials-opinion",
-          "author": "Stacey Abrams",
-          "published": "2026-11-24T14:21:26+00:00",
-          "summary": "Defend those being targeted, even when the threat has not reached your door Welcome back to How We Win, a Guardian opinion series with bold ideas for America’s political future.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 30
-        },
-        {
-          "id": "9cbcfc276246",
-          "title": "PNG’s parliament is voting on ratifying Bougainville independence. A ‘no’ won’t be the end of the story",
-          "url": "https://theconversation.com/pngs-parliament-is-voting-on-ratifying-bougainville-independence-a-no-wont-be-the-end-of-the-story-290063",
-          "source": "The Conversation",
-          "section": "editorials-opinion",
-          "author": "Tania Miletic, Co-Director, Initiative for Peacebuilding, Faculty of Arts, The University of Melbourne",
-          "published": "2026-11-23T19:18:19+00:00",
-          "summary": "After more than a century of colonial rule, a brutal war and a hard-won peace, Bougainville is approaching the finals steps of its road to self-determination.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
-        },
-        {
           "id": "795fa0beeab2",
           "title": "The Guardian view on Cop31: a just transition needs more than fine words | Editorial",
           "url": "https://www.theguardian.com/commentisfree/2026/nov/23/the-guardian-view-on-cop31-a-just-transition-needs-more-than-fine-words",
@@ -379,20 +393,6 @@
           "license": "",
           "license_url": "",
           "words": 37
-        },
-        {
-          "id": "9763953b50f4",
-          "title": "The Guardian view on Andy Burnham’s EU intentions: undogmatic consensus building is a sensible strategy | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/23/the-guardian-view-on-andy-burnhams-eu-intentions-undogmatic-consensus-building-is-the-sensible-strategy",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-23T18:28:47+00:00",
-          "summary": "On treacherous political terrain, the government is right to want to proceed with caution and at a pace of its own choosing During the 1980s and 90s, the French president of the European Commission, Jacques Delors, consciously pursued deeper EU integration via a gradualist approach…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
         }
       ]
     },
@@ -402,46 +402,46 @@
       "kicker": "Technology & Money",
       "articles": [
         {
-          "id": "ffcde5b58d29",
-          "title": "NAB CEO hits out at Instagram account's salacious claims",
-          "url": "https://www.finextra.com/newsarticle/48806/nab-ceo-hits-out-at-instagram-accounts-salacious-claims?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "id": "a1d913a272a4",
+          "title": "UK APP fraud losses continue to rise",
+          "url": "https://www.finextra.com/newsarticle/48799/uk-app-fraud-losses-continue-to-rise?utm_medium=rssfinextra&utm_source=finextrafeed",
           "source": "Finextra",
           "section": "fintech-taxtech",
           "author": "",
-          "published": "2026-11-24T15:48:00+00:00",
-          "summary": "The CEO of NAB says the Australian bank will act to protect staff from \"unfair and damaging posts\" on Instagram by a self-described \"customer advocate\" who has made a string of claims concerning drug use, affairs, bullying and corruption at the lender.",
+          "published": "2026-11-25T00:01:00+00:00",
+          "summary": "Losses to authorised push payment (APP) fraud in the UK rose 22% to £316 million in the first half of 2026, according to figures from UK Finance.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 42
+          "words": 27
         },
         {
-          "id": "5274ac64507f",
-          "title": "JP Morgan, HSBC and StoneX pilot digital gold trades",
-          "url": "https://www.finextra.com/newsarticle/48805/jp-morgan-hsbc-and-stonex-pilot-digital-gold-trades?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "id": "61526546bcdc",
+          "title": "Brits wary about letting AI agents make payments for them",
+          "url": "https://www.finextra.com/newsarticle/48808/brits-wary-about-letting-ai-agents-make-payments-for-them?utm_medium=rssfinextra&utm_source=finextrafeed",
           "source": "Finextra",
           "section": "fintech-taxtech",
           "author": "",
-          "published": "2026-11-24T15:29:00+00:00",
-          "summary": "HSBC, JP Morgan and StoneX have carried out the first live trades of fractions of physical gold bars, using it as collateral in legally binding wholesale market transaction.",
+          "published": "2026-11-25T00:01:00+00:00",
+          "summary": "Brits are increasingly turning to AI to research purchases but scepticism remains when it comes to the checkout, with just 13% saying that they are likely to let an agent make a payment for them in the next year.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 28
+          "words": 39
         },
         {
-          "id": "58d549d15037",
-          "title": "CommerzVentures launches €50m fund for AI fintechs",
-          "url": "https://www.finextra.com/newsarticle/48804/commerzventures-launches-50m-fund-for-ai-fintechs?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "id": "e7fb2348751c",
+          "title": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms",
+          "url": "https://www.finextra.com/newsarticle/48807/as-metas-muse-arrives-in-the-uk-fca-issues-agentic-ai-warning-to-tech-firms?utm_medium=rssfinextra&utm_source=finextrafeed",
           "source": "Finextra",
           "section": "fintech-taxtech",
           "author": "",
-          "published": "2026-11-24T14:57:00+00:00",
-          "summary": "German fintech investor CommerzVentures has launched a €50 million fund that will back early-stage firms working on the intersection of AI and financial services.",
+          "published": "2026-11-24T19:48:00+00:00",
+          "summary": "On the day that Meta's Muse launched in the UK, the Financial Conduct Authority has warned technology companies and social media platforms that AI agents offering money-related services could face regulatory scrutiny.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 24
+          "words": 32
         },
         {
           "id": "08df9941025f",
@@ -591,6 +591,20 @@
           "words": 45
         },
         {
+          "id": "fcf968c46d87",
+          "title": "Why Poland Should Abandon Its Proposed Digital Services Tax",
+          "url": "https://taxfoundation.org/testimony/poland-digital-services-tax-proposal/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Anna Leszczyłowska",
+          "published": null,
+          "summary": "Experiences across European countries indicate that digital services taxes typically generate relatively modest amounts of revenue.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
           "id": "fa01a42c57fb",
           "title": "Movers and Shakers in the 2027 State Tax Competitiveness Index",
           "url": "https://taxfoundation.org/blog/best-state-tax-rankings-2027/",
@@ -603,20 +617,6 @@
           "license": "",
           "license_url": "",
           "words": 28
-        },
-        {
-          "id": "a413350475d3",
-          "title": "How Value-Added in Trade Complicates the Tariff Picture",
-          "url": "https://taxfoundation.org/blog/value-added-trade-tariffs-china-iphone/",
-          "source": "Tax Foundation",
-          "section": "tax-policy",
-          "author": "Alex Durante",
-          "published": null,
-          "summary": "Although President Trump’s current tariffs apply to nearly every US trading partner, he has often advocated for tariffs to reduce US exposure to China. However, standard trade statistics might not capture China’s true role in global trade.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 37
         }
       ]
     },
@@ -717,116 +717,116 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
-          "id": "cb0d7372f9a0",
-          "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-          "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-          "source": "TechCrunch",
+          "id": "7b396d8d4767",
+          "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+          "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
           "section": "business-trends",
-          "author": "Zack Whittaker",
-          "published": "2026-11-24T18:02:59+00:00",
-          "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+          "author": "",
+          "published": "2026-11-25T01:03:05+00:00",
+          "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 23
+          "words": 14
         },
         {
-          "id": "e7b02e8b4c25",
-          "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
-          "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
+          "id": "05f887d0221c",
+          "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+          "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
           "source": "TechCrunch",
           "section": "business-trends",
-          "author": "Sarah Perez",
-          "published": "2026-11-24T17:44:34+00:00",
-          "summary": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
+          "author": "Connie Loizos",
+          "published": "2026-11-25T00:12:02+00:00",
+          "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether…",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 21
+          "words": 45
         },
         {
-          "id": "92b9681163bc",
-          "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
-          "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+          "id": "f4b8c1692ea5",
+          "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+          "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
           "source": "TechCrunch",
           "section": "business-trends",
-          "author": "Kirsten Korosec",
-          "published": "2026-11-24T17:29:09+00:00",
-          "summary": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
-        },
-        {
-          "id": "db36e8413ef5",
-          "title": "AI upended entry-level jobs. Here’s what employers are actually looking for",
-          "url": "https://www.fastcompany.com/91647653/ai-upended-entry-level-jobs-heres-what-employers-are-actually-looking-for",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "Alyshia Hull",
-          "published": "2026-11-24T17:00:00+00:00",
-          "summary": "AI is changing nearly every aspect of the workplace—but especially entry-level jobs, to the point where Gen Z is calling for millennials (who are only in their 30s and 40s) to retire to make room.",
+          "author": "Lucas Ropek",
+          "published": "2026-11-25T00:10:27+00:00",
+          "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 35
         },
         {
-          "id": "a6f0127aee43",
-          "title": "Leaders: transformation should not be your focus",
-          "url": "https://www.fastcompany.com/91643017/leaders-transformation-should-not-be-your-focus",
+          "id": "bbacde70f5a0",
+          "title": "Billy Evans may have gotten a share of the profits from ‘You Can See Everything’ after all",
+          "url": "https://www.fastcompany.com/91648459/billy-evans-may-have-gotten-a-profit-share-from-you-can-see-everything-after-all",
           "source": "Fast Company",
           "section": "business-trends",
-          "author": "Natalie Nixon",
-          "published": "2026-11-24T16:31:37+00:00",
-          "summary": "In his 1980 book Managing in Turbulent Times, management guru Peter Drucker wrote, “The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday’s logic.” This seems obvious.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 34
-        },
-        {
-          "id": "a80b129c6839",
-          "title": "‘The mistake has been corrected’: end of Jensen Huang’s brief walk in the wilderness",
-          "url": "https://www.theguardian.com/technology/2026/nov/24/mistake-corrected-jensen-huang-resinstated-nvidia-analysis",
-          "source": "The Guardian – Business",
-          "section": "business-trends",
-          "author": "Robert Booth UK technology editor",
-          "published": "2026-11-24T16:27:41+00:00",
-          "summary": "Tech sector’s campaign to reinstate Nvidia boss began soon after ousting over affair with alleged Chinese spy The tech billionaires could hardly contain their delight. “Jensen!” exclaimed OpenAI’s chief executive, Sam Altman, in a one-word post on X.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 38
-        },
-        {
-          "id": "7a85209059dd",
-          "title": "World Cup drove profits surge, says Marston's",
-          "url": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Business",
-          "section": "business-trends",
-          "author": "",
-          "published": "2026-11-24T13:03:20+00:00",
-          "summary": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
-        },
-        {
-          "id": "684c649ba380",
-          "title": "US school bus drivers decline amid low pay and poor work conditions",
-          "url": "https://www.theguardian.com/education/2026/nov/24/school-bus-driver-decline-budget",
-          "source": "The Guardian – Business",
-          "section": "business-trends",
-          "author": "Michael Sainato",
-          "published": "2026-11-24T11:00:45+00:00",
-          "summary": "Total number of drivers dropped 5% over the last year and fell 15% compared with 2019 levels, new report finds The number of school bus drivers in the US has dropped 5% over the last year as drivers continue to experience low pay, poor working…",
+          "author": "Jude Cramer",
+          "published": "2026-11-24T23:00:00+00:00",
+          "summary": "You Can See Everything may begin as a documentary about disgraced tech entrepreneur Elizabeth Holmes in the month before her prison sentence, but in the movie’s second half, an entirely different (and entirely meta) subject emerges: the deal between Holmes’s partner, Billy Evans, and studio…",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
+        },
+        {
+          "id": "7a5947019eec",
+          "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+          "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Kirsten Korosec",
+          "published": "2026-11-24T22:27:52+00:00",
+          "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "e298585cdf4b",
+          "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+          "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Agence France-Presse",
+          "published": "2026-11-24T22:05:21+00:00",
+          "summary": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "d1d290cfebe4",
+          "title": "The Jensen Huang saga poses the question: What happens when a leader becomes too big to fail?",
+          "url": "https://www.fastcompany.com/91648621/jensen-huang-poses-the-question-what-happens-when-a-leader-becomes-too-big-to-fail",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Kathryn Landis",
+          "published": "2026-11-24T22:00:00+00:00",
+          "summary": "Less than a week after Nvidia’s board said it would not reinstate Jensen Huang, it renamed him president and CEO.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "2cb7a4b8fd45",
+          "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
+          "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Dara Kerr",
+          "published": "2026-11-24T20:32:02+00:00",
+          "summary": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his return Jensen Huang apologized to staff on Tuesday for the tumult he’s caused at Nvidia.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
         }
       ]
     }

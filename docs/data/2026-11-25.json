@@ -1,0 +1,1014 @@
+{
+  "edition": {
+    "name": "The Morning Ledger",
+    "tagline": "A quiet read for a busy morning",
+    "date": "2026-11-25",
+    "date_long": "Wednesday, 25 November 2026",
+    "timezone": "Asia/Kolkata",
+    "generated_at": "2026-11-25T08:14+05:30",
+    "is_sample": false
+  },
+  "dashboard": {
+    "total_articles": 47,
+    "reading_minutes": 9,
+    "source_count": 24,
+    "full_text_count": 1,
+    "per_section": {
+      "national-international": 10,
+      "editorials-opinion": 8,
+      "fintech-taxtech": 7,
+      "tax-policy": 8,
+      "product-analysis": 6,
+      "business-trends": 8
+    },
+    "keywords": [
+      {
+        "term": "nvidia",
+        "count": 7
+      },
+      {
+        "term": "jensen huang",
+        "count": 6
+      },
+      {
+        "term": "world",
+        "count": 5
+      },
+      {
+        "term": "president",
+        "count": 4
+      },
+      {
+        "term": "leader",
+        "count": 4
+      },
+      {
+        "term": "people",
+        "count": 4
+      },
+      {
+        "term": "without",
+        "count": 4
+      },
+      {
+        "term": "product",
+        "count": 4
+      },
+      {
+        "term": "guardian view",
+        "count": 3
+      },
+      {
+        "term": "country",
+        "count": 3
+      },
+      {
+        "term": "andy burnham",
+        "count": 2
+      },
+      {
+        "term": "form keynote",
+        "count": 2
+      }
+    ],
+    "markets": [
+      {
+        "label": "USD/EUR",
+        "group": "Currencies",
+        "display": "0.9122",
+        "change_pct": -0.22,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/GBP",
+        "group": "Currencies",
+        "display": "0.7635",
+        "change_pct": -0.19,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/INR",
+        "group": "Currencies",
+        "display": "92.92",
+        "change_pct": 0.0,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/JPY",
+        "group": "Currencies",
+        "display": "159.07",
+        "change_pct": 0.0,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "Bitcoin (USD)",
+        "group": "Crypto",
+        "display": "59,154.00",
+        "change_pct": -1.93,
+        "source": "CoinGecko"
+      },
+      {
+        "label": "Ethereum (USD)",
+        "group": "Crypto",
+        "display": "1,655.46",
+        "change_pct": -2.05,
+        "source": "CoinGecko"
+      }
+    ]
+  },
+  "word_of_the_day": {
+    "term": "EBITDA",
+    "definition": "Earnings Before Interest, Taxes, Depreciation, and Amortization—a measure of a company's overall financial performance.",
+    "source": "The Morning Ledger glossary"
+  },
+  "dictionary_word": {
+    "word": "Word of the day for November 25",
+    "definition": "edit · refresh · view Word of the day for November 25 itinerant adj Habitually travelling from place to place. (law, chiefly historical) Of a judge or court: travelling from place to place to hear cases; travelling on circuit. (figurative)…",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261125000000/en",
+    "source": "Wiktionary",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "sections": [
+    {
+      "id": "national-international",
+      "title": "National & International News",
+      "kicker": "The World Today",
+      "articles": [
+        {
+          "id": "61ab9a2065f5",
+          "title": "WHO chief urges end to US fuel blockade on Cuba",
+          "url": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-25T02:23:19+00:00",
+          "summary": "UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "b7d838463719",
+          "title": "China investigates politburo star in Xi Jinping’s latest purge",
+          "url": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Reuters",
+          "published": "2026-11-25T01:31:46+00:00",
+          "summary": "Chen Jining, regarded as a contender for higher office, becomes the fourth member of China’s elite politburo to be investigated since 2025 China has launched an investigation into Shanghai’s Communist party chief Chen Jining, a member of the country’s elite politburo, the state-run Xinhua news…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "ad056cd7373c",
+          "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-25T01:11:57+00:00",
+          "summary": "The verdict follows a months-long trial in New York.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 9
+        },
+        {
+          "id": "7f6a68b60497",
+          "title": "The rising cost of putting food on the table in India",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-25T01:02:13+00:00",
+          "summary": "India's food inflation is broadening, squeezing household budgets.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 8
+        },
+        {
+          "id": "ed632e0b8edc",
+          "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaving US",
+          "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Cris Seda Chabrier in New York",
+          "published": "2026-11-24T23:50:31+00:00",
+          "summary": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain Kilmar Ábrego García is leaving the United States of his own volition, his lawyers confirmed on Tuesday. Ábrego is leaving the US for…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "ca6bd074c97c",
+          "title": "US attorney general dodges questions about Nvidia investigation",
+          "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-24T21:19:42+00:00",
+          "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "b5cd0a714d58",
+          "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+          "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Anna King",
+          "published": "2026-11-24T21:09:29+00:00",
+          "summary": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "c88fba62507e",
+          "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Jenna McLaughlin",
+          "published": "2026-11-24T21:04:50+00:00",
+          "summary": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "1f9b448a86c6",
+          "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-24T18:07:46+00:00",
+          "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "5f09178094f8",
+          "title": "In Kyrgyzstan, public meetings with the president turn into a quest to seek justice",
+          "url": "https://globalvoices.org/2026/11/24/in-kyrgyzstan-public-meetings-with-the-president-turn-into-a-quest-to-seek-justice/",
+          "source": "Global Voices",
+          "section": "national-international",
+          "author": "Nurbek Bekmurzaev",
+          "published": "2026-11-24T06:10:50+00:00",
+          "summary": "The message is clear: People have lost all hope of finding justice at the hands of local police and courts.",
+          "full_html": "<p><em>Complaints include marriage disputes, unfair trial, unlawful land grabs, corruption, torture, and more</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/24/in-kyrgyzstan-public-meetings-with-the-president-turn-into-a-quest-to-seek-justice/\">Global Voices</a></p><p>An old man in the Talas province addressing Kyrgyz President Sadyr Japarov during a public meeting. Photo from the <a href=\"https://president.kg/ru/news/21/41088\">Presidential Administration&#x27;s website</a>. Fair Use.</p>\n<p><em>This post is part of Global Voices’ November 2026 Spotlight series, “<a href=\"https://globalvoices.org/special/justice-as-infrastructure/\">Justice as infrastructure</a>.” In this Spotlight, Global Voices is partnering with The Hague Institute for Innovation of Law (<a href=\"https://hiil.org/\">HiiL</a>) to highlight the ways justice functions as critical infrastructure for any society. You can support this coverage by donating <a href=\"https://globalvoices.org/2026/10/28/support-global-voices-spotlight-justice-as-infrastructure/\">here</a>.</em></p>\n<p>In October and November 2026, Kyrgyzstan’s president, Sadyr Japarov, held public meetings with the population in all seven provinces of the country. What were meant to be formal events turned into quests for justice by people driven to desperation.</p>\n<p>The meetings revealed the ineffectiveness of the existing justice mechanisms and showed how people saw the president as the only guarantor of justice.</p>\n<p>The effectiveness of Kyrgyzstan’s law enforcement and judicial bodies was people’s most common justice-related complaint. During a meeting with residents of the southwestern Batken province on October 11, a woman <a href=\"https://kaktus.media/doc/554861_japarov_o_myjchinah_ostavliaushih_svoi_semi_bez_nichego_posle_razvoda:_sovsem_isportilis.html\">complained</a> to the president about her former husband, who accused her of forging their marriage certificate and framed her for crimes she did not commit to avoid the division of assets after their divorce.</p>\n<p>She also <a href=\"https://kaktus.media/doc/554861_japarov_o_myjchinah_ostavliaushih_svoi_semi_bez_nichego_posle_razvoda:_sovsem_isportilis.html\">said</a> her former brother-in-law provided false testimony to back up his brother’s accusations. She now lives in an apartment with their three children in constant fear that her former husband may kick them out because he allegedly bribed police and courts.</p>\n<p>This trivial legal dispute reached the point where the woman had to beg the president to ensure a just investigation and ruling. Japarov condemned her former husband and said that he should have left everything to her and their kids after the divorce.</p>\n<p>Here is an Instagram reel with his response to the case.</p>\n<blockquote>\n <a href=\"https://www.instagram.com/reel/DeY0VQJDu0o/?utm_source=ig_embed&amp;utm_campaign=loading\"> \n\n\n\n\n\n\n\n\n\n\nView this post on Instagram\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</a>\n</blockquote>\n\n<p>On October 26, Japarov met with residents of the Kazarman district in the southern Jalalabad province, where Shirimbek Abrahmanov <a href=\"https://24.kg/article/dva-goda-tyurmy-iz-za-dvuh-tysyach-somov-prezident-nazval-reshenie-suda-pozornym\">told the president about his father</a>, who was imprisoned for allegedly offering a bribe of KGS 2,000 (USD 23) to a police officer during a traffic stop. The district court acquitted him of the charges.</p>\n<p>However, the local prosecutor’s office appealed the decision in the provincial court, which found Abdrahmanov’s father guilty and sentenced him to two years in prison.</p>\n<p>Here is an Instagram reel with the complaint and Japarov’s response.</p>\n<blockquote>\n <a href=\"https://www.instagram.com/reel/De9zmnzxTBt/?utm_source=ig_embed&amp;utm_campaign=loading\"> \n\n\n\n\n\n\n\n\n\n\nView this post on Instagram\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</a>\n</blockquote>\n\n<p>Japarov could not hide his anger when he heard the story, especially after finding out the provincial court took seven months to issue a verdict. In reply, he confronted local authorities and said:</p>\n<blockquote><p>Are the traffic police officer and the prosecutor in cahoots? Does that mean they’ve ganged up on him? If it were a large bribe, that would be one thing. But to have someone imprisoned over two thousand soms — that’s a disgrace.</p></blockquote>\n<p>The man was <a href=\"https://kaktus.media/doc/557183_prezident_pomiloval_myjchiny_kotoryy_byl_osyjden_za_dachy_vziatki_v_2_tys._somov_inspektory.html\">released</a> from custody shortly after Japarov’s intervention and subsequent pardon.</p>\n<p>Similar complaints resurfaced multiple times during presidential meetings in other provinces, highlighting systemic problems plaguing the judicial and law-enforcement systems.</p>\n<p>The message is clear: people have lost all hope of finding justice at the hands of local police and courts.</p>\n<p>Surprisingly, following his meetings with the public, Japarov <a href=\"https://kabarlar.org/ru/news/uroven-nedoveriya-k-sudam-snizilsya-no-ostayutsya-problemy-s-zatyagivaniem-del-i\">concluded</a> that the level of distrust towards courts has decreased, but admitted that problems in the judicial system remain and must be solved quickly.</p>\n<p>On the one hand, the lack of justice and the dysfunction within the courts and police bodies, which are plagued by corruption and bureaucracy, are real pressing issues affecting millions of people across Kyrgyzstan. However, the current political regime led by Japarov, who came to power in October 2020, has made little tangible progress.</p>\n<p>In 2026, Kyrgyzstan was <a href=\"https://worldjusticeproject.org/sites/default/files/documents/Kyrgyzstan_0.pdf\">ranked</a> 99th out of 144 states in the Rule of Law Index compiled by the World Justice Project. For comparison, in 2020, it was ranked <a href=\"https://worldjusticeproject.org/sites/default/files/documents/WJP-ROLI-2020-Online_0.pdf\">87th</a>.</p>\n<p>On the other hand, people’s desperate appeals for justice helped Japarov sustain his man-of-the-people image. By listening to people’s requests and swiftly resolving their issues, the president can reinforce his popularity. In turn, this leads to the maintenance of the <a href=\"https://eurasianet.org/kyrgyzstan-personalistic-regime-reveals-cracks-in-the-system\">personalistic regime</a> built around Japarov since his arrival to power.</p>\n<strong>Written by <a href=\"https://globalvoices.org/author/nurbek-bekmurzaev/\">Nurbek Bekmurzaev</a></strong>",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "words": 713
+        }
+      ]
+    },
+    {
+      "id": "editorials-opinion",
+      "title": "Editorials & Opinion",
+      "kicker": "Opinion",
+      "articles": [
+        {
+          "id": "0d558864a036",
+          "title": "I asked AI if it was OK to use AI to write an obituary. The answer surprised me | Anna Spargo-Ryan",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/25/jess-wilson-molly-meldrum-tribute-ai-ethics-obituary",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Anna Spargo-Ryan",
+          "published": "2026-11-25T01:00:01+00:00",
+          "summary": "Victorian Liberal leader Jess Wilson’s tribute to Molly Meldrum contained heaps of the right words.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "362875b7948a",
+          "title": "Is Albo terminal? No – but the world is in chaos and he will need to find his way through wicked problems | Peter Lewis",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/25/anthony-albanese-approval-rating-poll-results",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Peter Lewis",
+          "published": "2026-11-24T23:22:51+00:00",
+          "summary": "Anthony Albanese is ending the final week of parliament at his lowest ebb – it’s a chance for him to rebuild public confidence in his leadership Guardian Essential poll: Albanese’s disapproval rating hits highest level as problems mount for Labor The prime minister, Anthony Albanese…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "36f46f9d7f48",
+          "title": "Men have used wealth and fame to get away with abuse. No longer | Andy Burnham",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/24/men-have-used-wealth-and-fame-to-get-away-with-abuse-no-longer",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Andy Burnham",
+          "published": "2026-11-24T22:30:58+00:00",
+          "summary": "The NDAs that enforce silence, the behaviour that exploits the age of consent.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 13
+        },
+        {
+          "id": "c21b90b4a3f9",
+          "title": "The Guardian view on disability benefits: Timms’s radical review is rooted in experience | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/24/the-guardian-view-on-disability-benefits-timmss-radical-review-is-rooted-in-experience",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-24T19:15:00+00:00",
+          "summary": "Ministers have taken on board their MPs’ message about cuts. Now anxious claimants need reassurance Four million people with disabilities or long‑term health conditions in the UK claim personal independence payment (Pip).",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "89b91f705e58",
+          "title": "The Guardian view on Andy Burnham and Wales: a devolution blindspot at No 10 | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/24/the-guardian-view-on-andy-burnham-and-wales-a-devolution-blindspot-at-no-10",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-24T19:13:49+00:00",
+          "summary": "The PM has summarily dismissed Welsh demands for further powers similar to those enjoyed in Scotland.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "22995c289ab6",
+          "title": "Justice is elusive for the Rohingya even after the ICJ’s landmark genocide ruling against Myanmar",
+          "url": "https://theconversation.com/justice-is-elusive-for-the-rohingya-even-after-the-icjs-landmark-genocide-ruling-against-myanmar-297125",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "San Beauchemin, Doctoral Researcher, School of Political Studies, L’Université d’Ottawa/University of Ottawa",
+          "published": "2026-11-24T16:49:44+00:00",
+          "summary": "The prospect of a safe and dignified repatriation of the Rohingya to Myanmar is a near impossibility despite the IJC ruling.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "e2ba0e13f0a1",
+          "title": "Mother tongue language rights don’t implement themselves: Lessons from Nepal’s classrooms",
+          "url": "https://theconversation.com/mother-tongue-language-rights-dont-implement-themselves-lessons-from-nepals-classrooms-292724",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Mark Turin, Associate professor, Institute for Critical Indigenous Studies, University of British Columbia",
+          "published": "2026-11-24T16:48:47+00:00",
+          "summary": "The country has 124 mother tongues and a constitutional promise to teach children in them. But without funding, trained teachers and local-language textbooks, that promise is hard to keep.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 29
+        },
+        {
+          "id": "795fa0beeab2",
+          "title": "The Guardian view on Cop31: a just transition needs more than fine words | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/23/the-guardian-view-on-cop31-a-just-transition-needs-more-than-fine-words",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-23T18:29:05+00:00",
+          "summary": "Petrostates blocked ambition while wealthy nations withheld cash support. The climate crisis demands the next UN summit turns promises into action In a negotiation the maxim is usually that no deal is better than a bad deal.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
+        }
+      ]
+    },
+    {
+      "id": "fintech-taxtech",
+      "title": "FinTech & Tax Technology",
+      "kicker": "Technology & Money",
+      "articles": [
+        {
+          "id": "a1d913a272a4",
+          "title": "UK APP fraud losses continue to rise",
+          "url": "https://www.finextra.com/newsarticle/48799/uk-app-fraud-losses-continue-to-rise?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-25T00:01:00+00:00",
+          "summary": "Losses to authorised push payment (APP) fraud in the UK rose 22% to £316 million in the first half of 2026, according to figures from UK Finance.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "61526546bcdc",
+          "title": "Brits wary about letting AI agents make payments for them",
+          "url": "https://www.finextra.com/newsarticle/48808/brits-wary-about-letting-ai-agents-make-payments-for-them?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-25T00:01:00+00:00",
+          "summary": "Brits are increasingly turning to AI to research purchases but scepticism remains when it comes to the checkout, with just 13% saying that they are likely to let an agent make a payment for them in the next year.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 39
+        },
+        {
+          "id": "e7fb2348751c",
+          "title": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms",
+          "url": "https://www.finextra.com/newsarticle/48807/as-metas-muse-arrives-in-the-uk-fca-issues-agentic-ai-warning-to-tech-firms?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-24T19:48:00+00:00",
+          "summary": "On the day that Meta's Muse launched in the UK, the Financial Conduct Authority has warned technology companies and social media platforms that AI agents offering money-related services could face regulatory scrutiny.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "08df9941025f",
+          "title": "CBI, BANCOMAT, and Nexi Partner on Italian Digital Euro Infrastructure",
+          "url": "https://thefintechtimes.com/cbi-bancomat-and-nexi-partner-on-italian-digital-euro-infrastructure/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-24T14:00:40+00:00",
+          "summary": "CBI, BANCOMAT, and Nexi have signed an MoU to build a shared Italian digital euro infrastructure, helping banks and PSPs reduce costs and connect to Eurosystem services.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "b9eea00f2816",
+          "title": "In Profile: Mira Boora, COO and Co-Founder at Yeeld",
+          "url": "https://thefintechtimes.com/in-profile-mira-boora-coo-and-co-founder-at-yeeld/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "Rowen Brooks",
+          "published": "2026-11-24T11:01:19+00:00",
+          "summary": "Yeeld co-founder and COO Mira Boora on starting out as a teller, nine years at OFX, Stripe, and building compliant card surcharging for software platforms.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "03350fff032b",
+          "title": "The world believes in UK FinTech – we must ensure we do the same",
+          "url": "https://thefintechtimes.com/the-world-believes-in-uk-fintech-we-must-ensure-we-do-the-same/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "Janine Hirt",
+          "published": "2026-11-24T10:00:18+00:00",
+          "summary": "Innovate Finance calls for faster UK policy and regulatory action on SME lending, Open Finance, sterling stablecoins and talent to maintain the country’s global fintech leadership.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "0d63fb1e6c01",
+          "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+          "source": "TechCrunch – Fintech",
+          "section": "fintech-taxtech",
+          "author": "Sarah Perez",
+          "published": "2026-11-23T22:02:05+00:00",
+          "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        }
+      ]
+    },
+    {
+      "id": "tax-policy",
+      "title": "Tax News & Policy Updates",
+      "kicker": "The Tax Desk",
+      "articles": [
+        {
+          "id": "934938f7f7b1",
+          "title": "Pre-GST Tender Contracts: Patna HC orders IGIMS to Refund Differential Tax of Rs. 10.33 crores [Read order]",
+          "url": "https://www.taxscan.in/gst/pre-gst-tender-contracts-patna-hc-orders-igims-to-refund-differential-tax-of-rs-1033-crores-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Navasree A.M",
+          "published": "2026-11-24T12:16:16+00:00",
+          "summary": "Indira Gandhi Institute of Medical Sciences ordered to consider contractor’s claim for reimbursement of ₹10.33 crore in differential GST paid on pre-GST tenders.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "2c0a3231b019",
+          "title": "Digital Marketer is Not a “Professional”: ITAT Rejects 50% Presumptive Profit, says TDS u/s 194J Not Conclusive for Applying S. 44ADA",
+          "url": "https://www.taxscan.in/income-tax/digital-marketer-is-not-a-professional-itat-rejects-50-presumptive-profit-says-tds-us-194j-not-conclusive-for-applying-s-44ada-2",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Rajshree Tiwari",
+          "published": "2026-11-24T12:15:59+00:00",
+          "summary": "A digital marketer's receipts cannot be taxed at 50 per cent as professional income just because TDS was deducted under Section 194J. He does not practise any specified profession.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 29
+        },
+        {
+          "id": "6dd63c672ea2",
+          "title": "Notice Affixed Without Exhausting Other Modes of Service & Addition Made on Different Reason than Mentioned in Notice: ITAT Quashes Proceedings [Read Order]",
+          "url": "https://www.taxscan.in/income-tax/notice-affixed-without-exhausting-other-modes-of-service-addition-made-on-different-reason-than-mentioned-in-notice-itat-quashes-proceedings-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Ansha Dillu PK",
+          "published": "2026-11-24T11:26:47+00:00",
+          "summary": "The Delhi ITAT quashed reassessment proceedings after finding that the Section 148 notice was served by affixture without exhausting other modes of service and the AO made an addition on an issue different from the one forming the basis for reopening.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 41
+        },
+        {
+          "id": "ba06500c684f",
+          "title": "COP31 failed in Antalya. Nairobi is where we can start fixing it",
+          "url": "https://taxjustice.net/2026/11/24/cop31-failed-in-antalya-nairobi-is-where-we-can-start-fixing-it/",
+          "source": "Tax Justice Network",
+          "section": "tax-policy",
+          "author": "Sergio Chaparro-Hernandez",
+          "published": "2026-11-24T07:19:52+00:00",
+          "summary": "The world woke up this week to headlines declaring COP31 in Antalya a failure. What exactly failed, and who is to blame, is already in dispute.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "e3bf11f8ab99",
+          "title": "Agency Information Collection Activities; Comment Request Relating to Late Filing of Certification or Notices",
+          "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23782/agency-information-collection-activities-comment-request-relating-to-late-filing-of-certification-or",
+          "source": "Federal Register – IRS",
+          "section": "tax-policy",
+          "author": "Treasury Department, Internal Revenue Service",
+          "published": "2026-11-23T05:00:00+00:00",
+          "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "bd7718b54e9a",
+          "title": "Quarterly Publication of Individuals Who Have Chosen To Expatriate; Correction",
+          "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23747/quarterly-publication-of-individuals-who-have-chosen-to-expatriate-correction",
+          "source": "Federal Register – IRS",
+          "section": "tax-policy",
+          "author": "Treasury Department, Internal Revenue Service",
+          "published": "2026-11-23T05:00:00+00:00",
+          "summary": "This document contains corrections to a publication of the Quarterly Publication Of Individuals Who Have Chosen To Expatriate in accordance with IRC Section 6039G of the Health Insurance Portability and Accountability Act (HIPAA) of 1996, as amended that was published in the Federal Register on…",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "fcf968c46d87",
+          "title": "Why Poland Should Abandon Its Proposed Digital Services Tax",
+          "url": "https://taxfoundation.org/testimony/poland-digital-services-tax-proposal/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Anna Leszczyłowska",
+          "published": null,
+          "summary": "Experiences across European countries indicate that digital services taxes typically generate relatively modest amounts of revenue.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "fa01a42c57fb",
+          "title": "Movers and Shakers in the 2027 State Tax Competitiveness Index",
+          "url": "https://taxfoundation.org/blog/best-state-tax-rankings-2027/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Janelle Fritts",
+          "published": null,
+          "summary": "In the spirit of change and improvement, it’s worth looking back to see which states have truly embraced tax competitiveness since 2020, and which ones have lagged behind.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        }
+      ]
+    },
+    {
+      "id": "product-analysis",
+      "title": "Product Management & Business Analysis",
+      "kicker": "The Craft",
+      "articles": [
+        {
+          "id": "0d52bb79660d",
+          "title": "Bugs - All Things Product Podcast with Teresa Torres & Petra Wille",
+          "url": "https://www.producttalk.org/bugs-all-things-product-podcast-with-teresa-torres-petra-wille/",
+          "source": "Product Talk",
+          "section": "product-analysis",
+          "author": "Teresa Torres",
+          "published": "2026-11-24T14:00:00+00:00",
+          "summary": "Listen to this episode on: Spotify | Apple Podcasts In a world of AI products, what even counts as a “bug” — and can you still promise to fix it?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "2c0c968ff1c7",
+          "title": "Why Product Management is Still Hard",
+          "url": "https://www.romanpichler.com/blog/why-product-management-is-still-hard/",
+          "source": "Roman Pichler",
+          "section": "product-analysis",
+          "author": "Roman Pichler",
+          "published": "2026-11-24T11:53:39+00:00",
+          "summary": "AI has given product managers new capabilities and tools. It can analyse customer sentiment, uncover patterns in support tickets, and turn ideas into working prototypes faster than ever. But practising product management well is still hard.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 36
+        },
+        {
+          "id": "b9e63452c6bd",
+          "title": "Analysis Debt: The Cost of a Question Nobody Tracks",
+          "url": "https://batimes.com/articles/analysis-debt-the-cost-of-a-question-nobody-tracks/",
+          "source": "BA Times",
+          "section": "product-analysis",
+          "author": "Michael Roy",
+          "published": "2026-11-09T14:38:54+00:00",
+          "summary": "Analysis Debt: The Cost of a Question Nobody Tracks By Michael Roy Every delivery organization can tell you how fast work moved last quarter. Far fewer can say how much of that work was checked before it started moving.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 39
+        },
+        {
+          "id": "21f59dea13c6",
+          "title": "AI and the Future of the Product Role",
+          "url": "https://www.svpg.com/ai-and-the-future-of-the-product-role/",
+          "source": "Silicon Valley Product Group",
+          "section": "product-analysis",
+          "author": "Marty Cagan",
+          "published": "2026-11-06T01:02:22+00:00",
+          "summary": "NOTE: This is a narrative form of a keynote for the 2026 Product Leader Summit. Overview Most people in the industry realize that the job definition and responsibilities of the people in the product role can vary widely across companies.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 40
+        },
+        {
+          "id": "265e6c45204a",
+          "title": "Experimentation, AI and the Product Model",
+          "url": "https://www.svpg.com/experimentation-ai-and-the-product-model/",
+          "source": "Silicon Valley Product Group",
+          "section": "product-analysis",
+          "author": "Marty Cagan",
+          "published": "2026-10-21T15:53:41+00:00",
+          "summary": "NOTE: This is a narrative form of a keynote for the Circus Austin Experimentation Conference. While experimentation can be found in various parts of a company, most people think of either product or marketing.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "95ac88e87dd6",
+          "title": "The Irreplaceable BA: How to Stay Essential in an AI-Augmented World",
+          "url": "https://batimes.com/articles/the-irreplaceable-ba-how-to-stay-essential-in-an-ai-augmented-world/",
+          "source": "BA Times",
+          "section": "product-analysis",
+          "author": "Mohanaraman Namasivayam",
+          "published": "2026-07-29T19:43:39+00:00",
+          "summary": "Four frameworks for deciding what AI takes, what you keep, and where to grow Mohanaraman Namasivayam Vice President | Senior Business Analyst, Investment Management Technology | IIBA Member The Inflection Point Is Now The research is blunt.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
+        }
+      ]
+    },
+    {
+      "id": "business-trends",
+      "title": "Emerging Business Trends & New Vocabulary",
+      "kicker": "Ideas & Idioms",
+      "articles": [
+        {
+          "id": "7b396d8d4767",
+          "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+          "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-25T01:03:05+00:00",
+          "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        },
+        {
+          "id": "05f887d0221c",
+          "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+          "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Connie Loizos",
+          "published": "2026-11-25T00:12:02+00:00",
+          "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "f4b8c1692ea5",
+          "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+          "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Lucas Ropek",
+          "published": "2026-11-25T00:10:27+00:00",
+          "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 35
+        },
+        {
+          "id": "bbacde70f5a0",
+          "title": "Billy Evans may have gotten a share of the profits from ‘You Can See Everything’ after all",
+          "url": "https://www.fastcompany.com/91648459/billy-evans-may-have-gotten-a-profit-share-from-you-can-see-everything-after-all",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Jude Cramer",
+          "published": "2026-11-24T23:00:00+00:00",
+          "summary": "You Can See Everything may begin as a documentary about disgraced tech entrepreneur Elizabeth Holmes in the month before her prison sentence, but in the movie’s second half, an entirely different (and entirely meta) subject emerges: the deal between Holmes’s partner, Billy Evans, and studio…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "7a5947019eec",
+          "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+          "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Kirsten Korosec",
+          "published": "2026-11-24T22:27:52+00:00",
+          "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "e298585cdf4b",
+          "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+          "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Agence France-Presse",
+          "published": "2026-11-24T22:05:21+00:00",
+          "summary": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "d1d290cfebe4",
+          "title": "The Jensen Huang saga poses the question: What happens when a leader becomes too big to fail?",
+          "url": "https://www.fastcompany.com/91648621/jensen-huang-poses-the-question-what-happens-when-a-leader-becomes-too-big-to-fail",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Kathryn Landis",
+          "published": "2026-11-24T22:00:00+00:00",
+          "summary": "Less than a week after Nvidia’s board said it would not reinstate Jensen Huang, it renamed him president and CEO.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "2cb7a4b8fd45",
+          "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
+          "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Dara Kerr",
+          "published": "2026-11-24T20:32:02+00:00",
+          "summary": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his return Jensen Huang apologized to staff on Tuesday for the tumult he’s caused at Nvidia.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "site": "https://www.aljazeera.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BA Times",
+      "site": "https://www.batimes.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – Business",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – India",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – World",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Fast Company",
+      "site": "https://www.fastcompany.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Federal Register – IRS",
+      "site": "https://www.federalregister.gov",
+      "license": "US Government work (public domain)",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Finextra",
+      "site": "https://www.finextra.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Global Voices",
+      "site": "https://globalvoices.org",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "full_text": true
+    },
+    {
+      "name": "NPR News",
+      "site": "https://feeds.npr.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Product Talk",
+      "site": "https://www.producttalk.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Roman Pichler",
+      "site": "https://www.romanpichler.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Silicon Valley Product Group",
+      "site": "https://www.svpg.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Tax Foundation",
+      "site": "https://taxfoundation.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Tax Justice Network",
+      "site": "https://taxjustice.net",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Taxscan (India)",
+      "site": "https://www.taxscan.in",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TechCrunch",
+      "site": "https://techcrunch.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TechCrunch – Fintech",
+      "site": "https://techcrunch.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Conversation",
+      "site": "https://theconversation.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Fintech Times",
+      "site": "https://thefintechtimes.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Business",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Editorials",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Opinion",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – World",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    }
+  ],
+  "errors": [
+    "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
+    "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
+    "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
+    "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
+    "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+    "Mind the Product: feed contained no entries",
+    "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
+    "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
+  ]
+}
