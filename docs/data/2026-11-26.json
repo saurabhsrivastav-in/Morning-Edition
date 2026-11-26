@@ -1,0 +1,1028 @@
+{
+  "edition": {
+    "name": "The Morning Ledger",
+    "tagline": "A quiet read for a busy morning",
+    "date": "2026-11-26",
+    "date_long": "Thursday, 26 November 2026",
+    "timezone": "Asia/Kolkata",
+    "generated_at": "2026-11-26T07:25+05:30",
+    "is_sample": false
+  },
+  "dashboard": {
+    "total_articles": 48,
+    "reading_minutes": 11,
+    "source_count": 24,
+    "full_text_count": 1,
+    "per_section": {
+      "national-international": 10,
+      "editorials-opinion": 8,
+      "fintech-taxtech": 8,
+      "tax-policy": 8,
+      "product-analysis": 6,
+      "business-trends": 8
+    },
+    "keywords": [
+      {
+        "term": "people",
+        "count": 9
+      },
+      {
+        "term": "cost",
+        "count": 5
+      },
+      {
+        "term": "space",
+        "count": 4
+      },
+      {
+        "term": "work",
+        "count": 4
+      },
+      {
+        "term": "section",
+        "count": 4
+      },
+      {
+        "term": "product",
+        "count": 4
+      },
+      {
+        "term": "guardian view",
+        "count": 3
+      },
+      {
+        "term": "parts",
+        "count": 3
+      },
+      {
+        "term": "california",
+        "count": 3
+      },
+      {
+        "term": "food inflation",
+        "count": 2
+      },
+      {
+        "term": "energy prices",
+        "count": 2
+      },
+      {
+        "term": "financial services",
+        "count": 2
+      }
+    ],
+    "markets": [
+      {
+        "label": "USD/EUR",
+        "group": "Currencies",
+        "display": "0.9145",
+        "change_pct": 0.26,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/GBP",
+        "group": "Currencies",
+        "display": "0.7657",
+        "change_pct": 0.29,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/INR",
+        "group": "Currencies",
+        "display": "92.24",
+        "change_pct": -0.73,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/JPY",
+        "group": "Currencies",
+        "display": "159.32",
+        "change_pct": 0.16,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "Bitcoin (USD)",
+        "group": "Crypto",
+        "display": "60,812.00",
+        "change_pct": 2.67,
+        "source": "CoinGecko"
+      },
+      {
+        "label": "Ethereum (USD)",
+        "group": "Crypto",
+        "display": "1,700.23",
+        "change_pct": 2.55,
+        "source": "CoinGecko"
+      }
+    ]
+  },
+  "word_of_the_day": {
+    "term": "Liquidity",
+    "definition": "The ease with which an asset, security, or commodity can be converted into ready cash without affecting its market price.",
+    "source": "The Morning Ledger glossary"
+  },
+  "dictionary_word": {
+    "word": "Word of the day for November 26",
+    "definition": "edit · refresh · view Word of the day for November 26 pumpkin chunkin' n (originally and chiefly US, informal) The informal sport of hurling a pumpkin as far as possible by mechanical means. Happy Thanksgiving!",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261126000000/en",
+    "source": "Wiktionary",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "sections": [
+    {
+      "id": "national-international",
+      "title": "National & International News",
+      "kicker": "The World Today",
+      "articles": [
+        {
+          "id": "405fa4f46187",
+          "title": "Photos: Storms and an El Nino-charged king tide batter California’s coast",
+          "url": "https://www.aljazeera.com/gallery/2026/11/26/photos-storms-and-an-el-nino-charged-king-tide-batter-californias-coast?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-26T01:40:13+00:00",
+          "summary": "Meteorologists have warned that the king tide could pair with high surf to bring historic surges to parts of the state.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "6cc600fdef49",
+          "title": "Ukraine attacks Russian military base, says five planes struck",
+          "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-26T01:39:46+00:00",
+          "summary": "The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "dbf1f5ff4074",
+          "title": "California warns of flooding as king tides peak over Thanksgiving",
+          "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-26T01:22:55+00:00",
+          "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "7940036035fa",
+          "title": "US announces new tariffs on host of countries including China",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-26T01:20:14+00:00",
+          "summary": "The new levies would hit many of America's trading partners, including India.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 12
+        },
+        {
+          "id": "4ea9865f2a26",
+          "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+          "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Associated Press",
+          "published": "2026-11-26T00:39:10+00:00",
+          "summary": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 31 people, Egyptian authorities said.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 43
+        },
+        {
+          "id": "6788b527e2d8",
+          "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Wynne Davis",
+          "published": "2026-11-25T21:02:58+00:00",
+          "summary": "The bakers behind these pop-up pastry drops aren't raking in the profits, but they are building a space for people to come together in polarized times.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "51474f06b50a",
+          "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
+          "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Tiago Rogero South America correspondent",
+          "published": "2026-11-25T20:20:23+00:00",
+          "summary": "Unclear if ‘hostage-taker’ who was killed may have been a hostage as daylong siege in Cartagena shopping centre ends Colombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "38f98bf868f6",
+          "title": "Group of Senate Democrats push to add freshman to leadership",
+          "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Barbara Sprunt",
+          "published": "2026-11-25T17:30:47+00:00",
+          "summary": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "eb55b1ab7fee",
+          "title": "Jailed for being poor, forgotten by slow courts in Nigeria, saved by strangers online",
+          "url": "https://globalvoices.org/2026/11/25/jailed-for-being-poor-forgotten-by-slow-courts-in-nigeria-saved-by-strangers-online/",
+          "source": "Global Voices",
+          "section": "national-international",
+          "author": "Guest Contributor",
+          "published": "2026-11-25T08:33:17+00:00",
+          "summary": "The Nigerian Correctional Service said that most people in its custody were still waiting for trial. They have not been found guilty of any crime.",
+          "full_html": "<p><em>If courts were fast and fair, nobody would need a viral post to go home\n\n</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/25/jailed-for-being-poor-forgotten-by-slow-courts-in-nigeria-saved-by-strangers-online/\">Global Voices</a></p><p>Court of Appeal building in Lagos, Nigeria. <a href=\"https://commons.wikimedia.org/wiki/File:Court_of_Appeal,_Lagos_State,_Nigeria.jpg\">Image</a> by <a href=\"https://commons.wikimedia.org/wiki/User:King_ChristLike\">King ChristLike</a> via <a href=\"https://commons.wikimedia.org/wiki/Main_Page\">Wikimedia Commons</a> (<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>).</p>\n<p><em>This post by Fatima Zahra Yahaya is part of Global Voices’ November 2026 Spotlight series, “<a href=\"https://globalvoices.org/special/justice-as-infrastructure/\">Justice as infrastructure</a>.” In this Spotlight, Global Voices is partnering with The Hague Institute for Innovation of Law (<a href=\"https://hiil.org/\">HiiL</a>) to highlight the ways justice functions as critical infrastructure for any society. You can support this coverage by donating <a href=\"https://globalvoices.org/2026/10/28/support-global-voices-spotlight-justice-as-infrastructure/\">here</a>.</em></p>\n<p>In February 2025, a <a href=\"https://guardian.ng/?p=2547215\">letter from a jailed man named Thomas Jonathan Biodun</a> reached the public after some Nigerian Twitter influencers visited his prison to play a friendly football match with the inmates. Biodun was in jail over a debt of NGN 1,137,000 (USD 758). In the letter, he said he had asked for help online before, but someone had called him a scammer.</p>\n<p>One of the influencers shared the letter on social media. Another influencer, Sir Dickson, who goes by the handle Wizarab10 on X, <a href=\"https://x.com/Wizarab10/status/1893601384617869320\">pushed it further</a>, garnering over 2.5 million views in one post. In his post, Sir Dickson said, “Nobody should be in prison over a debt. It is not a criminal offense. I have spoken to <a href=\"https://x.com/egi_nupe\">@egi_nupe</a> [another X influencer and lawyer], and we will be taking it up. Imagine rotting in prison because you’re poor.” A public donation campaign followed, and within weeks, it had raised enough money to clear the debt. </p>\n<p>Punch Newspapers reported that Biodun walked out of <a href=\"https://en.wikipedia.org/wiki/Kirikiri_Maximum_Security_Prison\">Apapa Kirikiri Correctional Center </a>and thanked everyone who helped.</p>\n<p>Biodun’s story has a happy ending. But it raises a hard question: Should a person’s freedom depend on the benevolence of internet strangers and how many people share a post?</p>\n<h3>The problem behind this story</h3>\n<p>In February 2026, <a href=\"https://blueprint.ng/awaiting-trial-inmates-constitute-64-of-prison-population-ncos/\">the Nigerian Correctional Service said</a> that most people in its custody were still waiting for trial. Many of them have not been found guilty of any crime but remain in pre-trial detention. While some of them cannot pay bail, others cannot pay court fines. In Nigeria, the crime of being poor can land you in a jail cell.</p>\n<p>Waiting is not a small thing. While a case drags on, a person may lose their job, business, or place to live. A family can lose its breadwinner, which can derail a whole family — or even a whole community’s livelihoods.</p>\n<h3>When the internet steps in</h3>\n<p>Jonathan Biodun is not the only person who turned to the internet to seek support for injustice.</p>\n<p>Quadri Alabi, 17, <a href=\"https://www.icirnigeria.org/over-n3m-raised-within-two-hours-for-teen-quadri-unlawfully-detained-in-prison/\">went viral in 2023</a> when he stood in front of former Anambra State Governor Peter Obi’s campaign convoy. He spent months in Kirikiri Prison over a robbery charge that his lawyer, Inibehe Effiong, called baseless. Effiong also said the police recorded him under the wrong age, meaning he was charged and sentenced as an adult. On April 17, 2025, he was freed. The same day, Effiong <a href=\"https://x.com/inibeheeffiong/status/1912896046193107355\">asked the public on X </a>to help his family move to a safer home, because they were still getting threats. The International Center for Investigative Reporting (ICIR) <a href=\"https://www.icirnigeria.org/over-n3m-raised-within-two-hours-for-teen-quadri-unlawfully-detained-in-prison/\">reported </a>that more than NGN 3 million (over USD 21,965) was raised within two hours.</p>\n<p>Emeka Nzeruike was arrested in 2015, when he was only 12 years old, over an alleged theft. He spent 10 years in prison waiting for trial. In July 2025, a lawyer named Alexander Nzeadi, who posts on X as @_youfoundalex, took up his case, and <a href=\"https://x.com/_youfoundalex/status/1950279872057921850\">Emeka walked out of court</a>. </p>\n<p>The lawyer wrote that Emeka had been alone, afraid, and forgotten, with no trial and no lawyer. He then <a href=\"https://www.legit.ng/nigeria/1667183-from-prison-12-freedom-22-emeka-nzeruike-released-10-years-photos-trend/\">asked Nigerians</a> to help Emeka heal, learn a skill, and start his life again now that he was finally free. The post was seen millions of times.</p>\n<h3><b>The other side of the story</b></h3>\n<p>Look closely at these cases. Biodun, Alabi, and Nzeruike were helped because their stories reached the right people. A letter found the right hands. A lawyer or a kind stranger posted at the right time.</p>\n<p>Biodun said he was first called a scammer. That shows how difficult it can be to be believed online.</p>\n<p>But what about the person nobody posts about? Not every inmate has a famous friend, a lawyer, or a loud voice to advocate on their behalf. For them, it can feel like no one is watching.</p>\n<p>This is the worry. If help comes only to the stories that go viral, then luck decides who goes home. A sad story with a clear photo may win hearts, while a quiet case may be missed.</p>\n<p>Raising money to pay for inmates’ legal fees or fines is not new, and it is not only done online. </p>\n<p>In 2023, <a href=\"https://www.theconclaveng.com/37-inmates-gains-freedom-from-kuje-suleja-prisons/\">The Conclave reported</a> that public-spirited people and a group called Prisoners Rehabilitation and Welfare Action (PRAWA), a non-governmental organization (NGO), paid fines to free 37 inmates from Kuje and Suleja prisons. The Interior Minister at the time had urged Nigerians to pay the fines of some prisoners to ease crowding in prisons.</p>\n<p>Kindness is good. But justice should not depend on luck or others’ generosity.</p>\n<h3>A hope for smart leaders</h3>\n<p>I do not believe we should stop being kind. I believe we should fix the courts, so that kindness is not the only hope a poor person has. If courts were fast and fair, nobody would need a viral post to go home.</p>\n<p>Social media is already doing one useful thing. It shows us real faces and real stories where the system is failing. Smart leaders, lawyers, and judges can listen, and they can fix it.</p>\n<p>Until then, every shared post is a sign that Nigerians care. It is also a sign that the courts must do better. Everyone in Nigeria deserves a fair day in court.</p>\n<strong>Written by <a href=\"https://globalvoices.org/author/guest-contributor/\">Guest Contributor</a></strong>",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "words": 968
+        },
+        {
+          "id": "7f6a68b60497",
+          "title": "The rising cost of putting food on the table in India",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-25T01:02:13+00:00",
+          "summary": "India's food inflation is broadening, squeezing household budgets.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 8
+        }
+      ]
+    },
+    {
+      "id": "editorials-opinion",
+      "title": "Editorials & Opinion",
+      "kicker": "Opinion",
+      "articles": [
+        {
+          "id": "e1aaec2d6d59",
+          "title": "It’s time for Australia to tax our gas industry. It is a public policy no-brainer | Rod Simms",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/26/its-time-for-australia-to-tax-our-gas-industry-it-is-a-public-policy-no-brainer",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Rod Sims",
+          "published": "2026-11-25T22:00:37+00:00",
+          "summary": "Fossil fuel companies are effectively not paying for the natural resource on which their businesses depend Raising more tax revenue from our gas industry is the closest thing you will find to a public policy no-brainer.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 36
+        },
+        {
+          "id": "9943285b7ccf",
+          "title": "The Guardian view on rising energy prices: only bold action can win public confidence | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/25/the-guardian-view-on-rising-energy-prices-only-bold-action-can-win-public-confidence",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-25T18:33:21+00:00",
+          "summary": "Andy Burnham needs a radical vision of economic change to move on from policies aimed at giving voters ‘breathing space’ Ask Andy Burnham a question and it won’t be long before he mentions the cost of living.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
+        },
+        {
+          "id": "e6a5af5f163e",
+          "title": "The Guardian view on the next UN secretary general: sacrificing principles will damn the institution, not save it | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/25/the-guardian-view-on-the-next-un-secretary-general-sacrificing-principles-will-damn-the-institution-not-save-it",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-25T18:32:49+00:00",
+          "summary": "The UK must continue to oppose the UAE’s tainted nominee, Lana Nusseibeh.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 12
+        },
+        {
+          "id": "483f64d5371e",
+          "title": "Recent sinking of Russian vessels abroad shows the Russia-Ukraine war has officially gone global",
+          "url": "https://theconversation.com/recent-sinking-of-russian-vessels-abroad-shows-the-russia-ukraine-war-has-officially-gone-global-297352",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "James Horncastle, Associate Professor and Edward and Emily McWhinney Professor in International Relations, Simon Fraser University",
+          "published": "2026-11-25T17:04:48+00:00",
+          "summary": "For Ukraine to have any chance of winning the war against Russia, it must increase the pressure on Vladimir Putin’s government. Making Russian assets vulnerable globally is one way to do it.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "2a4436c15a2b",
+          "title": "Influencers Behaving Badly at No 10? Burnham could have worse problems | Emma Brockes",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/25/influencers-no-10-downing-street-andy-burnham-luke-hamnett-max-balegde",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Emma Brockes",
+          "published": "2026-11-25T16:37:59+00:00",
+          "summary": "For all the fuss, it makes perfect sense for the PM to engage young people through TikTokers. He’ll have the last laugh on this one These are dangerous times to be a prime minister.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "69eb7435a211",
+          "title": "Australia is inching closer to a recession after one RBA rate rise too many | Greg Jericho",
+          "url": "https://www.theguardian.com/business/grogonomics/2026/nov/25/australian-economy-unemployment-rba-interest-rate-recession",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Greg Jericho",
+          "published": "2026-11-25T14:00:30+00:00",
+          "summary": "It’s not like we couldn’t see the rise in unemployment coming.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 11
+        },
+        {
+          "id": "c21b90b4a3f9",
+          "title": "The Guardian view on disability benefits: Timms’s radical review is rooted in experience | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/24/the-guardian-view-on-disability-benefits-timmss-radical-review-is-rooted-in-experience",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-24T19:15:00+00:00",
+          "summary": "Ministers have taken on board their MPs’ message about cuts. Now anxious claimants need reassurance Four million people with disabilities or long‑term health conditions in the UK claim personal independence payment (Pip).",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "22995c289ab6",
+          "title": "Justice is elusive for the Rohingya even after the ICJ’s landmark genocide ruling against Myanmar",
+          "url": "https://theconversation.com/justice-is-elusive-for-the-rohingya-even-after-the-icjs-landmark-genocide-ruling-against-myanmar-297125",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "San Beauchemin, Doctoral Researcher, School of Political Studies, L’Université d’Ottawa/University of Ottawa",
+          "published": "2026-11-24T16:49:44+00:00",
+          "summary": "The prospect of a safe and dignified repatriation of the Rohingya to Myanmar is a near impossibility despite the IJC ruling.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        }
+      ]
+    },
+    {
+      "id": "fintech-taxtech",
+      "title": "FinTech & Tax Technology",
+      "kicker": "Technology & Money",
+      "articles": [
+        {
+          "id": "ce454798776c",
+          "title": "UK reappoints Starling and Lloyds execs as AI champions",
+          "url": "https://www.finextra.com/newsarticle/48815/uk-reappoints-starling-and-lloyds-execs-as-ai-champions?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-26T00:01:00+00:00",
+          "summary": "The UK Government has reappointed Starling Bank's Harriet Rees and Lloyds' Rohit Dhawan as its financial services \"AI champions\".",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "79fd7e524d25",
+          "title": "California hits BNPL lender Afterpay with $2.7m penalty",
+          "url": "https://www.finextra.com/newsarticle/48817/california-hits-bnpl-lender-afterpay-with-27m-penalty?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-26T00:01:00+00:00",
+          "summary": "The California Department of Financial Protection and Innovation (DFPI) has hit BNPL provider Afterpay with a $2.68 million penalty for \"illegally\" failing to do ability-to-repay underwriting while making loans to new customers.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "f2a5ac5dcbe7",
+          "title": "FinCEN takes some systems offline after suspected cyber attack",
+          "url": "https://www.finextra.com/newsarticle/48816/fincen-takes-some-systems-offline-after-suspected-cyber-attack?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-25T18:16:00+00:00",
+          "summary": "The US Treasury’s Financial Crimes Enforcement Network (FinCEN) took some of its systems offline after a cybersecurity incident.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "542cf257686b",
+          "title": "Is Your Fintech Outgrowing Its Board? Rethinking What Makes a Good Director",
+          "url": "https://thefintechtimes.com/is-your-fintech-outgrowing-its-board-what-makes-a-good-director/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "Claire Woffenden",
+          "published": "2026-11-25T17:00:49+00:00",
+          "summary": "Fintech leaders and board search specialists share what directors need to do differently in 2027, from AI oversight to supporting global growth.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
+          "id": "22e3ddccecd7",
+          "title": "B2C2: Binance Hack Leaves Liquidity Fragile as Mid-Terms Loom",
+          "url": "https://thefintechtimes.com/b2c2-binance-hack-leaves-liquidity-fragile-as-mid-terms-loom/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-25T14:00:17+00:00",
+          "summary": "B2C2's trading head says derivatives open interest will signal whether counterparty risk appetite stabilises after the $6.4bn Binance exploit.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "776e9d6b26dc",
+          "title": "MultiBank Group’s Vision For AI Powered Finance",
+          "url": "https://thefintechtimes.com/multibank-groups-vision-for-ai-powered-finance/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-25T10:01:19+00:00",
+          "summary": "Naser Taher, founder and chairman of MultiBank Group, discusses the company’s move into interbank trading, digital assets and AI—and its plans to bring financial services together in a super app.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "0d63fb1e6c01",
+          "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+          "source": "TechCrunch – Fintech",
+          "section": "fintech-taxtech",
+          "author": "Sarah Perez",
+          "published": "2026-11-23T22:02:05+00:00",
+          "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "d9a047affb02",
+          "title": "Model ML raises $250M to automate investment banking grunt work",
+          "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+          "source": "TechCrunch – Fintech",
+          "section": "fintech-taxtech",
+          "author": "Marina Temkin",
+          "published": "2026-11-17T19:32:11+00:00",
+          "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        }
+      ]
+    },
+    {
+      "id": "tax-policy",
+      "title": "Tax News & Policy Updates",
+      "kicker": "The Tax Desk",
+      "articles": [
+        {
+          "id": "e1189e21c207",
+          "title": "AO Cannot Travel Beyond Show Cause Notice to Deny Section 80GGC Political Donation Deduction: ITAT Deletes Addition [Read Order]",
+          "url": "https://www.taxscan.in/income-tax/ao-cannot-travel-beyond-show-cause-notice-to-deny-section-80ggc-political-donation-deduction-itat-deletes-addition-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Ashja Ashraf",
+          "published": "2026-11-25T13:46:32+00:00",
+          "summary": "The Assessing Officer cannot consider the findings of any search that has not been included in the show cause notice when disallowing the 80GGC deduction or penalizing the donor for failure to furnish Form 24A.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 35
+        },
+        {
+          "id": "2a04263f2091",
+          "title": "S. 151 Approval is a Condition Precedent to Reopening, Not an Internal Administrative Formality: ITAT Quashes S. 148 Assessment",
+          "url": "https://www.taxscan.in/income-tax/s-151-approval-is-a-condition-precedent-to-reopening-not-an-internal-administrative-formality-itat-quashes-s-148-assessment",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Aditya Kumar",
+          "published": "2026-11-25T13:46:26+00:00",
+          "summary": "Sanction under Section 151 of the Income Tax Act, 1961 is a mandatory jurisdictional condition precedent rather than an administrative formality, and a reassessment notice under Section 148 invalid approved by a superior officer instead of the authority specifically designated under Section 151(2).",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 43
+        },
+        {
+          "id": "31bb54b2f4e8",
+          "title": "Section 96 RFCTLARR Act Overrides Section 56(2)(viii) of IT Act: ITAT Quashes Addition in respect of Interest for Compulsorily Acquired Land [Read Order]",
+          "url": "https://www.taxscan.in/income-tax/section-96-rfctlarr-act-overrides-section-562viii-of-it-act-itat-quashes-addition-in-respect-of-interest-for-compulsorily-acquired-land-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Aditya Kumar",
+          "published": "2026-11-25T12:24:29+00:00",
+          "summary": "Interest received on enhanced compensation for compulsorily acquired land cannot be taxed as income from other sources under Section 56(2)(viii) of the Income Tax Act,1961 as Section 96 of the RFCTLARR Act,2013 overrides it and grants complete tax exemption.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 39
+        },
+        {
+          "id": "ba06500c684f",
+          "title": "COP31 failed in Antalya. Nairobi is where we can start fixing it",
+          "url": "https://taxjustice.net/2026/11/24/cop31-failed-in-antalya-nairobi-is-where-we-can-start-fixing-it/",
+          "source": "Tax Justice Network",
+          "section": "tax-policy",
+          "author": "Sergio Chaparro-Hernandez",
+          "published": "2026-11-24T07:19:52+00:00",
+          "summary": "The world woke up this week to headlines declaring COP31 in Antalya a failure. What exactly failed, and who is to blame, is already in dispute.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "e3bf11f8ab99",
+          "title": "Agency Information Collection Activities; Comment Request Relating to Late Filing of Certification or Notices",
+          "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23782/agency-information-collection-activities-comment-request-relating-to-late-filing-of-certification-or",
+          "source": "Federal Register – IRS",
+          "section": "tax-policy",
+          "author": "Treasury Department, Internal Revenue Service",
+          "published": "2026-11-23T05:00:00+00:00",
+          "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "bd7718b54e9a",
+          "title": "Quarterly Publication of Individuals Who Have Chosen To Expatriate; Correction",
+          "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23747/quarterly-publication-of-individuals-who-have-chosen-to-expatriate-correction",
+          "source": "Federal Register – IRS",
+          "section": "tax-policy",
+          "author": "Treasury Department, Internal Revenue Service",
+          "published": "2026-11-23T05:00:00+00:00",
+          "summary": "This document contains corrections to a publication of the Quarterly Publication Of Individuals Who Have Chosen To Expatriate in accordance with IRC Section 6039G of the Health Insurance Portability and Accountability Act (HIPAA) of 1996, as amended that was published in the Federal Register on…",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "fcf968c46d87",
+          "title": "Why Poland Should Abandon Its Proposed Digital Services Tax",
+          "url": "https://taxfoundation.org/testimony/poland-digital-services-tax-proposal/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Anna Leszczyłowska",
+          "published": null,
+          "summary": "Experiences across European countries indicate that digital services taxes typically generate relatively modest amounts of revenue.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "fa01a42c57fb",
+          "title": "Movers and Shakers in the 2027 State Tax Competitiveness Index",
+          "url": "https://taxfoundation.org/blog/best-state-tax-rankings-2027/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Janelle Fritts",
+          "published": null,
+          "summary": "In the spirit of change and improvement, it’s worth looking back to see which states have truly embraced tax competitiveness since 2020, and which ones have lagged behind.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        }
+      ]
+    },
+    {
+      "id": "product-analysis",
+      "title": "Product Management & Business Analysis",
+      "kicker": "The Craft",
+      "articles": [
+        {
+          "id": "0d52bb79660d",
+          "title": "Bugs - All Things Product Podcast with Teresa Torres & Petra Wille",
+          "url": "https://www.producttalk.org/bugs-all-things-product-podcast-with-teresa-torres-petra-wille/",
+          "source": "Product Talk",
+          "section": "product-analysis",
+          "author": "Teresa Torres",
+          "published": "2026-11-24T14:00:00+00:00",
+          "summary": "Listen to this episode on: Spotify | Apple Podcasts In a world of AI products, what even counts as a “bug” — and can you still promise to fix it?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "2c0c968ff1c7",
+          "title": "Why Product Management is Still Hard",
+          "url": "https://www.romanpichler.com/blog/why-product-management-is-still-hard/",
+          "source": "Roman Pichler",
+          "section": "product-analysis",
+          "author": "Roman Pichler",
+          "published": "2026-11-24T11:53:39+00:00",
+          "summary": "AI has given product managers new capabilities and tools. It can analyse customer sentiment, uncover patterns in support tickets, and turn ideas into working prototypes faster than ever. But practising product management well is still hard.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 36
+        },
+        {
+          "id": "b9e63452c6bd",
+          "title": "Analysis Debt: The Cost of a Question Nobody Tracks",
+          "url": "https://batimes.com/articles/analysis-debt-the-cost-of-a-question-nobody-tracks/",
+          "source": "BA Times",
+          "section": "product-analysis",
+          "author": "Michael Roy",
+          "published": "2026-11-09T14:38:54+00:00",
+          "summary": "Analysis Debt: The Cost of a Question Nobody Tracks By Michael Roy Every delivery organization can tell you how fast work moved last quarter. Far fewer can say how much of that work was checked before it started moving.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 39
+        },
+        {
+          "id": "21f59dea13c6",
+          "title": "AI and the Future of the Product Role",
+          "url": "https://www.svpg.com/ai-and-the-future-of-the-product-role/",
+          "source": "Silicon Valley Product Group",
+          "section": "product-analysis",
+          "author": "Marty Cagan",
+          "published": "2026-11-06T01:02:22+00:00",
+          "summary": "NOTE: This is a narrative form of a keynote for the 2026 Product Leader Summit. Overview Most people in the industry realize that the job definition and responsibilities of the people in the product role can vary widely across companies.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 40
+        },
+        {
+          "id": "265e6c45204a",
+          "title": "Experimentation, AI and the Product Model",
+          "url": "https://www.svpg.com/experimentation-ai-and-the-product-model/",
+          "source": "Silicon Valley Product Group",
+          "section": "product-analysis",
+          "author": "Marty Cagan",
+          "published": "2026-10-21T15:53:41+00:00",
+          "summary": "NOTE: This is a narrative form of a keynote for the Circus Austin Experimentation Conference. While experimentation can be found in various parts of a company, most people think of either product or marketing.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "95ac88e87dd6",
+          "title": "The Irreplaceable BA: How to Stay Essential in an AI-Augmented World",
+          "url": "https://batimes.com/articles/the-irreplaceable-ba-how-to-stay-essential-in-an-ai-augmented-world/",
+          "source": "BA Times",
+          "section": "product-analysis",
+          "author": "Mohanaraman Namasivayam",
+          "published": "2026-07-29T19:43:39+00:00",
+          "summary": "Four frameworks for deciding what AI takes, what you keep, and where to grow Mohanaraman Namasivayam Vice President | Senior Business Analyst, Investment Management Technology | IIBA Member The Inflection Point Is Now The research is blunt.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
+        }
+      ]
+    },
+    {
+      "id": "business-trends",
+      "title": "Emerging Business Trends & New Vocabulary",
+      "kicker": "Ideas & Idioms",
+      "articles": [
+        {
+          "id": "27217ba3506c",
+          "title": "US approves SpaceX plan to send a million data satellites to space",
+          "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-26T00:07:51+00:00",
+          "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
+        },
+        {
+          "id": "eafaf9bea58d",
+          "title": "Are AI companies ‘glosslighting’ you with misleading jargon? This report says yes",
+          "url": "https://www.fastcompany.com/91649101/are-ai-companies-glosslighting-you-with-misleading-jargon-this-report-says-yes",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Jude Cramer",
+          "published": "2026-11-25T23:30:00+00:00",
+          "summary": "Ever describe an AI agent’s error as a “hallucination”? Fret over the threat of “superintelligence”? How about call an AI assistant your “co-pilot”? Beware: you may have been glosslit by the AI industry.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 33
+        },
+        {
+          "id": "707319c903aa",
+          "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Marina Temkin",
+          "published": "2026-11-25T22:44:32+00:00",
+          "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        },
+        {
+          "id": "4f0a4ffe63f8",
+          "title": "Some people don’t use AI at work—and feel judged for it",
+          "url": "https://www.fastcompany.com/91648591/some-people-dont-use-ai-at-work-and-feel-judged-for-it",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Eve Upton-Clark",
+          "published": "2026-11-25T21:00:00+00:00",
+          "summary": "New workplace fear unlocked—and it’s not being yelled at for heated-up fish in the office microwave or getting too merry at the Christmas party.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "a4c3fb2f4ae0",
+          "title": "FCC approves SpaceX plan to put AI data centers in space",
+          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Kirsten Korosec",
+          "published": "2026-11-25T20:56:44+00:00",
+          "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "dc85126b0ac7",
+          "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Jagmeet Singh",
+          "published": "2026-11-25T20:03:27+00:00",
+          "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "882812167e62",
+          "title": "UK food inflation could hit 5% next year, Bank of England says",
+          "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Heather Stewart Economics editor",
+          "published": "2026-11-25T19:25:57+00:00",
+          "summary": "Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El Niño Food price inflation in the UK could hit 5% next year, the Bank of England has said, despite rising less sharply than feared since…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "a61ab511a42d",
+          "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
+          "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Lauren Aratani",
+          "published": "2026-11-25T15:46:15+00:00",
+          "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in US tech stocks continued on Wednesday as investors reacted to continued concern over the AI trade and fresh data that showed inflation jumped in October.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "site": "https://www.aljazeera.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BA Times",
+      "site": "https://www.batimes.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – Business",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – India",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – World",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Fast Company",
+      "site": "https://www.fastcompany.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Federal Register – IRS",
+      "site": "https://www.federalregister.gov",
+      "license": "US Government work (public domain)",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Finextra",
+      "site": "https://www.finextra.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Global Voices",
+      "site": "https://globalvoices.org",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "full_text": true
+    },
+    {
+      "name": "NPR News",
+      "site": "https://feeds.npr.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Product Talk",
+      "site": "https://www.producttalk.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Roman Pichler",
+      "site": "https://www.romanpichler.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Silicon Valley Product Group",
+      "site": "https://www.svpg.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Tax Foundation",
+      "site": "https://taxfoundation.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Tax Justice Network",
+      "site": "https://taxjustice.net",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Taxscan (India)",
+      "site": "https://www.taxscan.in",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TechCrunch",
+      "site": "https://techcrunch.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TechCrunch – Fintech",
+      "site": "https://techcrunch.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Conversation",
+      "site": "https://theconversation.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Fintech Times",
+      "site": "https://thefintechtimes.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Business",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Editorials",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Opinion",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – World",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    }
+  ],
+  "errors": [
+    "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
+    "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
+    "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
+    "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
+    "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+    "Mind the Product: feed contained no entries",
+    "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
+    "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
+  ]
+}

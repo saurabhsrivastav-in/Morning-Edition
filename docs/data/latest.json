@@ -2,21 +2,21 @@
   "edition": {
     "name": "The Morning Ledger",
     "tagline": "A quiet read for a busy morning",
-    "date": "2026-11-25",
-    "date_long": "Wednesday, 25 November 2026",
+    "date": "2026-11-26",
+    "date_long": "Thursday, 26 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-25T23:02+05:30",
+    "generated_at": "2026-11-26T07:25+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 47,
-    "reading_minutes": 10,
+    "total_articles": 48,
+    "reading_minutes": 11,
     "source_count": 24,
     "full_text_count": 1,
     "per_section": {
       "national-international": 10,
       "editorials-opinion": 8,
-      "fintech-taxtech": 7,
+      "fintech-taxtech": 8,
       "tax-policy": 8,
       "product-analysis": 6,
       "business-trends": 8
@@ -24,14 +24,18 @@
     "keywords": [
       {
         "term": "people",
+        "count": 9
+      },
+      {
+        "term": "cost",
         "count": 5
       },
       {
-        "term": "board",
+        "term": "space",
         "count": 4
       },
       {
-        "term": "form",
+        "term": "work",
         "count": 4
       },
       {
@@ -47,27 +51,23 @@
         "count": 3
       },
       {
-        "term": "four",
+        "term": "parts",
         "count": 3
       },
       {
-        "term": "behind",
+        "term": "california",
         "count": 3
       },
       {
-        "term": "americans",
-        "count": 3
-      },
-      {
-        "term": "partners including",
+        "term": "food inflation",
         "count": 2
       },
       {
-        "term": "including china",
+        "term": "energy prices",
         "count": 2
       },
       {
-        "term": "trading partners",
+        "term": "financial services",
         "count": 2
       }
     ],
@@ -103,28 +103,28 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "59,119.00",
-        "change_pct": -1.33,
+        "display": "60,812.00",
+        "change_pct": 2.67,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,660.44",
-        "change_pct": -1.22,
+        "display": "1,700.23",
+        "change_pct": 2.55,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "EBITDA",
-    "definition": "Earnings Before Interest, Taxes, Depreciation, and Amortization—a measure of a company's overall financial performance.",
+    "term": "Liquidity",
+    "definition": "The ease with which an asset, security, or commodity can be converted into ready cash without affecting its market price.",
     "source": "The Morning Ledger glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 25",
-    "definition": "edit · refresh · view Word of the day for November 25 itinerant adj Habitually travelling from place to place. (law, chiefly historical) Of a judge or court: travelling from place to place to hear cases; travelling on circuit. (figurative)…",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261125000000/en",
+    "word": "Word of the day for November 26",
+    "definition": "edit · refresh · view Word of the day for November 26 pumpkin chunkin' n (originally and chiefly US, informal) The informal sport of hurling a pumpkin as far as possible by mechanical means. Happy Thanksgiving!",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261126000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -136,32 +136,46 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "a8e9ed99c9ae",
-          "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-          "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-25T17:30:16+00:00",
-          "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 16
-        },
-        {
-          "id": "1240797083ba",
-          "title": "Maduro turns 64 behind bars, son leads celebrations in Caracas",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
+          "id": "405fa4f46187",
+          "title": "Photos: Storms and an El Nino-charged king tide batter California’s coast",
+          "url": "https://www.aljazeera.com/gallery/2026/11/26/photos-storms-and-an-el-nino-charged-king-tide-batter-californias-coast?traffic_source=rss",
           "source": "Al Jazeera",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-25T17:05:35+00:00",
-          "summary": "Nicolas Maduro’s son led birthday celebrations in Caracas as the abducted former Venezuelan president turned 64",
+          "published": "2026-11-26T01:40:13+00:00",
+          "summary": "Meteorologists have warned that the king tide could pair with high surf to bring historic surges to parts of the state.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 16
+          "words": 21
+        },
+        {
+          "id": "6cc600fdef49",
+          "title": "Ukraine attacks Russian military base, says five planes struck",
+          "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-26T01:39:46+00:00",
+          "summary": "The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "dbf1f5ff4074",
+          "title": "California warns of flooding as king tides peak over Thanksgiving",
+          "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-26T01:22:55+00:00",
+          "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
         },
         {
           "id": "7940036035fa",
@@ -170,7 +184,7 @@
           "source": "BBC News – India",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-25T16:21:34+00:00",
+          "published": "2026-11-26T01:20:14+00:00",
           "summary": "The new levies would hit many of America's trading partners, including India.",
           "full_html": null,
           "license": "",
@@ -178,74 +192,60 @@
           "words": 12
         },
         {
-          "id": "c63f2b8e26fb",
-          "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-          "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
+          "id": "4ea9865f2a26",
+          "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+          "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+          "source": "The Guardian – World",
           "section": "national-international",
-          "author": "",
-          "published": "2026-11-25T16:20:14+00:00",
-          "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+          "author": "Associated Press",
+          "published": "2026-11-26T00:39:10+00:00",
+          "summary": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 31 people, Egyptian authorities said.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 19
+          "words": 43
         },
         {
-          "id": "e8c9089f722d",
-          "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
-          "url": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
+          "id": "6788b527e2d8",
+          "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Wynne Davis",
+          "published": "2026-11-25T21:02:58+00:00",
+          "summary": "The bakers behind these pop-up pastry drops aren't raking in the profits, but they are building a space for people to come together in polarized times.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "51474f06b50a",
+          "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
+          "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
           "source": "The Guardian – World",
           "section": "national-international",
-          "author": "Rebecca Bailey and agencies",
-          "published": "2026-11-25T14:18:29+00:00",
-          "summary": "Muhammad Zeeshan Ali – the first Pakistani to reach orbit – greeted with Chinese ‘space handshake’ at Tiangong station China has flown the first foreign astronaut to its Tiangong space station, starting what it says will be the globalisation of its space operations as the…",
+          "author": "Tiago Rogero South America correspondent",
+          "published": "2026-11-25T20:20:23+00:00",
+          "summary": "Unclear if ‘hostage-taker’ who was killed may have been a hostage as daylong siege in Cartagena shopping centre ends Colombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed…",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
         },
         {
-          "id": "316b1b2ff5f6",
-          "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
-          "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+          "id": "38f98bf868f6",
+          "title": "Group of Senate Democrats push to add freshman to leadership",
+          "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
           "source": "NPR News",
           "section": "national-international",
-          "author": "Ari Daniel",
-          "published": "2026-11-25T14:14:34+00:00",
-          "summary": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
+          "author": "Barbara Sprunt",
+          "published": "2026-11-25T17:30:47+00:00",
+          "summary": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 29
-        },
-        {
-          "id": "9d648dc5468e",
-          "title": "Swiss tourist killed and British and Americans injured by elephants in Cameroon",
-          "url": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Rachel Savage in Johannesburg",
-          "published": "2026-11-25T14:03:18+00:00",
-          "summary": "Alain Throo, insurance executive based in London, reportedly gored and later died on hike near Mount Cameroon national park A Swiss tourist has been killed and British and American tourists have been injured when a group of hikers encountered a herd of elephants in Cameroon.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "de478ea7a63a",
-          "title": "What to know before using AI agents for Black Friday shopping",
-          "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "Stephan Bisaha",
-          "published": "2026-11-25T13:51:56+00:00",
-          "summary": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
+          "words": 28
         },
         {
           "id": "eb55b1ab7fee",
@@ -283,6 +283,62 @@
       "kicker": "Opinion",
       "articles": [
         {
+          "id": "e1aaec2d6d59",
+          "title": "It’s time for Australia to tax our gas industry. It is a public policy no-brainer | Rod Simms",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/26/its-time-for-australia-to-tax-our-gas-industry-it-is-a-public-policy-no-brainer",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Rod Sims",
+          "published": "2026-11-25T22:00:37+00:00",
+          "summary": "Fossil fuel companies are effectively not paying for the natural resource on which their businesses depend Raising more tax revenue from our gas industry is the closest thing you will find to a public policy no-brainer.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 36
+        },
+        {
+          "id": "9943285b7ccf",
+          "title": "The Guardian view on rising energy prices: only bold action can win public confidence | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/25/the-guardian-view-on-rising-energy-prices-only-bold-action-can-win-public-confidence",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-25T18:33:21+00:00",
+          "summary": "Andy Burnham needs a radical vision of economic change to move on from policies aimed at giving voters ‘breathing space’ Ask Andy Burnham a question and it won’t be long before he mentions the cost of living.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 37
+        },
+        {
+          "id": "e6a5af5f163e",
+          "title": "The Guardian view on the next UN secretary general: sacrificing principles will damn the institution, not save it | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/25/the-guardian-view-on-the-next-un-secretary-general-sacrificing-principles-will-damn-the-institution-not-save-it",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-25T18:32:49+00:00",
+          "summary": "The UK must continue to oppose the UAE’s tainted nominee, Lana Nusseibeh.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 12
+        },
+        {
+          "id": "483f64d5371e",
+          "title": "Recent sinking of Russian vessels abroad shows the Russia-Ukraine war has officially gone global",
+          "url": "https://theconversation.com/recent-sinking-of-russian-vessels-abroad-shows-the-russia-ukraine-war-has-officially-gone-global-297352",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "James Horncastle, Associate Professor and Edward and Emily McWhinney Professor in International Relations, Simon Fraser University",
+          "published": "2026-11-25T17:04:48+00:00",
+          "summary": "For Ukraine to have any chance of winning the war against Russia, it must increase the pressure on Vladimir Putin’s government. Making Russian assets vulnerable globally is one way to do it.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
           "id": "2a4436c15a2b",
           "title": "Influencers Behaving Badly at No 10? Burnham could have worse problems | Emma Brockes",
           "url": "https://www.theguardian.com/commentisfree/2026/nov/25/influencers-no-10-downing-street-andy-burnham-luke-hamnett-max-balegde",
@@ -311,20 +367,6 @@
           "words": 11
         },
         {
-          "id": "bb246a3f102f",
-          "title": "Democrats must unite on AI regulation. Here’s our three-point plan | Nathan E Sanders and Bruce Schneier",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/25/democrats-ai-regulation-plan",
-          "source": "The Guardian – Opinion",
-          "section": "editorials-opinion",
-          "author": "Nathan E Sanders and Bruce Schneier",
-          "published": "2026-11-25T13:00:26+00:00",
-          "summary": "Voters are demanding action on the issue. We need to make AI work for the American public, not the tech oligarchs This month’s elections demonstrated the American public’s urgent demand for change.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 32
-        },
-        {
           "id": "c21b90b4a3f9",
           "title": "The Guardian view on disability benefits: Timms’s radical review is rooted in experience | Editorial",
           "url": "https://www.theguardian.com/commentisfree/2026/nov/24/the-guardian-view-on-disability-benefits-timmss-radical-review-is-rooted-in-experience",
@@ -339,20 +381,6 @@
           "words": 32
         },
         {
-          "id": "89b91f705e58",
-          "title": "The Guardian view on Andy Burnham and Wales: a devolution blindspot at No 10 | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/24/the-guardian-view-on-andy-burnham-and-wales-a-devolution-blindspot-at-no-10",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-24T19:13:49+00:00",
-          "summary": "The PM has summarily dismissed Welsh demands for further powers similar to those enjoyed in Scotland.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 16
-        },
-        {
           "id": "22995c289ab6",
           "title": "Justice is elusive for the Rohingya even after the ICJ’s landmark genocide ruling against Myanmar",
           "url": "https://theconversation.com/justice-is-elusive-for-the-rohingya-even-after-the-icjs-landmark-genocide-ruling-against-myanmar-297125",
@@ -365,34 +393,6 @@
           "license": "",
           "license_url": "",
           "words": 21
-        },
-        {
-          "id": "e2ba0e13f0a1",
-          "title": "Mother tongue language rights don’t implement themselves: Lessons from Nepal’s classrooms",
-          "url": "https://theconversation.com/mother-tongue-language-rights-dont-implement-themselves-lessons-from-nepals-classrooms-292724",
-          "source": "The Conversation",
-          "section": "editorials-opinion",
-          "author": "Mark Turin, Associate professor, Institute for Critical Indigenous Studies, University of British Columbia",
-          "published": "2026-11-24T16:48:47+00:00",
-          "summary": "The country has 124 mother tongues and a constitutional promise to teach children in them. But without funding, trained teachers and local-language textbooks, that promise is hard to keep.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 29
-        },
-        {
-          "id": "795fa0beeab2",
-          "title": "The Guardian view on Cop31: a just transition needs more than fine words | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/23/the-guardian-view-on-cop31-a-just-transition-needs-more-than-fine-words",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-23T18:29:05+00:00",
-          "summary": "Petrostates blocked ambition while wealthy nations withheld cash support. The climate crisis demands the next UN summit turns promises into action In a negotiation the maxim is usually that no deal is better than a bad deal.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 37
         }
       ]
     },
@@ -401,6 +401,48 @@
       "title": "FinTech & Tax Technology",
       "kicker": "Technology & Money",
       "articles": [
+        {
+          "id": "ce454798776c",
+          "title": "UK reappoints Starling and Lloyds execs as AI champions",
+          "url": "https://www.finextra.com/newsarticle/48815/uk-reappoints-starling-and-lloyds-execs-as-ai-champions?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-26T00:01:00+00:00",
+          "summary": "The UK Government has reappointed Starling Bank's Harriet Rees and Lloyds' Rohit Dhawan as its financial services \"AI champions\".",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "79fd7e524d25",
+          "title": "California hits BNPL lender Afterpay with $2.7m penalty",
+          "url": "https://www.finextra.com/newsarticle/48817/california-hits-bnpl-lender-afterpay-with-27m-penalty?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-26T00:01:00+00:00",
+          "summary": "The California Department of Financial Protection and Innovation (DFPI) has hit BNPL provider Afterpay with a $2.68 million penalty for \"illegally\" failing to do ability-to-repay underwriting while making loans to new customers.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "f2a5ac5dcbe7",
+          "title": "FinCEN takes some systems offline after suspected cyber attack",
+          "url": "https://www.finextra.com/newsarticle/48816/fincen-takes-some-systems-offline-after-suspected-cyber-attack?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-25T18:16:00+00:00",
+          "summary": "The US Treasury’s Financial Crimes Enforcement Network (FinCEN) took some of its systems offline after a cybersecurity incident.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
         {
           "id": "542cf257686b",
           "title": "Is Your Fintech Outgrowing Its Board? Rethinking What Makes a Good Director",
@@ -416,34 +458,6 @@
           "words": 22
         },
         {
-          "id": "f5e34e547d83",
-          "title": "Utah drops criminal charges after Kalshi exits state",
-          "url": "https://www.finextra.com/newsarticle/48814/utah-drops-criminal-charges-after-kalshi-exits-state?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-25T15:32:00+00:00",
-          "summary": "Utah has dropped criminal charges against Kalshi and its co-founders after the prediction market suspended operations in the state.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
-        },
-        {
-          "id": "f12fa138cf4a",
-          "title": "Lloyds completes multiple digital trade collections between Bangladesh and the UK",
-          "url": "https://www.finextra.com/newsarticle/48813/lloyds-completes-multiple-digital-trade-collections-between-bangladesh-and-the-uk?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-25T14:26:00+00:00",
-          "summary": "Lloyds has teamed up with Prime Bank and vendor Enigio to carry out multiple cross-border documentary collections for apparel shipments from Bangladesh to a UK garment wholesaler, entirely in digital form.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 31
-        },
-        {
           "id": "22e3ddccecd7",
           "title": "B2C2: Binance Hack Leaves Liquidity Fragile as Mid-Terms Loom",
           "url": "https://thefintechtimes.com/b2c2-binance-hack-leaves-liquidity-fragile-as-mid-terms-loom/",
@@ -456,20 +470,6 @@
           "license": "",
           "license_url": "",
           "words": 19
-        },
-        {
-          "id": "72838c5b1c4b",
-          "title": "AfricaNenda Foundation launches State of Inclusive Payments in Africa 2026",
-          "url": "https://www.finextra.com/newsarticle/48810/africanenda-foundation-launches-state-of-inclusive-payments-in-africa-2026?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-25T13:00:00+00:00",
-          "summary": "This year’s report highlighted that instant payments systems (IPS) in Africa are having a clear impact on financial inclusion, economic growth, and user trust.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 24
         },
         {
           "id": "776e9d6b26dc",
@@ -498,6 +498,20 @@
           "license": "",
           "license_url": "",
           "words": 26
+        },
+        {
+          "id": "d9a047affb02",
+          "title": "Model ML raises $250M to automate investment banking grunt work",
+          "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+          "source": "TechCrunch – Fintech",
+          "section": "fintech-taxtech",
+          "author": "Marina Temkin",
+          "published": "2026-11-17T19:32:11+00:00",
+          "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
         }
       ]
     },
@@ -717,74 +731,102 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
-          "id": "3f099d94e518",
-          "title": "X’s latest update for creators focuses on vertical video",
-          "url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Lauren Forristal",
-          "published": "2026-11-25T17:28:29+00:00",
-          "summary": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 22
-        },
-        {
-          "id": "20b847b4ed0b",
-          "title": "Poundland collapses putting 11,000 jobs at risk",
-          "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+          "id": "27217ba3506c",
+          "title": "US approves SpaceX plan to send a million data satellites to space",
+          "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Business",
           "section": "business-trends",
           "author": "",
-          "published": "2026-11-25T17:21:34+00:00",
-          "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
+          "published": "2026-11-26T00:07:51+00:00",
+          "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 15
+          "words": 21
         },
         {
-          "id": "08800a33be09",
-          "title": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU – business live",
-          "url": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
-          "source": "The Guardian – Business",
-          "section": "business-trends",
-          "author": "Tom Ambrose (now); Graeme Wearden and Julia Kollewe (earlier)",
-          "published": "2026-11-25T17:19:11+00:00",
-          "summary": "New tariffs planned as Trump administration clamps down on ‘unfair trade practices’ Hannah Webster, senior economist at the think tank New Economics Foundation, also called for other measures.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 28
-        },
-        {
-          "id": "ff23b12ebb82",
-          "title": "WhatsApp now lets you schedule messages in group and individual chats",
-          "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Ivan Mehta",
-          "published": "2026-11-25T16:57:51+00:00",
-          "summary": "Users can schedule messages from 10 minutes later to after 14 days.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 12
-        },
-        {
-          "id": "78859f1232ee",
-          "title": "The 10-person board that voted to reinstate Nvidia’s CEO is also now under scrutiny",
-          "url": "https://www.fastcompany.com/91648944/10-person-board-voted-reinstate-nvidias-ceo-also-now-under-scrutiny",
+          "id": "eafaf9bea58d",
+          "title": "Are AI companies ‘glosslighting’ you with misleading jargon? This report says yes",
+          "url": "https://www.fastcompany.com/91649101/are-ai-companies-glosslighting-you-with-misleading-jargon-this-report-says-yes",
           "source": "Fast Company",
           "section": "business-trends",
-          "author": "Associated Press",
-          "published": "2026-11-25T16:00:00+00:00",
-          "summary": "Jensen Huang has been under a spotlight for weeks, but after the 11-day period of disorder that included the resignation and reinstatement of the Nvidia executive, the company’s board is joining him at the center of scrutiny.",
+          "author": "Jude Cramer",
+          "published": "2026-11-25T23:30:00+00:00",
+          "summary": "Ever describe an AI agent’s error as a “hallucination”? Fret over the threat of “superintelligence”? How about call an AI assistant your “co-pilot”? Beware: you may have been glosslit by the AI industry.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 37
+          "words": 33
+        },
+        {
+          "id": "707319c903aa",
+          "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Marina Temkin",
+          "published": "2026-11-25T22:44:32+00:00",
+          "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        },
+        {
+          "id": "4f0a4ffe63f8",
+          "title": "Some people don’t use AI at work—and feel judged for it",
+          "url": "https://www.fastcompany.com/91648591/some-people-dont-use-ai-at-work-and-feel-judged-for-it",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Eve Upton-Clark",
+          "published": "2026-11-25T21:00:00+00:00",
+          "summary": "New workplace fear unlocked—and it’s not being yelled at for heated-up fish in the office microwave or getting too merry at the Christmas party.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "a4c3fb2f4ae0",
+          "title": "FCC approves SpaceX plan to put AI data centers in space",
+          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Kirsten Korosec",
+          "published": "2026-11-25T20:56:44+00:00",
+          "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "dc85126b0ac7",
+          "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Jagmeet Singh",
+          "published": "2026-11-25T20:03:27+00:00",
+          "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "882812167e62",
+          "title": "UK food inflation could hit 5% next year, Bank of England says",
+          "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Heather Stewart Economics editor",
+          "published": "2026-11-25T19:25:57+00:00",
+          "summary": "Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El Niño Food price inflation in the UK could hit 5% next year, the Bank of England has said, despite rising less sharply than feared since…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
         },
         {
           "id": "a61ab511a42d",
@@ -794,39 +836,11 @@
           "section": "business-trends",
           "author": "Lauren Aratani",
           "published": "2026-11-25T15:46:15+00:00",
-          "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in the US stock market continued Wednesday as investors reacted to continued concern over the AI trade and fresh data that showed inflation jumped in October.",
+          "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in US tech stocks continued on Wednesday as investors reacted to continued concern over the AI trade and fresh data that showed inflation jumped in October.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 45
-        },
-        {
-          "id": "8137568c5ca5",
-          "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
-          "url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Sarah Perez",
-          "published": "2026-11-25T15:08:37+00:00",
-          "summary": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 24
-        },
-        {
-          "id": "a75f5eef05f2",
-          "title": "6 tips to use this Thanksgiving when family asks about your career",
-          "url": "https://www.fastcompany.com/91648932/6-tips-use-thanksgiving-when-family-asks-about-your-career",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "Associated Press",
-          "published": "2026-11-25T14:15:07+00:00",
-          "summary": "Evan Reece has a few strategies for handling unwelcome questions about his career when he gathers with family. He founded and ran a ski lift ticket platform for 15 years, but it went out of business during the COVID-19 pandemic.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 40
         }
       ]
     }
