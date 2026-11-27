@@ -5,12 +5,12 @@
     "date": "2026-11-27",
     "date_long": "Friday, 27 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-27T07:23+05:30",
+    "generated_at": "2026-11-27T22:26+05:30",
     "is_sample": false
   },
   "dashboard": {
     "total_articles": 50,
-    "reading_minutes": 9,
+    "reading_minutes": 11,
     "source_count": 24,
     "full_text_count": 1,
     "per_section": {
@@ -23,11 +23,7 @@
     },
     "keywords": [
       {
-        "term": "threat",
-        "count": 5
-      },
-      {
-        "term": "world",
+        "term": "people",
         "count": 5
       },
       {
@@ -35,39 +31,43 @@
         "count": 5
       },
       {
-        "term": "need",
+        "term": "rights",
         "count": 4
       },
       {
-        "term": "support",
+        "term": "customers",
         "count": 4
       },
       {
-        "term": "global",
+        "term": "work",
         "count": 4
       },
       {
-        "term": "data",
-        "count": 4
+        "term": "black friday",
+        "count": 3
       },
       {
         "term": "guardian view",
         "count": 3
       },
       {
-        "term": "party",
+        "term": "public",
         "count": 3
       },
       {
-        "term": "ruling coalition",
+        "term": "government",
+        "count": 3
+      },
+      {
+        "term": "million",
+        "count": 3
+      },
+      {
+        "term": "religious symbols",
         "count": 2
       },
       {
-        "term": "andy burnham",
-        "count": 2
-      },
-      {
-        "term": "narrative form",
+        "term": "upholds quebec",
         "count": 2
       }
     ],
@@ -75,43 +75,43 @@
       {
         "label": "USD/EUR",
         "group": "Currencies",
-        "display": "0.9112",
-        "change_pct": -0.36,
+        "display": "0.9127",
+        "change_pct": 0.16,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/GBP",
         "group": "Currencies",
-        "display": "0.7631",
-        "change_pct": -0.34,
+        "display": "0.7621",
+        "change_pct": -0.13,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/INR",
         "group": "Currencies",
-        "display": "92.45",
-        "change_pct": 0.23,
+        "display": "93.00",
+        "change_pct": 0.59,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "USD/JPY",
         "group": "Currencies",
-        "display": "159.26",
-        "change_pct": -0.04,
+        "display": "159.54",
+        "change_pct": 0.18,
         "source": "ECB via Frankfurter"
       },
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "60,595.00",
-        "change_pct": -0.33,
+        "display": "60,130.00",
+        "change_pct": -0.54,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,697.09",
-        "change_pct": -0.18,
+        "display": "1,676.93",
+        "change_pct": -0.74,
         "source": "CoinGecko"
       }
     ]
@@ -136,144 +136,144 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "585b336a1423",
-          "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-          "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+          "id": "a416b5c8c584",
+          "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+          "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – World",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-27T01:45:30+00:00",
-          "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+          "published": "2026-11-27T16:53:46+00:00",
+          "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "a4f28ede952d",
+          "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
+          "url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-27T16:33:21+00:00",
+          "summary": "Yashar party chief says Likud wants to drag Israel into another election under the outgoing government.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "257fc92f92fb",
+          "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+          "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Leyland Cecco in Toronto",
+          "published": "2026-11-27T16:13:07+00:00",
+          "summary": "Closely watched decision exposes tensions between minority rights and the power of government to override those rights Canada’s top court has largely upheld a controversial secularism law in the province of Quebec barring public sector workers from wearing conspicuous religious symbols, in a closely watched…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "5ffdbf1d63d5",
+          "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-27T16:06:37+00:00",
+          "summary": "Paul Mackenzie is found guilty of killing followers, weeks after being jailed for the mass murder of children.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 18
         },
         {
-          "id": "da0ee2bb9387",
-          "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
-          "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Eva Corlett in Wellington",
-          "published": "2026-11-27T01:41:50+00:00",
-          "summary": "Incumbent prime minister Christopher Luxon needs support of Opportunity party to remain in power or country faces another election The final results of New Zealand’s general election show the incumbent rightwing coalition will need the support of a centrist newcomer party to form a government…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "79bb921cb738",
-          "title": "Global news agency AFP reports cyberattack, shuts down content platform",
-          "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
-          "source": "Al Jazeera",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-27T01:07:44+00:00",
-          "summary": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 14
-        },
-        {
-          "id": "666f43bd7428",
-          "title": "Threat from China looms large over Taiwan’s local elections",
-          "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Amy Hawkins and Yu-chen Li in Taipei",
-          "published": "2026-11-27T01:00:49+00:00",
-          "summary": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party Taiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive party (DPP) as it navigates…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "94d2e60bc99c",
-          "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-27T00:52:11+00:00",
-          "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 27
-        },
-        {
-          "id": "39bf977e2159",
-          "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
-          "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – India",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-27T00:47:43+00:00",
-          "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 14
-        },
-        {
-          "id": "c331218a77ca",
-          "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
-          "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – India",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-26T19:55:58+00:00",
-          "summary": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
-        },
-        {
-          "id": "f70baf0ffc8a",
-          "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
-          "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+          "id": "95991b2c9e50",
+          "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+          "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
           "source": "NPR News",
           "section": "national-international",
-          "author": "The Associated Press",
-          "published": "2026-11-26T13:47:09+00:00",
-          "summary": "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.",
+          "author": "Suzanne Nuyen",
+          "published": "2026-11-27T11:59:02+00:00",
+          "summary": "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 26
         },
         {
-          "id": "afd70fe24e55",
-          "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-          "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+          "id": "7207ea497184",
+          "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+          "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
           "source": "NPR News",
           "section": "national-international",
           "author": "The Associated Press",
-          "published": "2026-11-26T13:31:28+00:00",
-          "summary": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
+          "published": "2026-11-27T11:49:50+00:00",
+          "summary": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 28
+          "words": 29
         },
         {
-          "id": "da0a3f9a9dd6",
-          "title": "Support Global Voices’ January Spotlight: Independent journalism",
-          "url": "https://globalvoices.org/2026/11/26/support-global-voices-january-spotlight-independent-journalism/",
+          "id": "f47e272917ca",
+          "title": "India busts cyberfraud and trafficking network rescuing 164 foreigners",
+          "url": "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-27T10:01:07+00:00",
+          "summary": "Lured by IT job promises, the victims were allegedly forced into cybercrime, police say.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        },
+        {
+          "id": "5830fbb716b0",
+          "title": "Millions of wives in South Asia unprotected from marital rape - study",
+          "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-27T08:13:43+00:00",
+          "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "afbd9be7e62c",
+          "title": "Who speaks for the voiceless in Tanzania?",
+          "url": "https://globalvoices.org/2026/11/27/who-speaks-for-the-voiceless-in-tanzania/",
           "source": "Global Voices",
           "section": "national-international",
-          "author": "Global Voices Announcements",
-          "published": "2026-11-26T08:16:21+00:00",
-          "summary": "In our January spotlight, Global Voices is celebrating the independent journalism that keeps governments and institutions accountable.",
-          "full_html": "<p><em>Donate to our Independent Journalism Spotlight issue, and get more of the coverage you value!</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/26/support-global-voices-january-spotlight-independent-journalism/\">Global Voices</a></p><p>Image made via Canva Pro. All images fair use.</p>\n<p>Journalism has been a vital part of society for centuries. Writing about what happened and sharing it with others; reading about what happened somewhere else and discussing it with those around you; having a platform for letters, comments, and opinion about everything from the niche to the rich. Journalism has toppled governments and CEOs, revealed complicated scams, brought out the beauty of ethnographically observed daily life, recorded our qualms and foibles for posterity, and whipped up outrage, empathy, and triumph.</p>\n<p>But journalism is on a precipice. The shift from print to digital has opened up new possibilities, as well as vulnerabilities. Changes in how we interact, especially at a distance, have changed what (and how) people want to read, listen to, or watch to understand the news. </p>\n<p>This decade has seen dramatic changes in the field, from the <a href=\"https://www.bbc.com/news/articles/cvgq1py92eko\">loss of foundational trust in the institution</a>, to <a href=\"https://cnti.org/issue-primers/journalists-cyber-threats/\">digital</a>, <a href=\"https://rsf.org/en/rising-criminalisation-journalism-calls-stronger-legal-protections-and-robust-criminal-justice\">legal</a>, and <a href=\"https://www.unesco.org/en/articles/armed-conflict-drives-rise-journalist-killings-unesco-mobilizes-action-against-impunity\">physical</a> <a href=\"https://www.unesco.org/en/articles/threats-evolve-impunity-endures\">threats to journalists</a> to the <a href=\"https://rsf.org/en/rsf-world-press-freedom-index-2025-economic-fragility-leading-threat-press-freedom\">near-complete erosion of financial security</a> for people who carry out this work. Increasingly <a href=\"https://rsf.org/en/2026-rsf-index-press-freedom-25-year-low\">authoritarian governments</a> turn on the media, and the press in countries from <a href=\"https://globalvoices.org/2025/04/23/threatened-by-transnational-repression-hong-kong-exile-media-outlets-aim-to-preserve-press-freedom/\">Hong Kong</a> to <a href=\"https://rsf.org/en/the-exile-of-journalists-is-on-the-rise-worldwide-the-number-of-countries-from-which-journalists-have-fled-has-doubled-in-five-years\">Myanmar </a>to <a href=\"https://gijn.org/stories/reporting-from-the-outside-lessons-from-investigative-journalists-in-exile/\">Russia</a> to <a href=\"https://cpj.org/2026/01/they-are-hunting-journalists-nicaraguas-covert-repression-tactics-strike-fear-beyond-borders/\">Nicaragua</a> has been forced into <a href=\"https://www.exile-hub.org/blog\">exile</a>. </p>\n<p>Even countries such as<a href=\"https://pressgazette.co.uk/media_law/five-journalists-arrested-pro-palestine-action-protest-leicester/\"> the UK</a> and <a href=\"https://cpj.org/2025/04/trumps-first-100-days-portend-long-lasting-damage-to-press-freedom/\">the US</a> have seen government targeting of journalists for critical reporting. Israel’s <a href=\"https://www.ohchr.org/en/press-releases/2025/09/israel-has-committed-genocide-gaza-strip-un-commission-finds\">genocide in Gaza</a> has laid bare the hypocrisy of the international press establishment, causing a crisis of confidence, while small local news outlets and independent journalists continue to report despite this. </p>\n<p>Through it all, journalists have kept documenting, analyzing, responding, and reporting, even when they are underpaid and overworked, face hostile governments and terrible technology, sometimes from exile, in terrible conditions, even at risk of their lives. As we begin 2027, Global Voices will turn the spotlight onto these voices that continue to speak truth to power and bring to light the news that we all need to know. We will look at civic journalism, find out what is changing, and meet some of these indefatigable defenders of our right to free speech and our right to information. </p>\n<p>Learn more about <a href=\"https://globalvoices.org/spotlight\">Global Voices Spotlights</a>.</p>\n<p>Donate to our Independent Journalism Spotlight, and get more of the coverage you value!</p>\n\n<p><br>\nLearn more about Global Voices Spotlights.</p>\n<p>\n<h3>Rewards</h3>\n<p>Each individual donation of $15 or more by November 15 will receive an e-book copy of the full spotlight issue once it’s complete.</p>\n<h3>Stretch goals (cumulative)</h3>\n<p>$1,000: An additional Undertones column analyzing narrative trends — we have more ideas for fascinating narrative analysis stories than we can produce at our current budget; help us add another one!</p>\n<p>$1,500: An additional online panel, bringing together experts, journalists, and analysts to discuss an aspect of the theme!</p>\n<p>$3,000: A podcast including follow-up interviews with editors and contributors highlighting some of the most interesting stories in the Spotlight issue.</p>\n<p>$10,000: An additional article from each of our regions. Most of our editors have far more article ideas on this topic than they can complete in their paid hours. Help us pay them more, and you get more fantastic insights into digital communities!</p>\n<p>$15,000: Surprise! Based on the topic and our learnings from it so far, we’ll choose an add-on that we think will add the most to our understanding of the Spotlight theme.</p>\n<p>Any funds that don’t make it to a stretch goal level will still be used to support the Global Voices newsroom!</p>\n<p>You can also support additional translation of all of our stories by <a href=\"https://lingua.globalvoices.org/donate-to-the-lingua-translation-project/\">donating to Lingua.</a></p>\n<strong>Written by <a href=\"https://globalvoices.org/author/global-voices-announcements/\">Global Voices Announcements</a></strong></p>",
+          "author": "Zita Zage",
+          "published": "2026-11-27T07:54:18+00:00",
+          "summary": "\"The law guarantees freedom of expression, but people who criticize the government face arrest, intimidation, and, in some cases, alleged abduction.\"",
+          "full_html": "<p><em>‘All we want is peace; there will be no peace without equal rights and justice.’</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/27/who-speaks-for-the-voiceless-in-tanzania/\">Global Voices</a></p><p>Jhiko Manyika performing at Zanzibar Reggae Festival. Image by Zanzibar Reggae Festival, used with permission.</p>\n<p><em>This post is part of Global Voices’ November 2026 Spotlight series, “<a href=\"https://globalvoices.org/special/justice-as-infrastructure/\">Justice as infrastructure</a>.” In this Spotlight, Global Voices is partnering with The Hague Institute for Innovation of Law (<a href=\"https://hiil.org/\">HiiL</a>) to highlight the ways justice functions as critical infrastructure for any society. You can support this coverage by donating <a href=\"https://globalvoices.org/2026/10/28/support-global-voices-spotlight-justice-as-infrastructure/\">here</a>.</em></p>\n<p>When courts stop protecting people, people stop talking. They stay quiet because speaking up could cost them their lives or their families. So who speaks for the voiceless? </p>\n<p>In Tanzania, one answer comes with a guitar. Reggae artist Jhikoman, born Jhikolabwino Siza Manyika, has released a song called “Justice,” written for everyone who lost a loved one, and the right to mourn them out loud, after the October 2025 <a href=\"https://en.wikipedia.org/wiki/2025_Tanzanian_general_election\">general elections</a> that declared <a href=\"https://en.wikipedia.org/wiki/Samia_Suluhu_Hassan\">Samia Suluhu Hassan</a> president.</p>\n<p>His favorite lyric sums up the song: </p>\n<p>“We don’t need no war, all we want is peace; there will be no peace without equal rights and justice.”</p>\n<p>Listen to <a href=\"https://www.youtube.com/watch?v=4nkVOQDj610\">Justice</a> below:</p>\n\n<h3>Tanzania’s image shattered</h3>\n<p>For nearly six decades, Tanzania cultivated an image of calm, consensus, and order. The scale of the 2025 election violence shocked many people because it broke that image. The <a href=\"https://www.bbc.com/news/articles/cgld775knzyo\">BBC reported</a> that security forces and unrest killed more than 500 people. International observers criticized the vote for its lack of transparency, and the <a href=\"https://en.wikipedia.org/wiki/African_Union\">African Union</a> and the <a href=\"https://en.wikipedia.org/wiki/Southern_African_Development_Community\">Southern African Development Community</a> (SADC) said the election fell short of democratic standards.</p>\n<p>Jhikoman, who watched these events unfold, says the losses moved him to write. He told Global Voices:</p>\n<p>“I was deeply moved by reports and accounts of people losing their lives, families losing their loved ones, and citizens being silenced by the authorities when they simply wanted to speak out, seek answers, and mourn those they had lost. That pain became my motivation to write ‘Justice.’”</p>\n<p>This song is more than a song; it is a cry for humanity, a call for accountability, and a reminder that the pain of those who have lost loved ones should never be silenced.</p>\n<h3>A reggae musician from Bagamoyo</h3>\n<p>Every stage name has a story, and Jhikoman’s is no different: JHIKO (from his first name, Jhikolabwino) plus MAN (from his surname, Manyika). Jhikoman has performed since 1994, blending acoustic reggae with African music and singing in English, Swahili, and his mother tongue, Kinyasa.</p>\n<p>His musical life started at home. His older brother played guitar, and young Jhikoman watched, listened and dreamed. In secondary school, he fell for reggae, drawn by its messages of peace, love, unity, equality, and justice. He idolized <a href=\"https://en.wikipedia.org/wiki/Bob_Marley\">Bob Marley</a> and <a href=\"https://en.wikipedia.org/wiki/Alpha_Blondy\">Alpha Blondy</a>, and he covered their songs. Then his brother gave him the advice that changed everything: If you want to be a musician, write your own songs.</p>\n<p>Jhikolabwino Siza Manyika performing at the Zanzibar International Film Festival. Photo by Micky Grapher, used with permission.</p>\n<p>He took the advice to heart. In 1994, he stepped into a recording studio for the first time. In 2000, he released the album “Afro-Caribbean Beat,” and its title track became a local hit. The opportunities followed quickly. In 2001, he performed at the Zanzibar International Film Festival. In 2003, he wrote a song for Participatory Ecological Land Use Management (PELUM) Tanzania, an organization that supports small-scale farmers, and the commission took him to South Africa to perform at the World Forum for Sustainable Development. Since then, his music has carried him across East and Southern Africa and to stages in Europe.</p>\n<p>Today he lives in <a href=\"https://en.wikipedia.org/wiki/Bagamoyo\">Bagamoyo</a>, where he volunteers as a music instructor at the <a href=\"https://en.wikipedia.org/wiki/Bagamoyo_Arts_and_Cultural_Institute\">Bagamoyo Institute of Arts and Culture</a> and mentors young artists. He says: </p>\n<p>“For me, music is more than entertainment. It is a powerful tool for communication, education, unity, and social change.”</p>\n<h3>The violence reaches home</h3>\n<p>The violence after the 2025 general election touched Jhikoman’s own circle. He says police shot and killed the wife of a close friend while she drove home, in front of her two children. He noted:</p>\n<p>“No innocent person should lose their life simply because of violence surrounding an election. The victims and their families deserve justice, dignity, and the freedom to mourn without fear or intimidation.”</p>\n<p>According to Jhikoman, the people who spoke out and wanted democratic reform often got silenced. They called for changes to election laws and procedures that would guarantee free, fair, transparent, and credible elections. They also demanded equal opportunities for all political parties, independent electoral oversight, and the freedom to choose their leaders without intimidation.</p>\n<h3>Why it’s so hard to get justice</h3>\n<p><a href=\"https://www.nao.go.tz/uploads/Constitution_of_the_United_Republic_of_Tanzania_en.pdf\">Article 18 of Tanzania’s 1977 Constitution</a> guarantees freedom of expression. Jhikoman says that some victims and their families have tried to enforce that right in court. However, getting justice has proved “extremely difficult.”</p>\n<p>He points to several cases. After the alleged<a href=\"https://panafricanvisions.com/2026/02/the-knock-that-changed-the-night-abductions-and-tanzanias-quiet-fear/\"> abduction of opposition activist Mpaluka Nyagali</a>, known as Mdude, in May 2025, his wife filed a <em>habeas corpus</em> petition at the High Court in Mbeya. The court dismissed it on July 9, 2025, and his whereabouts remained unknown. A lawyer for former ambassador Humphrey Polepole <a href=\"https://www.amnesty.org/en/petition/where-is-humphrey-polepole/?utm_source=chatgpt.com\">filed a similar application after he disappeared</a> in October 2025, and the court dismissed that as well. </p>\n<p>Two advocates, Tito Magoti and Bob Wangwe, filed a case at the East African Court of Justice challenging the conduct of the election, and it remains pending. Authorities also <a href=\"https://www.reuters.com/world/africa/tanzanian-court-clears-opposition-leader-lissu-treason-2026-11-06/?utm_source=chatgpt.com\">arrested Tundu Lissu</a>, chairman of the opposition party<a href=\"https://en.wikipedia.org/wiki/Chadema\"> CHADEMA</a>, and charged him with treason after he demanded electoral reforms. On November 6, 2026, the High Court acquitted him of treason, convicted him of incitement, and sentenced him to four years in prison. He remains imprisoned.</p>\n<p>Jhikoman says:</p>\n<p>“The law guarantees freedom of expression, but people who criticize the government face arrest, intimidation, and, in some cases, alleged abduction. The central problem is not simply the absence of laws; it is the difficulty of holding those responsible for violations accountable.”</p>\n<h3>A song that carries a message abroad</h3>\n<p>Listeners have responded well to Jhikoman’s message. He says that many Tanzanians feel the song finally carries their message to the international community. They believe the judiciary and parliament have lost their independence, which leaves them with little confidence that local institutions will deliver justice. Many now place their hope in international attention, because Tanzania has signed numerous international human rights agreements.</p>\n<p>Some listeners also worry about his safety. They urge him to take care, since abductions and enforced disappearances remain serious concerns in parts of East Africa.</p>\n<p>“I take those warnings seriously,” he says. “But I also believe that music can be a powerful tool for speaking out, raising awareness, and standing up for peace, justice, and the dignity of human life. … True peace means treating one another equally, standing up against injustice, respecting human rights, and giving everyone the freedom to express themselves without fear.”</p>\n<p>Jhikoman’s story shows how justice shapes daily life long before anyone reaches a courtroom. When people trust that the justice system will treat them fairly and quickly, they speak out, report wrongdoings, and rebuild after loss. When they lose that trust, silence spreads. One reggae song cannot repair broken institutions, but it can name the problem, keep the memory of the dead in public view, and ask listeners to hold their leaders accountable. </p>\n<strong>Written by <a href=\"https://globalvoices.org/author/zita-zage/\">Zita Zage</a></strong>",
           "license": "CC BY 3.0",
           "license_url": "https://creativecommons.org/licenses/by/3.0/",
-          "words": 607
+          "words": 1231
+        },
+        {
+          "id": "f03baaa219c7",
+          "title": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+          "url": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Eromo Egbejule in Lagos",
+          "published": "2026-11-27T06:00:56+00:00",
+          "summary": "What started as one artist’s response to being cut out of a music video has exploded, becoming a driving force in Nigeria’s cultural landscape As a student in the central Nigerian city of Ilorin, Lawal Habeeb Kola loved staying in his hostel room to produce…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
         }
       ]
     },
@@ -282,6 +282,76 @@
       "title": "Editorials & Opinion",
       "kicker": "Opinion",
       "articles": [
+        {
+          "id": "cbbe3cb7d279",
+          "title": "Honey, we’ve shrunk the country! But at least the Brexiters got their wish | Gaby Hinsliff",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/britain-ageing-population-immigration-birthrate-small-boats",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Gaby Hinsliff",
+          "published": "2026-11-27T16:23:40+00:00",
+          "summary": "Immigration has plummeted so we’ll probably have to work until we drop – yet many still obsess about people arriving in small boats Will the last person to leave Britain, please turn out the lights?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 35
+        },
+        {
+          "id": "052e6b2c84b3",
+          "title": "They crossed the doom loop of Groundhog Day with Nightmare on Elm Street. Voilà – it’s Peter Mandelson | Robert Hutton",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/groundhog-day-nightmare-on-elm-street-peter-mandelson-brexit-debate",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Robert Hutton",
+          "published": "2026-11-27T15:29:13+00:00",
+          "summary": "He’s perennially disgraced and yet he just won’t go away – now he’s joined the latest Brexit debate. Isn’t there a mute button, or an exile plan that really works? What a week it has been for Indispensable Men.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 39
+        },
+        {
+          "id": "212b8a681fbd",
+          "title": "Sunrise on the Reaping: The new Hunger Games film is a gen Z call to action – critics have missed the point | Rafqa Touma",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/new-hunger-games-sunrise-on-the-reaping-a-gen-z-call-to-action",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Rafqa Touma",
+          "published": "2026-11-27T14:00:14+00:00",
+          "summary": "We’ve been brought up on literature about underdogs who fight – and triumph – against an unjust status quo I first read The Hunger Games trilogy in early high school.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "5f988667e680",
+          "title": "Russia wants to build a new security framework to end the war. This is why it won’t work",
+          "url": "https://theconversation.com/russia-wants-to-build-a-new-security-framework-to-end-the-war-this-is-why-it-wont-work-296813",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Dilnoza Ubaydullaeva, Lecturer - National Security College, Australian National University",
+          "published": "2026-11-27T01:19:26+00:00",
+          "summary": "Vladimir Putin wants to counter NATO with his own security pact, but there are reasons to be sceptical.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "c459f414ef1a",
+          "title": "Elon Musk has approval to launch 1 million satellites. An astronomer explains how this would impact the sky",
+          "url": "https://theconversation.com/elon-musk-has-approval-to-launch-1-million-satellites-an-astronomer-explains-how-this-would-impact-the-sky-297646",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Michael J. I. Brown, Associate Professor in Astronomy, Monash University",
+          "published": "2026-11-26T23:39:50+00:00",
+          "summary": "If Starmind proceeds in full, the number of operational satellites will be multiplied by a factor of 50.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
         {
           "id": "21cc3a5b7fa2",
           "title": "The Guardian view on Russia’s war dead: the toll won’t stop Putin. Resolve in backing Ukraine remains essential | Editorial",
@@ -311,62 +381,6 @@
           "words": 9
         },
         {
-          "id": "97bfb0ab8c46",
-          "title": "Poundland staff fear they’ll be left out in the cold for Christmas. When will workers have a say in their future? | Polly Toynbee",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/26/poundland-staff-christmas-workers-future-high-streets-taxpayer",
-          "source": "The Guardian – Opinion",
-          "section": "editorials-opinion",
-          "author": "Polly Toynbee",
-          "published": "2026-11-26T17:48:25+00:00",
-          "summary": "High streets and ultimately the taxpayer will suffer from the chain’s liquidation. Who will benefit?",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 15
-        },
-        {
-          "id": "36bf8fc71857",
-          "title": "I helped organise the letter from Labour MPs urging Andy Burnham to reject Rosebank. This is why | Catherine Fookes",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/26/labour-mp-letter-andy-burnham-rosebank-oil-climate-crisis",
-          "source": "The Guardian – Opinion",
-          "section": "editorials-opinion",
-          "author": "Catherine Fookes",
-          "published": "2026-11-26T15:00:37+00:00",
-          "summary": "Approval would be celebrated by the oil giants, but it wouldn’t help our constituents who worry about the climate crisis, and their bills Catherine Fookes is Labour MP for Monmouthshire Labour split over Rosebank oilfield exposed by letter from nearly 100 MPs This week it…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "ce7382d8a686",
-          "title": "I’m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit",
-          "source": "The Guardian – Opinion",
-          "section": "editorials-opinion",
-          "author": "Anonymous",
-          "published": "2026-11-26T14:06:10+00:00",
-          "summary": "We’re developing the most powerful tech in history – but trust, safeguarding and privacy are being sidelined in favour of huge profit I’m a senior AI leader at one of the world’s biggest tech companies, and the products we put out into the world are…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "3e44a71fc7f6",
-          "title": "Can the International Criminal Court survive Trump’s attacks – and hold world leaders to account?",
-          "url": "https://theconversation.com/can-the-international-criminal-court-survive-trumps-attacks-and-hold-world-leaders-to-account-297530",
-          "source": "The Conversation",
-          "section": "editorials-opinion",
-          "author": "Justin Bergman, International Affairs Editor, The Conversation",
-          "published": "2026-11-26T11:10:07+00:00",
-          "summary": "The trial of former president of the Philippines, Rodrigo Duterte, comes at a precarious moment for the International Criminal Court, as the US ramps up its efforts to undermine the institution.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 31
-        },
-        {
           "id": "9943285b7ccf",
           "title": "The Guardian view on rising energy prices: only bold action can win public confidence | Editorial",
           "url": "https://www.theguardian.com/commentisfree/2026/nov/25/the-guardian-view-on-rising-energy-prices-only-bold-action-can-win-public-confidence",
@@ -379,20 +393,6 @@
           "license": "",
           "license_url": "",
           "words": 37
-        },
-        {
-          "id": "483f64d5371e",
-          "title": "Recent sinking of Russian vessels abroad shows the Russia-Ukraine war has officially gone global",
-          "url": "https://theconversation.com/recent-sinking-of-russian-vessels-abroad-shows-the-russia-ukraine-war-has-officially-gone-global-297352",
-          "source": "The Conversation",
-          "section": "editorials-opinion",
-          "author": "James Horncastle, Associate Professor and Edward and Emily McWhinney Professor in International Relations, Simon Fraser University",
-          "published": "2026-11-25T17:04:48+00:00",
-          "summary": "For Ukraine to have any chance of winning the war against Russia, it must increase the pressure on Vladimir Putin’s government. Making Russian assets vulnerable globally is one way to do it.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 32
         }
       ]
     },
@@ -402,88 +402,88 @@
       "kicker": "Technology & Money",
       "articles": [
         {
-          "id": "5e88e8bf14c7",
-          "title": "MoonPay and Highnote file for national bank charters",
-          "url": "https://www.finextra.com/newsarticle/48823/moonpay-and-highnote-file-for-national-bank-charters?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "id": "9df6a3a74938",
+          "title": "Sweden to join Eurosystem's T2 RTGS system",
+          "url": "https://www.finextra.com/newsarticle/48829/sweden-to-join-eurosystems-t2-rtgs-system?utm_medium=rssfinextra&utm_source=finextrafeed",
           "source": "Finextra",
           "section": "fintech-taxtech",
           "author": "",
-          "published": "2026-11-27T00:01:00+00:00",
-          "summary": "Crypto firm MoonPay and embedded finance platform Highnote are the latest fintechs to apply for national trust bank charters.",
+          "published": "2026-11-27T14:29:00+00:00",
+          "summary": "The European Central Bank has struck a deal with Sveriges Riksbank for Sweden to join the Eurosystem's T2 real-time gross settlement system.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 19
+          "words": 22
         },
         {
-          "id": "6f6e002c774f",
-          "title": "Shuttle secures FCA authorisation to help startups raise capital across borders",
-          "url": "https://www.finextra.com/newsarticle/48824/shuttle-secures-fca-authorisation-to-help-startups-raise-capital-across-borders?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-27T00:01:00+00:00",
-          "summary": "Shuttle, an Irish fintech that aims to transform how startups raise money across borders using AI agents, has secured FCA authorisation in the UK.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 24
-        },
-        {
-          "id": "250ffea15041",
-          "title": "SFF 2026: Monzo’s Secret for Growth, and the Tokenisation of Global Trade",
-          "url": "https://thefintechtimes.com/sff-2026-monzos-secret-for-growth-and-the-tokenisation-of-global-trade/",
-          "source": "The Fintech Times",
-          "section": "fintech-taxtech",
-          "author": "Georgia Hanias",
-          "published": "2026-11-26T16:29:44+00:00",
-          "summary": "Georgia Hanias rounds off Singapore FinTech Festival 2026 with Monzo CEO TS Anil's lessons on leadership and growth, plus the future of tokenised trade finance.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 25
-        },
-        {
-          "id": "3f236dc04fd5",
-          "title": "BofE says firms need to invest to keep pace with AI threat",
-          "url": "https://www.finextra.com/newsarticle/48822/bofe-says-firms-need-to-invest-to-keep-pace-with-ai-threat?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-26T14:31:00+00:00",
-          "summary": "Financial services firms need to make significant investments to take on the growing scale and sophistication of cyber threats in the era of AI while also ensuring that their own deployment of frontier models is undertaken safely, the Bank of England has warned.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 43
-        },
-        {
-          "id": "d2e9358dadc6",
-          "title": "AI Attackers Don’t Wait for the Annual Pentest. Nor can Banks",
-          "url": "https://thefintechtimes.com/ai-attackers-dont-wait-for-the-annual-pentest-nor-can-banks/",
-          "source": "The Fintech Times",
-          "section": "fintech-taxtech",
-          "author": "Rowen Brooks",
-          "published": "2026-11-26T14:05:30+00:00",
-          "summary": "Aikido Security's Selim Decamps argues banks facing AI-driven attackers must move from annual pentests to continuous AI testing inside their own data centres.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 23
-        },
-        {
-          "id": "fd21b9492f26",
-          "title": "LO:TECH Raises $12m Series A to Bridge Digital and Tokenised Markets",
-          "url": "https://thefintechtimes.com/lotech-raises-12m-series-a-to-bridge-digital-and-tokenised-markets/",
+          "id": "bd7c96f3fa09",
+          "title": "Allica Bank Passes £100m Interest Milestone for SME Accounts",
+          "url": "https://thefintechtimes.com/allica-bank-passes-100m-interest-milestone-for-sme-accounts/",
           "source": "The Fintech Times",
           "section": "fintech-taxtech",
           "author": "The Fintech Times",
-          "published": "2026-11-26T12:00:23+00:00",
-          "summary": "The London capital markets firm, backed by MMC, Faction and 13 Books Capital, will use the funds to expand into New York and Singapore.",
+          "published": "2026-11-27T14:00:13+00:00",
+          "summary": "The challenger bank says high-street rivals offer an average 0.80% AER on instant-access business deposits, against its own standard rate of 2",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
+          "id": "7840c409ab31",
+          "title": "Lloyds app goes down",
+          "url": "https://www.finextra.com/newsarticle/48828/lloyds-app-goes-down?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-27T13:43:00+00:00",
+          "summary": "Lloyds Bank customers have been hit with another app outage leaving thousands unable to access their accounts on pay day.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "159a0dc49fe6",
+          "title": "SAP may cut 10,000 jobs to make room for AI",
+          "url": "https://www.finextra.com/newsarticle/48827/sap-may-cut-10000-jobs-to-make-room-for-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-27T12:37:00+00:00",
+          "summary": "German software company SAP is considering a major staff cut to prepare its business for AI transformation, Bloomberg reported yesterday.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "1a43b71198d0",
+          "title": "Payment Device Security Can’t be Someone Else’s Problem",
+          "url": "https://thefintechtimes.com/payment-device-security-cant-be-someone-elses-problem/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "Rowen Brooks",
+          "published": "2026-11-27T10:00:23+00:00",
+          "summary": "PCA Cyber Security's Gianfranco Vinucci argues certification is only the start, and payment devices need a clear security owner for their whole working life.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 24
+        },
+        {
+          "id": "fee2c9b7c7fd",
+          "title": "IRIS Handles 70% of Greek Instant Payments as EuroPA Links Expand",
+          "url": "https://thefintechtimes.com/iris-handles-70-of-greek-instant-payments-as-europa-links-expand/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-27T08:01:18+00:00",
+          "summary": "Greece's IRIS network processed 126.4m transactions worth €10.9bn in 2025, and is now connected to three European A2A schemes via EuroPA.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 21
         },
         {
           "id": "0d63fb1e6c01",
@@ -521,6 +521,34 @@
       "kicker": "The Tax Desk",
       "articles": [
         {
+          "id": "6bde34818154",
+          "title": "CBIC Revises Silver Tariff Value; Tariff Values for Gold, Edible Oils, Brass Scrap and Areca Nuts Remain Unchanged [Read Notification]",
+          "url": "https://www.taxscan.in/excise-customs/cbic-revises-silver-tariff-value-tariff-values-for-gold-edible-oils-brass-scrap-and-areca-nuts-remain-unchanged-read-notification",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Kalyani B. Nair",
+          "published": "2026-11-27T15:07:37+00:00",
+          "summary": "CBIC cuts silver tariff value to USD 1,293 per kg, effective from November 27, 2026",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "6b455f606176",
+          "title": "Proceedings for Excess Stock Detected during GST Search must be Initiated u/s 73 or 74, Not Section 130: GSTAT",
+          "url": "https://www.taxscan.in/gst/proceedings-for-excess-stock-detected-during-gst-search-must-be-initiated-us-73-or-74-not-section-130-gstat",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Kavi Priya",
+          "published": "2026-11-27T12:55:10+00:00",
+          "summary": "Tax liability on unaccounted goods must be determined in accordance with Section 35(6) read with Sections 73 or 74 of the GST Act instead of invoking confiscation proceedings.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
           "id": "4d7db65d088f",
           "title": "Regulations Regarding Payment of Tax by Commercially Acceptable Means; Correction",
           "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24135/regulations-regarding-payment-of-tax-by-commercially-acceptable-means-correction",
@@ -547,34 +575,6 @@
           "license": "US Government work (public domain)",
           "license_url": "",
           "words": 23
-        },
-        {
-          "id": "0aed81611247",
-          "title": "CBIC's 2022 instruction \"non-existent\" after Delhi HC ruling: Andhra Pradesh HC directs Customs Dept to Grant MOOWR Permissions for Solar Power Generation Projects",
-          "url": "https://www.taxscan.in/excise-customs/cbics-2022-instruction-non-existent-after-delhi-hc-ruling-andhra-pradesh-hc-directs-customs-dept-to-grant-moowr-permissions-for-solar-power-generation-projects",
-          "source": "Taxscan (India)",
-          "section": "tax-policy",
-          "author": "Kavi Priya",
-          "published": "2026-11-26T11:00:08+00:00",
-          "summary": "A subsequent notification restricting solar power generation under Section 65 of the Customs Act cannot be applied retrospectively to deny permissions sought under the MOOWR Scheme.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
-        },
-        {
-          "id": "17f2ac777972",
-          "title": "Kerala GST Dept Issues Guidelines on Transfer of Show Cause Notices to Call Book, Mandates Monthly Review [Read Circular]",
-          "url": "https://www.taxscan.in/gst/kerala-gst-dept-issues-guidelines-on-transfer-of-show-cause-notices-to-call-book-mandates-monthly-review-read-circular",
-          "source": "Taxscan (India)",
-          "section": "tax-policy",
-          "author": "Kavi Priya",
-          "published": "2026-11-26T11:00:03+00:00",
-          "summary": "Kerala GST Department issues guidelines for transferring Show Cause Notices to Call Books, mandates immediate taxpayer intimation and requires monthly review of pending cases.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 24
         },
         {
           "id": "ba06500c684f",
@@ -759,13 +759,55 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
+          "id": "fe6f90b8e060",
+          "title": "Travis and Jason Kelce’s Garage Beer lands $20 million as craft brewers pull back",
+          "url": "https://www.fastcompany.com/91647430/travis-jason-kelces-garage-beer-lands-20-million-craft-brewers-pull-back",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Inc.",
+          "published": "2026-11-27T16:30:00+00:00",
+          "summary": "Travis Kelce’s beer brand just secured a huge financial deal to help promote its popular brew. On Tuesday, Travis and his brother Jason Kelce’s Garage Beer brand secured a $20 million revolving credit from Tiger Finance, according to a release.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 40
+        },
+        {
+          "id": "aa6f333e31d3",
+          "title": "‘It was the talk of the playground’: Google’s AI features blocked by L.A. school officials",
+          "url": "https://www.fastcompany.com/91649464/it-was-talk-playground-googles-ai-features-blocked-la-school-officials",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Associated Press",
+          "published": "2026-11-27T15:31:06+00:00",
+          "summary": "School districts are taking steps to block Google’s artificial intelligence features and are considering dropping Google products entirely unless the company gives them a permanent AI workaround, pitting them against the tech giant whose Chromebook computers and learning tools are deeply embedded in America’s classrooms.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "31c1fbf370d3",
+          "title": "Amazon’s sale deals deceive customers, thinktank alleges",
+          "url": "https://www.theguardian.com/global/2026/nov/27/amazon-sale-deals-deceive-customers-black-friday-cyber-monday",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Gaya Gupta",
+          "published": "2026-11-27T14:00:12+00:00",
+          "summary": "Two-thirds of Black Friday and Cyber Monday sale products were priced the same or lower in previous months according to an analysis by Groundwork Collaborative, which Amazon disputes An Apple Watch on sale for $680.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 35
+        },
+        {
           "id": "224ca0e3af2b",
-          "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+          "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
           "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Business",
           "section": "business-trends",
           "author": "",
-          "published": "2026-11-27T00:54:45+00:00",
+          "published": "2026-11-27T10:10:36+00:00",
           "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
           "full_html": null,
           "license": "",
@@ -773,18 +815,32 @@
           "words": 14
         },
         {
-          "id": "f9fb9773b067",
-          "title": "Why is there a shortage of 'wizard' elevator mechanics?",
-          "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – Business",
+          "id": "21800f865bba",
+          "title": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
+          "url": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
+          "source": "The Guardian – Business",
           "section": "business-trends",
-          "author": "",
-          "published": "2026-11-27T00:02:19+00:00",
-          "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+          "author": "Michael Sainato",
+          "published": "2026-11-27T10:00:02+00:00",
+          "summary": "Labor leaders and advocates urge protections for workers and consumers as AI use becomes more commonplace As millions of Americans begin holiday shopping this Black Friday, consumers and workers alike are already seeing how artificial intelligence is reshaping the retail landscape.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 17
+          "words": 41
+        },
+        {
+          "id": "2ef3104a86ba",
+          "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+          "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-27T00:58:49+00:00",
+          "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
         },
         {
           "id": "94305b427e5a",
@@ -813,62 +869,6 @@
           "license": "",
           "license_url": "",
           "words": 30
-        },
-        {
-          "id": "27d0f525dd6c",
-          "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
-          "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
-          "source": "The Guardian – Business",
-          "section": "business-trends",
-          "author": "Rebecca Bailey and agencies",
-          "published": "2026-11-26T12:00:22+00:00",
-          "summary": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves the right to take “necessary measures” after Donald Trump’s administration proposed…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "c8fbc00ed248",
-          "title": "Are stores open on Thanksgiving Day 2026? Holiday hours for Walmart, Whole Foods, Costco, and more",
-          "url": "https://www.fastcompany.com/91646666/are-stores-open-on-thanksgiving-day-2026-holiday-hours-for-walmart-whole-foods-costco-and-more",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "Shannon Cudd",
-          "published": "2026-11-26T11:05:00+00:00",
-          "summary": "Thanksgiving centers on gratitude, which is good for mental health, as scientific studies have proven. The stress and anxiety of the holiday season can almost seem antithetical to these findings.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 30
-        },
-        {
-          "id": "26944dfd67d1",
-          "title": "Here’s the best day to shop for travel deals—and it isn’t Black Friday or Travel Tuesday",
-          "url": "https://www.fastcompany.com/91641318/travel-deals-sales-flights-best-day-to-shop-black-friday-cyber-monday",
-          "source": "Fast Company",
-          "section": "business-trends",
-          "author": "Jennifer Mattson",
-          "published": "2026-11-26T11:00:00+00:00",
-          "summary": "Black Friday may have come early this year, but the best travel deals are still to come, according to data from Skyscanner—which found the best day to find discounts on travel isn’t Black Friday or Travel Tuesday.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 37
-        },
-        {
-          "id": "9be8efb13783",
-          "title": "Judge blocks Brendan Carr-led FCC from taking any further action against ABC’s licenses",
-          "url": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
-          "source": "The Guardian – Business",
-          "section": "business-trends",
-          "author": "Jeremy Barr",
-          "published": "2026-11-26T02:52:47+00:00",
-          "summary": "Federal judge Loren L AliKhan grants preliminary injunction in ABC’s favor after network sued FCC in August The federal judge Loren L AliKhan on Wednesday granted a preliminary injunction blocking the Brendan Carr-led Federal Communications Commission (FCC) from taking any action curbing ABC’s ability to…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
         }
       ]
     }
