@@ -2,10 +2,10 @@
   "edition": {
     "name": "The Morning Ledger",
     "tagline": "A quiet read for a busy morning",
-    "date": "2026-11-26",
-    "date_long": "Thursday, 26 November 2026",
+    "date": "2026-11-27",
+    "date_long": "Friday, 27 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-26T22:45+05:30",
+    "generated_at": "2026-11-27T07:23+05:30",
     "is_sample": false
   },
   "dashboard": {
@@ -23,6 +23,10 @@
     },
     "keywords": [
       {
+        "term": "threat",
+        "count": 5
+      },
+      {
         "term": "world",
         "count": 5
       },
@@ -31,15 +35,15 @@
         "count": 5
       },
       {
-        "term": "raises",
-        "count": 4
-      },
-      {
-        "term": "cost",
-        "count": 4
-      },
-      {
         "term": "need",
+        "count": 4
+      },
+      {
+        "term": "support",
+        "count": 4
+      },
+      {
+        "term": "global",
         "count": 4
       },
       {
@@ -51,23 +55,19 @@
         "count": 3
       },
       {
-        "term": "president",
+        "term": "party",
         "count": 3
       },
       {
-        "term": "company",
-        "count": 3
-      },
-      {
-        "term": "lana nusseibeh",
+        "term": "ruling coalition",
         "count": 2
       },
       {
-        "term": "secretary general",
+        "term": "andy burnham",
         "count": 2
       },
       {
-        "term": "million people",
+        "term": "narrative form",
         "count": 2
       }
     ],
@@ -103,28 +103,28 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "60,494.00",
-        "change_pct": 2.27,
+        "display": "60,595.00",
+        "change_pct": -0.33,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,691.80",
-        "change_pct": 2.06,
+        "display": "1,697.09",
+        "change_pct": -0.18,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Liquidity",
-    "definition": "The ease with which an asset, security, or commodity can be converted into ready cash without affecting its market price.",
+    "term": "Arbitrage",
+    "definition": "The simultaneous purchase and sale of an asset in different markets to profit from a difference in the price.",
     "source": "The Morning Ledger glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 26",
-    "definition": "edit · refresh · view Word of the day for November 26 pumpkin chunkin' n (originally and chiefly US, informal) The informal sport of hurling a pumpkin as far as possible by mechanical means. Happy Thanksgiving!",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261126000000/en",
+    "word": "Word of the day for November 27",
+    "definition": "edit · refresh · view Word of the day for November 27 Lancashire hotpot n (uncountable) A stew of lamb or mutton and onions topped with sliced potatoes baked in a pot; (countable) a dish of this.",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261127000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -136,42 +136,98 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "49e7127f5414",
-          "title": "How a teen’s death raises questions about Colombia’s security crackdown",
-          "url": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss",
+          "id": "585b336a1423",
+          "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+          "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-27T01:45:30+00:00",
+          "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "da0ee2bb9387",
+          "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
+          "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Eva Corlett in Wellington",
+          "published": "2026-11-27T01:41:50+00:00",
+          "summary": "Incumbent prime minister Christopher Luxon needs support of Opportunity party to remain in power or country faces another election The final results of New Zealand’s general election show the incumbent rightwing coalition will need the support of a centrist newcomer party to form a government…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "79bb921cb738",
+          "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+          "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
           "source": "Al Jazeera",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-26T16:49:59+00:00",
-          "summary": "President Abelardo de la Espriella's campaign against armed groups has resulted in accusations of extrajudicial killing.",
+          "published": "2026-11-27T01:07:44+00:00",
+          "summary": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 16
+          "words": 14
         },
         {
-          "id": "a5a563c2a3a6",
-          "title": "Italy says two citizens killed in Iranian strike in Kuwait",
-          "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
+          "id": "666f43bd7428",
+          "title": "Threat from China looms large over Taiwan’s local elections",
+          "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+          "source": "The Guardian – World",
           "section": "national-international",
-          "author": "",
-          "published": "2026-11-26T16:39:30+00:00",
-          "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+          "author": "Amy Hawkins and Yu-chen Li in Taipei",
+          "published": "2026-11-27T01:00:49+00:00",
+          "summary": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party Taiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive party (DPP) as it navigates…",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 13
+          "words": 45
         },
         {
-          "id": "184ed2e92675",
-          "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-          "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+          "id": "94d2e60bc99c",
+          "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – World",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-26T16:21:19+00:00",
-          "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
+          "published": "2026-11-27T00:52:11+00:00",
+          "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "39bf977e2159",
+          "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+          "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-27T00:47:43+00:00",
+          "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        },
+        {
+          "id": "c331218a77ca",
+          "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+          "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-26T19:55:58+00:00",
+          "summary": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
           "full_html": null,
           "license": "",
           "license_url": "",
@@ -206,62 +262,6 @@
           "words": 28
         },
         {
-          "id": "5164d19f2cb8",
-          "title": "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
-          "url": "https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Patrick Wintour Diplomatic editor",
-          "published": "2026-11-26T12:37:42+00:00",
-          "summary": "The US and Russia’s candidate for secretary general is on a charm offensive. Can she overcome London’s resistance to her bid?",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
-        },
-        {
-          "id": "27d0f525dd6c",
-          "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
-          "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Rebecca Bailey and agencies",
-          "published": "2026-11-26T12:00:22+00:00",
-          "summary": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves the right to take “necessary measures” after Donald Trump’s administration proposed…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "cf08f7e12952",
-          "title": "The big fat wedding of politician's daughter making headlines in India",
-          "url": "https://www.bbc.co.uk/news/articles/cvj6l162j0rpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – India",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-26T10:38:00+00:00",
-          "summary": "Half a million people are estimated to have attended the wedding of Shivangi Singh, daughter of Anant Singh.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 18
-        },
-        {
-          "id": "6c8e3db07d5b",
-          "title": "Two screenings of Pakistani TV show cancelled in India after backlash",
-          "url": "https://www.bbc.co.uk/news/articles/cky97x7delz9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – India",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-26T08:30:12+00:00",
-          "summary": "The show, Dar-e-Nijaat, has become a sensation in India but is now embroiled in a political row.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
-        },
-        {
           "id": "da0a3f9a9dd6",
           "title": "Support Global Voices’ January Spotlight: Independent journalism",
           "url": "https://globalvoices.org/2026/11/26/support-global-voices-january-spotlight-independent-journalism/",
@@ -282,6 +282,48 @@
       "title": "Editorials & Opinion",
       "kicker": "Opinion",
       "articles": [
+        {
+          "id": "21cc3a5b7fa2",
+          "title": "The Guardian view on Russia’s war dead: the toll won’t stop Putin. Resolve in backing Ukraine remains essential | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/26/the-guardian-view-on-russias-war-dead-the-toll-wont-stop-putin-resolve-in-backing-ukraine-remains-essential",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-26T18:53:47+00:00",
+          "summary": "New data offers shocking details of military fatalities.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 8
+        },
+        {
+          "id": "4418e7f3c68c",
+          "title": "The Guardian view on fostering: ceremonies and sibling rights should help care leavers | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/26/the-guardian-view-on-fostering-ceremonies-and-sibling-rights-should-help-care-leavers",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-26T18:51:56+00:00",
+          "summary": "Ministers have recognised that young adults need more support.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 9
+        },
+        {
+          "id": "97bfb0ab8c46",
+          "title": "Poundland staff fear they’ll be left out in the cold for Christmas. When will workers have a say in their future? | Polly Toynbee",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/26/poundland-staff-christmas-workers-future-high-streets-taxpayer",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Polly Toynbee",
+          "published": "2026-11-26T17:48:25+00:00",
+          "summary": "High streets and ultimately the taxpayer will suffer from the chain’s liquidation. Who will benefit?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
         {
           "id": "36bf8fc71857",
           "title": "I helped organise the letter from Labour MPs urging Andy Burnham to reject Rosebank. This is why | Catherine Fookes",
@@ -309,20 +351,6 @@
           "license": "",
           "license_url": "",
           "words": 45
-        },
-        {
-          "id": "4d034cc8c7cd",
-          "title": "Victoria’s mental health crisis has been decades in the making. It’s going to be harder than potholes to fix | Zoe Daniel",
-          "url": "https://www.theguardian.com/society/commentisfree/2026/nov/27/mental-health-crisis-victoria-state-election-2026-comment-homelessness",
-          "source": "The Guardian – Opinion",
-          "section": "editorials-opinion",
-          "author": "Zoe Daniel",
-          "published": "2026-11-26T14:00:37+00:00",
-          "summary": "The drivers of mental ill health are all increasing; social isolation, cost of living, family violence, alcohol and other drug use, homelessness and psychological distress Victorian election 2026 guide: what you need to know Confused about who to vote for?",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 40
         },
         {
           "id": "3e44a71fc7f6",
@@ -353,20 +381,6 @@
           "words": 37
         },
         {
-          "id": "e6a5af5f163e",
-          "title": "The Guardian view on the next UN secretary general: sacrificing principles will damn the institution, not save it | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/25/the-guardian-view-on-the-next-un-secretary-general-sacrificing-principles-will-damn-the-institution-not-save-it",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-25T18:32:49+00:00",
-          "summary": "The UK must continue to oppose the UAE’s tainted nominee, Lana Nusseibeh.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 12
-        },
-        {
           "id": "483f64d5371e",
           "title": "Recent sinking of Russian vessels abroad shows the Russia-Ukraine war has officially gone global",
           "url": "https://theconversation.com/recent-sinking-of-russian-vessels-abroad-shows-the-russia-ukraine-war-has-officially-gone-global-297352",
@@ -379,20 +393,6 @@
           "license": "",
           "license_url": "",
           "words": 32
-        },
-        {
-          "id": "c21b90b4a3f9",
-          "title": "The Guardian view on disability benefits: Timms’s radical review is rooted in experience | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/24/the-guardian-view-on-disability-benefits-timmss-radical-review-is-rooted-in-experience",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-24T19:15:00+00:00",
-          "summary": "Ministers have taken on board their MPs’ message about cuts. Now anxious claimants need reassurance Four million people with disabilities or long‑term health conditions in the UK claim personal independence payment (Pip).",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 32
         }
       ]
     },
@@ -401,6 +401,34 @@
       "title": "FinTech & Tax Technology",
       "kicker": "Technology & Money",
       "articles": [
+        {
+          "id": "5e88e8bf14c7",
+          "title": "MoonPay and Highnote file for national bank charters",
+          "url": "https://www.finextra.com/newsarticle/48823/moonpay-and-highnote-file-for-national-bank-charters?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-27T00:01:00+00:00",
+          "summary": "Crypto firm MoonPay and embedded finance platform Highnote are the latest fintechs to apply for national trust bank charters.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        },
+        {
+          "id": "6f6e002c774f",
+          "title": "Shuttle secures FCA authorisation to help startups raise capital across borders",
+          "url": "https://www.finextra.com/newsarticle/48824/shuttle-secures-fca-authorisation-to-help-startups-raise-capital-across-borders?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-27T00:01:00+00:00",
+          "summary": "Shuttle, an Irish fintech that aims to transform how startups raise money across borders using AI agents, has secured FCA authorisation in the UK.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
         {
           "id": "250ffea15041",
           "title": "SFF 2026: Monzo’s Secret for Growth, and the Tokenisation of Global Trade",
@@ -444,20 +472,6 @@
           "words": 23
         },
         {
-          "id": "d8b3c2e780f6",
-          "title": "NY Attorney General wins $1.4bn judgement against crypto scammers",
-          "url": "https://www.finextra.com/newsarticle/48821/ny-attorney-general-wins-14bn-judgement-against-crypto-scammers?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-26T13:59:00+00:00",
-          "summary": "The founders of cryptocurrency trading company NovaTechFx have been ordered by a US court to pay $1.37 billion for defrauding hundreds of thousands of investors worldwide through a crypto Ponzi scheme that targeted Haitian communities.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 35
-        },
-        {
           "id": "fd21b9492f26",
           "title": "LO:TECH Raises $12m Series A to Bridge Digital and Tokenised Markets",
           "url": "https://thefintechtimes.com/lotech-raises-12m-series-a-to-bridge-digital-and-tokenised-markets/",
@@ -470,20 +484,6 @@
           "license": "",
           "license_url": "",
           "words": 24
-        },
-        {
-          "id": "fae22fa1e0b8",
-          "title": "Client data leaked in Zodia Custody security breach - Reuters",
-          "url": "https://www.finextra.com/newsarticle/48820/client-data-leaked-in-zodia-custody-security-breach---reuters?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-26T11:55:00+00:00",
-          "summary": "Standard Chartered’s cryptocurrency custody firm was hit by a cyber attack earlier this week, compromising customer and employee data.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 19
         },
         {
           "id": "0d63fb1e6c01",
@@ -759,60 +759,74 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
-          "id": "948f79b6fa50",
-          "title": "A month with the iPhone Duo has changed how I use my phone",
-          "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Sarah Perez",
-          "published": "2026-11-26T17:00:00+00:00",
-          "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
-        },
-        {
-          "id": "e5c5d8632474",
-          "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
-          "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Amanda Silberling",
-          "published": "2026-11-26T16:00:00+00:00",
-          "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 25
-        },
-        {
-          "id": "1f475a1b7ee4",
-          "title": "When will Poundland shops close? Five key questions answered",
-          "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+          "id": "224ca0e3af2b",
+          "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Business",
           "section": "business-trends",
           "author": "",
-          "published": "2026-11-26T15:55:50+00:00",
-          "summary": "Why is Poundland closing down, and what will happen to staff and suppliers?",
+          "published": "2026-11-27T00:54:45+00:00",
+          "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 13
+          "words": 14
         },
         {
-          "id": "b69c72f7a3a1",
-          "title": "New UK-EU treaty has 10-year termination clause",
-          "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+          "id": "f9fb9773b067",
+          "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+          "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – Business",
           "section": "business-trends",
           "author": "",
-          "published": "2026-11-26T15:23:17+00:00",
-          "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+          "published": "2026-11-27T00:02:19+00:00",
+          "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 18
+          "words": 17
+        },
+        {
+          "id": "94305b427e5a",
+          "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Connie Loizos",
+          "published": "2026-11-26T20:03:54+00:00",
+          "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "25927c0f40db",
+          "title": "Is Alice Huang a spy or not?",
+          "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Lucas Ropek",
+          "published": "2026-11-26T20:00:00+00:00",
+          "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "27d0f525dd6c",
+          "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+          "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Rebecca Bailey and agencies",
+          "published": "2026-11-26T12:00:22+00:00",
+          "summary": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves the right to take “necessary measures” after Donald Trump’s administration proposed…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
         },
         {
           "id": "c8fbc00ed248",
@@ -851,20 +865,6 @@
           "author": "Jeremy Barr",
           "published": "2026-11-26T02:52:47+00:00",
           "summary": "Federal judge Loren L AliKhan grants preliminary injunction in ABC’s favor after network sued FCC in August The federal judge Loren L AliKhan on Wednesday granted a preliminary injunction blocking the Brendan Carr-led Federal Communications Commission (FCC) from taking any action curbing ABC’s ability to…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "882812167e62",
-          "title": "UK food inflation could hit 5% next year, Bank of England says",
-          "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
-          "source": "The Guardian – Business",
-          "section": "business-trends",
-          "author": "Heather Stewart Economics editor",
-          "published": "2026-11-25T19:25:57+00:00",
-          "summary": "Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El Niño Food price inflation in the UK could hit 5% next year, the Bank of England has said, despite rising less sharply than feared since…",
           "full_html": null,
           "license": "",
           "license_url": "",
