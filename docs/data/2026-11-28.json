@@ -1,0 +1,1022 @@
+{
+  "edition": {
+    "name": "The Morning Ledger",
+    "tagline": "A quiet read for a busy morning",
+    "date": "2026-11-28",
+    "date_long": "Saturday, 28 November 2026",
+    "timezone": "Asia/Kolkata",
+    "generated_at": "2026-11-28T07:06+05:30",
+    "is_sample": false
+  },
+  "dashboard": {
+    "total_articles": 48,
+    "reading_minutes": 10,
+    "source_count": 23,
+    "full_text_count": 1,
+    "per_section": {
+      "national-international": 10,
+      "editorials-opinion": 8,
+      "fintech-taxtech": 8,
+      "tax-policy": 8,
+      "product-analysis": 6,
+      "business-trends": 8
+    },
+    "keywords": [
+      {
+        "term": "product",
+        "count": 5
+      },
+      {
+        "term": "people",
+        "count": 4
+      },
+      {
+        "term": "customers",
+        "count": 4
+      },
+      {
+        "term": "security",
+        "count": 4
+      },
+      {
+        "term": "black friday",
+        "count": 3
+      },
+      {
+        "term": "guardian view",
+        "count": 3
+      },
+      {
+        "term": "thousands",
+        "count": 3
+      },
+      {
+        "term": "court",
+        "count": 3
+      },
+      {
+        "term": "life",
+        "count": 3
+      },
+      {
+        "term": "government",
+        "count": 3
+      },
+      {
+        "term": "jensen huang",
+        "count": 2
+      },
+      {
+        "term": "form keynote",
+        "count": 2
+      }
+    ],
+    "markets": [
+      {
+        "label": "USD/EUR",
+        "group": "Currencies",
+        "display": "0.9127",
+        "change_pct": 0.16,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/GBP",
+        "group": "Currencies",
+        "display": "0.7621",
+        "change_pct": -0.13,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/INR",
+        "group": "Currencies",
+        "display": "93.00",
+        "change_pct": 0.59,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "USD/JPY",
+        "group": "Currencies",
+        "display": "159.54",
+        "change_pct": 0.18,
+        "source": "ECB via Frankfurter"
+      },
+      {
+        "label": "Bitcoin (USD)",
+        "group": "Crypto",
+        "display": "60,164.00",
+        "change_pct": -0.81,
+        "source": "CoinGecko"
+      },
+      {
+        "label": "Ethereum (USD)",
+        "group": "Crypto",
+        "display": "1,668.80",
+        "change_pct": -1.73,
+        "source": "CoinGecko"
+      }
+    ]
+  },
+  "word_of_the_day": {
+    "term": "Hedging",
+    "definition": "An investment position intended to offset potential losses or gains that may be incurred by a companion investment.",
+    "source": "The Morning Ledger glossary"
+  },
+  "dictionary_word": {
+    "word": "Word of the day for November 28",
+    "definition": "edit · refresh · view Word of the day for November 28 birl v (Scotland) (transitive) To cause (something) to rotate quickly; to spin.",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261128000000/en",
+    "source": "Wiktionary",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "sections": [
+    {
+      "id": "national-international",
+      "title": "National & International News",
+      "kicker": "The World Today",
+      "articles": [
+        {
+          "id": "ec278298d964",
+          "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
+          "url": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-28T01:00:00+00:00",
+          "summary": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "013919c6873e",
+          "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-28T00:56:55+00:00",
+          "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "3941eb83ee81",
+          "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+          "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-28T00:50:11+00:00",
+          "summary": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        },
+        {
+          "id": "4571de9aa2a8",
+          "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-27T21:55:53+00:00",
+          "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "0310bd7d5f12",
+          "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
+          "url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Keely Aouga",
+          "published": "2026-11-27T21:24:10+00:00",
+          "summary": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ A petition signed by nearly 290,000 Canadians calling on Mark Carney’s government to oust Pete Hoekstra as US ambassador to Canada was formally presented to the House of Commons on…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "00b059ede5e4",
+          "title": "International Court of Justice rules Myanmar committed genocide against the Rohingya people",
+          "url": "https://globalvoices.org/2026/11/27/international-court-of-justice-rules-myanmar-committed-genocide-against-the-rohingya-people/",
+          "source": "Global Voices",
+          "section": "national-international",
+          "author": "Mong Palatino",
+          "published": "2026-11-27T20:07:43+00:00",
+          "summary": "\"This verdict brings a sense of healing for me, too. It feels as though one of the chronic diseases Myanmar suffer has finally been named.\"",
+          "full_html": "<p><em>Human rights groups reiterated that to get true justice in Myanmar, the junta rule must end</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/27/international-court-of-justice-rules-myanmar-committed-genocide-against-the-rohingya-people/\">Global Voices</a></p><a href=\"https://commons.wikimedia.org/wiki/File:Rohingya_Refugees_Camp_in_2019.48.jpg\"></a><p>Rohingya refugee camp in Bangladesh. <a href=\"https://commons.wikimedia.org/wiki/File:Rohingya_Refugees_Camp_in_2019.48.jpg\">Photo </a> by CAPTAIN RAJU. Source: Wikipedia. <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0 </a></p>\n<p><em>This post is part of Global Voices’ November 2026 Spotlight series, “<a href=\"https://globalvoices.org/special/justice-as-infrastructure/\">Justice as infrastructure</a>.” In this Spotlight, Global Voices is partnering with The Hague Institute for Innovation of Law (<a href=\"https://hiil.org/\">HiiL</a>) to highlight the ways justice functions as critical infrastructure for any society. You can support this coverage by donating <a href=\"https://globalvoices.org/2026/10/28/support-global-voices-spotlight-justice-as-infrastructure/\">here</a>.</em></p>\n<p>The International Court of Justice (ICJ) <a href=\"https://eng.mizzima.com/2026/11/21/41041\">ruled</a> on November 19 that Myanmar’s military forces committed genocide against the Rohingya people during a brutal 2017 <a href=\"https://globalvoices.org/2017/09/23/myanmar-government-vows-to-address-refugee-crisis-in-rakhine-state-but-avoids-saying-rohingya/\">crackdown</a> in the western Rakhine state.</p>\n<p>Voting 9–6, the ICJ <a href=\"https://english.dvb.no/world-court-rules-myanmar-responsible-for-genocide/\">verdict</a> found the military’s “clearance operations,” which led to the mass murder of at least 10,000 people and the forced <a href=\"https://globalvoices.org/2017/09/06/scenes-from-the-bangladesh-myanmar-border-where-rohingya-refugees-are-seeking-refuge-from-violence/\">expulsion</a> of more than 700,000 Rohingya to the neighboring country of Bangladesh, constituted <a href=\"https://globalvoices.org/2017/08/29/thousands-of-rohingya-fleeing-violence-are-stranded-on-the-bangladesh-myanmar-border/\">genocidal acts</a>.</p>\n<p>Myanmar has more than one hundred ethnic groups but <a href=\"https://globalvoices.org/2016/05/29/myanmar-wants-the-world-to-stop-using-the-word-rohingya-for-persecuted-ethnic-group/\">refuses</a> to recognize the Rohingya, who are considered illegal immigrants even though they were born in Myanmar, and many have been there for generations. The Rohingya have been viciously persecuted for decades and targeted by hate speech and violent acts not just by state forces but also by hardline Buddhist nationalists.</p>\n<p>It was The Gambia, with the support of the Organization of Islamic Cooperation, that initiated the ICJ complaint in November 2019.</p>\n<p>This is the first time the ICJ has found a state liable for committing genocide. The Myanmar military government, which grabbed power in a February 2021 coup, <a href=\"https://eng.mizzima.com/2026/11/21/41044\">described</a> the decision as unfair and a “great disappointment” while pointing out that the verdict was not unanimous.</p>\n<p>The National Unity Government of Myanmar, which represents the pro-democracy forces, <a href=\"https://www.facebook.com/NUGmyanmar/posts/pfbid025BZ72fU4PAGKJMGW1MMnoSQAUcwQTygz5DeFpJU5uisFErVnrsLbfDoKViN2pqWfl#\">said in a statement</a> that the pursuit of justice cannot be realized without ending the junta rule.</p>\n<p>“The ICJ judgment is an important step in the pursuit of justice, but it cannot be the end. Lasting peace requires accountability, protection for all communities and the dismantling of the structures that enable persecution and impunity.”</p>\n<p>The ICJ ruling was eagerly <a href=\"https://www.hrw.org/news/2026/11/19/today-the-truth-has-been-recognized\">awaited</a>, especially by Rohingya refugees in Bangladesh. In one interview, 58-year-old Monajat Alam from one of the refugee camps shared, “The Myanmar military tried to convince the world that we had lied. Today, the truth has been recognized.”</p>\n<blockquote>\n<p>Here’s the reaction in a Rohingya refugee camp in Bangladesh to the International Court of Justice ruling that Myanmar committed the crime of genocide https://t.co/OUxhAg5qBn</p>\n<p>— Elaine Pearson (@PearsonElaine) <a href=\"https://x.com/PearsonElaine/status/2123388243022664082?ref_src=twsrc%5Etfw\">November 19, 2026</a></p></blockquote>\n<p>Shwe Maung, a former Member of Parliament in Myanmar, <a href=\"https://english.dvb.no/will-the-world-enforce-the-icj-judgment-on-myanmar/\">emphasized</a> that unity and national reconciliation cannot be achieved without recognizing the need to attain justice for the Rohingya.</p>\n<blockquote><p>As a former Member of Myanmar’s Parliament representing Buthidaung Township, I have long maintained that justice for the Rohingya and justice for the wider population of Myanmar are not competing causes.</p>\n<p>They are inseparable.</p>\n<p>Myanmar cannot build genuine federal democracy, national reconciliation, or lasting peace while denying grave crimes committed against one of its communities.</p></blockquote>\n<p>The Karen National Union, which represents the Karen ethnic community, <a href=\"https://progressivevoicemyanmar.org/2026/11/20/knu-welcomes-icj-judgment-on-genocide-against-the-rohingya\">reiterated</a> the call to hold the Myanmar military accountable.</p>\n<p>“The same Myanmar military that committed genocide against the Rohingya continues to commit atrocities against civilian communities across Burma. We must keep working together to bring justice to all the people of Burma who have suffered these crimes.”</p>\n<p>The UN Special Rapporteur on the situation of human rights in Myanmar, Kelley E. Currie, <a href=\"https://www.ohchr.org/en/press-releases/2026/11/called-its-true-name-un-expert-welcomes-icj-genocide-verdict-myanmar\">hailed</a> the ICJ ruling. “Today the world court has called the crimes by their true name: genocide. That name matters. It is a recognition of what was done, and it puts us on the path to justice.”</p>\n<p>The Special Advisory Council for Myanmar highlighted the call to sustain the verdict with decisive action. “Justice has been decided, but not yet delivered,” <a href=\"https://eng.mizzima.com/2026/11/23/41104\">said</a> Yanghee Lee, a founding member of the council.</p>\n<blockquote>\n<p> Rohingya refugees, Burmese people react to ICJ Myanmar genocide ruling</p>\n<p>Rohingya refugees in Bangladesh express “immense happiness and emotion” after the International Court of Justice ruled that Myanmar committed genocide against the minority group. https://t.co/rEQowEqYDZ</p>\n<p>— AFP News Agency (@AFP) <a href=\"https://x.com/AFP/status/2124885684091805941?ref_src=twsrc%5Etfw\">November 23, 2026</a></p></blockquote>\n<p>Human rights activist Razia Sultana, who testified about the horrific violence endured by Rohingya women, <a href=\"https://eng.mizzima.com/2026/11/22/41068\">asserted</a> the urgency of ending the atrocities committed by the junta.</p>\n<blockquote><p>For the women who shared their testimonies with me, justice cannot remain only a judgment written on paper.</p>\n<p>It must mean safety, recognition, accountability and the opportunity to rebuild their lives.</p>\n<p>I think again of the women I met in the refugee camps, of what they described and the courage it took to speak.</p>\n<p>Their voices travelled from the camps to the United Nations Security Council and became part of the wider international struggle for justice.</p></blockquote>\n<p>Thinzar Shunlei Yi <a href=\"https://www.facebook.com/photo?fbid=30124619590472242&amp;set=a.528850097142583\">shared</a> the impact of the ruling on pro-democracy activists like her.</p>\n<blockquote><p>This verdict brings a sense of healing for me, too. It feels as though one of the chronic diseases Myanmar suffer has finally been named.</p>\n<p>Having faced oppression myself as a woman and a political dissident, I know the scale of their suffering is incomparable—yet so many of us desperately needed to see that justice is possible.</p></blockquote>\n<p>Journalist Nyein Chan Aye is <a href=\"https://www.irrawaddy.com/opinion/guest-column/after-the-genocide-verdict-myanmars-foreign-intruder-scare-returns.html\">concerned</a> over the recent rise of social media posts inciting hate against the Rohingya.</p>\n<blockquote><p>Rohingya civilians are not the enemies of Rakhine Buddhists, nor are Rakhine civilians the enemies of the Rohingya. Neither community is the enemy of Myanmar’s people. Their grievances and rights cannot be settled by another campaign of suspicion and hatred.</p></blockquote>\n<p>Around 14 countries have already <a href=\"https://eng.mizzima.com/2026/11/24/41119\">acknowledged</a> the ICJ ruling. Sanctions have been imposed as well by the United Kingdom government on senior military officers of Myanmar. Meanwhile, China <a href=\"https://eng.mizzima.com/2026/11/21/41050\">raised</a> the issue of “jurisdiction overreach and expanded interpretation” and warned that the ruling could undermine the settlement of disputes.</p>\n<p>The junta remains in power, but pro-democracy forces are relentless in the struggle to restore civilian rule. Millions of stateless Rohingya are scattered in various camps, but the landmark ICJ ruling is a step forward in the pursuit of justice and the advancement of the demand to allow the persecuted minority to return to their home.</p>\n<strong>Written by <a href=\"https://globalvoices.org/author/mong/\">Mong Palatino</a></strong>",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "words": 1028
+        },
+        {
+          "id": "257fc92f92fb",
+          "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+          "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Leyland Cecco in Toronto",
+          "published": "2026-11-27T16:13:07+00:00",
+          "summary": "Closely watched decision exposes tensions between minority rights and the power of government to override those rights Canada’s top court has largely upheld a controversial secularism law in the province of Quebec barring public sector workers from wearing conspicuous religious symbols, in a closely watched…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "95991b2c9e50",
+          "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+          "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Suzanne Nuyen",
+          "published": "2026-11-27T11:59:02+00:00",
+          "summary": "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "7207ea497184",
+          "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+          "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "The Associated Press",
+          "published": "2026-11-27T11:49:50+00:00",
+          "summary": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 29
+        },
+        {
+          "id": "f47e272917ca",
+          "title": "India busts cyberfraud and trafficking network rescuing 164 foreigners",
+          "url": "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-27T10:01:07+00:00",
+          "summary": "Lured by IT job promises, the victims were allegedly forced into cybercrime, police say.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        }
+      ]
+    },
+    {
+      "id": "editorials-opinion",
+      "title": "Editorials & Opinion",
+      "kicker": "Opinion",
+      "articles": [
+        {
+          "id": "e4e826fdf41c",
+          "title": "The explosion of extreme wealth is the major problem of our time | Bernie Sanders",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/the-explosion-of-extreme-wealth-is-the-major-problem-of-our-time",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Bernie Sanders",
+          "published": "2026-11-27T22:10:08+00:00",
+          "summary": "At this pivotal moment in American history, let us move forward together to take on and defeat a powerful, greedy and corrupt ruling class We are at a pivotal moment in history.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "348af45eab9e",
+          "title": "The US army just detonated a poison bomb over Iowa | Steven Donziger",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/army-lead-poison-bomb-iowa",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Steven Donziger",
+          "published": "2026-11-27T19:30:18+00:00",
+          "summary": "The shocking situation in Iowa is a metaphor for much of what is wrong with the United States There’s no way to hide it: the US government just deliberately detonated a poison bomb of lead azide over the state of Iowa when a totally safe…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "bd84e829dddc",
+          "title": "Trump is destroying the rule of law in the US – to protect himself and the tech titans he worships as new gods | Jonathan Freedland",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/donald-trump-destroying-us-law-tech-titans-jensen-huang-nvidia",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Jonathan Freedland",
+          "published": "2026-11-27T18:10:18+00:00",
+          "summary": "To get Jensen Huang back at Nvidia, the president trampled on the justice system, national security and the trust America needs to do business in the global economy Don’t let the sex distract you.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "3a568a3d5e92",
+          "title": "The Guardian view on AI and the Riemann hypothesis: a triumph of intelligence, a test of democracy | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/the-guardian-view-on-ai-and-the-riemann-hypothesis-a-triumph-of-intelligence-a-test-of-democracy",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-27T18:07:43+00:00",
+          "summary": "Machines are solving problems that have been beyond the reach of human ingenuity.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 13
+        },
+        {
+          "id": "591773404bdd",
+          "title": "The Guardian view on the Children’s Booker prize: everyone is a winner | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/the-guardian-view-on-the-childrens-booker-prize-everyone-is-a-winner",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-27T18:06:01+00:00",
+          "summary": "In a landscape dominated by the same names and celebrity authors, this new award shines a spotlight on great titles that might have been overlooked “Why shouldn’t a great children’s book have the same status as a great adult book?” asked Frank Cottrell-Boyce, the former…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "5f988667e680",
+          "title": "Russia wants to build a new security framework to end the war. This is why it won’t work",
+          "url": "https://theconversation.com/russia-wants-to-build-a-new-security-framework-to-end-the-war-this-is-why-it-wont-work-296813",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Dilnoza Ubaydullaeva, Lecturer - National Security College, Australian National University",
+          "published": "2026-11-27T01:19:26+00:00",
+          "summary": "Vladimir Putin wants to counter NATO with his own security pact, but there are reasons to be sceptical.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "c459f414ef1a",
+          "title": "Elon Musk has approval to launch 1 million satellites. An astronomer explains how this would impact the sky",
+          "url": "https://theconversation.com/elon-musk-has-approval-to-launch-1-million-satellites-an-astronomer-explains-how-this-would-impact-the-sky-297646",
+          "source": "The Conversation",
+          "section": "editorials-opinion",
+          "author": "Michael J. I. Brown, Associate Professor in Astronomy, Monash University",
+          "published": "2026-11-26T23:39:50+00:00",
+          "summary": "If Starmind proceeds in full, the number of operational satellites will be multiplied by a factor of 50.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 18
+        },
+        {
+          "id": "21cc3a5b7fa2",
+          "title": "The Guardian view on Russia’s war dead: the toll won’t stop Putin. Resolve in backing Ukraine remains essential | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/26/the-guardian-view-on-russias-war-dead-the-toll-wont-stop-putin-resolve-in-backing-ukraine-remains-essential",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-26T18:53:47+00:00",
+          "summary": "New data offers shocking details of military fatalities.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 8
+        }
+      ]
+    },
+    {
+      "id": "fintech-taxtech",
+      "title": "FinTech & Tax Technology",
+      "kicker": "Technology & Money",
+      "articles": [
+        {
+          "id": "1d3a50dbdf30",
+          "title": "Bitunix Flags $76,300 as Key Bitcoin Support Amid ETF Outflows",
+          "url": "https://thefintechtimes.com/bitunix-flags-76300-as-key-bitcoin-support-amid-etf-outflows/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-27T19:00:37+00:00",
+          "summary": "Bitunix analysts say leveraged positions and record ETF outflows are compressing Bitcoin toward a critical technical level.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "6c1f721dbc00",
+          "title": "Intermex sues Western Union over merger agreement termination",
+          "url": "https://www.finextra.com/newsarticle/48831/intermex-sues-western-union-over-merger-agreement-termination?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-27T18:10:00+00:00",
+          "summary": "Intermex is suing Western Union to enforce the terms of a $500 million merger agreement that the latter abandoned in the face of regulatory conditions.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "9df6a3a74938",
+          "title": "Sweden to join Eurosystem's T2 RTGS system",
+          "url": "https://www.finextra.com/newsarticle/48829/sweden-to-join-eurosystems-t2-rtgs-system?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-27T14:29:00+00:00",
+          "summary": "The European Central Bank has struck a deal with Sveriges Riksbank for Sweden to join the Eurosystem's T2 real-time gross settlement system.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
+          "id": "bd7c96f3fa09",
+          "title": "Allica Bank Passes £100m Interest Milestone for SME Accounts",
+          "url": "https://thefintechtimes.com/allica-bank-passes-100m-interest-milestone-for-sme-accounts/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-27T14:00:13+00:00",
+          "summary": "The challenger bank says high-street rivals offer an average 0.80% AER on instant-access business deposits, against its own standard rate of 2",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
+        },
+        {
+          "id": "7840c409ab31",
+          "title": "Lloyds app goes down",
+          "url": "https://www.finextra.com/newsarticle/48828/lloyds-app-goes-down?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-27T13:43:00+00:00",
+          "summary": "Lloyds Bank customers have been hit with another app outage leaving thousands unable to access their accounts on pay day.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 20
+        },
+        {
+          "id": "1a43b71198d0",
+          "title": "Payment Device Security Can’t be Someone Else’s Problem",
+          "url": "https://thefintechtimes.com/payment-device-security-cant-be-someone-elses-problem/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "Rowen Brooks",
+          "published": "2026-11-27T10:00:23+00:00",
+          "summary": "PCA Cyber Security's Gianfranco Vinucci argues certification is only the start, and payment devices need a clear security owner for their whole working life.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 24
+        },
+        {
+          "id": "0d63fb1e6c01",
+          "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+          "source": "TechCrunch – Fintech",
+          "section": "fintech-taxtech",
+          "author": "Sarah Perez",
+          "published": "2026-11-23T22:02:05+00:00",
+          "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "d9a047affb02",
+          "title": "Model ML raises $250M to automate investment banking grunt work",
+          "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+          "source": "TechCrunch – Fintech",
+          "section": "fintech-taxtech",
+          "author": "Marina Temkin",
+          "published": "2026-11-17T19:32:11+00:00",
+          "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        }
+      ]
+    },
+    {
+      "id": "tax-policy",
+      "title": "Tax News & Policy Updates",
+      "kicker": "The Tax Desk",
+      "articles": [
+        {
+          "id": "6bde34818154",
+          "title": "CBIC Revises Silver Tariff Value; Tariff Values for Gold, Edible Oils, Brass Scrap and Areca Nuts Remain Unchanged [Read Notification]",
+          "url": "https://www.taxscan.in/excise-customs/cbic-revises-silver-tariff-value-tariff-values-for-gold-edible-oils-brass-scrap-and-areca-nuts-remain-unchanged-read-notification",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Kalyani B. Nair",
+          "published": "2026-11-27T15:07:37+00:00",
+          "summary": "CBIC cuts silver tariff value to USD 1,293 per kg, effective from November 27, 2026",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "6b455f606176",
+          "title": "Proceedings for Excess Stock Detected during GST Search must be Initiated u/s 73 or 74, Not Section 130: GSTAT",
+          "url": "https://www.taxscan.in/gst/proceedings-for-excess-stock-detected-during-gst-search-must-be-initiated-us-73-or-74-not-section-130-gstat",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Kavi Priya",
+          "published": "2026-11-27T12:55:10+00:00",
+          "summary": "Tax liability on unaccounted goods must be determined in accordance with Section 35(6) read with Sections 73 or 74 of the GST Act instead of invoking confiscation proceedings.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "4d7db65d088f",
+          "title": "Regulations Regarding Payment of Tax by Commercially Acceptable Means; Correction",
+          "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24135/regulations-regarding-payment-of-tax-by-commercially-acceptable-means-correction",
+          "source": "Federal Register – IRS",
+          "section": "tax-policy",
+          "author": "Treasury Department, Internal Revenue Service",
+          "published": "2026-11-27T05:00:00+00:00",
+          "summary": "This document includes corrections to Treasury Decision 10060 published in the Federal Register on Monday, October 19, 2026. Treasury Decision 10060 contains final regulations regarding the payment of tax by commercially acceptable means.",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 33
+        },
+        {
+          "id": "feebfe47ccd3",
+          "title": "Agency Information Collection Activities; Comment Request on Form To Submit Civil Rights Complaint",
+          "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24133/agency-information-collection-activities-comment-request-on-form-to-submit-civil-rights-complaint",
+          "source": "Federal Register – IRS",
+          "section": "tax-policy",
+          "author": "Treasury Department, Internal Revenue Service",
+          "published": "2026-11-27T05:00:00+00:00",
+          "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+          "full_html": null,
+          "license": "US Government work (public domain)",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "ba06500c684f",
+          "title": "COP31 failed in Antalya. Nairobi is where we can start fixing it",
+          "url": "https://taxjustice.net/2026/11/24/cop31-failed-in-antalya-nairobi-is-where-we-can-start-fixing-it/",
+          "source": "Tax Justice Network",
+          "section": "tax-policy",
+          "author": "Sergio Chaparro-Hernandez",
+          "published": "2026-11-24T07:19:52+00:00",
+          "summary": "The world woke up this week to headlines declaring COP31 in Antalya a failure. What exactly failed, and who is to blame, is already in dispute.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "04dd25bd4d89",
+          "title": "Indicator deep dive: Reporting of tax avoidance schemes",
+          "url": "https://taxjustice.net/2026/11/05/indicator-deep-dive-reporting-of-tax-avoidance-schemes/",
+          "source": "Tax Justice Network",
+          "section": "tax-policy",
+          "author": "Bob Michel",
+          "published": "2026-11-05T00:03:00+00:00",
+          "summary": "Today, the Tax Justice Network updated its Corporate Tax Haven Index with new data for two indicators.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "fcf968c46d87",
+          "title": "Why Poland Should Abandon Its Proposed Digital Services Tax",
+          "url": "https://taxfoundation.org/testimony/poland-digital-services-tax-proposal/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Anna Leszczyłowska",
+          "published": null,
+          "summary": "Experiences across European countries indicate that digital services taxes typically generate relatively modest amounts of revenue.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "fa01a42c57fb",
+          "title": "Movers and Shakers in the 2027 State Tax Competitiveness Index",
+          "url": "https://taxfoundation.org/blog/best-state-tax-rankings-2027/",
+          "source": "Tax Foundation",
+          "section": "tax-policy",
+          "author": "Janelle Fritts",
+          "published": null,
+          "summary": "In the spirit of change and improvement, it’s worth looking back to see which states have truly embraced tax competitiveness since 2020, and which ones have lagged behind.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        }
+      ]
+    },
+    {
+      "id": "product-analysis",
+      "title": "Product Management & Business Analysis",
+      "kicker": "The Craft",
+      "articles": [
+        {
+          "id": "0d52bb79660d",
+          "title": "Bugs - All Things Product Podcast with Teresa Torres & Petra Wille",
+          "url": "https://www.producttalk.org/bugs-all-things-product-podcast-with-teresa-torres-petra-wille/",
+          "source": "Product Talk",
+          "section": "product-analysis",
+          "author": "Teresa Torres",
+          "published": "2026-11-24T14:00:00+00:00",
+          "summary": "Listen to this episode on: Spotify | Apple Podcasts In a world of AI products, what even counts as a “bug” — and can you still promise to fix it?",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        },
+        {
+          "id": "2c0c968ff1c7",
+          "title": "Why Product Management is Still Hard",
+          "url": "https://www.romanpichler.com/blog/why-product-management-is-still-hard/",
+          "source": "Roman Pichler",
+          "section": "product-analysis",
+          "author": "Roman Pichler",
+          "published": "2026-11-24T11:53:39+00:00",
+          "summary": "AI has given product managers new capabilities and tools. It can analyse customer sentiment, uncover patterns in support tickets, and turn ideas into working prototypes faster than ever. But practising product management well is still hard.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 36
+        },
+        {
+          "id": "26bc06dd76b7",
+          "title": "Grab My Personal Annual Review Claude Code Plugin",
+          "url": "https://www.producttalk.org/personal-annual-review-claude-code-plugin/",
+          "source": "Product Talk",
+          "section": "product-analysis",
+          "author": "Teresa Torres",
+          "published": "2026-11-18T14:05:00+00:00",
+          "summary": "",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 0
+        },
+        {
+          "id": "21f59dea13c6",
+          "title": "AI and the Future of the Product Role",
+          "url": "https://www.svpg.com/ai-and-the-future-of-the-product-role/",
+          "source": "Silicon Valley Product Group",
+          "section": "product-analysis",
+          "author": "Marty Cagan",
+          "published": "2026-11-06T01:02:22+00:00",
+          "summary": "NOTE: This is a narrative form of a keynote for the 2026 Product Leader Summit. Overview Most people in the industry realize that the job definition and responsibilities of the people in the product role can vary widely across companies.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 40
+        },
+        {
+          "id": "265e6c45204a",
+          "title": "Experimentation, AI and the Product Model",
+          "url": "https://www.svpg.com/experimentation-ai-and-the-product-model/",
+          "source": "Silicon Valley Product Group",
+          "section": "product-analysis",
+          "author": "Marty Cagan",
+          "published": "2026-10-21T15:53:41+00:00",
+          "summary": "NOTE: This is a narrative form of a keynote for the Circus Austin Experimentation Conference. While experimentation can be found in various parts of a company, most people think of either product or marketing.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "30b7e2079ec1",
+          "title": "Product Ethics in the Age of AI",
+          "url": "https://www.romanpichler.com/blog/product-ethics-in-the-age-of-ai/",
+          "source": "Roman Pichler",
+          "section": "product-analysis",
+          "author": "Roman Pichler",
+          "published": "2026-10-05T09:39:41+00:00",
+          "summary": "AI is changing not only what product teams can build, but also what they need to take responsibility for.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 19
+        }
+      ]
+    },
+    {
+      "id": "business-trends",
+      "title": "Emerging Business Trends & New Vocabulary",
+      "kicker": "Ideas & Idioms",
+      "articles": [
+        {
+          "id": "8d05b45a18e5",
+          "title": "The 2026 Macy’s Thanksgiving Day Parade isn’t canceled. Here’s when you can watch it this weekend",
+          "url": "https://www.fastcompany.com/91649579/the-2026-macys-thanksgiving-day-parade-isnt-canceled-heres-when-you-can-watch-it-this-weekend",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Emily Price",
+          "published": "2026-11-27T19:30:00+00:00",
+          "summary": "Thanksgiving may be over, but one of the holiday’s biggest traditions is still to come. For the first time in its history, the Macy’s Thanksgiving Day Parade is taking place on a day other than Thanksgiving.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 36
+        },
+        {
+          "id": "8b94c96a3266",
+          "title": "A popular password manager was hacked. Here’s what you need to know",
+          "url": "https://www.fastcompany.com/91649530/a-popular-password-manager-was-hacked-heres-what-you-need-to-know",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Taylor Hatmaker",
+          "published": "2026-11-27T18:55:44+00:00",
+          "summary": "Password managers are the safest way short of secret sticky notes to keep track of the hundreds of logins in your life, but even they don’t have perfect security.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 29
+        },
+        {
+          "id": "31c1fbf370d3",
+          "title": "Amazon’s sale deals deceive customers, thinktank alleges",
+          "url": "https://www.theguardian.com/global/2026/nov/27/amazon-sale-deals-deceive-customers-black-friday-cyber-monday",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Gaya Gupta",
+          "published": "2026-11-27T14:00:12+00:00",
+          "summary": "Two-thirds of Black Friday and Cyber Monday sale products were priced the same or lower in previous months Groundwork Collaborative finds, a claim Amazon disputes An Apple Watch on sale for $680.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "224ca0e3af2b",
+          "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-27T10:10:36+00:00",
+          "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 14
+        },
+        {
+          "id": "21800f865bba",
+          "title": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
+          "url": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Michael Sainato",
+          "published": "2026-11-27T10:00:02+00:00",
+          "summary": "Labor leaders and advocates urge protections for workers and consumers as AI use becomes more commonplace As millions of Americans begin holiday shopping this Black Friday, consumers and workers alike are already seeing how artificial intelligence is reshaping the retail landscape.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 41
+        },
+        {
+          "id": "2ef3104a86ba",
+          "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+          "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – Business",
+          "section": "business-trends",
+          "author": "",
+          "published": "2026-11-27T00:58:49+00:00",
+          "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 15
+        },
+        {
+          "id": "94305b427e5a",
+          "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Connie Loizos",
+          "published": "2026-11-26T20:03:54+00:00",
+          "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "25927c0f40db",
+          "title": "Is Alice Huang a spy or not?",
+          "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+          "source": "TechCrunch",
+          "section": "business-trends",
+          "author": "Lucas Ropek",
+          "published": "2026-11-26T20:00:00+00:00",
+          "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 30
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "site": "https://www.aljazeera.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – Business",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – India",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "BBC News – World",
+      "site": "https://feeds.bbci.co.uk",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Fast Company",
+      "site": "https://www.fastcompany.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Federal Register – IRS",
+      "site": "https://www.federalregister.gov",
+      "license": "US Government work (public domain)",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Finextra",
+      "site": "https://www.finextra.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Global Voices",
+      "site": "https://globalvoices.org",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "full_text": true
+    },
+    {
+      "name": "NPR News",
+      "site": "https://feeds.npr.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Product Talk",
+      "site": "https://www.producttalk.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Roman Pichler",
+      "site": "https://www.romanpichler.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Silicon Valley Product Group",
+      "site": "https://www.svpg.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Tax Foundation",
+      "site": "https://taxfoundation.org",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Tax Justice Network",
+      "site": "https://taxjustice.net",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "Taxscan (India)",
+      "site": "https://www.taxscan.in",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TechCrunch",
+      "site": "https://techcrunch.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "TechCrunch – Fintech",
+      "site": "https://techcrunch.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Conversation",
+      "site": "https://theconversation.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Fintech Times",
+      "site": "https://thefintechtimes.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Business",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Editorials",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – Opinion",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    },
+    {
+      "name": "The Guardian – World",
+      "site": "https://www.theguardian.com",
+      "license": "",
+      "license_url": "",
+      "full_text": false
+    }
+  ],
+  "errors": [
+    "The Indian Express – India: 403 Client Error: Forbidden for url: https://indianexpress.com/section/india/feed/",
+    "Wikinews: 404 Client Error: Not Found for url: https://en.wikinews.org/w/index.php?title=Special:NewsFeed&feed=atom&categories=Published",
+    "The Indian Express – Opinion: 403 Client Error: Forbidden for url: https://indianexpress.com/section/opinion/feed/",
+    "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
+    "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+    "Mind the Product: feed contained no entries",
+    "BA Times: 415 Client Error: Unsupported Media Type for url: https://www.batimes.com/feed/",
+    "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
+    "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
+  ]
+}

@@ -2,36 +2,32 @@
   "edition": {
     "name": "The Morning Ledger",
     "tagline": "A quiet read for a busy morning",
-    "date": "2026-11-27",
-    "date_long": "Friday, 27 November 2026",
+    "date": "2026-11-28",
+    "date_long": "Saturday, 28 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-27T22:26+05:30",
+    "generated_at": "2026-11-28T07:06+05:30",
     "is_sample": false
   },
   "dashboard": {
-    "total_articles": 50,
-    "reading_minutes": 11,
-    "source_count": 24,
+    "total_articles": 48,
+    "reading_minutes": 10,
+    "source_count": 23,
     "full_text_count": 1,
     "per_section": {
       "national-international": 10,
       "editorials-opinion": 8,
       "fintech-taxtech": 8,
       "tax-policy": 8,
-      "product-analysis": 8,
+      "product-analysis": 6,
       "business-trends": 8
     },
     "keywords": [
-      {
-        "term": "people",
-        "count": 5
-      },
       {
         "term": "product",
         "count": 5
       },
       {
-        "term": "rights",
+        "term": "people",
         "count": 4
       },
       {
@@ -39,7 +35,7 @@
         "count": 4
       },
       {
-        "term": "work",
+        "term": "security",
         "count": 4
       },
       {
@@ -51,7 +47,15 @@
         "count": 3
       },
       {
-        "term": "public",
+        "term": "thousands",
+        "count": 3
+      },
+      {
+        "term": "court",
+        "count": 3
+      },
+      {
+        "term": "life",
         "count": 3
       },
       {
@@ -59,15 +63,11 @@
         "count": 3
       },
       {
-        "term": "million",
-        "count": 3
-      },
-      {
-        "term": "religious symbols",
+        "term": "jensen huang",
         "count": 2
       },
       {
-        "term": "upholds quebec",
+        "term": "form keynote",
         "count": 2
       }
     ],
@@ -103,28 +103,28 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "60,130.00",
-        "change_pct": -0.54,
+        "display": "60,164.00",
+        "change_pct": -0.81,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,676.93",
-        "change_pct": -0.74,
+        "display": "1,668.80",
+        "change_pct": -1.73,
         "source": "CoinGecko"
       }
     ]
   },
   "word_of_the_day": {
-    "term": "Arbitrage",
-    "definition": "The simultaneous purchase and sale of an asset in different markets to profit from a difference in the price.",
+    "term": "Hedging",
+    "definition": "An investment position intended to offset potential losses or gains that may be incurred by a companion investment.",
     "source": "The Morning Ledger glossary"
   },
   "dictionary_word": {
-    "word": "Word of the day for November 27",
-    "definition": "edit · refresh · view Word of the day for November 27 Lancashire hotpot n (uncountable) A stew of lamb or mutton and onions topped with sliced potatoes baked in a pot; (countable) a dish of this.",
-    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261127000000/en",
+    "word": "Word of the day for November 28",
+    "definition": "edit · refresh · view Word of the day for November 28 birl v (Scotland) (transitive) To cause (something) to rotate quickly; to spin.",
+    "url": "https://en.wiktionary.org/wiki/Special:FeedItem/wotd/20261128000000/en",
     "source": "Wiktionary",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -136,32 +136,88 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "a416b5c8c584",
-          "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-          "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+          "id": "ec278298d964",
+          "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
+          "url": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
+          "source": "Al Jazeera",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-28T01:00:00+00:00",
+          "summary": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 16
+        },
+        {
+          "id": "013919c6873e",
+          "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – World",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-27T16:53:46+00:00",
-          "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
+          "published": "2026-11-28T00:56:55+00:00",
+          "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 24
         },
         {
-          "id": "a4f28ede952d",
-          "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
-          "url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss",
-          "source": "Al Jazeera",
+          "id": "3941eb83ee81",
+          "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+          "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – India",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-27T16:33:21+00:00",
-          "summary": "Yashar party chief says Likud wants to drag Israel into another election under the outgoing government.",
+          "published": "2026-11-28T00:50:11+00:00",
+          "summary": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 16
+          "words": 14
+        },
+        {
+          "id": "4571de9aa2a8",
+          "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-27T21:55:53+00:00",
+          "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 23
+        },
+        {
+          "id": "0310bd7d5f12",
+          "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
+          "url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Keely Aouga",
+          "published": "2026-11-27T21:24:10+00:00",
+          "summary": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ A petition signed by nearly 290,000 Canadians calling on Mark Carney’s government to oust Pete Hoekstra as US ambassador to Canada was formally presented to the House of Commons on…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "00b059ede5e4",
+          "title": "International Court of Justice rules Myanmar committed genocide against the Rohingya people",
+          "url": "https://globalvoices.org/2026/11/27/international-court-of-justice-rules-myanmar-committed-genocide-against-the-rohingya-people/",
+          "source": "Global Voices",
+          "section": "national-international",
+          "author": "Mong Palatino",
+          "published": "2026-11-27T20:07:43+00:00",
+          "summary": "\"This verdict brings a sense of healing for me, too. It feels as though one of the chronic diseases Myanmar suffer has finally been named.\"",
+          "full_html": "<p><em>Human rights groups reiterated that to get true justice in Myanmar, the junta rule must end</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/27/international-court-of-justice-rules-myanmar-committed-genocide-against-the-rohingya-people/\">Global Voices</a></p><a href=\"https://commons.wikimedia.org/wiki/File:Rohingya_Refugees_Camp_in_2019.48.jpg\"></a><p>Rohingya refugee camp in Bangladesh. <a href=\"https://commons.wikimedia.org/wiki/File:Rohingya_Refugees_Camp_in_2019.48.jpg\">Photo </a> by CAPTAIN RAJU. Source: Wikipedia. <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0 </a></p>\n<p><em>This post is part of Global Voices’ November 2026 Spotlight series, “<a href=\"https://globalvoices.org/special/justice-as-infrastructure/\">Justice as infrastructure</a>.” In this Spotlight, Global Voices is partnering with The Hague Institute for Innovation of Law (<a href=\"https://hiil.org/\">HiiL</a>) to highlight the ways justice functions as critical infrastructure for any society. You can support this coverage by donating <a href=\"https://globalvoices.org/2026/10/28/support-global-voices-spotlight-justice-as-infrastructure/\">here</a>.</em></p>\n<p>The International Court of Justice (ICJ) <a href=\"https://eng.mizzima.com/2026/11/21/41041\">ruled</a> on November 19 that Myanmar’s military forces committed genocide against the Rohingya people during a brutal 2017 <a href=\"https://globalvoices.org/2017/09/23/myanmar-government-vows-to-address-refugee-crisis-in-rakhine-state-but-avoids-saying-rohingya/\">crackdown</a> in the western Rakhine state.</p>\n<p>Voting 9–6, the ICJ <a href=\"https://english.dvb.no/world-court-rules-myanmar-responsible-for-genocide/\">verdict</a> found the military’s “clearance operations,” which led to the mass murder of at least 10,000 people and the forced <a href=\"https://globalvoices.org/2017/09/06/scenes-from-the-bangladesh-myanmar-border-where-rohingya-refugees-are-seeking-refuge-from-violence/\">expulsion</a> of more than 700,000 Rohingya to the neighboring country of Bangladesh, constituted <a href=\"https://globalvoices.org/2017/08/29/thousands-of-rohingya-fleeing-violence-are-stranded-on-the-bangladesh-myanmar-border/\">genocidal acts</a>.</p>\n<p>Myanmar has more than one hundred ethnic groups but <a href=\"https://globalvoices.org/2016/05/29/myanmar-wants-the-world-to-stop-using-the-word-rohingya-for-persecuted-ethnic-group/\">refuses</a> to recognize the Rohingya, who are considered illegal immigrants even though they were born in Myanmar, and many have been there for generations. The Rohingya have been viciously persecuted for decades and targeted by hate speech and violent acts not just by state forces but also by hardline Buddhist nationalists.</p>\n<p>It was The Gambia, with the support of the Organization of Islamic Cooperation, that initiated the ICJ complaint in November 2019.</p>\n<p>This is the first time the ICJ has found a state liable for committing genocide. The Myanmar military government, which grabbed power in a February 2021 coup, <a href=\"https://eng.mizzima.com/2026/11/21/41044\">described</a> the decision as unfair and a “great disappointment” while pointing out that the verdict was not unanimous.</p>\n<p>The National Unity Government of Myanmar, which represents the pro-democracy forces, <a href=\"https://www.facebook.com/NUGmyanmar/posts/pfbid025BZ72fU4PAGKJMGW1MMnoSQAUcwQTygz5DeFpJU5uisFErVnrsLbfDoKViN2pqWfl#\">said in a statement</a> that the pursuit of justice cannot be realized without ending the junta rule.</p>\n<p>“The ICJ judgment is an important step in the pursuit of justice, but it cannot be the end. Lasting peace requires accountability, protection for all communities and the dismantling of the structures that enable persecution and impunity.”</p>\n<p>The ICJ ruling was eagerly <a href=\"https://www.hrw.org/news/2026/11/19/today-the-truth-has-been-recognized\">awaited</a>, especially by Rohingya refugees in Bangladesh. In one interview, 58-year-old Monajat Alam from one of the refugee camps shared, “The Myanmar military tried to convince the world that we had lied. Today, the truth has been recognized.”</p>\n<blockquote>\n<p>Here’s the reaction in a Rohingya refugee camp in Bangladesh to the International Court of Justice ruling that Myanmar committed the crime of genocide https://t.co/OUxhAg5qBn</p>\n<p>— Elaine Pearson (@PearsonElaine) <a href=\"https://x.com/PearsonElaine/status/2123388243022664082?ref_src=twsrc%5Etfw\">November 19, 2026</a></p></blockquote>\n<p>Shwe Maung, a former Member of Parliament in Myanmar, <a href=\"https://english.dvb.no/will-the-world-enforce-the-icj-judgment-on-myanmar/\">emphasized</a> that unity and national reconciliation cannot be achieved without recognizing the need to attain justice for the Rohingya.</p>\n<blockquote><p>As a former Member of Myanmar’s Parliament representing Buthidaung Township, I have long maintained that justice for the Rohingya and justice for the wider population of Myanmar are not competing causes.</p>\n<p>They are inseparable.</p>\n<p>Myanmar cannot build genuine federal democracy, national reconciliation, or lasting peace while denying grave crimes committed against one of its communities.</p></blockquote>\n<p>The Karen National Union, which represents the Karen ethnic community, <a href=\"https://progressivevoicemyanmar.org/2026/11/20/knu-welcomes-icj-judgment-on-genocide-against-the-rohingya\">reiterated</a> the call to hold the Myanmar military accountable.</p>\n<p>“The same Myanmar military that committed genocide against the Rohingya continues to commit atrocities against civilian communities across Burma. We must keep working together to bring justice to all the people of Burma who have suffered these crimes.”</p>\n<p>The UN Special Rapporteur on the situation of human rights in Myanmar, Kelley E. Currie, <a href=\"https://www.ohchr.org/en/press-releases/2026/11/called-its-true-name-un-expert-welcomes-icj-genocide-verdict-myanmar\">hailed</a> the ICJ ruling. “Today the world court has called the crimes by their true name: genocide. That name matters. It is a recognition of what was done, and it puts us on the path to justice.”</p>\n<p>The Special Advisory Council for Myanmar highlighted the call to sustain the verdict with decisive action. “Justice has been decided, but not yet delivered,” <a href=\"https://eng.mizzima.com/2026/11/23/41104\">said</a> Yanghee Lee, a founding member of the council.</p>\n<blockquote>\n<p> Rohingya refugees, Burmese people react to ICJ Myanmar genocide ruling</p>\n<p>Rohingya refugees in Bangladesh express “immense happiness and emotion” after the International Court of Justice ruled that Myanmar committed genocide against the minority group. https://t.co/rEQowEqYDZ</p>\n<p>— AFP News Agency (@AFP) <a href=\"https://x.com/AFP/status/2124885684091805941?ref_src=twsrc%5Etfw\">November 23, 2026</a></p></blockquote>\n<p>Human rights activist Razia Sultana, who testified about the horrific violence endured by Rohingya women, <a href=\"https://eng.mizzima.com/2026/11/22/41068\">asserted</a> the urgency of ending the atrocities committed by the junta.</p>\n<blockquote><p>For the women who shared their testimonies with me, justice cannot remain only a judgment written on paper.</p>\n<p>It must mean safety, recognition, accountability and the opportunity to rebuild their lives.</p>\n<p>I think again of the women I met in the refugee camps, of what they described and the courage it took to speak.</p>\n<p>Their voices travelled from the camps to the United Nations Security Council and became part of the wider international struggle for justice.</p></blockquote>\n<p>Thinzar Shunlei Yi <a href=\"https://www.facebook.com/photo?fbid=30124619590472242&amp;set=a.528850097142583\">shared</a> the impact of the ruling on pro-democracy activists like her.</p>\n<blockquote><p>This verdict brings a sense of healing for me, too. It feels as though one of the chronic diseases Myanmar suffer has finally been named.</p>\n<p>Having faced oppression myself as a woman and a political dissident, I know the scale of their suffering is incomparable—yet so many of us desperately needed to see that justice is possible.</p></blockquote>\n<p>Journalist Nyein Chan Aye is <a href=\"https://www.irrawaddy.com/opinion/guest-column/after-the-genocide-verdict-myanmars-foreign-intruder-scare-returns.html\">concerned</a> over the recent rise of social media posts inciting hate against the Rohingya.</p>\n<blockquote><p>Rohingya civilians are not the enemies of Rakhine Buddhists, nor are Rakhine civilians the enemies of the Rohingya. Neither community is the enemy of Myanmar’s people. Their grievances and rights cannot be settled by another campaign of suspicion and hatred.</p></blockquote>\n<p>Around 14 countries have already <a href=\"https://eng.mizzima.com/2026/11/24/41119\">acknowledged</a> the ICJ ruling. Sanctions have been imposed as well by the United Kingdom government on senior military officers of Myanmar. Meanwhile, China <a href=\"https://eng.mizzima.com/2026/11/21/41050\">raised</a> the issue of “jurisdiction overreach and expanded interpretation” and warned that the ruling could undermine the settlement of disputes.</p>\n<p>The junta remains in power, but pro-democracy forces are relentless in the struggle to restore civilian rule. Millions of stateless Rohingya are scattered in various camps, but the landmark ICJ ruling is a step forward in the pursuit of justice and the advancement of the demand to allow the persecuted minority to return to their home.</p>\n<strong>Written by <a href=\"https://globalvoices.org/author/mong/\">Mong Palatino</a></strong>",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "words": 1028
         },
         {
           "id": "257fc92f92fb",
@@ -176,20 +232,6 @@
           "license": "",
           "license_url": "",
           "words": 45
-        },
-        {
-          "id": "5ffdbf1d63d5",
-          "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
-          "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-27T16:06:37+00:00",
-          "summary": "Paul Mackenzie is found guilty of killing followers, weeks after being jailed for the mass murder of children.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 18
         },
         {
           "id": "95991b2c9e50",
@@ -232,48 +274,6 @@
           "license": "",
           "license_url": "",
           "words": 14
-        },
-        {
-          "id": "5830fbb716b0",
-          "title": "Millions of wives in South Asia unprotected from marital rape - study",
-          "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – India",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-27T08:13:43+00:00",
-          "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 17
-        },
-        {
-          "id": "afbd9be7e62c",
-          "title": "Who speaks for the voiceless in Tanzania?",
-          "url": "https://globalvoices.org/2026/11/27/who-speaks-for-the-voiceless-in-tanzania/",
-          "source": "Global Voices",
-          "section": "national-international",
-          "author": "Zita Zage",
-          "published": "2026-11-27T07:54:18+00:00",
-          "summary": "\"The law guarantees freedom of expression, but people who criticize the government face arrest, intimidation, and, in some cases, alleged abduction.\"",
-          "full_html": "<p><em>‘All we want is peace; there will be no peace without equal rights and justice.’</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/27/who-speaks-for-the-voiceless-in-tanzania/\">Global Voices</a></p><p>Jhiko Manyika performing at Zanzibar Reggae Festival. Image by Zanzibar Reggae Festival, used with permission.</p>\n<p><em>This post is part of Global Voices’ November 2026 Spotlight series, “<a href=\"https://globalvoices.org/special/justice-as-infrastructure/\">Justice as infrastructure</a>.” In this Spotlight, Global Voices is partnering with The Hague Institute for Innovation of Law (<a href=\"https://hiil.org/\">HiiL</a>) to highlight the ways justice functions as critical infrastructure for any society. You can support this coverage by donating <a href=\"https://globalvoices.org/2026/10/28/support-global-voices-spotlight-justice-as-infrastructure/\">here</a>.</em></p>\n<p>When courts stop protecting people, people stop talking. They stay quiet because speaking up could cost them their lives or their families. So who speaks for the voiceless? </p>\n<p>In Tanzania, one answer comes with a guitar. Reggae artist Jhikoman, born Jhikolabwino Siza Manyika, has released a song called “Justice,” written for everyone who lost a loved one, and the right to mourn them out loud, after the October 2025 <a href=\"https://en.wikipedia.org/wiki/2025_Tanzanian_general_election\">general elections</a> that declared <a href=\"https://en.wikipedia.org/wiki/Samia_Suluhu_Hassan\">Samia Suluhu Hassan</a> president.</p>\n<p>His favorite lyric sums up the song: </p>\n<p>“We don’t need no war, all we want is peace; there will be no peace without equal rights and justice.”</p>\n<p>Listen to <a href=\"https://www.youtube.com/watch?v=4nkVOQDj610\">Justice</a> below:</p>\n\n<h3>Tanzania’s image shattered</h3>\n<p>For nearly six decades, Tanzania cultivated an image of calm, consensus, and order. The scale of the 2025 election violence shocked many people because it broke that image. The <a href=\"https://www.bbc.com/news/articles/cgld775knzyo\">BBC reported</a> that security forces and unrest killed more than 500 people. International observers criticized the vote for its lack of transparency, and the <a href=\"https://en.wikipedia.org/wiki/African_Union\">African Union</a> and the <a href=\"https://en.wikipedia.org/wiki/Southern_African_Development_Community\">Southern African Development Community</a> (SADC) said the election fell short of democratic standards.</p>\n<p>Jhikoman, who watched these events unfold, says the losses moved him to write. He told Global Voices:</p>\n<p>“I was deeply moved by reports and accounts of people losing their lives, families losing their loved ones, and citizens being silenced by the authorities when they simply wanted to speak out, seek answers, and mourn those they had lost. That pain became my motivation to write ‘Justice.’”</p>\n<p>This song is more than a song; it is a cry for humanity, a call for accountability, and a reminder that the pain of those who have lost loved ones should never be silenced.</p>\n<h3>A reggae musician from Bagamoyo</h3>\n<p>Every stage name has a story, and Jhikoman’s is no different: JHIKO (from his first name, Jhikolabwino) plus MAN (from his surname, Manyika). Jhikoman has performed since 1994, blending acoustic reggae with African music and singing in English, Swahili, and his mother tongue, Kinyasa.</p>\n<p>His musical life started at home. His older brother played guitar, and young Jhikoman watched, listened and dreamed. In secondary school, he fell for reggae, drawn by its messages of peace, love, unity, equality, and justice. He idolized <a href=\"https://en.wikipedia.org/wiki/Bob_Marley\">Bob Marley</a> and <a href=\"https://en.wikipedia.org/wiki/Alpha_Blondy\">Alpha Blondy</a>, and he covered their songs. Then his brother gave him the advice that changed everything: If you want to be a musician, write your own songs.</p>\n<p>Jhikolabwino Siza Manyika performing at the Zanzibar International Film Festival. Photo by Micky Grapher, used with permission.</p>\n<p>He took the advice to heart. In 1994, he stepped into a recording studio for the first time. In 2000, he released the album “Afro-Caribbean Beat,” and its title track became a local hit. The opportunities followed quickly. In 2001, he performed at the Zanzibar International Film Festival. In 2003, he wrote a song for Participatory Ecological Land Use Management (PELUM) Tanzania, an organization that supports small-scale farmers, and the commission took him to South Africa to perform at the World Forum for Sustainable Development. Since then, his music has carried him across East and Southern Africa and to stages in Europe.</p>\n<p>Today he lives in <a href=\"https://en.wikipedia.org/wiki/Bagamoyo\">Bagamoyo</a>, where he volunteers as a music instructor at the <a href=\"https://en.wikipedia.org/wiki/Bagamoyo_Arts_and_Cultural_Institute\">Bagamoyo Institute of Arts and Culture</a> and mentors young artists. He says: </p>\n<p>“For me, music is more than entertainment. It is a powerful tool for communication, education, unity, and social change.”</p>\n<h3>The violence reaches home</h3>\n<p>The violence after the 2025 general election touched Jhikoman’s own circle. He says police shot and killed the wife of a close friend while she drove home, in front of her two children. He noted:</p>\n<p>“No innocent person should lose their life simply because of violence surrounding an election. The victims and their families deserve justice, dignity, and the freedom to mourn without fear or intimidation.”</p>\n<p>According to Jhikoman, the people who spoke out and wanted democratic reform often got silenced. They called for changes to election laws and procedures that would guarantee free, fair, transparent, and credible elections. They also demanded equal opportunities for all political parties, independent electoral oversight, and the freedom to choose their leaders without intimidation.</p>\n<h3>Why it’s so hard to get justice</h3>\n<p><a href=\"https://www.nao.go.tz/uploads/Constitution_of_the_United_Republic_of_Tanzania_en.pdf\">Article 18 of Tanzania’s 1977 Constitution</a> guarantees freedom of expression. Jhikoman says that some victims and their families have tried to enforce that right in court. However, getting justice has proved “extremely difficult.”</p>\n<p>He points to several cases. After the alleged<a href=\"https://panafricanvisions.com/2026/02/the-knock-that-changed-the-night-abductions-and-tanzanias-quiet-fear/\"> abduction of opposition activist Mpaluka Nyagali</a>, known as Mdude, in May 2025, his wife filed a <em>habeas corpus</em> petition at the High Court in Mbeya. The court dismissed it on July 9, 2025, and his whereabouts remained unknown. A lawyer for former ambassador Humphrey Polepole <a href=\"https://www.amnesty.org/en/petition/where-is-humphrey-polepole/?utm_source=chatgpt.com\">filed a similar application after he disappeared</a> in October 2025, and the court dismissed that as well. </p>\n<p>Two advocates, Tito Magoti and Bob Wangwe, filed a case at the East African Court of Justice challenging the conduct of the election, and it remains pending. Authorities also <a href=\"https://www.reuters.com/world/africa/tanzanian-court-clears-opposition-leader-lissu-treason-2026-11-06/?utm_source=chatgpt.com\">arrested Tundu Lissu</a>, chairman of the opposition party<a href=\"https://en.wikipedia.org/wiki/Chadema\"> CHADEMA</a>, and charged him with treason after he demanded electoral reforms. On November 6, 2026, the High Court acquitted him of treason, convicted him of incitement, and sentenced him to four years in prison. He remains imprisoned.</p>\n<p>Jhikoman says:</p>\n<p>“The law guarantees freedom of expression, but people who criticize the government face arrest, intimidation, and, in some cases, alleged abduction. The central problem is not simply the absence of laws; it is the difficulty of holding those responsible for violations accountable.”</p>\n<h3>A song that carries a message abroad</h3>\n<p>Listeners have responded well to Jhikoman’s message. He says that many Tanzanians feel the song finally carries their message to the international community. They believe the judiciary and parliament have lost their independence, which leaves them with little confidence that local institutions will deliver justice. Many now place their hope in international attention, because Tanzania has signed numerous international human rights agreements.</p>\n<p>Some listeners also worry about his safety. They urge him to take care, since abductions and enforced disappearances remain serious concerns in parts of East Africa.</p>\n<p>“I take those warnings seriously,” he says. “But I also believe that music can be a powerful tool for speaking out, raising awareness, and standing up for peace, justice, and the dignity of human life. … True peace means treating one another equally, standing up against injustice, respecting human rights, and giving everyone the freedom to express themselves without fear.”</p>\n<p>Jhikoman’s story shows how justice shapes daily life long before anyone reaches a courtroom. When people trust that the justice system will treat them fairly and quickly, they speak out, report wrongdoings, and rebuild after loss. When they lose that trust, silence spreads. One reggae song cannot repair broken institutions, but it can name the problem, keep the memory of the dead in public view, and ask listeners to hold their leaders accountable. </p>\n<strong>Written by <a href=\"https://globalvoices.org/author/zita-zage/\">Zita Zage</a></strong>",
-          "license": "CC BY 3.0",
-          "license_url": "https://creativecommons.org/licenses/by/3.0/",
-          "words": 1231
-        },
-        {
-          "id": "f03baaa219c7",
-          "title": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
-          "url": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Eromo Egbejule in Lagos",
-          "published": "2026-11-27T06:00:56+00:00",
-          "summary": "What started as one artist’s response to being cut out of a music video has exploded, becoming a driving force in Nigeria’s cultural landscape As a student in the central Nigerian city of Ilorin, Lawal Habeeb Kola loved staying in his hostel room to produce…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
         }
       ]
     },
@@ -283,46 +283,74 @@
       "kicker": "Opinion",
       "articles": [
         {
-          "id": "cbbe3cb7d279",
-          "title": "Honey, we’ve shrunk the country! But at least the Brexiters got their wish | Gaby Hinsliff",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/britain-ageing-population-immigration-birthrate-small-boats",
+          "id": "e4e826fdf41c",
+          "title": "The explosion of extreme wealth is the major problem of our time | Bernie Sanders",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/the-explosion-of-extreme-wealth-is-the-major-problem-of-our-time",
           "source": "The Guardian – Opinion",
           "section": "editorials-opinion",
-          "author": "Gaby Hinsliff",
-          "published": "2026-11-27T16:23:40+00:00",
-          "summary": "Immigration has plummeted so we’ll probably have to work until we drop – yet many still obsess about people arriving in small boats Will the last person to leave Britain, please turn out the lights?",
+          "author": "Bernie Sanders",
+          "published": "2026-11-27T22:10:08+00:00",
+          "summary": "At this pivotal moment in American history, let us move forward together to take on and defeat a powerful, greedy and corrupt ruling class We are at a pivotal moment in history.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 35
+          "words": 32
         },
         {
-          "id": "052e6b2c84b3",
-          "title": "They crossed the doom loop of Groundhog Day with Nightmare on Elm Street. Voilà – it’s Peter Mandelson | Robert Hutton",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/groundhog-day-nightmare-on-elm-street-peter-mandelson-brexit-debate",
+          "id": "348af45eab9e",
+          "title": "The US army just detonated a poison bomb over Iowa | Steven Donziger",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/army-lead-poison-bomb-iowa",
           "source": "The Guardian – Opinion",
           "section": "editorials-opinion",
-          "author": "Robert Hutton",
-          "published": "2026-11-27T15:29:13+00:00",
-          "summary": "He’s perennially disgraced and yet he just won’t go away – now he’s joined the latest Brexit debate. Isn’t there a mute button, or an exile plan that really works? What a week it has been for Indispensable Men.",
+          "author": "Steven Donziger",
+          "published": "2026-11-27T19:30:18+00:00",
+          "summary": "The shocking situation in Iowa is a metaphor for much of what is wrong with the United States There’s no way to hide it: the US government just deliberately detonated a poison bomb of lead azide over the state of Iowa when a totally safe…",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 39
+          "words": 45
         },
         {
-          "id": "212b8a681fbd",
-          "title": "Sunrise on the Reaping: The new Hunger Games film is a gen Z call to action – critics have missed the point | Rafqa Touma",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/new-hunger-games-sunrise-on-the-reaping-a-gen-z-call-to-action",
+          "id": "bd84e829dddc",
+          "title": "Trump is destroying the rule of law in the US – to protect himself and the tech titans he worships as new gods | Jonathan Freedland",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/donald-trump-destroying-us-law-tech-titans-jensen-huang-nvidia",
           "source": "The Guardian – Opinion",
           "section": "editorials-opinion",
-          "author": "Rafqa Touma",
-          "published": "2026-11-27T14:00:14+00:00",
-          "summary": "We’ve been brought up on literature about underdogs who fight – and triumph – against an unjust status quo I first read The Hunger Games trilogy in early high school.",
+          "author": "Jonathan Freedland",
+          "published": "2026-11-27T18:10:18+00:00",
+          "summary": "To get Jensen Huang back at Nvidia, the president trampled on the justice system, national security and the trust America needs to do business in the global economy Don’t let the sex distract you.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 30
+          "words": 34
+        },
+        {
+          "id": "3a568a3d5e92",
+          "title": "The Guardian view on AI and the Riemann hypothesis: a triumph of intelligence, a test of democracy | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/the-guardian-view-on-ai-and-the-riemann-hypothesis-a-triumph-of-intelligence-a-test-of-democracy",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-27T18:07:43+00:00",
+          "summary": "Machines are solving problems that have been beyond the reach of human ingenuity.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 13
+        },
+        {
+          "id": "591773404bdd",
+          "title": "The Guardian view on the Children’s Booker prize: everyone is a winner | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/the-guardian-view-on-the-childrens-booker-prize-everyone-is-a-winner",
+          "source": "The Guardian – Editorials",
+          "section": "editorials-opinion",
+          "author": "Editorial",
+          "published": "2026-11-27T18:06:01+00:00",
+          "summary": "In a landscape dominated by the same names and celebrity authors, this new award shines a spotlight on great titles that might have been overlooked “Why shouldn’t a great children’s book have the same status as a great adult book?” asked Frank Cottrell-Boyce, the former…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
         },
         {
           "id": "5f988667e680",
@@ -365,34 +393,6 @@
           "license": "",
           "license_url": "",
           "words": 8
-        },
-        {
-          "id": "4418e7f3c68c",
-          "title": "The Guardian view on fostering: ceremonies and sibling rights should help care leavers | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/26/the-guardian-view-on-fostering-ceremonies-and-sibling-rights-should-help-care-leavers",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-26T18:51:56+00:00",
-          "summary": "Ministers have recognised that young adults need more support.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 9
-        },
-        {
-          "id": "9943285b7ccf",
-          "title": "The Guardian view on rising energy prices: only bold action can win public confidence | Editorial",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/25/the-guardian-view-on-rising-energy-prices-only-bold-action-can-win-public-confidence",
-          "source": "The Guardian – Editorials",
-          "section": "editorials-opinion",
-          "author": "Editorial",
-          "published": "2026-11-25T18:33:21+00:00",
-          "summary": "Andy Burnham needs a radical vision of economic change to move on from policies aimed at giving voters ‘breathing space’ Ask Andy Burnham a question and it won’t be long before he mentions the cost of living.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 37
         }
       ]
     },
@@ -401,6 +401,34 @@
       "title": "FinTech & Tax Technology",
       "kicker": "Technology & Money",
       "articles": [
+        {
+          "id": "1d3a50dbdf30",
+          "title": "Bitunix Flags $76,300 as Key Bitcoin Support Amid ETF Outflows",
+          "url": "https://thefintechtimes.com/bitunix-flags-76300-as-key-bitcoin-support-amid-etf-outflows/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-27T19:00:37+00:00",
+          "summary": "Bitunix analysts say leveraged positions and record ETF outflows are compressing Bitcoin toward a critical technical level.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 17
+        },
+        {
+          "id": "6c1f721dbc00",
+          "title": "Intermex sues Western Union over merger agreement termination",
+          "url": "https://www.finextra.com/newsarticle/48831/intermex-sues-western-union-over-merger-agreement-termination?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "source": "Finextra",
+          "section": "fintech-taxtech",
+          "author": "",
+          "published": "2026-11-27T18:10:00+00:00",
+          "summary": "Intermex is suing Western Union to enforce the terms of a $500 million merger agreement that the latter abandoned in the face of regulatory conditions.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
         {
           "id": "9df6a3a74938",
           "title": "Sweden to join Eurosystem's T2 RTGS system",
@@ -444,20 +472,6 @@
           "words": 20
         },
         {
-          "id": "159a0dc49fe6",
-          "title": "SAP may cut 10,000 jobs to make room for AI",
-          "url": "https://www.finextra.com/newsarticle/48827/sap-may-cut-10000-jobs-to-make-room-for-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "source": "Finextra",
-          "section": "fintech-taxtech",
-          "author": "",
-          "published": "2026-11-27T12:37:00+00:00",
-          "summary": "German software company SAP is considering a major staff cut to prepare its business for AI transformation, Bloomberg reported yesterday.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 20
-        },
-        {
           "id": "1a43b71198d0",
           "title": "Payment Device Security Can’t be Someone Else’s Problem",
           "url": "https://thefintechtimes.com/payment-device-security-cant-be-someone-elses-problem/",
@@ -470,20 +484,6 @@
           "license": "",
           "license_url": "",
           "words": 24
-        },
-        {
-          "id": "fee2c9b7c7fd",
-          "title": "IRIS Handles 70% of Greek Instant Payments as EuroPA Links Expand",
-          "url": "https://thefintechtimes.com/iris-handles-70-of-greek-instant-payments-as-europa-links-expand/",
-          "source": "The Fintech Times",
-          "section": "fintech-taxtech",
-          "author": "The Fintech Times",
-          "published": "2026-11-27T08:01:18+00:00",
-          "summary": "Greece's IRIS network processed 126.4m transactions worth €10.9bn in 2025, and is now connected to three European A2A schemes via EuroPA.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 21
         },
         {
           "id": "0d63fb1e6c01",
@@ -682,20 +682,6 @@
           "words": 0
         },
         {
-          "id": "b9e63452c6bd",
-          "title": "Analysis Debt: The Cost of a Question Nobody Tracks",
-          "url": "https://batimes.com/articles/analysis-debt-the-cost-of-a-question-nobody-tracks/",
-          "source": "BA Times",
-          "section": "product-analysis",
-          "author": "Michael Roy",
-          "published": "2026-11-09T14:38:54+00:00",
-          "summary": "Analysis Debt: The Cost of a Question Nobody Tracks By Michael Roy Every delivery organization can tell you how fast work moved last quarter. Far fewer can say how much of that work was checked before it started moving.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 39
-        },
-        {
           "id": "21f59dea13c6",
           "title": "AI and the Future of the Product Role",
           "url": "https://www.svpg.com/ai-and-the-future-of-the-product-role/",
@@ -736,20 +722,6 @@
           "license": "",
           "license_url": "",
           "words": 19
-        },
-        {
-          "id": "95ac88e87dd6",
-          "title": "The Irreplaceable BA: How to Stay Essential in an AI-Augmented World",
-          "url": "https://batimes.com/articles/the-irreplaceable-ba-how-to-stay-essential-in-an-ai-augmented-world/",
-          "source": "BA Times",
-          "section": "product-analysis",
-          "author": "Mohanaraman Namasivayam",
-          "published": "2026-07-29T19:43:39+00:00",
-          "summary": "Four frameworks for deciding what AI takes, what you keep, and where to grow Mohanaraman Namasivayam Vice President | Senior Business Analyst, Investment Management Technology | IIBA Member The Inflection Point Is Now The research is blunt.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 37
         }
       ]
     },
@@ -759,32 +731,32 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
-          "id": "fe6f90b8e060",
-          "title": "Travis and Jason Kelce’s Garage Beer lands $20 million as craft brewers pull back",
-          "url": "https://www.fastcompany.com/91647430/travis-jason-kelces-garage-beer-lands-20-million-craft-brewers-pull-back",
+          "id": "8d05b45a18e5",
+          "title": "The 2026 Macy’s Thanksgiving Day Parade isn’t canceled. Here’s when you can watch it this weekend",
+          "url": "https://www.fastcompany.com/91649579/the-2026-macys-thanksgiving-day-parade-isnt-canceled-heres-when-you-can-watch-it-this-weekend",
           "source": "Fast Company",
           "section": "business-trends",
-          "author": "Inc.",
-          "published": "2026-11-27T16:30:00+00:00",
-          "summary": "Travis Kelce’s beer brand just secured a huge financial deal to help promote its popular brew. On Tuesday, Travis and his brother Jason Kelce’s Garage Beer brand secured a $20 million revolving credit from Tiger Finance, according to a release.",
+          "author": "Emily Price",
+          "published": "2026-11-27T19:30:00+00:00",
+          "summary": "Thanksgiving may be over, but one of the holiday’s biggest traditions is still to come. For the first time in its history, the Macy’s Thanksgiving Day Parade is taking place on a day other than Thanksgiving.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 40
+          "words": 36
         },
         {
-          "id": "aa6f333e31d3",
-          "title": "‘It was the talk of the playground’: Google’s AI features blocked by L.A. school officials",
-          "url": "https://www.fastcompany.com/91649464/it-was-talk-playground-googles-ai-features-blocked-la-school-officials",
+          "id": "8b94c96a3266",
+          "title": "A popular password manager was hacked. Here’s what you need to know",
+          "url": "https://www.fastcompany.com/91649530/a-popular-password-manager-was-hacked-heres-what-you-need-to-know",
           "source": "Fast Company",
           "section": "business-trends",
-          "author": "Associated Press",
-          "published": "2026-11-27T15:31:06+00:00",
-          "summary": "School districts are taking steps to block Google’s artificial intelligence features and are considering dropping Google products entirely unless the company gives them a permanent AI workaround, pitting them against the tech giant whose Chromebook computers and learning tools are deeply embedded in America’s classrooms.",
+          "author": "Taylor Hatmaker",
+          "published": "2026-11-27T18:55:44+00:00",
+          "summary": "Password managers are the safest way short of secret sticky notes to keep track of the hundreds of logins in your life, but even they don’t have perfect security.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 45
+          "words": 29
         },
         {
           "id": "31c1fbf370d3",
@@ -794,11 +766,11 @@
           "section": "business-trends",
           "author": "Gaya Gupta",
           "published": "2026-11-27T14:00:12+00:00",
-          "summary": "Two-thirds of Black Friday and Cyber Monday sale products were priced the same or lower in previous months according to an analysis by Groundwork Collaborative, which Amazon disputes An Apple Watch on sale for $680.",
+          "summary": "Two-thirds of Black Friday and Cyber Monday sale products were priced the same or lower in previous months Groundwork Collaborative finds, a claim Amazon disputes An Apple Watch on sale for $680.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 35
+          "words": 32
         },
         {
           "id": "224ca0e3af2b",
@@ -877,13 +849,6 @@
     {
       "name": "Al Jazeera",
       "site": "https://www.aljazeera.com",
-      "license": "",
-      "license_url": "",
-      "full_text": false
-    },
-    {
-      "name": "BA Times",
-      "site": "https://www.batimes.com",
       "license": "",
       "license_url": "",
       "full_text": false
@@ -1050,6 +1015,7 @@
     "FinTech Futures: 403 Client Error: Forbidden for url: https://www.fintechfutures.com/feed",
     "PIB – Government of India: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
     "Mind the Product: feed contained no entries",
+    "BA Times: 415 Client Error: Unsupported Media Type for url: https://www.batimes.com/feed/",
     "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
     "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
   ]
