@@ -5,7 +5,7 @@
     "date": "2026-11-28",
     "date_long": "Saturday, 28 November 2026",
     "timezone": "Asia/Kolkata",
-    "generated_at": "2026-11-28T07:06+05:30",
+    "generated_at": "2026-11-28T21:16+05:30",
     "is_sample": false
   },
   "dashboard": {
@@ -35,39 +35,39 @@
         "count": 4
       },
       {
-        "term": "security",
-        "count": 4
-      },
-      {
-        "term": "black friday",
-        "count": 3
-      },
-      {
         "term": "guardian view",
         "count": 3
       },
       {
-        "term": "thousands",
+        "term": "stop",
         "count": 3
       },
       {
-        "term": "court",
+        "term": "editorial",
         "count": 3
       },
       {
-        "term": "life",
+        "term": "full",
         "count": 3
       },
       {
-        "term": "government",
+        "term": "world",
         "count": 3
-      },
-      {
-        "term": "jensen huang",
-        "count": 2
       },
       {
         "term": "form keynote",
+        "count": 2
+      },
+      {
+        "term": "narrative form",
+        "count": 2
+      },
+      {
+        "term": "black friday",
+        "count": 2
+      },
+      {
+        "term": "teams",
         "count": 2
       }
     ],
@@ -103,15 +103,15 @@
       {
         "label": "Bitcoin (USD)",
         "group": "Crypto",
-        "display": "60,164.00",
-        "change_pct": -0.81,
+        "display": "59,278.00",
+        "change_pct": -1.32,
         "source": "CoinGecko"
       },
       {
         "label": "Ethereum (USD)",
         "group": "Crypto",
-        "display": "1,668.80",
-        "change_pct": -1.73,
+        "display": "1,645.15",
+        "change_pct": -1.72,
         "source": "CoinGecko"
       }
     ]
@@ -136,32 +136,116 @@
       "kicker": "The World Today",
       "articles": [
         {
-          "id": "ec278298d964",
-          "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
-          "url": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
+          "id": "4562cfdd3f4f",
+          "title": "Arsenal vs Manchester City: Premier League – teams, prediction, lineups",
+          "url": "https://www.aljazeera.com/sports/2026/11/28/arsenal-vs-manchester-city-premier-league-teams-prediction-lineups?traffic_source=rss",
           "source": "Al Jazeera",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-28T01:00:00+00:00",
-          "summary": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
+          "published": "2026-11-28T15:37:38+00:00",
+          "summary": "Al Jazeera takes a closer look at the early season title showdown as EPL holders and leaders Arsenal host Man City.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 16
+          "words": 21
         },
         {
-          "id": "013919c6873e",
-          "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
-          "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+          "id": "b6ec5dd91363",
+          "title": "‘Victory for democracy’: Taiwan’s ruling party secures best result in a decade",
+          "url": "https://www.theguardian.com/world/2026/nov/28/taiwan-ruling-party-dpp-secures-best-result-in-decade-china",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Amy Hawkins Senior China correspondent",
+          "published": "2026-11-28T15:29:52+00:00",
+          "summary": "DPP nearly doubles number of constituencies it controls, with outcome expected to anger Beijing Taiwan’s ruling party secured its best result in a decade in Saturday’s local elections, nearly doubling the number of constituencies it controls, in an outcome expected to anger Beijing.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 43
+        },
+        {
+          "id": "fb398fd43b21",
+          "title": "COP31 climate talks fail to reach an agreement on fossil fuel language",
+          "url": "https://www.npr.org/2026/11/28/nx-s1-6050187/cop31-talks-fall-apart",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Rachel Waldholz",
+          "published": "2026-11-28T14:28:45+00:00",
+          "summary": "U.N. climate talks collapsed over whether to mention fossil fuels that cause global warning. Several countries and the E.U. would not accept a final proposal without this.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 27
+        },
+        {
+          "id": "a7161e835424",
+          "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+          "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News – World",
           "section": "national-international",
           "author": "",
-          "published": "2026-11-28T00:56:55+00:00",
-          "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+          "published": "2026-11-28T14:10:01+00:00",
+          "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 24
+          "words": 18
+        },
+        {
+          "id": "7f3a66d555c5",
+          "title": "Argentina's bid to stop Falklands oil drilling rejected",
+          "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News – World",
+          "section": "national-international",
+          "author": "",
+          "published": "2026-11-28T13:36:36+00:00",
+          "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 28
+        },
+        {
+          "id": "86af04211248",
+          "title": "Argentina fails to block oil drilling off Falkland Islands",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal",
+          "source": "The Guardian – World",
+          "section": "national-international",
+          "author": "Daniel Boffey Chief reporter",
+          "published": "2026-11-28T13:22:10+00:00",
+          "summary": "UK government calls on Buenos Aires to end ‘economic pressure’ on islands after international tribunal’s ruling The UK has called on Argentina to stop its economic warfare on the Falkland islands after Buenos Aires failed in a legal attempt to terminate an offshore oil project…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
+        },
+        {
+          "id": "fdae20eea3cb",
+          "title": "Perspective: A hero's name lives on",
+          "url": "https://www.npr.org/2026/11/28/nx-s1-6045586/perspective-a-heros-name-lives-on",
+          "source": "NPR News",
+          "section": "national-international",
+          "author": "Scott Simon",
+          "published": "2026-11-28T13:00:00+00:00",
+          "summary": "During Pearl Harbor, sailor Doris Miller carried the wounded to safety and fired a machine gun at Japanese planes. Next week, construction of a new aircraft carrier, the USS Doris Miller, begins.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 32
+        },
+        {
+          "id": "56cb209bbf43",
+          "title": "Indonesia’s Mama Aleta: Don’t wait for permission to protect Mother Nature",
+          "url": "https://globalvoices.org/2026/11/28/indonesias-mama-aleta-dont-wait-for-permission-to-protect-mother-nature/",
+          "source": "Global Voices",
+          "section": "national-international",
+          "author": "Dialogue Earth",
+          "published": "2026-11-28T08:32:56+00:00",
+          "summary": "Two decades after Mollo women resisted marble mining in Indonesia, the climate crisis brings new urgency to their struggle for nature, Indigenous rights and collective action.",
+          "full_html": "<p><em>‘If you hurt the Earth, you hurt our bodies’</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/28/indonesias-mama-aleta-dont-wait-for-permission-to-protect-mother-nature/\">Global Voices</a></p>\n\n\n\n\n<p>Mama Aleta. Illustration by <a href=\"https://www.instagram.com/sketchplore\">Vipin Sketchplore</a>/<a href=\"https://dialogue.earth/en/\">Dialogue Earth</a>; source photo: Albertus Vembrianto, used with permission.</p>\n<h2><strong>By Aleta Baun</strong></h2>\n\n\n\n\n\n\n\n\n<em>This essay by Aleta Baun was <a href=\"https://dialogue.earth/en/climate/mama-aleta-dont-wait-for-permission-to-protect-mother-nature/\">originally published</a> by <a href=\"https://dialogue.earth/en/\">Dialogue Earth</a> on November 11, 2026. The following edited version is republished on Global Voices</em> <em>under a content partnership agreement. </em>\n\n<p><em>Why <a href=\"https://en.wikipedia.org/wiki/Aleta_Baun\">Aleta Baun</a>: In Indonesia, she is called many things. They call her “Mama Aleta,” and she is one of the country’s most prominent Indigenous leaders and grassroots activists. She is called the “Indonesian Avatar” because in 2006 she led Mollo Indigenous women to the peaceful “weaving protests” against marble mining operations in the sacred forests of <a href=\"https://en.wikipedia.org/wiki/Mount_Mutis\">Mutis Mountain on Timor Island</a>. She is the recipient of the <a href=\"https://www.goldmanprize.org/recipient/aleta-baun/\">Goldman Environmental Prize</a>, also known as the Green Nobel, and she still defends her village from destructive mining and protects the environment through the Mama Aleta Fund. Two decades on, her message remains urgent. Defending nature means defending our lives, and leadership means standing up for it.</em></p>\n\n\n\n\n\n\n\n\n<p>We Mollo women stood up against mining companies to protect Mother Nature in Timor Island, eastern Indonesia. We did this because we believe that Mother Earth is not just a dead rock and soil, but a living body. The land is our flesh (<em>Afu fani on nesa</em>), the water is our blood (<em>Oel fani on na</em>), the rock is our bones (<em>Fatu fani on nuif</em>), and the forest is our hair and lungs (<em>Nasi fani on nafua</em>).</p>\n<p>If you hurt the Earth, you hurt our bodies.</p>\n<p>Being on the frontlines, I feel an urgency, more than ever before, to stand up against those hurting our Earth. For generations, Mollo people have read the skies and the winds to determine the harvest. But climate change has made predictions more difficult. In Timor, sudden excessive rains and prolonged dry seasons have confused people about when to plant their crops over the past three years. They are worried this will lead to a food crisis.</p>\n<p>Nowadays, they all talk about solving issues such as stunting in children. But only in terms of food policy or programmes. True health comes from fertile soil. If you destroy our natural resources, rob Indigenous lands and turn them into large-pit mines or agricultural plantations, how are you supposed to grow these nutrients? I think stunting is not just about a lack of nutrition, but about how damaged the environment is. You cannot heal the people while continuing to poison the land that sustains them.</p>\n<p>We do not reject development. We still need it. But not development that destroys nature and strips away the rights of Indigenous peoples. They build hotels, allow mining extraction, while Indigenous peoples guard water resources and protect the ecology. We, the people and the state, must re-evaluate how we consider this kind of development.</p>\n\n\n\n\n\n<p>People often look back at our movement in Mollo, where Indigenous women sat at the marble quarries for months, peacefully weaving cloth until the mining operations were forced to shut. Our struggle succeeded because women and men together united, sharing the view that ecological destruction means the death of our culture, health and future. I recall someone saying firmly: “We are not thieves; we are fighting for our rights.”</p>\n<p>When I look at today — climate crisis, food crisis, drought — I feel upset. I feel exhausted, tired and fed up. It’s like this country is deaf. It is frustrating that the state does not consider human lives, but focuses instead on money, or one-sided interests. Not development for us, but often simply personal business transactions that sacrifice the needs of people.</p>\n<p>But I never think about giving up. If we let things be, we are the ones who will suffer. They will destroy things and leave, because they have a secure life. Us? This is where we live. So we need to fight back and find new strategies to hold our ground and fight to save our Earth.</p>\n<p>When you talk about nature, you are talking about mothers. Women have many strategies. They are capable, smart and resilient. Importantly, they refuse to back down and always find a way. When a woman says she is fighting for something deeply important, God and our ancestors shield and support her in breaking free from all oppression. But for these strengths to emerge, women have to step up.</p>\n<p>Being a female leader is about how to find new strategies to bring people together so they can collectively take action. I always think that is what real leadership is. Often, as women, we fall for the assumption that becoming a leader must mean waiting for people to choose us. This is wrong. We don’t have to join a political party or be voted in to call ourselves leaders. If you can bring together two or three or 10 people to do work that is in the public interest — that protects Mother Earth — that is leadership, right there.</p>\n<p>To the younger generation, don’t waste your time doing unimportant things which don’t protect Earth or save future generations. Learn about nature, which provides our economy, food, health and education. The future lies within the natural wealth that is available to us. For governments, my hope is that they reflect on their actions regarding the destruction of natural resources. There must be real, thorough assessments, and they must listen to the voices of the people. Without the people, the state wouldn’t even exist.</p>\n<p>As Dialogue Earth celebrates 20 years of giving voice to environmental issues, my message to grassroots activists across Southeast Asia and the world remains simple: never wait for permission to defend your home. Stand united, listen to the land, and remember that when you protect nature, you are protecting your own body and the generations that are yet to come.</p>\n\n\n\n<strong>Written by <a href=\"https://globalvoices.org/author/dialogueearth/\">Dialogue Earth</a></strong>",
+          "license": "CC BY 3.0",
+          "license_url": "https://creativecommons.org/licenses/by/3.0/",
+          "words": 979
         },
         {
           "id": "3941eb83ee81",
@@ -176,90 +260,6 @@
           "license": "",
           "license_url": "",
           "words": 14
-        },
-        {
-          "id": "4571de9aa2a8",
-          "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News – World",
-          "section": "national-international",
-          "author": "",
-          "published": "2026-11-27T21:55:53+00:00",
-          "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 23
-        },
-        {
-          "id": "0310bd7d5f12",
-          "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
-          "url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Keely Aouga",
-          "published": "2026-11-27T21:24:10+00:00",
-          "summary": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ A petition signed by nearly 290,000 Canadians calling on Mark Carney’s government to oust Pete Hoekstra as US ambassador to Canada was formally presented to the House of Commons on…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "00b059ede5e4",
-          "title": "International Court of Justice rules Myanmar committed genocide against the Rohingya people",
-          "url": "https://globalvoices.org/2026/11/27/international-court-of-justice-rules-myanmar-committed-genocide-against-the-rohingya-people/",
-          "source": "Global Voices",
-          "section": "national-international",
-          "author": "Mong Palatino",
-          "published": "2026-11-27T20:07:43+00:00",
-          "summary": "\"This verdict brings a sense of healing for me, too. It feels as though one of the chronic diseases Myanmar suffer has finally been named.\"",
-          "full_html": "<p><em>Human rights groups reiterated that to get true justice in Myanmar, the junta rule must end</em></p><p>Originally published on <a href=\"https://globalvoices.org/2026/11/27/international-court-of-justice-rules-myanmar-committed-genocide-against-the-rohingya-people/\">Global Voices</a></p><a href=\"https://commons.wikimedia.org/wiki/File:Rohingya_Refugees_Camp_in_2019.48.jpg\"></a><p>Rohingya refugee camp in Bangladesh. <a href=\"https://commons.wikimedia.org/wiki/File:Rohingya_Refugees_Camp_in_2019.48.jpg\">Photo </a> by CAPTAIN RAJU. Source: Wikipedia. <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0 </a></p>\n<p><em>This post is part of Global Voices’ November 2026 Spotlight series, “<a href=\"https://globalvoices.org/special/justice-as-infrastructure/\">Justice as infrastructure</a>.” In this Spotlight, Global Voices is partnering with The Hague Institute for Innovation of Law (<a href=\"https://hiil.org/\">HiiL</a>) to highlight the ways justice functions as critical infrastructure for any society. You can support this coverage by donating <a href=\"https://globalvoices.org/2026/10/28/support-global-voices-spotlight-justice-as-infrastructure/\">here</a>.</em></p>\n<p>The International Court of Justice (ICJ) <a href=\"https://eng.mizzima.com/2026/11/21/41041\">ruled</a> on November 19 that Myanmar’s military forces committed genocide against the Rohingya people during a brutal 2017 <a href=\"https://globalvoices.org/2017/09/23/myanmar-government-vows-to-address-refugee-crisis-in-rakhine-state-but-avoids-saying-rohingya/\">crackdown</a> in the western Rakhine state.</p>\n<p>Voting 9–6, the ICJ <a href=\"https://english.dvb.no/world-court-rules-myanmar-responsible-for-genocide/\">verdict</a> found the military’s “clearance operations,” which led to the mass murder of at least 10,000 people and the forced <a href=\"https://globalvoices.org/2017/09/06/scenes-from-the-bangladesh-myanmar-border-where-rohingya-refugees-are-seeking-refuge-from-violence/\">expulsion</a> of more than 700,000 Rohingya to the neighboring country of Bangladesh, constituted <a href=\"https://globalvoices.org/2017/08/29/thousands-of-rohingya-fleeing-violence-are-stranded-on-the-bangladesh-myanmar-border/\">genocidal acts</a>.</p>\n<p>Myanmar has more than one hundred ethnic groups but <a href=\"https://globalvoices.org/2016/05/29/myanmar-wants-the-world-to-stop-using-the-word-rohingya-for-persecuted-ethnic-group/\">refuses</a> to recognize the Rohingya, who are considered illegal immigrants even though they were born in Myanmar, and many have been there for generations. The Rohingya have been viciously persecuted for decades and targeted by hate speech and violent acts not just by state forces but also by hardline Buddhist nationalists.</p>\n<p>It was The Gambia, with the support of the Organization of Islamic Cooperation, that initiated the ICJ complaint in November 2019.</p>\n<p>This is the first time the ICJ has found a state liable for committing genocide. The Myanmar military government, which grabbed power in a February 2021 coup, <a href=\"https://eng.mizzima.com/2026/11/21/41044\">described</a> the decision as unfair and a “great disappointment” while pointing out that the verdict was not unanimous.</p>\n<p>The National Unity Government of Myanmar, which represents the pro-democracy forces, <a href=\"https://www.facebook.com/NUGmyanmar/posts/pfbid025BZ72fU4PAGKJMGW1MMnoSQAUcwQTygz5DeFpJU5uisFErVnrsLbfDoKViN2pqWfl#\">said in a statement</a> that the pursuit of justice cannot be realized without ending the junta rule.</p>\n<p>“The ICJ judgment is an important step in the pursuit of justice, but it cannot be the end. Lasting peace requires accountability, protection for all communities and the dismantling of the structures that enable persecution and impunity.”</p>\n<p>The ICJ ruling was eagerly <a href=\"https://www.hrw.org/news/2026/11/19/today-the-truth-has-been-recognized\">awaited</a>, especially by Rohingya refugees in Bangladesh. In one interview, 58-year-old Monajat Alam from one of the refugee camps shared, “The Myanmar military tried to convince the world that we had lied. Today, the truth has been recognized.”</p>\n<blockquote>\n<p>Here’s the reaction in a Rohingya refugee camp in Bangladesh to the International Court of Justice ruling that Myanmar committed the crime of genocide https://t.co/OUxhAg5qBn</p>\n<p>— Elaine Pearson (@PearsonElaine) <a href=\"https://x.com/PearsonElaine/status/2123388243022664082?ref_src=twsrc%5Etfw\">November 19, 2026</a></p></blockquote>\n<p>Shwe Maung, a former Member of Parliament in Myanmar, <a href=\"https://english.dvb.no/will-the-world-enforce-the-icj-judgment-on-myanmar/\">emphasized</a> that unity and national reconciliation cannot be achieved without recognizing the need to attain justice for the Rohingya.</p>\n<blockquote><p>As a former Member of Myanmar’s Parliament representing Buthidaung Township, I have long maintained that justice for the Rohingya and justice for the wider population of Myanmar are not competing causes.</p>\n<p>They are inseparable.</p>\n<p>Myanmar cannot build genuine federal democracy, national reconciliation, or lasting peace while denying grave crimes committed against one of its communities.</p></blockquote>\n<p>The Karen National Union, which represents the Karen ethnic community, <a href=\"https://progressivevoicemyanmar.org/2026/11/20/knu-welcomes-icj-judgment-on-genocide-against-the-rohingya\">reiterated</a> the call to hold the Myanmar military accountable.</p>\n<p>“The same Myanmar military that committed genocide against the Rohingya continues to commit atrocities against civilian communities across Burma. We must keep working together to bring justice to all the people of Burma who have suffered these crimes.”</p>\n<p>The UN Special Rapporteur on the situation of human rights in Myanmar, Kelley E. Currie, <a href=\"https://www.ohchr.org/en/press-releases/2026/11/called-its-true-name-un-expert-welcomes-icj-genocide-verdict-myanmar\">hailed</a> the ICJ ruling. “Today the world court has called the crimes by their true name: genocide. That name matters. It is a recognition of what was done, and it puts us on the path to justice.”</p>\n<p>The Special Advisory Council for Myanmar highlighted the call to sustain the verdict with decisive action. “Justice has been decided, but not yet delivered,” <a href=\"https://eng.mizzima.com/2026/11/23/41104\">said</a> Yanghee Lee, a founding member of the council.</p>\n<blockquote>\n<p> Rohingya refugees, Burmese people react to ICJ Myanmar genocide ruling</p>\n<p>Rohingya refugees in Bangladesh express “immense happiness and emotion” after the International Court of Justice ruled that Myanmar committed genocide against the minority group. https://t.co/rEQowEqYDZ</p>\n<p>— AFP News Agency (@AFP) <a href=\"https://x.com/AFP/status/2124885684091805941?ref_src=twsrc%5Etfw\">November 23, 2026</a></p></blockquote>\n<p>Human rights activist Razia Sultana, who testified about the horrific violence endured by Rohingya women, <a href=\"https://eng.mizzima.com/2026/11/22/41068\">asserted</a> the urgency of ending the atrocities committed by the junta.</p>\n<blockquote><p>For the women who shared their testimonies with me, justice cannot remain only a judgment written on paper.</p>\n<p>It must mean safety, recognition, accountability and the opportunity to rebuild their lives.</p>\n<p>I think again of the women I met in the refugee camps, of what they described and the courage it took to speak.</p>\n<p>Their voices travelled from the camps to the United Nations Security Council and became part of the wider international struggle for justice.</p></blockquote>\n<p>Thinzar Shunlei Yi <a href=\"https://www.facebook.com/photo?fbid=30124619590472242&amp;set=a.528850097142583\">shared</a> the impact of the ruling on pro-democracy activists like her.</p>\n<blockquote><p>This verdict brings a sense of healing for me, too. It feels as though one of the chronic diseases Myanmar suffer has finally been named.</p>\n<p>Having faced oppression myself as a woman and a political dissident, I know the scale of their suffering is incomparable—yet so many of us desperately needed to see that justice is possible.</p></blockquote>\n<p>Journalist Nyein Chan Aye is <a href=\"https://www.irrawaddy.com/opinion/guest-column/after-the-genocide-verdict-myanmars-foreign-intruder-scare-returns.html\">concerned</a> over the recent rise of social media posts inciting hate against the Rohingya.</p>\n<blockquote><p>Rohingya civilians are not the enemies of Rakhine Buddhists, nor are Rakhine civilians the enemies of the Rohingya. Neither community is the enemy of Myanmar’s people. Their grievances and rights cannot be settled by another campaign of suspicion and hatred.</p></blockquote>\n<p>Around 14 countries have already <a href=\"https://eng.mizzima.com/2026/11/24/41119\">acknowledged</a> the ICJ ruling. Sanctions have been imposed as well by the United Kingdom government on senior military officers of Myanmar. Meanwhile, China <a href=\"https://eng.mizzima.com/2026/11/21/41050\">raised</a> the issue of “jurisdiction overreach and expanded interpretation” and warned that the ruling could undermine the settlement of disputes.</p>\n<p>The junta remains in power, but pro-democracy forces are relentless in the struggle to restore civilian rule. Millions of stateless Rohingya are scattered in various camps, but the landmark ICJ ruling is a step forward in the pursuit of justice and the advancement of the demand to allow the persecuted minority to return to their home.</p>\n<strong>Written by <a href=\"https://globalvoices.org/author/mong/\">Mong Palatino</a></strong>",
-          "license": "CC BY 3.0",
-          "license_url": "https://creativecommons.org/licenses/by/3.0/",
-          "words": 1028
-        },
-        {
-          "id": "257fc92f92fb",
-          "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
-          "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
-          "source": "The Guardian – World",
-          "section": "national-international",
-          "author": "Leyland Cecco in Toronto",
-          "published": "2026-11-27T16:13:07+00:00",
-          "summary": "Closely watched decision exposes tensions between minority rights and the power of government to override those rights Canada’s top court has largely upheld a controversial secularism law in the province of Quebec barring public sector workers from wearing conspicuous religious symbols, in a closely watched…",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "95991b2c9e50",
-          "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
-          "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "Suzanne Nuyen",
-          "published": "2026-11-27T11:59:02+00:00",
-          "summary": "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 26
-        },
-        {
-          "id": "7207ea497184",
-          "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
-          "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
-          "source": "NPR News",
-          "section": "national-international",
-          "author": "The Associated Press",
-          "published": "2026-11-27T11:49:50+00:00",
-          "summary": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 29
         },
         {
           "id": "f47e272917ca",
@@ -283,46 +283,46 @@
       "kicker": "Opinion",
       "articles": [
         {
-          "id": "e4e826fdf41c",
-          "title": "The explosion of extreme wealth is the major problem of our time | Bernie Sanders",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/the-explosion-of-extreme-wealth-is-the-major-problem-of-our-time",
+          "id": "715223b9fb46",
+          "title": "Naughty lesbians ruined Donald Trump Jr’s Thanksgiving | Arwa Mahdawi",
+          "url": "https://www.theguardian.com/global/commentisfree/2026/nov/28/naughty-lesbians-ruined-donald-trump-jrs-thanksgiving",
           "source": "The Guardian – Opinion",
           "section": "editorials-opinion",
-          "author": "Bernie Sanders",
-          "published": "2026-11-27T22:10:08+00:00",
-          "summary": "At this pivotal moment in American history, let us move forward together to take on and defeat a powerful, greedy and corrupt ruling class We are at a pivotal moment in history.",
+          "author": "Arwa Mahdawi",
+          "published": "2026-11-28T11:00:39+00:00",
+          "summary": "It seems Trump Jr was innocently scrolling social media when he saw that Netflix had posted a video of two women kissing, spoiling his holiday Picture the scene: Thanksgiving in Donald Trump Jr’s household.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
+        },
+        {
+          "id": "8c39e74d3342",
+          "title": "The hill I will die on: Cheques are still the best way to pay for things | Claire Jackson",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/28/the-hill-i-will-die-on-cheques-best-debit-card-chequebook",
+          "source": "The Guardian – Opinion",
+          "section": "editorials-opinion",
+          "author": "Claire Jackson",
+          "published": "2026-11-28T10:00:36+00:00",
+          "summary": "A debit card might be quicker and easier, but there are thrills big and small to be had from whipping out your chequebook It often takes other people to identify your quirks.",
           "full_html": null,
           "license": "",
           "license_url": "",
           "words": 32
         },
         {
-          "id": "348af45eab9e",
-          "title": "The US army just detonated a poison bomb over Iowa | Steven Donziger",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/army-lead-poison-bomb-iowa",
+          "id": "5d06359808a1",
+          "title": "The radical clarity of NAZA makes You Can See Everything seem irrelevant | Charlotte Higgins",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/28/naza-you-can-see-everything-cannes-politics-war-cinema",
           "source": "The Guardian – Opinion",
           "section": "editorials-opinion",
-          "author": "Steven Donziger",
-          "published": "2026-11-27T19:30:18+00:00",
-          "summary": "The shocking situation in Iowa is a metaphor for much of what is wrong with the United States There’s no way to hide it: the US government just deliberately detonated a poison bomb of lead azide over the state of Iowa when a totally safe…",
+          "author": "Charlotte Higgins",
+          "published": "2026-11-28T08:00:34+00:00",
+          "summary": "When I was reporting on the arts in the 2000s, the view was ‘politics be damned’.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 45
-        },
-        {
-          "id": "bd84e829dddc",
-          "title": "Trump is destroying the rule of law in the US – to protect himself and the tech titans he worships as new gods | Jonathan Freedland",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/donald-trump-destroying-us-law-tech-titans-jensen-huang-nvidia",
-          "source": "The Guardian – Opinion",
-          "section": "editorials-opinion",
-          "author": "Jonathan Freedland",
-          "published": "2026-11-27T18:10:18+00:00",
-          "summary": "To get Jensen Huang back at Nvidia, the president trampled on the justice system, national security and the trust America needs to do business in the global economy Don’t let the sex distract you.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 34
+          "words": 16
         },
         {
           "id": "3a568a3d5e92",
@@ -402,18 +402,46 @@
       "kicker": "Technology & Money",
       "articles": [
         {
-          "id": "1d3a50dbdf30",
-          "title": "Bitunix Flags $76,300 as Key Bitcoin Support Amid ETF Outflows",
-          "url": "https://thefintechtimes.com/bitunix-flags-76300-as-key-bitcoin-support-amid-etf-outflows/",
+          "id": "3ec69199519a",
+          "title": "eCash Mainnet Goes Live with Five Bitcoin Sidechains via Drivechain",
+          "url": "https://thefintechtimes.com/ecash-mainnet-goes-live-with-five-bitcoin-sidechains-via-drivechain/",
           "source": "The Fintech Times",
           "section": "fintech-taxtech",
           "author": "The Fintech Times",
-          "published": "2026-11-27T19:00:37+00:00",
-          "summary": "Bitunix analysts say leveraged positions and record ETF outflows are compressing Bitcoin toward a critical technical level.",
+          "published": "2026-11-28T14:00:09+00:00",
+          "summary": "LayerTwo Labs has launched the eCash mainnet, activating BIP 300/301 Drivechain architecture to bring sidechains and an app layer to Bitcoin.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 17
+          "words": 21
+        },
+        {
+          "id": "fbd9fb6dbe87",
+          "title": "Froda’s Olle Lundin: The SME Funding Gap is About Distribution",
+          "url": "https://thefintechtimes.com/frodas-olle-lundin-the-sme-funding-gap-is-about-distribution/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "Rowen Brooks",
+          "published": "2026-11-28T10:00:49+00:00",
+          "summary": "Froda CEO Olle Lundin says the capital for Europe's small businesses exists but is not reaching them, and argues embedded lending can change the economics.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 25
+        },
+        {
+          "id": "9220a5894ed6",
+          "title": "HSBC UK Adds Shares and ETFs to Mobile App and Online Banking",
+          "url": "https://thefintechtimes.com/hsbc-uk-adds-shares-and-etfs-to-mobile-app-and-online-banking/",
+          "source": "The Fintech Times",
+          "section": "fintech-taxtech",
+          "author": "The Fintech Times",
+          "published": "2026-11-28T08:00:23+00:00",
+          "summary": "HSBC UK has expanded its digital investment offering to include UK-listed shares and ETFs, alongside a £50 incentive for new investment customers.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 22
         },
         {
           "id": "6c1f721dbc00",
@@ -444,20 +472,6 @@
           "words": 22
         },
         {
-          "id": "bd7c96f3fa09",
-          "title": "Allica Bank Passes £100m Interest Milestone for SME Accounts",
-          "url": "https://thefintechtimes.com/allica-bank-passes-100m-interest-milestone-for-sme-accounts/",
-          "source": "The Fintech Times",
-          "section": "fintech-taxtech",
-          "author": "The Fintech Times",
-          "published": "2026-11-27T14:00:13+00:00",
-          "summary": "The challenger bank says high-street rivals offer an average 0.80% AER on instant-access business deposits, against its own standard rate of 2",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 22
-        },
-        {
           "id": "7840c409ab31",
           "title": "Lloyds app goes down",
           "url": "https://www.finextra.com/newsarticle/48828/lloyds-app-goes-down?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -470,20 +484,6 @@
           "license": "",
           "license_url": "",
           "words": 20
-        },
-        {
-          "id": "1a43b71198d0",
-          "title": "Payment Device Security Can’t be Someone Else’s Problem",
-          "url": "https://thefintechtimes.com/payment-device-security-cant-be-someone-elses-problem/",
-          "source": "The Fintech Times",
-          "section": "fintech-taxtech",
-          "author": "Rowen Brooks",
-          "published": "2026-11-27T10:00:23+00:00",
-          "summary": "PCA Cyber Security's Gianfranco Vinucci argues certification is only the start, and payment devices need a clear security owner for their whole working life.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 24
         },
         {
           "id": "0d63fb1e6c01",
@@ -521,32 +521,32 @@
       "kicker": "The Tax Desk",
       "articles": [
         {
-          "id": "6bde34818154",
-          "title": "CBIC Revises Silver Tariff Value; Tariff Values for Gold, Edible Oils, Brass Scrap and Areca Nuts Remain Unchanged [Read Notification]",
-          "url": "https://www.taxscan.in/excise-customs/cbic-revises-silver-tariff-value-tariff-values-for-gold-edible-oils-brass-scrap-and-areca-nuts-remain-unchanged-read-notification",
-          "source": "Taxscan (India)",
-          "section": "tax-policy",
-          "author": "Kalyani B. Nair",
-          "published": "2026-11-27T15:07:37+00:00",
-          "summary": "CBIC cuts silver tariff value to USD 1,293 per kg, effective from November 27, 2026",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 15
-        },
-        {
-          "id": "6b455f606176",
-          "title": "Proceedings for Excess Stock Detected during GST Search must be Initiated u/s 73 or 74, Not Section 130: GSTAT",
-          "url": "https://www.taxscan.in/gst/proceedings-for-excess-stock-detected-during-gst-search-must-be-initiated-us-73-or-74-not-section-130-gstat",
+          "id": "ac96f507a710",
+          "title": "GST Under Reverse Charge on Freight: GSTAT Sets Aside Presumptive Tax Demand, Orders Fresh Adjudication to Determine GTA Status [Read Order]",
+          "url": "https://www.taxscan.in/gst/gst-under-reverse-charge-on-freight-gstat-sets-aside-presumptive-tax-demand-orders-fresh-adjudication-to-determine-gta-status-read-order",
           "source": "Taxscan (India)",
           "section": "tax-policy",
           "author": "Kavi Priya",
-          "published": "2026-11-27T12:55:10+00:00",
-          "summary": "Tax liability on unaccounted goods must be determined in accordance with Section 35(6) read with Sections 73 or 74 of the GST Act instead of invoking confiscation proceedings.",
+          "published": "2026-11-28T15:09:04+00:00",
+          "summary": "Liability under the Reverse Charge Mechanism on freight requires examination of actual transportation expenditure and verification of whether a Goods Transport Agency provided the services.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 28
+          "words": 25
+        },
+        {
+          "id": "30778d6022d0",
+          "title": "Uncorroborated Whatsapp Chats and Images cannot sustain Section 69C Addition: ITAT deletes Additions [Read order]",
+          "url": "https://www.taxscan.in/income-tax/uncorroborated-whatsapp-chats-and-images-cannot-sustain-section-69c-addition-itat-deletes-additions-read-order",
+          "source": "Taxscan (India)",
+          "section": "tax-policy",
+          "author": "Ashja Ashraf",
+          "published": "2026-11-28T14:35:34+00:00",
+          "summary": "Dividend declared under Section 2(22)(e) is exempt from tax for the shareholder of the holding company where the loan was made by the holding company to its wholly owned subsidiary for conducting the business.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 34
         },
         {
           "id": "4d7db65d088f",
@@ -731,32 +731,60 @@
       "kicker": "Ideas & Idioms",
       "articles": [
         {
-          "id": "8d05b45a18e5",
-          "title": "The 2026 Macy’s Thanksgiving Day Parade isn’t canceled. Here’s when you can watch it this weekend",
-          "url": "https://www.fastcompany.com/91649579/the-2026-macys-thanksgiving-day-parade-isnt-canceled-heres-when-you-can-watch-it-this-weekend",
-          "source": "Fast Company",
+          "id": "765ab0a36bed",
+          "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+          "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+          "source": "TechCrunch",
           "section": "business-trends",
-          "author": "Emily Price",
-          "published": "2026-11-27T19:30:00+00:00",
-          "summary": "Thanksgiving may be over, but one of the holiday’s biggest traditions is still to come. For the first time in its history, the Macy’s Thanksgiving Day Parade is taking place on a day other than Thanksgiving.",
+          "author": "Kate Park",
+          "published": "2026-11-28T14:00:00+00:00",
+          "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 36
+          "words": 12
         },
         {
-          "id": "8b94c96a3266",
-          "title": "A popular password manager was hacked. Here’s what you need to know",
-          "url": "https://www.fastcompany.com/91649530/a-popular-password-manager-was-hacked-heres-what-you-need-to-know",
+          "id": "b16da4a63b9a",
+          "title": "Foundations, pillars, support beams: Why great leadership is like building a house",
+          "url": "https://www.fastcompany.com/91640195/foundations-pillars-support-beams-why-great-leadership-is-like-building-a-house-leadership",
           "source": "Fast Company",
           "section": "business-trends",
-          "author": "Taylor Hatmaker",
-          "published": "2026-11-27T18:55:44+00:00",
-          "summary": "Password managers are the safest way short of secret sticky notes to keep track of the hundreds of logins in your life, but even they don’t have perfect security.",
+          "author": "Brian Gottlieb",
+          "published": "2026-11-28T12:23:40+00:00",
+          "summary": "Great leadership is like building a house. Every house has a foundation—that’s culture. Instead of bricks and beams, there are key pillars of leadership that transform a business.",
           "full_html": null,
           "license": "",
           "license_url": "",
-          "words": 29
+          "words": 28
+        },
+        {
+          "id": "46e3ba5a6d43",
+          "title": "Beware these 3 holiday shopping scams",
+          "url": "https://www.fastcompany.com/91638331/beware-these-3-holiday-shopping-scams-gift-card-drain-social-media-fake-website-fedex-ups-dhl-shipping",
+          "source": "Fast Company",
+          "section": "business-trends",
+          "author": "Michael Grothaus",
+          "published": "2026-11-28T10:00:00+00:00",
+          "summary": "Turkey dinners are over, Black Friday has passed, and we’re less than four weeks away from Christmas. That means holiday shopping season is in full swing.",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 26
+        },
+        {
+          "id": "a5ee494f9f7e",
+          "title": "La succession: France’s wealthiest family said to be battling over who will take over LVMH",
+          "url": "https://www.theguardian.com/business/2026/nov/28/french-succession-bernard-arnault-lvmh",
+          "source": "The Guardian – Business",
+          "section": "business-trends",
+          "author": "Angelique Chrisafis in Paris",
+          "published": "2026-11-28T05:00:30+00:00",
+          "summary": "Bernard Arnault’s children – described as ‘modern-day French royals’ – are subject of rivalry rumours over who will succeed him They are France’s richest family, leading the world’s biggest luxury goods empire, dressed in matching Dior suits – a clan so powerful they have been…",
+          "full_html": null,
+          "license": "",
+          "license_url": "",
+          "words": 45
         },
         {
           "id": "31c1fbf370d3",
@@ -787,20 +815,6 @@
           "words": 14
         },
         {
-          "id": "21800f865bba",
-          "title": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
-          "url": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
-          "source": "The Guardian – Business",
-          "section": "business-trends",
-          "author": "Michael Sainato",
-          "published": "2026-11-27T10:00:02+00:00",
-          "summary": "Labor leaders and advocates urge protections for workers and consumers as AI use becomes more commonplace As millions of Americans begin holiday shopping this Black Friday, consumers and workers alike are already seeing how artificial intelligence is reshaping the retail landscape.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 41
-        },
-        {
           "id": "2ef3104a86ba",
           "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
           "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
@@ -827,20 +841,6 @@
           "license": "",
           "license_url": "",
           "words": 28
-        },
-        {
-          "id": "25927c0f40db",
-          "title": "Is Alice Huang a spy or not?",
-          "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
-          "source": "TechCrunch",
-          "section": "business-trends",
-          "author": "Lucas Ropek",
-          "published": "2026-11-26T20:00:00+00:00",
-          "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
-          "full_html": null,
-          "license": "",
-          "license_url": "",
-          "words": 30
         }
       ]
     }
@@ -1017,6 +1017,6 @@
     "Mind the Product: feed contained no entries",
     "BA Times: 415 Client Error: Unsupported Media Type for url: https://www.batimes.com/feed/",
     "World Economic Forum: 403 Client Error: Forbidden for url: https://www.weforum.org/agenda/feed",
-    "Stooq indices: 404 Client Error: Not Found for url: https://stooq.com/q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv"
+    "Stooq indices: HTTPSConnectionPool(host='stooq.com', port=443): Max retries exceeded with url: /q/l/?s=%5Espx+%5Edji+%5Endq+%5Eukx+%5Edax+%5Enkx&f=sd2t2ohlcv&h&e=csv (Caused by ConnectTimeoutError(<HTTPSConnection(host='stooq.com', port=443) at 0x7d69cdfcba40>, 'Connection to stooq.com timed out. (connect timeout=20)'))"
   ]
 }
